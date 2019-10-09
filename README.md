@@ -9,4 +9,4 @@ ITOS is planning an API for this tracking document. This way, organizations may 
 
 ![alt text](https://github.com/UGA-ITOSHumanitarianGIS/mapservicedoc/blob/master/Doc/Images/TrackingAPI.png "Process for tracking api with Excel consumer as example") 
 
-Under investigation for low bandwidth uses are the Amazon S3 services. Mozambique is published. For urls of Mozambique administrative boundaries at different levels in simplified geometry geojson, topojson, KML and csv format please refer to the [spreadsheet](https://github.com/UGA-ITOSHumanitarianGIS/mapservicedoc/blob/master/Data/AWSDeploymentURLlist.xlsx).
+Under investigation for low bandwidth uses are the Amazon S3 services. Mozambique is published. For urls of Mozambique administrative boundaries at different levels in simplified geometry geojson, topojson, KML and csv format please refer to the [spreadsheet](https://github.com/UGA-ITOSHumanitarianGIS/mapservicedoc/blob/master/Data/AWSDeploymentURLlist.xlsx). For more information on how to use these, please see the [Wiki](https://github.com/UGA-ITOSHumanitarianGIS/mapservicedoc/wiki).
