@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><?xml-stylesheet type="text/xsl" href="http://www.arcgisonline.com/home/pkinfostylesheet.xsl"?><pkinfo Culture="en-US">
+<ID>F771FBC3-D6FC-48D2-BEA3-D71B980B0167</ID>
+<name>Nigeria_Administrative_Boundaries_and_Districts</name>
+<version>11.2</version>
+<size>6426940</size>
+<created>1580755457000</created>
+<type>Vector Tile Package</type>
+<servable>false</servable>
+<packagelocation>http://usg.maps.arcgis.com/sharing/content/items/1e98d0a9b6684ac2b4010ea3f9b2138f/data</packagelocation>
+<pkinfolocation>http://usg.maps.arcgis.com/sharing/content/items/1e98d0a9b6684ac2b4010ea3f9b2138f/item.pkinfo</pkinfolocation>
+<documenttypes>
+<documenttype>Lyr</documenttype>
+</documenttypes>
+</pkinfo>
