@@ -16,6 +16,7 @@ import datetime
 import urllib2
 import requests
 import os
+import re
 
 
 # Local variables:
@@ -43,7 +44,20 @@ def doRefresh():
 
         obj = ret.json()
         svcs = json.dumps(obj)
-        log(svcs)
+        svcsj = json.loads(svcs)
+        for i in svcsj["services"]:
+            if i['type'] == 'MapServer':
+                if not re.search('pcode', i['name']):
+                    url2 = 'https://gistmaps.itos.uga.edu/arcgis/rest/services/' + i["name"] +'/MapServer/?f=pjson'
+                    print (url2)
+                    ret2 = requests.get(url2)
+                    if ret2.status_code > 206:
+                        raise Exception(' application did not handle import success message properly.')
+                    obj2 = ret2.json()
+                    svcs2 = json.dumps(obj2)
+                    svcsj2 = json.loads(svcs2)
+                    print (svcsj2["tables"])
+        
 			
     except Exception, e:
         log("Exception caught:  " + str(e))
