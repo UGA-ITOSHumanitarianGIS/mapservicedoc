@@ -28,7 +28,7 @@ def log(message):
         logMessage.write('%s - %s\n' % (str(datetime.datetime.now()), str(message)))    
     return
 
-def doRefresh():
+def getLUSvs():
 
     try:
        
@@ -45,28 +45,58 @@ def doRefresh():
         obj = ret.json()
         svcs = json.dumps(obj)
         svcsj = json.loads(svcs)
+        svcLUs = []
         for i in svcsj["services"]:
             if i['type'] == 'MapServer':
                 if not re.search('pcode', i['name']):
                     url2 = 'https://gistmaps.itos.uga.edu/arcgis/rest/services/' + i["name"] +'/MapServer/?f=pjson'
-                    print (url2)
+                    #print (url2)
                     ret2 = requests.get(url2)
                     if ret2.status_code > 206:
                         raise Exception(' application did not handle import success message properly.')
                     obj2 = ret2.json()
                     svcs2 = json.dumps(obj2)
                     svcsj2 = json.loads(svcs2)
-                    print (svcsj2["tables"])
+                    #print (svcsj2["tables"])
+                    urllookup = url2[:-8]
+                    urlluidobj = json.dumps(svcsj2["tables"])
+                    urlluidobj = str(urlluidobj)[1:-1]
+                    idstr = str(urlluidobj).replace('u\'', '\'')
+                    if len(idstr) > 0:
+                        luidstr = json.loads(idstr)
+                        luidstr = luidstr["id"]
+                        svcidurl = urllookup + str(luidstr)
+                        svcLUs += [(str(svcidurl))]
+
+                   
+        log("lu addresses fetched.....")            
+        return svcLUs
         
-			
+        		
     except Exception, e:
         log("Exception caught:  " + str(e))
-        return
+        return svcLUs
 
-    log("data refresh completed!")
-    return
+def getLUData(luURLs):
+    csvdat = ""
+    try:
+        for i in luURLs:
+            #print i + '/query?where=0%3D0&outFields=*&f=pjson'
+            ret = requests.get(i + '/query?where=0%3D0&outFields=*&f=pjson')
+            if ret.status_code > 206:
+                raise Exception(' application did not handle import success message properly.')
+                print ret.status_code
+            obj = ret.json()
+            svcs = json.dumps(obj)
+            svcsj = json.loads(svcs)
+            return "parsed data to be added in csv"
+    except Exception, e:
+        log("Exception caught:  " + str(e))
+        return csvdat
 
 # Run app with messaging and flow
 log("Beginning python process...")
-doRefresh()
+luURLs = getLUSvs()
+csvResult = getLUData(luURLs)
+print len(csvResult)
 log("Python process complete...")
