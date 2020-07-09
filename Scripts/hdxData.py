@@ -10,21 +10,21 @@ setup_logging()
 Configuration.create(hdx_site='prod', user_agent='getData', hdx_read_only=True)
 
 def dataLookup(tags):
-    '''
+    """
     dataLookup is used to search and filter the desired datasets using Humanitarian Data Exchange API.
     It can take multiple tags as a query and look through the HDX datasets.
-    
+
     Helper function for getData()
-    
-    Parametes:
-    
+
+    Parameters:
+
     tags => dataType -> string
-            For multiple tag filters, give it in a single string sperated by comma(,)
+            For multiple tag filters, give it in a single string separated by comma(,)
             I.e. tags = 'common operational dataset - cod,administrative divisions'
-    
+
     Returns:
     It returns a list of filtered tag Datasets.
-    '''
+    """
     tagList = tags.split(',')
     datasets = Dataset.search_in_hdx(tagList[0])
     
@@ -48,10 +48,10 @@ def dataLookup(tags):
     
     return tagDatasets
 
-def fileValidation(fileName):
-    '''
+def fileValidation(fileName,tags):
+    """
     Helper function for getData() [fileName or filePath].
-    '''
+    """
     if fileName == None:
         fileName = ''.join([tags,'.json'])
     else:
@@ -67,7 +67,8 @@ def fileValidation(fileName):
         if userInput.lower() == 'yes':
             pass
         elif userInput.lower() == 'no':
-            print('Enter the file name, if destination is different than current working directory than enter the file path with the file name.')
+            print('Enter the file name, if destination is different than current working directory than enter the '
+                  'file path with the file name.')
             userFileInput = str(input())
             if userFileInput.endswith('.json'):
                 fileName = userFileInput
@@ -78,33 +79,57 @@ def fileValidation(fileName):
     
     return fileName
 
+def getTheme(themeList,dataset):
+    """
+    Helper function for parsing themes in the title
+    :param themeList: List of themes want to get.
+    :param dataset: hDX dataset where themes are going to parse.
+    :return: appropriate theme (string), if theme not found in dataset than 'unknown' is return.
+    """
 
-def getData(tags, fileName = None):
-    '''
+    title = dataset['title'].lower()
+    for themeType in themeList:
+        themeType = themeType.lower()
+        if (themeType in title) or (themeType.split()[0] in title) or (themeType.split()[-1] in title):
+            theme = themeType
+            break
+        else:
+            theme = 'unknown'
+
+    return theme
+
+def getData(tags, themeList, fileName = None):
+    """
     getData takes two arguments tags and fileName/filePath to save json file.
-    If multiple tags are presents for a query than give a single string of tags sperated by comma(,).
-    
+    If multiple tags are presents for a query than give a single string of tags separated by comma(,).
+
     Parameters:
-    
+
     tags => dataType -> string
-            For multiple tag filters, give it in a single string sperated by comma(,)
+            For multiple tag filters, give it in a single string separated by comma(,)
             I.e. tags = 'common operational dataset - cod,administrative divisions'
-            
+
+    themeList => dataType -> List of Strings
+                 For different themes in the datasets
+                 I.e. themeList = ['administrative boundaries','population statistics']
+
     fileName => (optional) If not given than the tags string will be taken as fileName
                 fileName can be a filePath also with the fileName.
-                
+
     Return:
-    Saves a json formate of the filtered tag Datasets.
-    '''
+    Saves a json format of the filtered tag Datasets.
+    """
     
     tagDatasets = dataLookup(tags)
     
-    fileName = fileValidation(fileName)
+    fileName = fileValidation(fileName,tags)
     
     jsonData = []
     
     for dataset in tagDatasets:
+        theme = getTheme(themeList,dataset)
         dataDict = {'title': dataset['title'],
+                    'theme': theme,
                     'country': json.loads(dataset['solr_additions'])['countries'],
                     'organization': dataset['organization']['title'],
                     'format':{}
@@ -124,3 +149,7 @@ def getData(tags, fileName = None):
             json.dump(jsonData, fp, indent=4)
             
     print('Data has written into %s file' %(fileName))
+
+tag = 'common operational dataset - cod'
+themesRequired = ['administrative boundaries','population statistics']
+getData(tag,themesRequired,'hdxCODData.json')
