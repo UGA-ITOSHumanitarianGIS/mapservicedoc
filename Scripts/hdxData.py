@@ -149,7 +149,3 @@ def getData(tags, themeList, fileName = None):
             json.dump(jsonData, fp, indent=4)
             
     print('Data has written into %s file' %(fileName))
-
-tag = 'common operational dataset - cod'
-themesRequired = ['administrative boundaries','population statistics']
-getData(tag,themesRequired,'hdxCODData.json')
