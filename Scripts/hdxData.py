@@ -10,21 +10,21 @@ setup_logging()
 Configuration.create(hdx_site='prod', user_agent='getData', hdx_read_only=True)
 
 def dataLookup(tags):
-    """
+    '''
     dataLookup is used to search and filter the desired datasets using Humanitarian Data Exchange API.
     It can take multiple tags as a query and look through the HDX datasets.
-
+    
     Helper function for getData()
-
-    Parameters:
-
+    
+    Parametes:
+    
     tags => dataType -> string
-            For multiple tag filters, give it in a single string separated by comma(,)
+            For multiple tag filters, give it in a single string sperated by comma(,)
             I.e. tags = 'common operational dataset - cod,administrative divisions'
-
+    
     Returns:
     It returns a list of filtered tag Datasets.
-    """
+    '''
     tagList = tags.split(',')
     datasets = Dataset.search_in_hdx(tagList[0])
     
@@ -48,11 +48,11 @@ def dataLookup(tags):
     
     return tagDatasets
 
-def fileValidation(fileName,tags):
-    """
+def fileValidation(fileName, tags):
+    '''
     Helper function for getData() [fileName or filePath].
-    """
-    if fileName == None:
+    '''
+    if fileName is None:
         fileName = ''.join([tags,'.json'])
     else:
         if fileName.endswith('.json'):
@@ -67,8 +67,7 @@ def fileValidation(fileName,tags):
         if userInput.lower() == 'yes':
             pass
         elif userInput.lower() == 'no':
-            print('Enter the file name, if destination is different than current working directory than enter the '
-                  'file path with the file name.')
+            print('Enter the file name, if destination is different than current working directory than enter the file path with the file name.')
             userFileInput = str(input())
             if userFileInput.endswith('.json'):
                 fileName = userFileInput
@@ -88,6 +87,7 @@ def getTheme(themeList,dataset):
     """
 
     title = dataset['title'].lower()
+
     for themeType in themeList:
         themeType = themeType.lower()
         if (themeType in title) or (themeType.split()[0] in title) or (themeType.split()[-1] in title):
@@ -95,11 +95,11 @@ def getTheme(themeList,dataset):
             break
         else:
             theme = 'unknown'
-
+    
     return theme
 
 def getData(tags, themeList, fileName = None):
-    """
+    '''
     getData takes two arguments tags and fileName/filePath to save json file.
     If multiple tags are presents for a query than give a single string of tags separated by comma(,).
 
@@ -118,20 +118,29 @@ def getData(tags, themeList, fileName = None):
 
     Return:
     Saves a json format of the filtered tag Datasets.
-    """
+    '''
     
     tagDatasets = dataLookup(tags)
     
-    fileName = fileValidation(fileName,tags)
+    fileName = fileValidation(fileName, tags)
     
     jsonData = []
     
     for dataset in tagDatasets:
         theme = getTheme(themeList,dataset)
+        
+        try:
+            dueDate = dataset['due_date']
+        except:
+            dueDate =  None
+        
         dataDict = {'title': dataset['title'],
                     'theme': theme,
                     'country': json.loads(dataset['solr_additions'])['countries'],
                     'organization': dataset['organization']['title'],
+                    'datasetDate': dataset['dataset_date'],
+                    'updateFrequency':dataset['data_update_frequency'],
+                    'dueDate': dueDate,
                     'format':{}
         }
         resources = Dataset.get_all_resources([dataset])
