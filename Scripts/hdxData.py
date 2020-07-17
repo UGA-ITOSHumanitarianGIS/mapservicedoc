@@ -135,7 +135,9 @@ def getData(tags, themeList, fileName = None):
             dueDate =  None
         
         dataDict = {'title': dataset['title'],
+                    'id': dataset['id'],
                     'theme': theme,
+                    'tags': dataset.get_tags(),
                     'country': json.loads(dataset['solr_additions'])['countries'],
                     'organization': dataset['organization']['title'],
                     'datasetDate': dataset['dataset_date'],
@@ -146,7 +148,8 @@ def getData(tags, themeList, fileName = None):
         resources = Dataset.get_all_resources([dataset])
         
         for res in resources:
-            restype = {res['format']:{'download_url':res['download_url'],
+            restype = {res['format']:{'resoource_id':res['id'],
+                                      'download_url':res['download_url'],
                                       'description':res['description']
                                      }
             }
