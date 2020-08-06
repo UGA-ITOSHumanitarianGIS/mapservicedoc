@@ -98,6 +98,22 @@ def getTheme(themeList,dataset):
     
     return theme
 
+def getISOCode(groupList):
+    """
+    Helper function for getting ISO code for countaries from dataset
+    
+    Parameters:
+    groupList (List) => Groups presesnt in the hDX datasets.
+    
+    Returns: List of iso code associated to the countries from hDX datasets.
+    """
+    isoCodes = []
+    for groupMember in groupList:
+        isoCodes.append(groupMember['id'])
+    
+    return isoCodes
+
+
 def getData(tags, themeList, fileName = None):
     '''
     getData takes two arguments tags and fileName/filePath to save json file.
@@ -134,10 +150,13 @@ def getData(tags, themeList, fileName = None):
         except:
             dueDate =  None
         
+        isoCodes = getISOCode(dataset['groups'])
+        
         dataDict = {'title': dataset['title'],
                     'id': dataset['id'],
                     'theme': theme,
                     'tags': dataset.get_tags(),
+                    'iso': isoCodes,
                     'country': json.loads(dataset['solr_additions'])['countries'],
                     'organization': dataset['organization']['title'],
                     'datasetDate': dataset['dataset_date'],
