@@ -38,7 +38,7 @@ def itosMapServises():
     
     jsonData = []
 
-    for codData in tqdm(codExternalDataDict['services']):
+    for codData in tqdm(codExternalDataDict['services'],desc='Services'):
         if codData['type'] == 'MapServer' and not re.search('pcode',codData['name']):
             codCountry_url = 'https://gistmaps.itos.uga.edu/arcgis/rest/services/'+codData["name"]+'/MapServer/query?where=0%3D0&outFields=*&f=pjson'
             adminAcessList = ['Admin0', 'Admin1', 'Admin2', 'Admin3',]
@@ -56,25 +56,25 @@ def itosMapServises():
                     
                     if adminData == 'error':
                         dataDict[admin] = "Error performing query operation."
-                    
-                    adminFetAttribute = adminData['features'][0]['attributes']
-                    adminNameList = [(key, value) for key, value in adminFetAttribute.items() if key.startswith(admin+'Name')]
+                    else:
+                        adminFetAttribute = adminData['features'][0]['attributes']
+                        adminNameList = [(key, value) for key, value in adminFetAttribute.items() if key.startswith(admin+'Name')]
 
-                    for adminName in adminNameList:
-                        if adminName[0].endswith('en'):
-                            if adminName[0].startswith('admin0'):
-                                dataDict['country'] = adminName[1]
-                            dataDict[adminName[0]] = adminName[1]
-                        else:
-                            if adminName[0].startswith('admin0') and 'country' not in dataDict:
-                                dataDict['country'] = adminName[1]
-                            dataDict[adminName[0]] = adminName[1]
-                            dataDict[adminName[0]+'_utf8'] = str(adminName[1].encode())
+                        for adminName in adminNameList:
+                            if adminName[0].endswith('en'):
+                                if adminName[0].startswith('admin0'):
+                                    dataDict['country'] = adminName[1]
+                                dataDict[adminName[0]] = adminName[1]
+                            else:
+                                if adminName[0].startswith('admin0') and 'country' not in dataDict:
+                                    dataDict['country'] = adminName[1]
+                                dataDict[adminName[0]] = adminName[1]
+                                dataDict[adminName[0]+'_utf8'] = str(adminName[1].encode())
 
-                    dataDict[admin+'Pcode'] = adminFetAttribute[admin+'Pcode']
-                    dataDict[admin+'_url'] = adminURL
+                        dataDict[admin+'Pcode'] = adminFetAttribute[admin+'Pcode']
+                        dataDict[admin+'_url'] = adminURL
 
-                    jsonData.append(dataDict)
+                        jsonData.append(dataDict)
 
     return jsonData
 
