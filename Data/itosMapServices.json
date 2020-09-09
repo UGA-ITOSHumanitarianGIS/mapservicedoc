@@ -261,7 +261,11 @@
         "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/BEN_FR/MapServer/3/query?where=0%3D0&outFields=*&f=pjson"
     },
     {
-        "admin0": "Error performing query operation.",
+        "country": "Burkina Faso",
+        "admin0Name_fr": "Burkina Faso",
+        "admin0Name_fr_utf8": "b'Burkina Faso'",
+        "admin0Pcode": "BF",
+        "admin0_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/BFA_FR/MapServer/0/query?where=0%3D0&outFields=*&f=pjson",
         "admin1Name_fr": "Boucle du Mouhoun",
         "admin1Name_fr_utf8": "b'Boucle du Mouhoun'",
         "admin1Pcode": "BF46",
@@ -273,7 +277,27 @@
         "admin3": "Error performing query operation."
     },
     {
-        "admin0": "Error performing query operation.",
+        "country": "Burkina Faso",
+        "admin0Name_fr": "Burkina Faso",
+        "admin0Name_fr_utf8": "b'Burkina Faso'",
+        "admin0Pcode": "BF",
+        "admin0_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/BFA_FR/MapServer/0/query?where=0%3D0&outFields=*&f=pjson",
+        "admin1Name_fr": "Boucle du Mouhoun",
+        "admin1Name_fr_utf8": "b'Boucle du Mouhoun'",
+        "admin1Pcode": "BF46",
+        "admin1_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/BFA_FR/MapServer/1/query?where=0%3D0&outFields=*&f=pjson",
+        "admin2Name_fr": "Bal\u00e9",
+        "admin2Name_fr_utf8": "b'Bal\\xc3\\xa9'",
+        "admin2Pcode": "BF4601",
+        "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/BFA_FR/MapServer/3/query?where=0%3D0&outFields=*&f=pjson",
+        "admin3": "Error performing query operation."
+    },
+    {
+        "country": "Burkina Faso",
+        "admin0Name_fr": "Burkina Faso",
+        "admin0Name_fr_utf8": "b'Burkina Faso'",
+        "admin0Pcode": "BF",
+        "admin0_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/BFA_FR/MapServer/0/query?where=0%3D0&outFields=*&f=pjson",
         "admin1Name_fr": "Boucle du Mouhoun",
         "admin1Name_fr_utf8": "b'Boucle du Mouhoun'",
         "admin1Pcode": "BF46",
@@ -4942,9 +4966,7 @@
         "admin1Name_en": "Alibori",
         "admin1Pcode": "BE01",
         "admin1_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/WCA/MapServer/5/query?where=0%3D0&outFields=*&f=pjson",
-        "admin2Name_en": "Sakania",
-        "admin2Pcode": "CD7104",
-        "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/WCA/MapServer/7/query?where=0%3D0&outFields=*&f=pjson"
+        "admin2": "Error performing query operation."
     },
     {
         "country": "Benin",
@@ -4954,21 +4976,7 @@
         "admin1Name_en": "Alibori",
         "admin1Pcode": "BE01",
         "admin1_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/WCA/MapServer/5/query?where=0%3D0&outFields=*&f=pjson",
-        "admin2Name_en": "Sakania",
-        "admin2Pcode": "CD7104",
-        "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/WCA/MapServer/7/query?where=0%3D0&outFields=*&f=pjson"
-    },
-    {
-        "country": "Benin",
-        "admin0Name_en": "Benin",
-        "admin0Pcode": "BE",
-        "admin0_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/WCA/MapServer/4/query?where=0%3D0&outFields=*&f=pjson",
-        "admin1Name_en": "Alibori",
-        "admin1Pcode": "BE01",
-        "admin1_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/WCA/MapServer/5/query?where=0%3D0&outFields=*&f=pjson",
-        "admin2Name_en": "Sakania",
-        "admin2Pcode": "CD7104",
-        "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/WCA/MapServer/7/query?where=0%3D0&outFields=*&f=pjson"
+        "admin2": "Error performing query operation."
     },
     {
         "country": "Yemen",

@@ -37,44 +37,45 @@ def itosMapServises():
     codExternalDataDict = getJsonData(COD_External_URL)
     
     jsonData = []
+    codCountry = [countryData for countryData in codExternalDataDict['services'] if not countryData['name'].endswith('pcode')]
+    
+    for codData in tqdm(codCountry,desc='Services'):
+        
+        codCountry_url = 'https://gistmaps.itos.uga.edu/arcgis/rest/services/'+codData["name"]+'/MapServer/query?where=0%3D0&outFields=*&f=pjson'
+        adminAcessList = ['Admin0', 'Admin1', 'Admin2', 'Admin3',]
 
-    for codData in tqdm(codExternalDataDict['services'],desc='Services'):
-        if codData['type'] == 'MapServer' and not re.search('pcode',codData['name']):
-            codCountry_url = 'https://gistmaps.itos.uga.edu/arcgis/rest/services/'+codData["name"]+'/MapServer/query?where=0%3D0&outFields=*&f=pjson'
-            adminAcessList = ['Admin0', 'Admin1', 'Admin2', 'Admin3',]
+        countryDataDict = getJsonData(codCountry_url)
 
-            countryDataDict = getJsonData(codCountry_url)
+        dataDict = {}
 
-            dataDict = {}
+        for layer in countryDataDict['layers']:
+            if layer['name'] in adminAcessList:
+                admin = layer['name'].lower()
+                adminURL = 'https://gistmaps.itos.uga.edu/arcgis/rest/services/'+codData["name"]+'/MapServer/'+str(layer['id'])+'/query?where=0%3D0&outFields=*&f=pjson'
 
-            for layer in countryDataDict['layers']:
-                if layer['name'] in adminAcessList:
-                    admin = layer['name'].lower()
-                    adminURL = 'https://gistmaps.itos.uga.edu/arcgis/rest/services/'+codData["name"]+'/MapServer/'+str(layer['id'])+'/query?where=0%3D0&outFields=*&f=pjson'
+                adminData = getJsonData(adminURL)
 
-                    adminData = getJsonData(adminURL)
-                    
-                    if adminData == 'error':
-                        dataDict[admin] = "Error performing query operation."
-                    else:
-                        adminFetAttribute = adminData['features'][0]['attributes']
-                        adminNameList = [(key, value) for key, value in adminFetAttribute.items() if key.startswith(admin+'Name')]
+                if adminData == 'error':
+                    dataDict[admin] = "Error performing query operation."
+                else:
+                    adminFetAttribute = adminData['features'][0]['attributes']
+                    adminNameList = [(key, value) for key, value in adminFetAttribute.items() if key.startswith(admin+'Name')]
 
-                        for adminName in adminNameList:
-                            if adminName[0].endswith('en'):
-                                if adminName[0].startswith('admin0'):
-                                    dataDict['country'] = adminName[1]
-                                dataDict[adminName[0]] = adminName[1]
-                            else:
-                                if adminName[0].startswith('admin0') and 'country' not in dataDict:
-                                    dataDict['country'] = adminName[1]
-                                dataDict[adminName[0]] = adminName[1]
-                                dataDict[adminName[0]+'_utf8'] = str(adminName[1].encode())
+                    for adminName in adminNameList:
+                        if adminName[0].endswith('en'):
+                            if adminName[0].startswith('admin0'):
+                                dataDict['country'] = adminName[1]
+                            dataDict[adminName[0]] = adminName[1]
+                        else:
+                            if adminName[0].startswith('admin0') and 'country' not in dataDict:
+                                dataDict['country'] = adminName[1]
+                            dataDict[adminName[0]] = adminName[1]
+                            dataDict[adminName[0]+'_utf8'] = str(adminName[1].encode())
 
-                        dataDict[admin+'Pcode'] = adminFetAttribute[admin+'Pcode']
-                        dataDict[admin+'_url'] = adminURL
+                    dataDict[admin+'Pcode'] = adminFetAttribute[admin+'Pcode']
+                    dataDict[admin+'_url'] = adminURL
 
-                        jsonData.append(dataDict)
+                    jsonData.append(dataDict)
 
     return jsonData
 
