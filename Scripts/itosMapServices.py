@@ -77,6 +77,8 @@ def itosMapServises():
 
                     jsonData.append(dataDict)
 
+    jsonData = list({i['country']:i for i in jsonData}.values())   
+                
     return jsonData
 
 
