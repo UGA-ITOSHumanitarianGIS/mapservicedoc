@@ -17,16 +17,30 @@ import urllib2
 import requests
 import os
 import re
-
+#from tqdm import tqdm
 
 # Local variables:
  
-refreshLog = os.path.join(os.getcwd(), "lookuprefresh.log")#r"c$\\scripts\\USAIDCODV2Process\\lookuprefresh.log"
+refreshLog = os.path.join(os.getcwd(), "lookuprefresh.log")
+fileName = os.path.join(os.getcwd(), "gistmapsLevelLu.json")
 
 def log(message):
     with open(refreshLog, 'a') as logMessage:
         logMessage.write('%s - %s\n' % (str(datetime.datetime.now()), str(message)))    
     return
+
+def getJsonData(url):
+    responce = requests.get(url)
+    
+    if responce.status_code > 206:
+        raise Exception('Application did not handle import success message properly for',url)
+    
+    dataDict = json.loads(json.dumps(responce.json()))
+    
+    if 'error' in dataDict:
+        return 'error'
+    else:
+        return dataDict
 
 def getLUSvs():
 
@@ -50,14 +64,14 @@ def getLUSvs():
             if i['type'] == 'MapServer':
                 if not re.search('pcode', i['name']):
                     url2 = 'https://gistmaps.itos.uga.edu/arcgis/rest/services/' + i["name"] +'/MapServer/?f=pjson'
-                    #print (url2)
+
                     ret2 = requests.get(url2)
                     if ret2.status_code > 206:
                         raise Exception(' application did not handle import success message properly.')
                     obj2 = ret2.json()
                     svcs2 = json.dumps(obj2)
                     svcsj2 = json.loads(svcs2)
-                    #print (svcsj2["tables"])
+
                     urllookup = url2[:-8]
                     urlluidobj = json.dumps(svcsj2["tables"])
                     urlluidobj = str(urlluidobj)[1:-1]
@@ -80,16 +94,43 @@ def getLUSvs():
 def getLUData(luURLs):
     csvdat = ""
     try:
+        jsonData = []
+  
         for i in luURLs:
-            #print i + '/query?where=0%3D0&outFields=*&f=pjson'
-            ret = requests.get(i + '/query?where=0%3D0&outFields=*&f=pjson')
-            if ret.status_code > 206:
-                raise Exception(' application did not handle import success message properly.')
-                print ret.status_code
-            obj = ret.json()
-            svcs = json.dumps(obj)
-            svcsj = json.loads(svcs)
-            return "parsed data to be added in csv"
+            dataDict = {}
+            countryDataDict = {}
+            countryiso = i[64:67]
+            reqUrl = i + '/query?where=0%3D0&outFields=*&f=pjson'
+            luDataDict = getJsonData(reqUrl)
+            
+            dataDict['countryISO'] = countryiso
+
+            if luDataDict == 'error':
+                dataDict['status'] = "Error performing query operation."
+            else:
+                
+                levelFetAttribute = luDataDict['features']
+                #only one features in the lookups, many attributes groups with name value pairs and we don't need the children that aren't the adminunit data
+                for item in levelFetAttribute:
+                    adminNameList = [(key, value) for key, value in item['attributes'].items() if key.startswith('adminUnit')]
+                    for adminName in adminNameList:
+                        dataDict[adminName[0]] = adminName[1]
+                        if adminName[0] == "adminUnitLevelNumber":
+                            with open(fileName, 'a') as fp:
+                                json.dump(dataDict, fp, indent=4)
+                                #jsonData.append(dataDict)
+                log(countryiso + ' parsed')
+        log("adminUnit data with names of levels parsed for all countries hosted by ITOS")
+
+        jsonData = list({i['countryISO']:i for i in jsonData}.values())
+                
+
+        #with open(fileName, 'a') as fp:
+        #    json.dump(jsonData, fp, indent=4)
+        print('Data has written into %s file' %(fileName))
+        log("Python process complete...")
+            #json.dump(svcsj, fp, ensure_ascii=False, indent=4)
+        return "0"
     except Exception, e:
         log("Exception caught:  " + str(e))
         return csvdat
