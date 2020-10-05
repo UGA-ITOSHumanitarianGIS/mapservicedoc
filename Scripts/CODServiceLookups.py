@@ -118,7 +118,6 @@ def getLUData(luURLs):
                         if adminName[0] == "adminUnitLevelNumber":
                             with open(fileName, 'a') as fp:
                                 json.dump(dataDict, fp, indent=4)
-                                #jsonData.append(dataDict)
                 log(countryiso + ' parsed')
         log("adminUnit data with names of levels parsed for all countries hosted by ITOS")
 
