@@ -98,7 +98,10 @@
         "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/NGA_EN/MapServer/3/query?where=0%3D0&outFields=*&f=pjson",
         "admin3Name_en": "A Lawant",
         "admin3Pcode": "NG008022002",
-        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/NGA_EN/MapServer/5/query?where=0%3D0&outFields=*&f=pjson"
+        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/NGA_EN/MapServer/5/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "en": "English"
+        }
     },
     {
         "title": "Nigeria - Water Courses",
@@ -136,7 +139,10 @@
         "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/NGA_EN/MapServer/3/query?where=0%3D0&outFields=*&f=pjson",
         "admin3Name_en": "A Lawant",
         "admin3Pcode": "NG008022002",
-        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/NGA_EN/MapServer/5/query?where=0%3D0&outFields=*&f=pjson"
+        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/NGA_EN/MapServer/5/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "en": "English"
+        }
     },
     {
         "title": "Nigeria - Roads",
@@ -176,7 +182,10 @@
         "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/NGA_EN/MapServer/3/query?where=0%3D0&outFields=*&f=pjson",
         "admin3Name_en": "A Lawant",
         "admin3Pcode": "NG008022002",
-        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/NGA_EN/MapServer/5/query?where=0%3D0&outFields=*&f=pjson"
+        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/NGA_EN/MapServer/5/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "en": "English"
+        }
     },
     {
         "title": "Nigeria - Elevation Model",
@@ -215,7 +224,10 @@
         "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/NGA_EN/MapServer/3/query?where=0%3D0&outFields=*&f=pjson",
         "admin3Name_en": "A Lawant",
         "admin3Pcode": "NG008022002",
-        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/NGA_EN/MapServer/5/query?where=0%3D0&outFields=*&f=pjson"
+        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/NGA_EN/MapServer/5/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "en": "English"
+        }
     },
     {
         "title": "Nepal road network",
@@ -251,7 +263,10 @@
         "admin1Name_en": "1",
         "admin1Pcode": "NP01",
         "admin1_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/NPL_EN/MapServer/1/query?where=0%3D0&outFields=*&f=pjson",
-        "admin2": "Error performing query operation."
+        "admin2": "Error performing query operation.",
+        "languageCode": {
+            "en": "English"
+        }
     },
     {
         "title": "Settlements in Nepal",
@@ -290,7 +305,10 @@
         "admin1Name_en": "1",
         "admin1Pcode": "NP01",
         "admin1_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/NPL_EN/MapServer/1/query?where=0%3D0&outFields=*&f=pjson",
-        "admin2": "Error performing query operation."
+        "admin2": "Error performing query operation.",
+        "languageCode": {
+            "en": "English"
+        }
     },
     {
         "title": "Nepal Aerodromes",
@@ -327,7 +345,10 @@
         "admin1Name_en": "1",
         "admin1Pcode": "NP01",
         "admin1_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/NPL_EN/MapServer/1/query?where=0%3D0&outFields=*&f=pjson",
-        "admin2": "Error performing query operation."
+        "admin2": "Error performing query operation.",
+        "languageCode": {
+            "en": "English"
+        }
     },
     {
         "title": "Nepal Watercourses - Rivers",
@@ -367,7 +388,10 @@
         "admin1Name_en": "1",
         "admin1Pcode": "NP01",
         "admin1_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/NPL_EN/MapServer/1/query?where=0%3D0&outFields=*&f=pjson",
-        "admin2": "Error performing query operation."
+        "admin2": "Error performing query operation.",
+        "languageCode": {
+            "en": "English"
+        }
     },
     {
         "title": "Nepal District Headquarters",
@@ -401,7 +425,10 @@
         "admin1Name_en": "1",
         "admin1Pcode": "NP01",
         "admin1_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/NPL_EN/MapServer/1/query?where=0%3D0&outFields=*&f=pjson",
-        "admin2": "Error performing query operation."
+        "admin2": "Error performing query operation.",
+        "languageCode": {
+            "en": "English"
+        }
     },
     {
         "title": "Nepal municipalities - administrative layer",
@@ -435,7 +462,10 @@
         "admin1Name_en": "1",
         "admin1Pcode": "NP01",
         "admin1_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/NPL_EN/MapServer/1/query?where=0%3D0&outFields=*&f=pjson",
-        "admin2": "Error performing query operation."
+        "admin2": "Error performing query operation.",
+        "languageCode": {
+            "en": "English"
+        }
     },
     {
         "title": "Nepal - Subnational Population Statistics",
@@ -477,7 +507,10 @@
         "admin1Name_en": "1",
         "admin1Pcode": "NP01",
         "admin1_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/NPL_EN/MapServer/1/query?where=0%3D0&outFields=*&f=pjson",
-        "admin2": "Error performing query operation."
+        "admin2": "Error performing query operation.",
+        "languageCode": {
+            "en": "English"
+        }
     },
     {
         "title": "El Salvador - Subnational Population Statistics",
@@ -550,7 +583,10 @@
         "admin0Pcode": "HN",
         "admin0_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/HND_ES/MapServer/4/query?where=0%3D0&outFields=*&f=pjson",
         "admin1": "Error performing query operation.",
-        "admin2": "Error performing query operation."
+        "admin2": "Error performing query operation.",
+        "languageCode": {
+            "es": "Spanish; Castilian"
+        }
     },
     {
         "title": "Peru - Subnational Population Statistics",
@@ -598,7 +634,11 @@
         "admin2Name_es_utf8": "b'Abancay'",
         "admin2Pcode": "PE0301",
         "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/PER_ES/MapServer/3/query?where=0%3D0&outFields=*&f=pjson",
-        "admin3": "Error performing query operation."
+        "admin3": "Error performing query operation.",
+        "languageCode": {
+            "en": "English",
+            "es": "Spanish; Castilian"
+        }
     },
     {
         "title": "Peru - Subnational Administrative Boundaries",
@@ -666,7 +706,11 @@
         "admin2Name_es_utf8": "b'Abancay'",
         "admin2Pcode": "PE0301",
         "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/PER_ES/MapServer/3/query?where=0%3D0&outFields=*&f=pjson",
-        "admin3": "Error performing query operation."
+        "admin3": "Error performing query operation.",
+        "languageCode": {
+            "en": "English",
+            "es": "Spanish; Castilian"
+        }
     },
     {
         "title": "Liberia administrative level 0-2 boundaries",
@@ -725,7 +769,10 @@
         "admin1_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/LBR_EN/MapServer/1/query?where=0%3D0&outFields=*&f=pjson",
         "admin2Name_en": "B'hai",
         "admin2Pcode": "LR0601",
-        "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/LBR_EN/MapServer/3/query?where=0%3D0&outFields=*&f=pjson"
+        "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/LBR_EN/MapServer/3/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "en": "English"
+        }
     },
     {
         "title": "Liberia - Roads",
@@ -760,7 +807,10 @@
         "admin1_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/LBR_EN/MapServer/1/query?where=0%3D0&outFields=*&f=pjson",
         "admin2Name_en": "B'hai",
         "admin2Pcode": "LR0601",
-        "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/LBR_EN/MapServer/3/query?where=0%3D0&outFields=*&f=pjson"
+        "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/LBR_EN/MapServer/3/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "en": "English"
+        }
     },
     {
         "title": "Liberia - Railways",
@@ -795,7 +845,10 @@
         "admin1_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/LBR_EN/MapServer/1/query?where=0%3D0&outFields=*&f=pjson",
         "admin2Name_en": "B'hai",
         "admin2Pcode": "LR0601",
-        "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/LBR_EN/MapServer/3/query?where=0%3D0&outFields=*&f=pjson"
+        "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/LBR_EN/MapServer/3/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "en": "English"
+        }
     },
     {
         "title": "Liberia - Lakes",
@@ -829,7 +882,10 @@
         "admin1_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/LBR_EN/MapServer/1/query?where=0%3D0&outFields=*&f=pjson",
         "admin2Name_en": "B'hai",
         "admin2Pcode": "LR0601",
-        "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/LBR_EN/MapServer/3/query?where=0%3D0&outFields=*&f=pjson"
+        "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/LBR_EN/MapServer/3/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "en": "English"
+        }
     },
     {
         "title": "Liberia - Settlements",
@@ -863,7 +919,10 @@
         "admin1_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/LBR_EN/MapServer/1/query?where=0%3D0&outFields=*&f=pjson",
         "admin2Name_en": "B'hai",
         "admin2Pcode": "LR0601",
-        "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/LBR_EN/MapServer/3/query?where=0%3D0&outFields=*&f=pjson"
+        "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/LBR_EN/MapServer/3/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "en": "English"
+        }
     },
     {
         "title": "Liberia - Aerodromes",
@@ -899,7 +958,10 @@
         "admin1_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/LBR_EN/MapServer/1/query?where=0%3D0&outFields=*&f=pjson",
         "admin2Name_en": "B'hai",
         "admin2Pcode": "LR0601",
-        "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/LBR_EN/MapServer/3/query?where=0%3D0&outFields=*&f=pjson"
+        "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/LBR_EN/MapServer/3/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "en": "English"
+        }
     },
     {
         "title": "Ethiopia - Cities, towns and villages",
@@ -941,7 +1003,10 @@
         "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/ETH_EN/MapServer/3/query?where=0%3D0&outFields=*&f=pjson",
         "admin3Name_en": "Aba-Korow",
         "admin3Pcode": "ET050699",
-        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/ETH_EN/MapServer/5/query?where=0%3D0&outFields=*&f=pjson"
+        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/ETH_EN/MapServer/5/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "en": "English"
+        }
     },
     {
         "title": "Ethiopia - Elevation Model",
@@ -978,7 +1043,10 @@
         "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/ETH_EN/MapServer/3/query?where=0%3D0&outFields=*&f=pjson",
         "admin3Name_en": "Aba-Korow",
         "admin3Pcode": "ET050699",
-        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/ETH_EN/MapServer/5/query?where=0%3D0&outFields=*&f=pjson"
+        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/ETH_EN/MapServer/5/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "en": "English"
+        }
     },
     {
         "title": "Somalia - Subnational Administrative Boundaries",
@@ -1026,7 +1094,10 @@
         "admin1_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/SOM_EN/MapServer/4/query?where=0%3D0&outFields=*&f=pjson",
         "admin2Name_en": "Banadir",
         "admin2Pcode": "SO2201",
-        "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/SOM_EN/MapServer/6/query?where=0%3D0&outFields=*&f=pjson"
+        "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/SOM_EN/MapServer/6/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "en": "English"
+        }
     },
     {
         "title": "Rwanda - Subnational Population Statistics",
@@ -1268,7 +1339,10 @@
         "admin1_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/ERI_EN/MapServer/1/query?where=0%3D0&outFields=*&f=pjson",
         "admin2Name_en": "Adi Keyh",
         "admin2Pcode": "ER606",
-        "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/ERI_EN/MapServer/3/query?where=0%3D0&outFields=*&f=pjson"
+        "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/ERI_EN/MapServer/3/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "en": "English"
+        }
     },
     {
         "title": "Eritrea - Settlements",
@@ -1302,7 +1376,10 @@
         "admin1_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/ERI_EN/MapServer/1/query?where=0%3D0&outFields=*&f=pjson",
         "admin2Name_en": "Adi Keyh",
         "admin2Pcode": "ER606",
-        "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/ERI_EN/MapServer/3/query?where=0%3D0&outFields=*&f=pjson"
+        "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/ERI_EN/MapServer/3/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "en": "English"
+        }
     },
     {
         "title": "Eritrea - Roads",
@@ -1337,7 +1414,10 @@
         "admin1_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/ERI_EN/MapServer/1/query?where=0%3D0&outFields=*&f=pjson",
         "admin2Name_en": "Adi Keyh",
         "admin2Pcode": "ER606",
-        "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/ERI_EN/MapServer/3/query?where=0%3D0&outFields=*&f=pjson"
+        "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/ERI_EN/MapServer/3/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "en": "English"
+        }
     },
     {
         "title": "Kenya - Subnational Administrative Boundaries",
@@ -1385,7 +1465,10 @@
         "admin1_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/KEN_EN/MapServer/1/query?where=0%3D0&outFields=*&f=pjson",
         "admin2Name_en": "Ainabkoi",
         "admin2Pcode": "KE027144",
-        "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/KEN_EN/MapServer/2/query?where=0%3D0&outFields=*&f=pjson"
+        "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/KEN_EN/MapServer/2/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "en": "English"
+        }
     },
     {
         "title": "Kenya - Roads Network",
@@ -1420,7 +1503,10 @@
         "admin1_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/KEN_EN/MapServer/1/query?where=0%3D0&outFields=*&f=pjson",
         "admin2Name_en": "Ainabkoi",
         "admin2Pcode": "KE027144",
-        "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/KEN_EN/MapServer/2/query?where=0%3D0&outFields=*&f=pjson"
+        "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/KEN_EN/MapServer/2/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "en": "English"
+        }
     },
     {
         "title": "Kenya - Airports and Airstrips",
@@ -1455,7 +1541,10 @@
         "admin1_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/KEN_EN/MapServer/1/query?where=0%3D0&outFields=*&f=pjson",
         "admin2Name_en": "Ainabkoi",
         "admin2Pcode": "KE027144",
-        "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/KEN_EN/MapServer/2/query?where=0%3D0&outFields=*&f=pjson"
+        "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/KEN_EN/MapServer/2/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "en": "English"
+        }
     },
     {
         "title": "Kenya - Railways Network",
@@ -1490,7 +1579,10 @@
         "admin1_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/KEN_EN/MapServer/1/query?where=0%3D0&outFields=*&f=pjson",
         "admin2Name_en": "Ainabkoi",
         "admin2Pcode": "KE027144",
-        "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/KEN_EN/MapServer/2/query?where=0%3D0&outFields=*&f=pjson"
+        "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/KEN_EN/MapServer/2/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "en": "English"
+        }
     },
     {
         "title": "Kenya - Water Bodies (Lakes)",
@@ -1524,7 +1616,10 @@
         "admin1_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/KEN_EN/MapServer/1/query?where=0%3D0&outFields=*&f=pjson",
         "admin2Name_en": "Ainabkoi",
         "admin2Pcode": "KE027144",
-        "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/KEN_EN/MapServer/2/query?where=0%3D0&outFields=*&f=pjson"
+        "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/KEN_EN/MapServer/2/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "en": "English"
+        }
     },
     {
         "title": "Kenya - Rivers",
@@ -1559,7 +1654,10 @@
         "admin1_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/KEN_EN/MapServer/1/query?where=0%3D0&outFields=*&f=pjson",
         "admin2Name_en": "Ainabkoi",
         "admin2Pcode": "KE027144",
-        "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/KEN_EN/MapServer/2/query?where=0%3D0&outFields=*&f=pjson"
+        "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/KEN_EN/MapServer/2/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "en": "English"
+        }
     },
     {
         "title": "Kenya - Settlements",
@@ -1593,7 +1691,10 @@
         "admin1_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/KEN_EN/MapServer/1/query?where=0%3D0&outFields=*&f=pjson",
         "admin2Name_en": "Ainabkoi",
         "admin2Pcode": "KE027144",
-        "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/KEN_EN/MapServer/2/query?where=0%3D0&outFields=*&f=pjson"
+        "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/KEN_EN/MapServer/2/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "en": "English"
+        }
     },
     {
         "title": "Djibouti - Subnational Population Statistics",
@@ -1823,7 +1924,10 @@
         "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/UGA_EN/MapServer/3/query?where=0%3D0&outFields=*&f=pjson",
         "admin3Name_en": "Agago",
         "admin3Pcode": "UG306601",
-        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/UGA_EN/MapServer/5/query?where=0%3D0&outFields=*&f=pjson"
+        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/UGA_EN/MapServer/5/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "en": "English"
+        }
     },
     {
         "title": "Nigeria - Water Courses(Rivers)",
@@ -1861,7 +1965,10 @@
         "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/NGA_EN/MapServer/3/query?where=0%3D0&outFields=*&f=pjson",
         "admin3Name_en": "A Lawant",
         "admin3Pcode": "NG008022002",
-        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/NGA_EN/MapServer/5/query?where=0%3D0&outFields=*&f=pjson"
+        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/NGA_EN/MapServer/5/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "en": "English"
+        }
     },
     {
         "title": "Afghanistan - Water Courses",
@@ -1907,7 +2014,11 @@
         "admin2Name_da": "\u0622\u0628 \u0628\u0646\u062f",
         "admin2Name_da_utf8": "b'\\xd8\\xa2\\xd8\\xa8 \\xd8\\xa8\\xd9\\x86\\xd8\\xaf'",
         "admin2Pcode": "AF1113",
-        "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/AFG_EN/MapServer/3/query?where=0%3D0&outFields=*&f=pjson"
+        "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/AFG_EN/MapServer/3/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "en": "English",
+            "da": "Danish"
+        }
     },
     {
         "title": "Benin - Settlements",
@@ -1944,7 +2055,10 @@
         "admin1Name_en": "Alibori",
         "admin1Pcode": "BE01",
         "admin1_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/WCA/MapServer/5/query?where=0%3D0&outFields=*&f=pjson",
-        "admin2": "Error performing query operation."
+        "admin2": "Error performing query operation.",
+        "languageCode": {
+            "en": "English"
+        }
     },
     {
         "title": "Benin - Roads",
@@ -1977,7 +2091,10 @@
         "admin1Name_en": "Alibori",
         "admin1Pcode": "BE01",
         "admin1_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/WCA/MapServer/5/query?where=0%3D0&outFields=*&f=pjson",
-        "admin2": "Error performing query operation."
+        "admin2": "Error performing query operation.",
+        "languageCode": {
+            "en": "English"
+        }
     },
     {
         "title": "Benin - Railways",
@@ -2010,7 +2127,10 @@
         "admin1Name_en": "Alibori",
         "admin1Pcode": "BE01",
         "admin1_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/WCA/MapServer/5/query?where=0%3D0&outFields=*&f=pjson",
-        "admin2": "Error performing query operation."
+        "admin2": "Error performing query operation.",
+        "languageCode": {
+            "en": "English"
+        }
     },
     {
         "title": "Benin - Subnational Administrative Boundaries",
@@ -2072,7 +2192,10 @@
         "admin1Name_en": "Alibori",
         "admin1Pcode": "BE01",
         "admin1_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/WCA/MapServer/5/query?where=0%3D0&outFields=*&f=pjson",
-        "admin2": "Error performing query operation."
+        "admin2": "Error performing query operation.",
+        "languageCode": {
+            "en": "English"
+        }
     },
     {
         "title": "Burkina Faso - Health",
@@ -2110,7 +2233,10 @@
         "admin2Name_fr_utf8": "b'Bal\\xc3\\xa9'",
         "admin2Pcode": "BF4601",
         "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/BFA_FR/MapServer/3/query?where=0%3D0&outFields=*&f=pjson",
-        "admin3": "Error performing query operation."
+        "admin3": "Error performing query operation.",
+        "languageCode": {
+            "fr": "French"
+        }
     },
     {
         "title": "Burkina Faso - Elevation Model",
@@ -2148,7 +2274,10 @@
         "admin2Name_fr_utf8": "b'Bal\\xc3\\xa9'",
         "admin2Pcode": "BF4601",
         "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/BFA_FR/MapServer/3/query?where=0%3D0&outFields=*&f=pjson",
-        "admin3": "Error performing query operation."
+        "admin3": "Error performing query operation.",
+        "languageCode": {
+            "fr": "French"
+        }
     },
     {
         "title": "Burkina Faso - Water Courses",
@@ -2187,7 +2316,10 @@
         "admin2Name_fr_utf8": "b'Bal\\xc3\\xa9'",
         "admin2Pcode": "BF4601",
         "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/BFA_FR/MapServer/3/query?where=0%3D0&outFields=*&f=pjson",
-        "admin3": "Error performing query operation."
+        "admin3": "Error performing query operation.",
+        "languageCode": {
+            "fr": "French"
+        }
     },
     {
         "title": "Burkina Faso - Subnational Administrative Boundaries",
@@ -2254,7 +2386,10 @@
         "admin2Name_fr_utf8": "b'Bal\\xc3\\xa9'",
         "admin2Pcode": "BF4601",
         "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/BFA_FR/MapServer/3/query?where=0%3D0&outFields=*&f=pjson",
-        "admin3": "Error performing query operation."
+        "admin3": "Error performing query operation.",
+        "languageCode": {
+            "fr": "French"
+        }
     },
     {
         "title": "Cameroon - Subnational Administrative Boundaries",
@@ -2325,7 +2460,11 @@
         "admin3Name_fr": "Abong-Mbang",
         "admin3Name_fr_utf8": "b'Abong-Mbang'",
         "admin3Pcode": "CM003002001",
-        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/CMR_FR/MapServer/5/query?where=0%3D0&outFields=*&f=pjson"
+        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/CMR_FR/MapServer/5/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "en": "English",
+            "fr": "French"
+        }
     },
     {
         "title": "Cameroon - Digital Elevation Model",
@@ -2370,7 +2509,11 @@
         "admin3Name_fr": "Abong-Mbang",
         "admin3Name_fr_utf8": "b'Abong-Mbang'",
         "admin3Pcode": "CM003002001",
-        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/CMR_FR/MapServer/5/query?where=0%3D0&outFields=*&f=pjson"
+        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/CMR_FR/MapServer/5/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "en": "English",
+            "fr": "French"
+        }
     },
     {
         "title": "Congo - Settlements",
@@ -2699,7 +2842,10 @@
         "admin3Name_fr": "Tountourou",
         "admin3Name_fr_utf8": "b'Tountourou'",
         "admin3Pcode": "GN00600213",
-        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/GIN_FR/MapServer/10/query?where=0%3D0&outFields=*&f=pjson"
+        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/GIN_FR/MapServer/10/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "fr": "French"
+        }
     },
     {
         "title": "Gambia - Elevation Model",
@@ -3149,7 +3295,10 @@
         "admin1_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/MRT_EN/MapServer/1/query?where=0%3D0&outFields=*&f=pjson",
         "admin2Name_en": "Akjoujt",
         "admin2Pcode": "MR0901",
-        "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/MRT_EN/MapServer/3/query?where=0%3D0&outFields=*&f=pjson"
+        "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/MRT_EN/MapServer/3/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "en": "English"
+        }
     },
     {
         "title": "Mauritania - Floods Damage Assessments",
@@ -3182,7 +3331,10 @@
         "admin1_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/MRT_EN/MapServer/1/query?where=0%3D0&outFields=*&f=pjson",
         "admin2Name_en": "Akjoujt",
         "admin2Pcode": "MR0901",
-        "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/MRT_EN/MapServer/3/query?where=0%3D0&outFields=*&f=pjson"
+        "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/MRT_EN/MapServer/3/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "en": "English"
+        }
     },
     {
         "title": "Mauritania - Roads",
@@ -3217,7 +3369,10 @@
         "admin1_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/MRT_EN/MapServer/1/query?where=0%3D0&outFields=*&f=pjson",
         "admin2Name_en": "Akjoujt",
         "admin2Pcode": "MR0901",
-        "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/MRT_EN/MapServer/3/query?where=0%3D0&outFields=*&f=pjson"
+        "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/MRT_EN/MapServer/3/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "en": "English"
+        }
     },
     {
         "title": "Mauritania - Railways",
@@ -3253,7 +3408,10 @@
         "admin1_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/MRT_EN/MapServer/1/query?where=0%3D0&outFields=*&f=pjson",
         "admin2Name_en": "Akjoujt",
         "admin2Pcode": "MR0901",
-        "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/MRT_EN/MapServer/3/query?where=0%3D0&outFields=*&f=pjson"
+        "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/MRT_EN/MapServer/3/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "en": "English"
+        }
     },
     {
         "title": "Mauritania - Elevation Model",
@@ -3287,7 +3445,10 @@
         "admin1_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/MRT_EN/MapServer/1/query?where=0%3D0&outFields=*&f=pjson",
         "admin2Name_en": "Akjoujt",
         "admin2Pcode": "MR0901",
-        "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/MRT_EN/MapServer/3/query?where=0%3D0&outFields=*&f=pjson"
+        "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/MRT_EN/MapServer/3/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "en": "English"
+        }
     },
     {
         "title": "Mauritania - Rivers",
@@ -3322,7 +3483,10 @@
         "admin1_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/MRT_EN/MapServer/1/query?where=0%3D0&outFields=*&f=pjson",
         "admin2Name_en": "Akjoujt",
         "admin2Pcode": "MR0901",
-        "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/MRT_EN/MapServer/3/query?where=0%3D0&outFields=*&f=pjson"
+        "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/MRT_EN/MapServer/3/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "en": "English"
+        }
     },
     {
         "title": "Cabo Verde - Settlements",
@@ -3396,7 +3560,10 @@
         "admin3Name_fr": "Agnam Civol",
         "admin3Name_fr_utf8": "b'Agnam Civol'",
         "admin3Pcode": "SN090202",
-        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/SEN_FR/MapServer/5/query?where=0%3D0&outFields=*&f=pjson"
+        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/SEN_FR/MapServer/5/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "fr": "French"
+        }
     },
     {
         "title": "Senegal - Subnational Administrative Boundaries",
@@ -3466,7 +3633,10 @@
         "admin3Name_fr": "Agnam Civol",
         "admin3Name_fr_utf8": "b'Agnam Civol'",
         "admin3Pcode": "SN090202",
-        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/SEN_FR/MapServer/5/query?where=0%3D0&outFields=*&f=pjson"
+        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/SEN_FR/MapServer/5/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "fr": "French"
+        }
     },
     {
         "title": "Senegal - Digital Elevation Model",
@@ -3507,7 +3677,10 @@
         "admin3Name_fr": "Agnam Civol",
         "admin3Name_fr_utf8": "b'Agnam Civol'",
         "admin3Pcode": "SN090202",
-        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/SEN_FR/MapServer/5/query?where=0%3D0&outFields=*&f=pjson"
+        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/SEN_FR/MapServer/5/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "fr": "French"
+        }
     },
     {
         "title": "Senegal - Railways",
@@ -3549,7 +3722,10 @@
         "admin3Name_fr": "Agnam Civol",
         "admin3Name_fr_utf8": "b'Agnam Civol'",
         "admin3Pcode": "SN090202",
-        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/SEN_FR/MapServer/5/query?where=0%3D0&outFields=*&f=pjson"
+        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/SEN_FR/MapServer/5/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "fr": "French"
+        }
     },
     {
         "title": "Senegal - Water Courses",
@@ -3591,7 +3767,10 @@
         "admin3Name_fr": "Agnam Civol",
         "admin3Name_fr_utf8": "b'Agnam Civol'",
         "admin3Pcode": "SN090202",
-        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/SEN_FR/MapServer/5/query?where=0%3D0&outFields=*&f=pjson"
+        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/SEN_FR/MapServer/5/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "fr": "French"
+        }
     },
     {
         "title": "Senegal - Settlements",
@@ -3637,7 +3816,10 @@
         "admin3Name_fr": "Agnam Civol",
         "admin3Name_fr_utf8": "b'Agnam Civol'",
         "admin3Pcode": "SN090202",
-        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/SEN_FR/MapServer/5/query?where=0%3D0&outFields=*&f=pjson"
+        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/SEN_FR/MapServer/5/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "fr": "French"
+        }
     },
     {
         "title": "Sao Tome and Principe - Subnational Administrative Boundaries",
@@ -3974,7 +4156,10 @@
         "admin0Pcode": "CO",
         "admin0_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/COL_ES/MapServer/0/query?where=0%3D0&outFields=*&f=pjson",
         "admin1": "Error performing query operation.",
-        "admin2": "Error performing query operation."
+        "admin2": "Error performing query operation.",
+        "languageCode": {
+            "es": "Spanish; Castilian"
+        }
     },
     {
         "title": "Togo - Settlements",
@@ -4016,7 +4201,10 @@
         "admin2Name_fr": "Agou",
         "admin2Name_fr_utf8": "b'Agou'",
         "admin2Pcode": "TG0403",
-        "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/TGO_FR/MapServer/3/query?where=0%3D0&outFields=*&f=pjson"
+        "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/TGO_FR/MapServer/3/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "fr": "French"
+        }
     },
     {
         "title": "Sierra Leone administrative level 0-4 boundaries",
@@ -4067,7 +4255,10 @@
         "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/SLE_EN/MapServer/8/query?where=0%3D0&outFields=*&f=pjson",
         "admin3Name_en": "Yakemu Kpukumu",
         "admin3Pcode": "SL030412",
-        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/SLE_EN/MapServer/10/query?where=0%3D0&outFields=*&f=pjson"
+        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/SLE_EN/MapServer/10/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "en": "English"
+        }
     },
     {
         "title": "Myanmar - Transportation network",
@@ -4161,7 +4352,12 @@
         "admin1Pcode": "UA01",
         "admin1_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/UKR_UA/MapServer/4/query?where=0%3D0&outFields=*&f=pjson",
         "admin2": "Error performing query operation.",
-        "admin3": "Error performing query operation."
+        "admin3": "Error performing query operation.",
+        "languageCode": {
+            "en": "English",
+            "ua": "unknown",
+            "ru": "Russian"
+        }
     },
     {
         "title": "Fiji - Subnational Administrative Boundaries",
@@ -4250,7 +4446,12 @@
         "admin2Name_ta_utf8": "b'[unkno\\xe0\\xae\\xaa\\xe0\\xaf\\x81\\xe0\\xae\\xa4\\xe0\\xaf\\x8d\\xe0\\xae\\xa4\\xe0\\xae\\xb3\\xe0\\xae\\xae\\xe0\\xaf\\x8d \\xe0\\xae\\xae\\xe0\\xae\\xbe\\xe0\\xae\\xb5\\xe0\\xae\\x9f\\xe0\\xaf\\x8d\\xe0\\xae\\x9f\\xe0\\xae\\xae\\xe0\\xaf\\x8dwn]'",
         "admin2Pcode": "LK60",
         "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/LKA_TA/MapServer/3/query?where=0%3D0&outFields=*&f=pjson",
-        "admin3": "Error performing query operation."
+        "admin3": "Error performing query operation.",
+        "languageCode": {
+            "en": "English",
+            "si": "Sinhala; Sinhalese",
+            "ta": "Tamil"
+        }
     },
     {
         "title": "Sri Lanka - Railways",
@@ -4298,7 +4499,12 @@
         "admin2Name_ta_utf8": "b'[unkno\\xe0\\xae\\xaa\\xe0\\xaf\\x81\\xe0\\xae\\xa4\\xe0\\xaf\\x8d\\xe0\\xae\\xa4\\xe0\\xae\\xb3\\xe0\\xae\\xae\\xe0\\xaf\\x8d \\xe0\\xae\\xae\\xe0\\xae\\xbe\\xe0\\xae\\xb5\\xe0\\xae\\x9f\\xe0\\xaf\\x8d\\xe0\\xae\\x9f\\xe0\\xae\\xae\\xe0\\xaf\\x8dwn]'",
         "admin2Pcode": "LK60",
         "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/LKA_TA/MapServer/3/query?where=0%3D0&outFields=*&f=pjson",
-        "admin3": "Error performing query operation."
+        "admin3": "Error performing query operation.",
+        "languageCode": {
+            "en": "English",
+            "si": "Sinhala; Sinhalese",
+            "ta": "Tamil"
+        }
     },
     {
         "title": "Sri Lanka - Tanks and Reservoirs",
@@ -4345,7 +4551,12 @@
         "admin2Name_ta_utf8": "b'[unkno\\xe0\\xae\\xaa\\xe0\\xaf\\x81\\xe0\\xae\\xa4\\xe0\\xaf\\x8d\\xe0\\xae\\xa4\\xe0\\xae\\xb3\\xe0\\xae\\xae\\xe0\\xaf\\x8d \\xe0\\xae\\xae\\xe0\\xae\\xbe\\xe0\\xae\\xb5\\xe0\\xae\\x9f\\xe0\\xaf\\x8d\\xe0\\xae\\x9f\\xe0\\xae\\xae\\xe0\\xaf\\x8dwn]'",
         "admin2Pcode": "LK60",
         "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/LKA_TA/MapServer/3/query?where=0%3D0&outFields=*&f=pjson",
-        "admin3": "Error performing query operation."
+        "admin3": "Error performing query operation.",
+        "languageCode": {
+            "en": "English",
+            "si": "Sinhala; Sinhalese",
+            "ta": "Tamil"
+        }
     },
     {
         "title": "Sri Lanka - Contour Lines",
@@ -4392,7 +4603,12 @@
         "admin2Name_ta_utf8": "b'[unkno\\xe0\\xae\\xaa\\xe0\\xaf\\x81\\xe0\\xae\\xa4\\xe0\\xaf\\x8d\\xe0\\xae\\xa4\\xe0\\xae\\xb3\\xe0\\xae\\xae\\xe0\\xaf\\x8d \\xe0\\xae\\xae\\xe0\\xae\\xbe\\xe0\\xae\\xb5\\xe0\\xae\\x9f\\xe0\\xaf\\x8d\\xe0\\xae\\x9f\\xe0\\xae\\xae\\xe0\\xaf\\x8dwn]'",
         "admin2Pcode": "LK60",
         "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/LKA_TA/MapServer/3/query?where=0%3D0&outFields=*&f=pjson",
-        "admin3": "Error performing query operation."
+        "admin3": "Error performing query operation.",
+        "languageCode": {
+            "en": "English",
+            "si": "Sinhala; Sinhalese",
+            "ta": "Tamil"
+        }
     },
     {
         "title": "Sri Lanka - Lagoons",
@@ -4439,7 +4655,12 @@
         "admin2Name_ta_utf8": "b'[unkno\\xe0\\xae\\xaa\\xe0\\xaf\\x81\\xe0\\xae\\xa4\\xe0\\xaf\\x8d\\xe0\\xae\\xa4\\xe0\\xae\\xb3\\xe0\\xae\\xae\\xe0\\xaf\\x8d \\xe0\\xae\\xae\\xe0\\xae\\xbe\\xe0\\xae\\xb5\\xe0\\xae\\x9f\\xe0\\xaf\\x8d\\xe0\\xae\\x9f\\xe0\\xae\\xae\\xe0\\xaf\\x8dwn]'",
         "admin2Pcode": "LK60",
         "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/LKA_TA/MapServer/3/query?where=0%3D0&outFields=*&f=pjson",
-        "admin3": "Error performing query operation."
+        "admin3": "Error performing query operation.",
+        "languageCode": {
+            "en": "English",
+            "si": "Sinhala; Sinhalese",
+            "ta": "Tamil"
+        }
     },
     {
         "title": "Sri Lanka - River and Streams",
@@ -4486,7 +4707,12 @@
         "admin2Name_ta_utf8": "b'[unkno\\xe0\\xae\\xaa\\xe0\\xaf\\x81\\xe0\\xae\\xa4\\xe0\\xaf\\x8d\\xe0\\xae\\xa4\\xe0\\xae\\xb3\\xe0\\xae\\xae\\xe0\\xaf\\x8d \\xe0\\xae\\xae\\xe0\\xae\\xbe\\xe0\\xae\\xb5\\xe0\\xae\\x9f\\xe0\\xaf\\x8d\\xe0\\xae\\x9f\\xe0\\xae\\xae\\xe0\\xaf\\x8dwn]'",
         "admin2Pcode": "LK60",
         "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/LKA_TA/MapServer/3/query?where=0%3D0&outFields=*&f=pjson",
-        "admin3": "Error performing query operation."
+        "admin3": "Error performing query operation.",
+        "languageCode": {
+            "en": "English",
+            "si": "Sinhala; Sinhalese",
+            "ta": "Tamil"
+        }
     },
     {
         "title": "Bangladesh - Roads",
@@ -4521,7 +4747,10 @@
         "admin1Pcode": "10",
         "admin1_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/BGD_EN/MapServer/1/query?where=0%3D0&outFields=*&f=pjson",
         "admin2": "Error performing query operation.",
-        "admin3": "Error performing query operation."
+        "admin3": "Error performing query operation.",
+        "languageCode": {
+            "en": "English"
+        }
     },
     {
         "title": "Bangladesh - Contour Lines",
@@ -4554,7 +4783,10 @@
         "admin1Pcode": "10",
         "admin1_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/BGD_EN/MapServer/1/query?where=0%3D0&outFields=*&f=pjson",
         "admin2": "Error performing query operation.",
-        "admin3": "Error performing query operation."
+        "admin3": "Error performing query operation.",
+        "languageCode": {
+            "en": "English"
+        }
     },
     {
         "title": "Bangladesh - Railroads",
@@ -4589,7 +4821,10 @@
         "admin1Pcode": "10",
         "admin1_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/BGD_EN/MapServer/1/query?where=0%3D0&outFields=*&f=pjson",
         "admin2": "Error performing query operation.",
-        "admin3": "Error performing query operation."
+        "admin3": "Error performing query operation.",
+        "languageCode": {
+            "en": "English"
+        }
     },
     {
         "title": "Bangladesh - Airports and Helipads",
@@ -4624,7 +4859,10 @@
         "admin1Pcode": "10",
         "admin1_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/BGD_EN/MapServer/1/query?where=0%3D0&outFields=*&f=pjson",
         "admin2": "Error performing query operation.",
-        "admin3": "Error performing query operation."
+        "admin3": "Error performing query operation.",
+        "languageCode": {
+            "en": "English"
+        }
     },
     {
         "title": "Bangladesh - Settlements",
@@ -4657,7 +4895,10 @@
         "admin1Pcode": "10",
         "admin1_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/BGD_EN/MapServer/1/query?where=0%3D0&outFields=*&f=pjson",
         "admin2": "Error performing query operation.",
-        "admin3": "Error performing query operation."
+        "admin3": "Error performing query operation.",
+        "languageCode": {
+            "en": "English"
+        }
     },
     {
         "title": "Bangladesh - Waterbodies",
@@ -4690,7 +4931,10 @@
         "admin1Pcode": "10",
         "admin1_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/BGD_EN/MapServer/1/query?where=0%3D0&outFields=*&f=pjson",
         "admin2": "Error performing query operation.",
-        "admin3": "Error performing query operation."
+        "admin3": "Error performing query operation.",
+        "languageCode": {
+            "en": "English"
+        }
     },
     {
         "title": "Bangladesh - Rivers",
@@ -4724,7 +4968,10 @@
         "admin1Pcode": "10",
         "admin1_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/BGD_EN/MapServer/1/query?where=0%3D0&outFields=*&f=pjson",
         "admin2": "Error performing query operation.",
-        "admin3": "Error performing query operation."
+        "admin3": "Error performing query operation.",
+        "languageCode": {
+            "en": "English"
+        }
     },
     {
         "title": "Thailand - Subnational Administrative Boundaries",
@@ -4781,7 +5028,11 @@
         "admin0_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/THA_TH/MapServer/0/query?where=0%3D0&outFields=*&f=pjson",
         "admin1": "Error performing query operation.",
         "admin2": "Error performing query operation.",
-        "admin3": "Error performing query operation."
+        "admin3": "Error performing query operation.",
+        "languageCode": {
+            "en": "English",
+            "th": "Thai"
+        }
     },
     {
         "title": "Thailand - Roads",
@@ -4815,7 +5066,11 @@
         "admin0_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/THA_TH/MapServer/0/query?where=0%3D0&outFields=*&f=pjson",
         "admin1": "Error performing query operation.",
         "admin2": "Error performing query operation.",
-        "admin3": "Error performing query operation."
+        "admin3": "Error performing query operation.",
+        "languageCode": {
+            "en": "English",
+            "th": "Thai"
+        }
     },
     {
         "title": "Thailand - Inland Waters",
@@ -4849,7 +5104,11 @@
         "admin0_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/THA_TH/MapServer/0/query?where=0%3D0&outFields=*&f=pjson",
         "admin1": "Error performing query operation.",
         "admin2": "Error performing query operation.",
-        "admin3": "Error performing query operation."
+        "admin3": "Error performing query operation.",
+        "languageCode": {
+            "en": "English",
+            "th": "Thai"
+        }
     },
     {
         "title": "DPR Korea - Settlements",
@@ -5111,7 +5370,11 @@
         "admin2Name_vi": "Huy\u1ec7n A L\u01b0\u1edbi",
         "admin2Name_vi_utf8": "b'Huy\\xe1\\xbb\\x87n A L\\xc6\\xb0\\xe1\\xbb\\x9bi'",
         "admin2Pcode": "VN41115",
-        "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/VNM_VI/MapServer/3/query?where=0%3D0&outFields=*&f=pjson"
+        "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/VNM_VI/MapServer/3/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "en": "English",
+            "vi": "Vietnamese"
+        }
     },
     {
         "title": "Viet Nam - Railroads",
@@ -5152,7 +5415,11 @@
         "admin2Name_vi": "Huy\u1ec7n A L\u01b0\u1edbi",
         "admin2Name_vi_utf8": "b'Huy\\xe1\\xbb\\x87n A L\\xc6\\xb0\\xe1\\xbb\\x9bi'",
         "admin2Pcode": "VN41115",
-        "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/VNM_VI/MapServer/3/query?where=0%3D0&outFields=*&f=pjson"
+        "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/VNM_VI/MapServer/3/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "en": "English",
+            "vi": "Vietnamese"
+        }
     },
     {
         "title": "Viet Nam - Airports and Airfields",
@@ -5194,7 +5461,11 @@
         "admin2Name_vi": "Huy\u1ec7n A L\u01b0\u1edbi",
         "admin2Name_vi_utf8": "b'Huy\\xe1\\xbb\\x87n A L\\xc6\\xb0\\xe1\\xbb\\x9bi'",
         "admin2Pcode": "VN41115",
-        "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/VNM_VI/MapServer/3/query?where=0%3D0&outFields=*&f=pjson"
+        "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/VNM_VI/MapServer/3/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "en": "English",
+            "vi": "Vietnamese"
+        }
     },
     {
         "title": "Viet Nam - Settlements",
@@ -5234,7 +5505,11 @@
         "admin2Name_vi": "Huy\u1ec7n A L\u01b0\u1edbi",
         "admin2Name_vi_utf8": "b'Huy\\xe1\\xbb\\x87n A L\\xc6\\xb0\\xe1\\xbb\\x9bi'",
         "admin2Pcode": "VN41115",
-        "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/VNM_VI/MapServer/3/query?where=0%3D0&outFields=*&f=pjson"
+        "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/VNM_VI/MapServer/3/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "en": "English",
+            "vi": "Vietnamese"
+        }
     },
     {
         "title": "Lao People's Democratic Republic - Subnational Population Statistics",
@@ -5331,7 +5606,10 @@
         "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/KHM_EN/MapServer/3/query?where=0%3D0&outFields=*&f=pjson",
         "admin3Name_en": "A Buon Leu",
         "admin3Pcode": "KH110202",
-        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/KHM_EN/MapServer/5/query?where=0%3D0&outFields=*&f=pjson"
+        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/KHM_EN/MapServer/5/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "en": "English"
+        }
     },
     {
         "title": "Cambodia - Settlements",
@@ -5368,7 +5646,10 @@
         "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/KHM_EN/MapServer/3/query?where=0%3D0&outFields=*&f=pjson",
         "admin3Name_en": "A Buon Leu",
         "admin3Pcode": "KH110202",
-        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/KHM_EN/MapServer/5/query?where=0%3D0&outFields=*&f=pjson"
+        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/KHM_EN/MapServer/5/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "en": "English"
+        }
     },
     {
         "title": "Cambodia - Subnational Population Statistics",
@@ -5411,7 +5692,10 @@
         "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/KHM_EN/MapServer/3/query?where=0%3D0&outFields=*&f=pjson",
         "admin3Name_en": "A Buon Leu",
         "admin3Pcode": "KH110202",
-        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/KHM_EN/MapServer/5/query?where=0%3D0&outFields=*&f=pjson"
+        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/KHM_EN/MapServer/5/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "en": "English"
+        }
     },
     {
         "title": "Cambodia - Population density",
@@ -5448,7 +5732,10 @@
         "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/KHM_EN/MapServer/3/query?where=0%3D0&outFields=*&f=pjson",
         "admin3Name_en": "A Buon Leu",
         "admin3Pcode": "KH110202",
-        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/KHM_EN/MapServer/5/query?where=0%3D0&outFields=*&f=pjson"
+        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/KHM_EN/MapServer/5/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "en": "English"
+        }
     },
     {
         "title": "Cambodia - Roads",
@@ -5486,7 +5773,10 @@
         "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/KHM_EN/MapServer/3/query?where=0%3D0&outFields=*&f=pjson",
         "admin3Name_en": "A Buon Leu",
         "admin3Pcode": "KH110202",
-        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/KHM_EN/MapServer/5/query?where=0%3D0&outFields=*&f=pjson"
+        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/KHM_EN/MapServer/5/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "en": "English"
+        }
     },
     {
         "title": "Cambodia - Railroads",
@@ -5524,7 +5814,10 @@
         "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/KHM_EN/MapServer/3/query?where=0%3D0&outFields=*&f=pjson",
         "admin3Name_en": "A Buon Leu",
         "admin3Pcode": "KH110202",
-        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/KHM_EN/MapServer/5/query?where=0%3D0&outFields=*&f=pjson"
+        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/KHM_EN/MapServer/5/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "en": "English"
+        }
     },
     {
         "title": "Cambodia - Rivers",
@@ -5562,7 +5855,10 @@
         "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/KHM_EN/MapServer/3/query?where=0%3D0&outFields=*&f=pjson",
         "admin3Name_en": "A Buon Leu",
         "admin3Pcode": "KH110202",
-        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/KHM_EN/MapServer/5/query?where=0%3D0&outFields=*&f=pjson"
+        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/KHM_EN/MapServer/5/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "en": "English"
+        }
     },
     {
         "title": "Cambodia - Canals",
@@ -5599,7 +5895,10 @@
         "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/KHM_EN/MapServer/3/query?where=0%3D0&outFields=*&f=pjson",
         "admin3Name_en": "A Buon Leu",
         "admin3Pcode": "KH110202",
-        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/KHM_EN/MapServer/5/query?where=0%3D0&outFields=*&f=pjson"
+        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/KHM_EN/MapServer/5/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "en": "English"
+        }
     },
     {
         "title": "Bhutan - Roads",
@@ -5748,7 +6047,10 @@
         "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/PNG_EN/MapServer/3/query?where=0%3D0&outFields=*&f=pjson",
         "admin3Name_en": "Afore Rural LLG",
         "admin3Pcode": "PG060103",
-        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/PNG_EN/MapServer/5/query?where=0%3D0&outFields=*&f=pjson"
+        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/PNG_EN/MapServer/5/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "en": "English"
+        }
     },
     {
         "title": "Papua New Guinea - Water Courses",
@@ -5786,7 +6088,10 @@
         "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/PNG_EN/MapServer/3/query?where=0%3D0&outFields=*&f=pjson",
         "admin3Name_en": "Afore Rural LLG",
         "admin3Pcode": "PG060103",
-        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/PNG_EN/MapServer/5/query?where=0%3D0&outFields=*&f=pjson"
+        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/PNG_EN/MapServer/5/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "en": "English"
+        }
     },
     {
         "title": "Papua New Guinea - Roads",
@@ -5824,7 +6129,10 @@
         "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/PNG_EN/MapServer/3/query?where=0%3D0&outFields=*&f=pjson",
         "admin3Name_en": "Afore Rural LLG",
         "admin3Pcode": "PG060103",
-        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/PNG_EN/MapServer/5/query?where=0%3D0&outFields=*&f=pjson"
+        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/PNG_EN/MapServer/5/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "en": "English"
+        }
     },
     {
         "title": "Papua New Guinea administrative level 0, 1, 2, and 3 boundaries and gazeteer",
@@ -5890,7 +6198,10 @@
         "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/PNG_EN/MapServer/3/query?where=0%3D0&outFields=*&f=pjson",
         "admin3Name_en": "Afore Rural LLG",
         "admin3Pcode": "PG060103",
-        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/PNG_EN/MapServer/5/query?where=0%3D0&outFields=*&f=pjson"
+        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/PNG_EN/MapServer/5/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "en": "English"
+        }
     },
     {
         "title": "Mongolia - Inland Waters and Lakes",
@@ -6410,7 +6721,10 @@
         "admin1_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/NAM_EN/MapServer/1/query?where=0%3D0&outFields=*&f=pjson",
         "admin2Name_en": "Aminius",
         "admin2Pcode": "NA0901",
-        "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/NAM_EN/MapServer/3/query?where=0%3D0&outFields=*&f=pjson"
+        "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/NAM_EN/MapServer/3/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "en": "English"
+        }
     },
     {
         "title": "Namibia - Roads",
@@ -6445,7 +6759,10 @@
         "admin1_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/NAM_EN/MapServer/1/query?where=0%3D0&outFields=*&f=pjson",
         "admin2Name_en": "Aminius",
         "admin2Pcode": "NA0901",
-        "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/NAM_EN/MapServer/3/query?where=0%3D0&outFields=*&f=pjson"
+        "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/NAM_EN/MapServer/3/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "en": "English"
+        }
     },
     {
         "title": "Namibia - Perennial River Basins & the Cuvelai System-Catchment",
@@ -6480,7 +6797,10 @@
         "admin1_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/NAM_EN/MapServer/1/query?where=0%3D0&outFields=*&f=pjson",
         "admin2Name_en": "Aminius",
         "admin2Pcode": "NA0901",
-        "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/NAM_EN/MapServer/3/query?where=0%3D0&outFields=*&f=pjson"
+        "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/NAM_EN/MapServer/3/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "en": "English"
+        }
     },
     {
         "title": "Namibia - Towns and Settlement Location Points",
@@ -6515,7 +6835,10 @@
         "admin1_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/NAM_EN/MapServer/1/query?where=0%3D0&outFields=*&f=pjson",
         "admin2Name_en": "Aminius",
         "admin2Pcode": "NA0901",
-        "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/NAM_EN/MapServer/3/query?where=0%3D0&outFields=*&f=pjson"
+        "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/NAM_EN/MapServer/3/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "en": "English"
+        }
     },
     {
         "title": "Namibia - Contour Lines",
@@ -6549,7 +6872,10 @@
         "admin1_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/NAM_EN/MapServer/1/query?where=0%3D0&outFields=*&f=pjson",
         "admin2Name_en": "Aminius",
         "admin2Pcode": "NA0901",
-        "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/NAM_EN/MapServer/3/query?where=0%3D0&outFields=*&f=pjson"
+        "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/NAM_EN/MapServer/3/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "en": "English"
+        }
     },
     {
         "title": "Namibia - Water Rivers",
@@ -6584,7 +6910,10 @@
         "admin1_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/NAM_EN/MapServer/1/query?where=0%3D0&outFields=*&f=pjson",
         "admin2Name_en": "Aminius",
         "admin2Pcode": "NA0901",
-        "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/NAM_EN/MapServer/3/query?where=0%3D0&outFields=*&f=pjson"
+        "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/NAM_EN/MapServer/3/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "en": "English"
+        }
     },
     {
         "title": "South Africa - Subnational Administrative Boundaries",
@@ -6671,7 +7000,10 @@
         "admin2Name_en": "Beitbridge",
         "admin2Pcode": "ZW1601",
         "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/ZWE_EN/MapServer/3/query?where=0%3D0&outFields=*&f=pjson",
-        "admin3": "Error performing query operation."
+        "admin3": "Error performing query operation.",
+        "languageCode": {
+            "en": "English"
+        }
     },
     {
         "title": "Zimbabwe - Populated Places",
@@ -6706,7 +7038,10 @@
         "admin2Name_en": "Beitbridge",
         "admin2Pcode": "ZW1601",
         "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/ZWE_EN/MapServer/3/query?where=0%3D0&outFields=*&f=pjson",
-        "admin3": "Error performing query operation."
+        "admin3": "Error performing query operation.",
+        "languageCode": {
+            "en": "English"
+        }
     },
     {
         "title": "Philippines - Water Courses(Rivers)",
@@ -6771,7 +7106,10 @@
         "admin2Name_fr": "Aderbissinat",
         "admin2Name_fr_utf8": "b'Aderbissinat'",
         "admin2Pcode": "NE001001",
-        "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/NER_FR/MapServer/3/query?where=0%3D0&outFields=*&f=pjson"
+        "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/NER_FR/MapServer/3/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "fr": "French"
+        }
     },
     {
         "title": "Niger - Roads",
@@ -6809,7 +7147,10 @@
         "admin2Name_fr": "Aderbissinat",
         "admin2Name_fr_utf8": "b'Aderbissinat'",
         "admin2Pcode": "NE001001",
-        "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/NER_FR/MapServer/3/query?where=0%3D0&outFields=*&f=pjson"
+        "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/NER_FR/MapServer/3/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "fr": "French"
+        }
     },
     {
         "title": "Niger - Settlements",
@@ -6846,7 +7187,10 @@
         "admin2Name_fr": "Aderbissinat",
         "admin2Name_fr_utf8": "b'Aderbissinat'",
         "admin2Pcode": "NE001001",
-        "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/NER_FR/MapServer/3/query?where=0%3D0&outFields=*&f=pjson"
+        "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/NER_FR/MapServer/3/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "fr": "French"
+        }
     },
     {
         "title": "Niger - Subnational Administrative Boundaries",
@@ -6902,7 +7246,10 @@
         "admin2Name_fr": "Aderbissinat",
         "admin2Name_fr_utf8": "b'Aderbissinat'",
         "admin2Pcode": "NE001001",
-        "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/NER_FR/MapServer/3/query?where=0%3D0&outFields=*&f=pjson"
+        "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/NER_FR/MapServer/3/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "fr": "French"
+        }
     },
     {
         "title": "C\u00f4te d'Ivoire - Settlements",
@@ -6943,7 +7290,10 @@
         "admin3Name_fr": "Abengourou",
         "admin3Name_fr_utf8": "b'Abengourou'",
         "admin3Pcode": "CI200101",
-        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/CIV_FR/MapServer/5/query?where=0%3D0&outFields=*&f=pjson"
+        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/CIV_FR/MapServer/5/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "fr": "French"
+        }
     },
     {
         "title": "C\u00f4te d'Ivoire - Roads",
@@ -6985,7 +7335,10 @@
         "admin3Name_fr": "Abengourou",
         "admin3Name_fr_utf8": "b'Abengourou'",
         "admin3Pcode": "CI200101",
-        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/CIV_FR/MapServer/5/query?where=0%3D0&outFields=*&f=pjson"
+        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/CIV_FR/MapServer/5/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "fr": "French"
+        }
     },
     {
         "title": "C\u00f4te d'Ivoire - Railways",
@@ -7027,7 +7380,10 @@
         "admin3Name_fr": "Abengourou",
         "admin3Name_fr_utf8": "b'Abengourou'",
         "admin3Pcode": "CI200101",
-        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/CIV_FR/MapServer/5/query?where=0%3D0&outFields=*&f=pjson"
+        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/CIV_FR/MapServer/5/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "fr": "French"
+        }
     },
     {
         "title": "C\u00f4te d'Ivoire - Water Bodies",
@@ -7068,7 +7424,10 @@
         "admin3Name_fr": "Abengourou",
         "admin3Name_fr_utf8": "b'Abengourou'",
         "admin3Pcode": "CI200101",
-        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/CIV_FR/MapServer/5/query?where=0%3D0&outFields=*&f=pjson"
+        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/CIV_FR/MapServer/5/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "fr": "French"
+        }
     },
     {
         "title": "C\u00f4te d'Ivoire - Water Courses",
@@ -7110,7 +7469,10 @@
         "admin3Name_fr": "Abengourou",
         "admin3Name_fr_utf8": "b'Abengourou'",
         "admin3Pcode": "CI200101",
-        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/CIV_FR/MapServer/5/query?where=0%3D0&outFields=*&f=pjson"
+        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/CIV_FR/MapServer/5/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "fr": "French"
+        }
     },
     {
         "title": "DR Congo - Settlements",
@@ -7398,7 +7760,11 @@
         "admin1Pcode": "EC01",
         "admin1_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/ECU_ES/MapServer/1/query?where=0%3D0&outFields=*&f=pjson",
         "admin2": "Error performing query operation.",
-        "admin3": "Error performing query operation."
+        "admin3": "Error performing query operation.",
+        "languageCode": {
+            "en": "English",
+            "es": "Spanish; Castilian"
+        }
     },
     {
         "title": "Honduras - Roads",
@@ -7430,7 +7796,10 @@
         "admin0Pcode": "HN",
         "admin0_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/HND_ES/MapServer/4/query?where=0%3D0&outFields=*&f=pjson",
         "admin1": "Error performing query operation.",
-        "admin2": "Error performing query operation."
+        "admin2": "Error performing query operation.",
+        "languageCode": {
+            "es": "Spanish; Castilian"
+        }
     },
     {
         "title": "Honduras - Water Bodies",
@@ -7461,7 +7830,10 @@
         "admin0Pcode": "HN",
         "admin0_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/HND_ES/MapServer/4/query?where=0%3D0&outFields=*&f=pjson",
         "admin1": "Error performing query operation.",
-        "admin2": "Error performing query operation."
+        "admin2": "Error performing query operation.",
+        "languageCode": {
+            "es": "Spanish; Castilian"
+        }
     },
     {
         "title": "Honduras - Settlements",
@@ -7492,7 +7864,10 @@
         "admin0Pcode": "HN",
         "admin0_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/HND_ES/MapServer/4/query?where=0%3D0&outFields=*&f=pjson",
         "admin1": "Error performing query operation.",
-        "admin2": "Error performing query operation."
+        "admin2": "Error performing query operation.",
+        "languageCode": {
+            "es": "Spanish; Castilian"
+        }
     },
     {
         "title": "Honduras - Subnational Administrative Boundaries",
@@ -7552,7 +7927,10 @@
         "admin0Pcode": "HN",
         "admin0_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/HND_ES/MapServer/4/query?where=0%3D0&outFields=*&f=pjson",
         "admin1": "Error performing query operation.",
-        "admin2": "Error performing query operation."
+        "admin2": "Error performing query operation.",
+        "languageCode": {
+            "es": "Spanish; Castilian"
+        }
     },
     {
         "title": "Haiti - Settlements",
@@ -7605,7 +7983,12 @@
         "admin3Name_ht": " ",
         "admin3Name_ht_utf8": "b' '",
         "admin3Pcode": "HT0131-10",
-        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/HTI_HT/MapServer/5/query?where=0%3D0&outFields=*&f=pjson"
+        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/HTI_HT/MapServer/5/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "en": "English",
+            "fr": "French",
+            "ht": "Haitian; Haitian Creole"
+        }
     },
     {
         "title": "Haiti - Rivers",
@@ -7659,7 +8042,12 @@
         "admin3Name_ht": " ",
         "admin3Name_ht_utf8": "b' '",
         "admin3Pcode": "HT0131-10",
-        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/HTI_HT/MapServer/5/query?where=0%3D0&outFields=*&f=pjson"
+        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/HTI_HT/MapServer/5/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "en": "English",
+            "fr": "French",
+            "ht": "Haitian; Haitian Creole"
+        }
     },
     {
         "title": "Haiti - Ports",
@@ -7713,7 +8101,12 @@
         "admin3Name_ht": " ",
         "admin3Name_ht_utf8": "b' '",
         "admin3Pcode": "HT0131-10",
-        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/HTI_HT/MapServer/5/query?where=0%3D0&outFields=*&f=pjson"
+        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/HTI_HT/MapServer/5/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "en": "English",
+            "fr": "French",
+            "ht": "Haitian; Haitian Creole"
+        }
     },
     {
         "title": "Haiti - Lakes",
@@ -7766,7 +8159,12 @@
         "admin3Name_ht": " ",
         "admin3Name_ht_utf8": "b' '",
         "admin3Pcode": "HT0131-10",
-        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/HTI_HT/MapServer/5/query?where=0%3D0&outFields=*&f=pjson"
+        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/HTI_HT/MapServer/5/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "en": "English",
+            "fr": "French",
+            "ht": "Haitian; Haitian Creole"
+        }
     },
     {
         "title": "Haiti - Network Road",
@@ -7826,7 +8224,12 @@
         "admin3Name_ht": " ",
         "admin3Name_ht_utf8": "b' '",
         "admin3Pcode": "HT0131-10",
-        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/HTI_HT/MapServer/5/query?where=0%3D0&outFields=*&f=pjson"
+        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/HTI_HT/MapServer/5/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "en": "English",
+            "fr": "French",
+            "ht": "Haitian; Haitian Creole"
+        }
     },
     {
         "title": "Central African Republic - Elevation Model",
@@ -7867,7 +8270,10 @@
         "admin3Name_fr": "Bogongo Gaza",
         "admin3Name_fr_utf8": "b'Bogongo Gaza'",
         "admin3Pcode": "CF1214",
-        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/CAF_FR/MapServer/5/query?where=0%3D0&outFields=*&f=pjson"
+        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/CAF_FR/MapServer/5/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "fr": "French"
+        }
     },
     {
         "title": "Central African Republic - Subnational Administrative Boundaries",
@@ -7929,7 +8335,10 @@
         "admin3Name_fr": "Bogongo Gaza",
         "admin3Name_fr_utf8": "b'Bogongo Gaza'",
         "admin3Pcode": "CF1214",
-        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/CAF_FR/MapServer/5/query?where=0%3D0&outFields=*&f=pjson"
+        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/CAF_FR/MapServer/5/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "fr": "French"
+        }
     },
     {
         "title": "Central African Republic - Roads Network",
@@ -7971,7 +8380,10 @@
         "admin3Name_fr": "Bogongo Gaza",
         "admin3Name_fr_utf8": "b'Bogongo Gaza'",
         "admin3Pcode": "CF1214",
-        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/CAF_FR/MapServer/5/query?where=0%3D0&outFields=*&f=pjson"
+        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/CAF_FR/MapServer/5/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "fr": "French"
+        }
     },
     {
         "title": "Central African Republic -  Villages and Towns with administrative classification of Central African Republic",
@@ -8017,7 +8429,10 @@
         "admin3Name_fr": "Bogongo Gaza",
         "admin3Name_fr_utf8": "b'Bogongo Gaza'",
         "admin3Pcode": "CF1214",
-        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/CAF_FR/MapServer/5/query?where=0%3D0&outFields=*&f=pjson"
+        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/CAF_FR/MapServer/5/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "fr": "French"
+        }
     },
     {
         "title": "Central African Republic - Water Bodies- Rivers ( Landsat satellite images (2002-2003)",
@@ -8058,7 +8473,10 @@
         "admin3Name_fr": "Bogongo Gaza",
         "admin3Name_fr_utf8": "b'Bogongo Gaza'",
         "admin3Pcode": "CF1214",
-        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/CAF_FR/MapServer/5/query?where=0%3D0&outFields=*&f=pjson"
+        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/CAF_FR/MapServer/5/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "fr": "French"
+        }
     },
     {
         "title": "Pakistan - Population of Major Cities",
@@ -8094,7 +8512,10 @@
         "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/PAK_EN/MapServer/3/query?where=0%3D0&outFields=*&f=pjson",
         "admin3Name_en": "Abbottabad",
         "admin3Pcode": "PK20101",
-        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/PAK_EN/MapServer/5/query?where=0%3D0&outFields=*&f=pjson"
+        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/PAK_EN/MapServer/5/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "en": "English"
+        }
     },
     {
         "title": "Yemen - Administrative Boundaries",
@@ -8178,7 +8599,11 @@
         "admin2Name_ar": "\u0639\u0628\u0633",
         "admin2Name_ar_utf8": "b'\\xd8\\xb9\\xd8\\xa8\\xd8\\xb3'",
         "admin2Pcode": "YE1704",
-        "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/YEM_EN/MapServer/3/query?where=0%3D0&outFields=*&f=pjson"
+        "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/YEM_EN/MapServer/3/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "en": "English",
+            "ar": "Arabic"
+        }
     },
     {
         "title": "Yemen - Roads",
@@ -8219,7 +8644,11 @@
         "admin2Name_ar": "\u0639\u0628\u0633",
         "admin2Name_ar_utf8": "b'\\xd8\\xb9\\xd8\\xa8\\xd8\\xb3'",
         "admin2Pcode": "YE1704",
-        "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/YEM_EN/MapServer/3/query?where=0%3D0&outFields=*&f=pjson"
+        "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/YEM_EN/MapServer/3/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "en": "English",
+            "ar": "Arabic"
+        }
     },
     {
         "title": "Yemen - Ports",
@@ -8260,7 +8689,11 @@
         "admin2Name_ar": "\u0639\u0628\u0633",
         "admin2Name_ar_utf8": "b'\\xd8\\xb9\\xd8\\xa8\\xd8\\xb3'",
         "admin2Pcode": "YE1704",
-        "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/YEM_EN/MapServer/3/query?where=0%3D0&outFields=*&f=pjson"
+        "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/YEM_EN/MapServer/3/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "en": "English",
+            "ar": "Arabic"
+        }
     },
     {
         "title": "Yemen - Water Courses",
@@ -8300,7 +8733,11 @@
         "admin2Name_ar": "\u0639\u0628\u0633",
         "admin2Name_ar_utf8": "b'\\xd8\\xb9\\xd8\\xa8\\xd8\\xb3'",
         "admin2Pcode": "YE1704",
-        "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/YEM_EN/MapServer/3/query?where=0%3D0&outFields=*&f=pjson"
+        "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/YEM_EN/MapServer/3/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "en": "English",
+            "ar": "Arabic"
+        }
     },
     {
         "title": "Kazakhstan - Subnational Population Statistics",
@@ -8396,7 +8833,10 @@
         "admin2Name_fr_utf8": "b'Bal\\xc3\\xa9'",
         "admin2Pcode": "BF4601",
         "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/BFA_FR/MapServer/3/query?where=0%3D0&outFields=*&f=pjson",
-        "admin3": "Error performing query operation."
+        "admin3": "Error performing query operation.",
+        "languageCode": {
+            "fr": "French"
+        }
     },
     {
         "title": "Mauritania: Settlements",
@@ -8435,7 +8875,10 @@
         "admin1_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/MRT_EN/MapServer/1/query?where=0%3D0&outFields=*&f=pjson",
         "admin2Name_en": "Akjoujt",
         "admin2Pcode": "MR0901",
-        "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/MRT_EN/MapServer/3/query?where=0%3D0&outFields=*&f=pjson"
+        "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/MRT_EN/MapServer/3/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "en": "English"
+        }
     },
     {
         "title": "Syrian Arab Republic - Administrative Boundaries, Populated Places",
@@ -8511,7 +8954,11 @@
         "admin3Name_ar": "\u0645\u0631\u0643\u0632 \u0623\u0631\u064a\u062d\u0627",
         "admin3Name_ar_utf8": "b'\\xd9\\x85\\xd8\\xb1\\xd9\\x83\\xd8\\xb2 \\xd8\\xa3\\xd8\\xb1\\xd9\\x8a\\xd8\\xad\\xd8\\xa7'",
         "admin3Pcode": "SY070500",
-        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/SYR_EN/MapServer/9/query?where=0%3D0&outFields=*&f=pjson"
+        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/SYR_EN/MapServer/9/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "en": "English",
+            "ar": "Arabic"
+        }
     },
     {
         "title": "Syrian Arab Republic - Water Bodies",
@@ -8556,7 +9003,11 @@
         "admin3Name_ar": "\u0645\u0631\u0643\u0632 \u0623\u0631\u064a\u062d\u0627",
         "admin3Name_ar_utf8": "b'\\xd9\\x85\\xd8\\xb1\\xd9\\x83\\xd8\\xb2 \\xd8\\xa3\\xd8\\xb1\\xd9\\x8a\\xd8\\xad\\xd8\\xa7'",
         "admin3Pcode": "SY070500",
-        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/SYR_EN/MapServer/9/query?where=0%3D0&outFields=*&f=pjson"
+        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/SYR_EN/MapServer/9/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "en": "English",
+            "ar": "Arabic"
+        }
     },
     {
         "title": "State of Palestine - Palestinian Communities in the West Bank and the Gaza Strip",
@@ -8795,7 +9246,10 @@
         "admin1_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/SSD_EN/MapServer/1/query?where=0%3D0&outFields=*&f=pjson",
         "admin2Name_en": "Juba",
         "admin2Pcode": "SS0101",
-        "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/SSD_EN/MapServer/4/query?where=0%3D0&outFields=*&f=pjson"
+        "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/SSD_EN/MapServer/4/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "en": "English"
+        }
     },
     {
         "title": "South Sudan - Subnational Administrative Boundaries",
@@ -8858,7 +9312,10 @@
         "admin1_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/SSD_EN/MapServer/1/query?where=0%3D0&outFields=*&f=pjson",
         "admin2Name_en": "Juba",
         "admin2Pcode": "SS0101",
-        "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/SSD_EN/MapServer/4/query?where=0%3D0&outFields=*&f=pjson"
+        "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/SSD_EN/MapServer/4/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "en": "English"
+        }
     },
     {
         "title": "Tunisia - Estimated Population Statistics per delegation",
@@ -8955,7 +9412,11 @@
         "admin2Name_ar": "\u062f\u0631\u0646\u0647",
         "admin2Name_ar_utf8": "b'\\xd8\\xaf\\xd8\\xb1\\xd9\\x86\\xd9\\x87'",
         "admin2Pcode": "LY0101",
-        "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/LBY_EN/MapServer/7/query?where=0%3D0&outFields=*&f=pjson"
+        "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/LBY_EN/MapServer/7/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "en": "English",
+            "ar": "Arabic"
+        }
     },
     {
         "title": "Iraq - Subnational Administrative Boundaries",
@@ -9029,7 +9490,11 @@
         "admin3Name_ar": "\u0627\u0628\u064a \u063a\u0631\u0642",
         "admin3Name_ar_utf8": "b'\\xd8\\xa7\\xd8\\xa8\\xd9\\x8a \\xd8\\xba\\xd8\\xb1\\xd9\\x82'",
         "admin3Pcode": "IQG07Q02N02",
-        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/IRQ_EN/MapServer/5/query?where=0%3D0&outFields=*&f=pjson"
+        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/IRQ_EN/MapServer/5/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "en": "English",
+            "ar": "Arabic"
+        }
     },
     {
         "title": "Iraq - Water Bodies(Lakes and Ponds)",
@@ -9074,7 +9539,11 @@
         "admin3Name_ar": "\u0627\u0628\u064a \u063a\u0631\u0642",
         "admin3Name_ar_utf8": "b'\\xd8\\xa7\\xd8\\xa8\\xd9\\x8a \\xd8\\xba\\xd8\\xb1\\xd9\\x82'",
         "admin3Pcode": "IQG07Q02N02",
-        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/IRQ_EN/MapServer/5/query?where=0%3D0&outFields=*&f=pjson"
+        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/IRQ_EN/MapServer/5/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "en": "English",
+            "ar": "Arabic"
+        }
     },
     {
         "title": "Iraq - Water Courses(Rivers and Streams)",
@@ -9120,7 +9589,11 @@
         "admin3Name_ar": "\u0627\u0628\u064a \u063a\u0631\u0642",
         "admin3Name_ar_utf8": "b'\\xd8\\xa7\\xd8\\xa8\\xd9\\x8a \\xd8\\xba\\xd8\\xb1\\xd9\\x82'",
         "admin3Pcode": "IQG07Q02N02",
-        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/IRQ_EN/MapServer/5/query?where=0%3D0&outFields=*&f=pjson"
+        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/IRQ_EN/MapServer/5/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "en": "English",
+            "ar": "Arabic"
+        }
     },
     {
         "title": "Iraq - Roads Network",
@@ -9166,7 +9639,11 @@
         "admin3Name_ar": "\u0627\u0628\u064a \u063a\u0631\u0642",
         "admin3Name_ar_utf8": "b'\\xd8\\xa7\\xd8\\xa8\\xd9\\x8a \\xd8\\xba\\xd8\\xb1\\xd9\\x82'",
         "admin3Pcode": "IQG07Q02N02",
-        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/IRQ_EN/MapServer/5/query?where=0%3D0&outFields=*&f=pjson"
+        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/IRQ_EN/MapServer/5/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "en": "English",
+            "ar": "Arabic"
+        }
     },
     {
         "title": "Lebanon - Settlements (villages, towns, cities)",
@@ -9211,7 +9688,11 @@
         "admin3Name_ar": "\u062f\u0627\u0626\u0631\u0629 \u0627\u0644\u0646\u0647\u0631 \u0627\u0644\u0643\u0628\u064a\u0631",
         "admin3Name_ar_utf8": "b'\\xd8\\xaf\\xd8\\xa7\\xd8\\xa6\\xd8\\xb1\\xd8\\xa9 \\xd8\\xa7\\xd9\\x84\\xd9\\x86\\xd9\\x87\\xd8\\xb1 \\xd8\\xa7\\xd9\\x84\\xd9\\x83\\xd8\\xa8\\xd9\\x8a\\xd8\\xb1'",
         "admin3Pcode": "35511",
-        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/LBN_EN/MapServer/9/query?where=0%3D0&outFields=*&f=pjson"
+        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/LBN_EN/MapServer/9/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "en": "English",
+            "ar": "Arabic"
+        }
     },
     {
         "title": "Iraq - Settlements (villages, towns, cities)",
@@ -9256,7 +9737,11 @@
         "admin3Name_ar": "\u0627\u0628\u064a \u063a\u0631\u0642",
         "admin3Name_ar_utf8": "b'\\xd8\\xa7\\xd8\\xa8\\xd9\\x8a \\xd8\\xba\\xd8\\xb1\\xd9\\x82'",
         "admin3Pcode": "IQG07Q02N02",
-        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/IRQ_EN/MapServer/5/query?where=0%3D0&outFields=*&f=pjson"
+        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/IRQ_EN/MapServer/5/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "en": "English",
+            "ar": "Arabic"
+        }
     },
     {
         "title": "State of Palestine  - Administrative Boundaries (levels 0 - 3)",
@@ -9373,7 +9858,10 @@
         "admin1_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/SOM_EN/MapServer/4/query?where=0%3D0&outFields=*&f=pjson",
         "admin2Name_en": "Banadir",
         "admin2Pcode": "SO2201",
-        "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/SOM_EN/MapServer/6/query?where=0%3D0&outFields=*&f=pjson"
+        "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/SOM_EN/MapServer/6/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "en": "English"
+        }
     },
     {
         "title": "Central African Republic - Subnational Population Statistics",
@@ -9423,7 +9911,10 @@
         "admin3Name_fr": "Bogongo Gaza",
         "admin3Name_fr_utf8": "b'Bogongo Gaza'",
         "admin3Pcode": "CF1214",
-        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/CAF_FR/MapServer/5/query?where=0%3D0&outFields=*&f=pjson"
+        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/CAF_FR/MapServer/5/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "fr": "French"
+        }
     },
     {
         "title": "South Sudan - Settlement Data",
@@ -9466,7 +9957,10 @@
         "admin1_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/SSD_EN/MapServer/1/query?where=0%3D0&outFields=*&f=pjson",
         "admin2Name_en": "Juba",
         "admin2Pcode": "SS0101",
-        "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/SSD_EN/MapServer/4/query?where=0%3D0&outFields=*&f=pjson"
+        "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/SSD_EN/MapServer/4/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "en": "English"
+        }
     },
     {
         "title": "Greece - Administrative Boundaries",
@@ -9585,7 +10079,12 @@
         "admin3Name_ht": " ",
         "admin3Name_ht_utf8": "b' '",
         "admin3Pcode": "HT0131-10",
-        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/HTI_HT/MapServer/5/query?where=0%3D0&outFields=*&f=pjson"
+        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/HTI_HT/MapServer/5/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "en": "English",
+            "fr": "French",
+            "ht": "Haitian; Haitian Creole"
+        }
     },
     {
         "title": "The former Yugoslav Republic of Macedonia -Administrative Boundaries",
@@ -9695,7 +10194,10 @@
         "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/ETH_EN/MapServer/3/query?where=0%3D0&outFields=*&f=pjson",
         "admin3Name_en": "Aba-Korow",
         "admin3Pcode": "ET050699",
-        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/ETH_EN/MapServer/5/query?where=0%3D0&outFields=*&f=pjson"
+        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/ETH_EN/MapServer/5/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "en": "English"
+        }
     },
     {
         "title": "Philippines - Subnational Administrative Boundaries",
@@ -9791,7 +10293,10 @@
         "admin0Pcode": "HN",
         "admin0_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/HND_ES/MapServer/4/query?where=0%3D0&outFields=*&f=pjson",
         "admin1": "Error performing query operation.",
-        "admin2": "Error performing query operation."
+        "admin2": "Error performing query operation.",
+        "languageCode": {
+            "es": "Spanish; Castilian"
+        }
     },
     {
         "title": "Bahamas - Subnational Administrative Boundaries",
@@ -9948,7 +10453,10 @@
         "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/NGA_EN/MapServer/3/query?where=0%3D0&outFields=*&f=pjson",
         "admin3Name_en": "A Lawant",
         "admin3Pcode": "NG008022002",
-        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/NGA_EN/MapServer/5/query?where=0%3D0&outFields=*&f=pjson"
+        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/NGA_EN/MapServer/5/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "en": "English"
+        }
     },
     {
         "title": "Nigeria Railways (data from OSM)",
@@ -9985,7 +10493,10 @@
         "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/NGA_EN/MapServer/3/query?where=0%3D0&outFields=*&f=pjson",
         "admin3Name_en": "A Lawant",
         "admin3Pcode": "NG008022002",
-        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/NGA_EN/MapServer/5/query?where=0%3D0&outFields=*&f=pjson"
+        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/NGA_EN/MapServer/5/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "en": "English"
+        }
     },
     {
         "title": "Nigeria waterways",
@@ -10021,7 +10532,10 @@
         "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/NGA_EN/MapServer/3/query?where=0%3D0&outFields=*&f=pjson",
         "admin3Name_en": "A Lawant",
         "admin3Pcode": "NG008022002",
-        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/NGA_EN/MapServer/5/query?where=0%3D0&outFields=*&f=pjson"
+        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/NGA_EN/MapServer/5/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "en": "English"
+        }
     },
     {
         "title": "Guinea - Subnational Administrative Boundaries",
@@ -10093,7 +10607,10 @@
         "admin3Name_fr": "Tountourou",
         "admin3Name_fr_utf8": "b'Tountourou'",
         "admin3Pcode": "GN00600213",
-        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/GIN_FR/MapServer/10/query?where=0%3D0&outFields=*&f=pjson"
+        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/GIN_FR/MapServer/10/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "fr": "French"
+        }
     },
     {
         "title": "Lao People's Democratic Republic - Subnational Administrative Boundaries",
@@ -10381,7 +10898,10 @@
         "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/NGA_EN/MapServer/3/query?where=0%3D0&outFields=*&f=pjson",
         "admin3Name_en": "A Lawant",
         "admin3Pcode": "NG008022002",
-        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/NGA_EN/MapServer/5/query?where=0%3D0&outFields=*&f=pjson"
+        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/NGA_EN/MapServer/5/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "en": "English"
+        }
     },
     {
         "title": "Kenya - Subnational Population Statistics",
@@ -10415,7 +10935,10 @@
         "admin1_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/KEN_EN/MapServer/1/query?where=0%3D0&outFields=*&f=pjson",
         "admin2Name_en": "Ainabkoi",
         "admin2Pcode": "KE027144",
-        "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/KEN_EN/MapServer/2/query?where=0%3D0&outFields=*&f=pjson"
+        "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/KEN_EN/MapServer/2/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "en": "English"
+        }
     },
     {
         "title": "Senegal - geodatabase on admin boundaries, settlements, hydrology, transporation, land use and infrastructure",
@@ -10462,7 +10985,10 @@
         "admin3Name_fr": "Agnam Civol",
         "admin3Name_fr_utf8": "b'Agnam Civol'",
         "admin3Pcode": "SN090202",
-        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/SEN_FR/MapServer/5/query?where=0%3D0&outFields=*&f=pjson"
+        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/SEN_FR/MapServer/5/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "fr": "French"
+        }
     },
     {
         "title": "Sierra Leone settlements",
@@ -10509,7 +11035,10 @@
         "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/SLE_EN/MapServer/8/query?where=0%3D0&outFields=*&f=pjson",
         "admin3Name_en": "Yakemu Kpukumu",
         "admin3Pcode": "SL030412",
-        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/SLE_EN/MapServer/10/query?where=0%3D0&outFields=*&f=pjson"
+        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/SLE_EN/MapServer/10/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "en": "English"
+        }
     },
     {
         "title": "Libya administrative level 0-2 boundaries and level 3 populated places",
@@ -10578,7 +11107,11 @@
         "admin2Name_ar": "\u062f\u0631\u0646\u0647",
         "admin2Name_ar_utf8": "b'\\xd8\\xaf\\xd8\\xb1\\xd9\\x86\\xd9\\x87'",
         "admin2Pcode": "LY0101",
-        "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/LBY_EN/MapServer/7/query?where=0%3D0&outFields=*&f=pjson"
+        "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/LBY_EN/MapServer/7/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "en": "English",
+            "ar": "Arabic"
+        }
     },
     {
         "title": "Libya - Transportation  Network",
@@ -10621,7 +11154,11 @@
         "admin2Name_ar": "\u062f\u0631\u0646\u0647",
         "admin2Name_ar_utf8": "b'\\xd8\\xaf\\xd8\\xb1\\xd9\\x86\\xd9\\x87'",
         "admin2Pcode": "LY0101",
-        "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/LBY_EN/MapServer/7/query?where=0%3D0&outFields=*&f=pjson"
+        "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/LBY_EN/MapServer/7/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "en": "English",
+            "ar": "Arabic"
+        }
     },
     {
         "title": "Libya - River Network",
@@ -10662,7 +11199,11 @@
         "admin2Name_ar": "\u062f\u0631\u0646\u0647",
         "admin2Name_ar_utf8": "b'\\xd8\\xaf\\xd8\\xb1\\xd9\\x86\\xd9\\x87'",
         "admin2Pcode": "LY0101",
-        "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/LBY_EN/MapServer/7/query?where=0%3D0&outFields=*&f=pjson"
+        "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/LBY_EN/MapServer/7/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "en": "English",
+            "ar": "Arabic"
+        }
     },
     {
         "title": "Algeria - Subnational Boundaries",
@@ -11533,7 +12074,11 @@
         "admin2Name_da": "\u0622\u0628 \u0628\u0646\u062f",
         "admin2Name_da_utf8": "b'\\xd8\\xa2\\xd8\\xa8 \\xd8\\xa8\\xd9\\x86\\xd8\\xaf'",
         "admin2Pcode": "AF1113",
-        "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/AFG_EN/MapServer/3/query?where=0%3D0&outFields=*&f=pjson"
+        "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/AFG_EN/MapServer/3/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "en": "English",
+            "da": "Danish"
+        }
     },
     {
         "title": "Western Sahara - Administrative Boundaries (Levels 0-1), Populated Places",
@@ -11763,7 +12308,11 @@
         "admin3Name_ar": "\u062f\u0627\u0626\u0631\u0629 \u0627\u0644\u0646\u0647\u0631 \u0627\u0644\u0643\u0628\u064a\u0631",
         "admin3Name_ar_utf8": "b'\\xd8\\xaf\\xd8\\xa7\\xd8\\xa6\\xd8\\xb1\\xd8\\xa9 \\xd8\\xa7\\xd9\\x84\\xd9\\x86\\xd9\\x87\\xd8\\xb1 \\xd8\\xa7\\xd9\\x84\\xd9\\x83\\xd8\\xa8\\xd9\\x8a\\xd8\\xb1'",
         "admin3Pcode": "35511",
-        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/LBN_EN/MapServer/9/query?where=0%3D0&outFields=*&f=pjson"
+        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/LBN_EN/MapServer/9/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "en": "English",
+            "ar": "Arabic"
+        }
     },
     {
         "title": "Lebanon Municipalities List",
@@ -11806,7 +12355,11 @@
         "admin3Name_ar": "\u062f\u0627\u0626\u0631\u0629 \u0627\u0644\u0646\u0647\u0631 \u0627\u0644\u0643\u0628\u064a\u0631",
         "admin3Name_ar_utf8": "b'\\xd8\\xaf\\xd8\\xa7\\xd8\\xa6\\xd8\\xb1\\xd8\\xa9 \\xd8\\xa7\\xd9\\x84\\xd9\\x86\\xd9\\x87\\xd8\\xb1 \\xd8\\xa7\\xd9\\x84\\xd9\\x83\\xd8\\xa8\\xd9\\x8a\\xd8\\xb1'",
         "admin3Pcode": "35511",
-        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/LBN_EN/MapServer/9/query?where=0%3D0&outFields=*&f=pjson"
+        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/LBN_EN/MapServer/9/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "en": "English",
+            "ar": "Arabic"
+        }
     },
     {
         "title": "Palestinian Gatherings",
@@ -11850,7 +12403,11 @@
         "admin3Name_ar": "\u062f\u0627\u0626\u0631\u0629 \u0627\u0644\u0646\u0647\u0631 \u0627\u0644\u0643\u0628\u064a\u0631",
         "admin3Name_ar_utf8": "b'\\xd8\\xaf\\xd8\\xa7\\xd8\\xa6\\xd8\\xb1\\xd8\\xa9 \\xd8\\xa7\\xd9\\x84\\xd9\\x86\\xd9\\x87\\xd8\\xb1 \\xd8\\xa7\\xd9\\x84\\xd9\\x83\\xd8\\xa8\\xd9\\x8a\\xd8\\xb1'",
         "admin3Pcode": "35511",
-        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/LBN_EN/MapServer/9/query?where=0%3D0&outFields=*&f=pjson"
+        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/LBN_EN/MapServer/9/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "en": "English",
+            "ar": "Arabic"
+        }
     },
     {
         "title": "Palestinian Camp in Lebanon",
@@ -11895,7 +12452,11 @@
         "admin3Name_ar": "\u062f\u0627\u0626\u0631\u0629 \u0627\u0644\u0646\u0647\u0631 \u0627\u0644\u0643\u0628\u064a\u0631",
         "admin3Name_ar_utf8": "b'\\xd8\\xaf\\xd8\\xa7\\xd8\\xa6\\xd8\\xb1\\xd8\\xa9 \\xd8\\xa7\\xd9\\x84\\xd9\\x86\\xd9\\x87\\xd8\\xb1 \\xd8\\xa7\\xd9\\x84\\xd9\\x83\\xd8\\xa8\\xd9\\x8a\\xd8\\xb1'",
         "admin3Pcode": "35511",
-        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/LBN_EN/MapServer/9/query?where=0%3D0&outFields=*&f=pjson"
+        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/LBN_EN/MapServer/9/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "en": "English",
+            "ar": "Arabic"
+        }
     },
     {
         "title": "Lebanon Primary Health Care Centers (PHCs)",
@@ -11941,7 +12502,11 @@
         "admin3Name_ar": "\u062f\u0627\u0626\u0631\u0629 \u0627\u0644\u0646\u0647\u0631 \u0627\u0644\u0643\u0628\u064a\u0631",
         "admin3Name_ar_utf8": "b'\\xd8\\xaf\\xd8\\xa7\\xd8\\xa6\\xd8\\xb1\\xd8\\xa9 \\xd8\\xa7\\xd9\\x84\\xd9\\x86\\xd9\\x87\\xd8\\xb1 \\xd8\\xa7\\xd9\\x84\\xd9\\x83\\xd8\\xa8\\xd9\\x8a\\xd8\\xb1'",
         "admin3Pcode": "35511",
-        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/LBN_EN/MapServer/9/query?where=0%3D0&outFields=*&f=pjson"
+        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/LBN_EN/MapServer/9/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "en": "English",
+            "ar": "Arabic"
+        }
     },
     {
         "title": "Lebanon - Public Schools and UNRWA Schools for Palestine Refugees",
@@ -11987,7 +12552,11 @@
         "admin3Name_ar": "\u062f\u0627\u0626\u0631\u0629 \u0627\u0644\u0646\u0647\u0631 \u0627\u0644\u0643\u0628\u064a\u0631",
         "admin3Name_ar_utf8": "b'\\xd8\\xaf\\xd8\\xa7\\xd8\\xa6\\xd8\\xb1\\xd8\\xa9 \\xd8\\xa7\\xd9\\x84\\xd9\\x86\\xd9\\x87\\xd8\\xb1 \\xd8\\xa7\\xd9\\x84\\xd9\\x83\\xd8\\xa8\\xd9\\x8a\\xd8\\xb1'",
         "admin3Pcode": "35511",
-        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/LBN_EN/MapServer/9/query?where=0%3D0&outFields=*&f=pjson"
+        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/LBN_EN/MapServer/9/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "en": "English",
+            "ar": "Arabic"
+        }
     },
     {
         "title": "Lebanon Secondary Health Care centers",
@@ -12033,7 +12602,11 @@
         "admin3Name_ar": "\u062f\u0627\u0626\u0631\u0629 \u0627\u0644\u0646\u0647\u0631 \u0627\u0644\u0643\u0628\u064a\u0631",
         "admin3Name_ar_utf8": "b'\\xd8\\xaf\\xd8\\xa7\\xd8\\xa6\\xd8\\xb1\\xd8\\xa9 \\xd8\\xa7\\xd9\\x84\\xd9\\x86\\xd9\\x87\\xd8\\xb1 \\xd8\\xa7\\xd9\\x84\\xd9\\x83\\xd8\\xa8\\xd9\\x8a\\xd8\\xb1'",
         "admin3Pcode": "35511",
-        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/LBN_EN/MapServer/9/query?where=0%3D0&outFields=*&f=pjson"
+        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/LBN_EN/MapServer/9/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "en": "English",
+            "ar": "Arabic"
+        }
     },
     {
         "title": "Lebanon Social Development Centers (SDCs)",
@@ -12077,7 +12650,11 @@
         "admin3Name_ar": "\u062f\u0627\u0626\u0631\u0629 \u0627\u0644\u0646\u0647\u0631 \u0627\u0644\u0643\u0628\u064a\u0631",
         "admin3Name_ar_utf8": "b'\\xd8\\xaf\\xd8\\xa7\\xd8\\xa6\\xd8\\xb1\\xd8\\xa9 \\xd8\\xa7\\xd9\\x84\\xd9\\x86\\xd9\\x87\\xd8\\xb1 \\xd8\\xa7\\xd9\\x84\\xd9\\x83\\xd8\\xa8\\xd9\\x8a\\xd8\\xb1'",
         "admin3Pcode": "35511",
-        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/LBN_EN/MapServer/9/query?where=0%3D0&outFields=*&f=pjson"
+        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/LBN_EN/MapServer/9/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "en": "English",
+            "ar": "Arabic"
+        }
     },
     {
         "title": "Lebanon - Syrian Refugees Collective Centers in Lebanon",
@@ -12121,7 +12698,11 @@
         "admin3Name_ar": "\u062f\u0627\u0626\u0631\u0629 \u0627\u0644\u0646\u0647\u0631 \u0627\u0644\u0643\u0628\u064a\u0631",
         "admin3Name_ar_utf8": "b'\\xd8\\xaf\\xd8\\xa7\\xd8\\xa6\\xd8\\xb1\\xd8\\xa9 \\xd8\\xa7\\xd9\\x84\\xd9\\x86\\xd9\\x87\\xd8\\xb1 \\xd8\\xa7\\xd9\\x84\\xd9\\x83\\xd8\\xa8\\xd9\\x8a\\xd8\\xb1'",
         "admin3Pcode": "35511",
-        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/LBN_EN/MapServer/9/query?where=0%3D0&outFields=*&f=pjson"
+        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/LBN_EN/MapServer/9/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "en": "English",
+            "ar": "Arabic"
+        }
     },
     {
         "title": "Lebanon villages/settlements",
@@ -12165,7 +12746,11 @@
         "admin3Name_ar": "\u062f\u0627\u0626\u0631\u0629 \u0627\u0644\u0646\u0647\u0631 \u0627\u0644\u0643\u0628\u064a\u0631",
         "admin3Name_ar_utf8": "b'\\xd8\\xaf\\xd8\\xa7\\xd8\\xa6\\xd8\\xb1\\xd8\\xa9 \\xd8\\xa7\\xd9\\x84\\xd9\\x86\\xd9\\x87\\xd8\\xb1 \\xd8\\xa7\\xd9\\x84\\xd9\\x83\\xd8\\xa8\\xd9\\x8a\\xd8\\xb1'",
         "admin3Pcode": "35511",
-        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/LBN_EN/MapServer/9/query?where=0%3D0&outFields=*&f=pjson"
+        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/LBN_EN/MapServer/9/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "en": "English",
+            "ar": "Arabic"
+        }
     },
     {
         "title": "Colombia - Subnational Administrative Boundaries",
@@ -12226,7 +12811,10 @@
         "admin0Pcode": "CO",
         "admin0_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/COL_ES/MapServer/0/query?where=0%3D0&outFields=*&f=pjson",
         "admin1": "Error performing query operation.",
-        "admin2": "Error performing query operation."
+        "admin2": "Error performing query operation.",
+        "languageCode": {
+            "es": "Spanish; Castilian"
+        }
     },
     {
         "title": "Guinea Settlement",
@@ -12267,7 +12855,10 @@
         "admin3Name_fr": "Tountourou",
         "admin3Name_fr_utf8": "b'Tountourou'",
         "admin3Pcode": "GN00600213",
-        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/GIN_FR/MapServer/10/query?where=0%3D0&outFields=*&f=pjson"
+        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/GIN_FR/MapServer/10/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "fr": "French"
+        }
     },
     {
         "title": "Kyrgyzstan - Subnational Administrative Boundaries",
@@ -12344,7 +12935,12 @@
         "admin3Name_ky": " ",
         "admin3Name_ky_utf8": "b' '",
         "admin3Pcode": "KG02205000901",
-        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/KGZ_RU/MapServer/5/query?where=0%3D0&outFields=*&f=pjson"
+        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/KGZ_RU/MapServer/5/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "en": "English",
+            "ru": "Russian",
+            "ky": "Kirghiz; Kyrgyz"
+        }
     },
     {
         "title": "Somalia - Subnational Population Statistics",
@@ -12390,7 +12986,10 @@
         "admin1_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/SOM_EN/MapServer/4/query?where=0%3D0&outFields=*&f=pjson",
         "admin2Name_en": "Banadir",
         "admin2Pcode": "SO2201",
-        "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/SOM_EN/MapServer/6/query?where=0%3D0&outFields=*&f=pjson"
+        "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/SOM_EN/MapServer/6/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "en": "English"
+        }
     },
     {
         "title": "Nigeria - Subnational Population Statistics",
@@ -12443,7 +13042,10 @@
         "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/NGA_EN/MapServer/3/query?where=0%3D0&outFields=*&f=pjson",
         "admin3Name_en": "A Lawant",
         "admin3Pcode": "NG008022002",
-        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/NGA_EN/MapServer/5/query?where=0%3D0&outFields=*&f=pjson"
+        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/NGA_EN/MapServer/5/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "en": "English"
+        }
     },
     {
         "title": "Chad - Subnational Population Statistics",
@@ -12589,7 +13191,11 @@
         "admin3Name_ar": "\u062f\u0627\u0626\u0631\u0629 \u0627\u0644\u0646\u0647\u0631 \u0627\u0644\u0643\u0628\u064a\u0631",
         "admin3Name_ar_utf8": "b'\\xd8\\xaf\\xd8\\xa7\\xd8\\xa6\\xd8\\xb1\\xd8\\xa9 \\xd8\\xa7\\xd9\\x84\\xd9\\x86\\xd9\\x87\\xd8\\xb1 \\xd8\\xa7\\xd9\\x84\\xd9\\x83\\xd8\\xa8\\xd9\\x8a\\xd8\\xb1'",
         "admin3Pcode": "35511",
-        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/LBN_EN/MapServer/9/query?where=0%3D0&outFields=*&f=pjson"
+        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/LBN_EN/MapServer/9/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "en": "English",
+            "ar": "Arabic"
+        }
     },
     {
         "title": "Georgia - Subnational Population Statistics",
@@ -12638,7 +13244,11 @@
         "admin2Name_ka": "\u10d0\u10d1\u10d0\u10e8\u10d8\u10e1",
         "admin2Name_ka_utf8": "b'\\xe1\\x83\\x90\\xe1\\x83\\x91\\xe1\\x83\\x90\\xe1\\x83\\xa8\\xe1\\x83\\x98\\xe1\\x83\\xa1'",
         "admin2Pcode": "GE3823",
-        "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/GEO_KA/MapServer/3/query?where=0%3D0&outFields=*&f=pjson"
+        "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/GEO_KA/MapServer/3/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "en": "English",
+            "ka": "Georgian"
+        }
     },
     {
         "title": "Azerbaijan - Administrative Boundaries (taxonomy)",
@@ -12875,7 +13485,10 @@
         "admin2Name_fr": "Ryansoro",
         "admin2Name_fr_utf8": "b'Ryansoro'",
         "admin2Pcode": "BDI006010",
-        "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/BDI_FR/MapServer/3/query?where=0%3D0&outFields=*&f=pjson"
+        "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/BDI_FR/MapServer/3/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "fr": "French"
+        }
     },
     {
         "title": "Burundi - Subnational Population Statistics",
@@ -12918,7 +13531,10 @@
         "admin2Name_fr": "Ryansoro",
         "admin2Name_fr_utf8": "b'Ryansoro'",
         "admin2Pcode": "BDI006010",
-        "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/BDI_FR/MapServer/3/query?where=0%3D0&outFields=*&f=pjson"
+        "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/BDI_FR/MapServer/3/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "fr": "French"
+        }
     },
     {
         "title": "Kyrgyzstan - Subnational Population Statistics",
@@ -12978,7 +13594,12 @@
         "admin3Name_ky": " ",
         "admin3Name_ky_utf8": "b' '",
         "admin3Pcode": "KG02205000901",
-        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/KGZ_RU/MapServer/5/query?where=0%3D0&outFields=*&f=pjson"
+        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/KGZ_RU/MapServer/5/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "en": "English",
+            "ru": "Russian",
+            "ky": "Kirghiz; Kyrgyz"
+        }
     },
     {
         "title": "Egypt - Subnational Administrative Boundaries",
@@ -13044,7 +13665,11 @@
         "admin3Name_ar": " \u0627\u0644\u062c\u0632\u064a\u0631\u0647",
         "admin3Name_ar_utf8": "b' \\xd8\\xa7\\xd9\\x84\\xd8\\xac\\xd8\\xb2\\xd9\\x8a\\xd8\\xb1\\xd9\\x87'",
         "admin3Pcode": "EG120918",
-        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/EGY_EN/MapServer/8/query?where=0%3D0&outFields=*&f=pjson"
+        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/EGY_EN/MapServer/8/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "en": "English",
+            "ar": "Arabic"
+        }
     },
     {
         "title": "Philippines - Subnational Population Statistics",
@@ -13141,7 +13766,10 @@
         "admin1Name_en": "1",
         "admin1Pcode": "NP01",
         "admin1_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/NPL_EN/MapServer/1/query?where=0%3D0&outFields=*&f=pjson",
-        "admin2": "Error performing query operation."
+        "admin2": "Error performing query operation.",
+        "languageCode": {
+            "en": "English"
+        }
     },
     {
         "title": "Eritrea - Subnational Population Statistics",
@@ -13184,7 +13812,10 @@
         "admin1_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/ERI_EN/MapServer/1/query?where=0%3D0&outFields=*&f=pjson",
         "admin2Name_en": "Adi Keyh",
         "admin2Pcode": "ER606",
-        "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/ERI_EN/MapServer/3/query?where=0%3D0&outFields=*&f=pjson"
+        "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/ERI_EN/MapServer/3/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "en": "English"
+        }
     },
     {
         "title": "Sierra Leone - Subnational Population Statistics",
@@ -13230,7 +13861,10 @@
         "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/SLE_EN/MapServer/8/query?where=0%3D0&outFields=*&f=pjson",
         "admin3Name_en": "Yakemu Kpukumu",
         "admin3Pcode": "SL030412",
-        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/SLE_EN/MapServer/10/query?where=0%3D0&outFields=*&f=pjson"
+        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/SLE_EN/MapServer/10/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "en": "English"
+        }
     },
     {
         "title": "Puerto Rico administrative level 0 (territory) and 1 (municipio) boundaries.",
@@ -13658,7 +14292,10 @@
         "admin2Name_es": "Acatenango",
         "admin2Name_es_utf8": "b'Acatenango'",
         "admin2Pcode": "GT0411",
-        "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/GTM_ES/MapServer/3/query?where=0%3D0&outFields=*&f=pjson"
+        "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/GTM_ES/MapServer/3/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "es": "Spanish; Castilian"
+        }
     },
     {
         "title": "Aruba - Subnational Administrative Boundaries",
@@ -14398,7 +15035,10 @@
         "admin1Pcode": "10",
         "admin1_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/BGD_EN/MapServer/1/query?where=0%3D0&outFields=*&f=pjson",
         "admin2": "Error performing query operation.",
-        "admin3": "Error performing query operation."
+        "admin3": "Error performing query operation.",
+        "languageCode": {
+            "en": "English"
+        }
     },
     {
         "title": "Dominica populated places",
@@ -14576,7 +15216,11 @@
         "admin3Name_ar": " \u0627\u0644\u062c\u0632\u064a\u0631\u0647",
         "admin3Name_ar_utf8": "b' \\xd8\\xa7\\xd9\\x84\\xd8\\xac\\xd8\\xb2\\xd9\\x8a\\xd8\\xb1\\xd9\\x87'",
         "admin3Pcode": "EG120918",
-        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/EGY_EN/MapServer/8/query?where=0%3D0&outFields=*&f=pjson"
+        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/EGY_EN/MapServer/8/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "en": "English",
+            "ar": "Arabic"
+        }
     },
     {
         "title": "Senegal - Subnational Population Statistics",
@@ -14625,7 +15269,10 @@
         "admin3Name_fr": "Agnam Civol",
         "admin3Name_fr_utf8": "b'Agnam Civol'",
         "admin3Pcode": "SN090202",
-        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/SEN_FR/MapServer/5/query?where=0%3D0&outFields=*&f=pjson"
+        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/SEN_FR/MapServer/5/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "fr": "French"
+        }
     },
     {
         "title": "Venezuela (Bolivarian Republic of) - Subnational Administrative Boundaries",
@@ -14858,7 +15505,10 @@
         "admin2Name_fr": "Agou",
         "admin2Name_fr_utf8": "b'Agou'",
         "admin2Pcode": "TG0403",
-        "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/TGO_FR/MapServer/3/query?where=0%3D0&outFields=*&f=pjson"
+        "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/TGO_FR/MapServer/3/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "fr": "French"
+        }
     },
     {
         "title": "Chile - Subnational Administrative Boundaries",
@@ -15073,7 +15723,10 @@
         "admin2Name_es": "Achuapa",
         "admin2Name_es_utf8": "b'Achuapa'",
         "admin2Pcode": "NI1001",
-        "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/NIC_ES/MapServer/3/query?where=0%3D0&outFields=*&f=pjson"
+        "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/NIC_ES/MapServer/3/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "es": "Spanish; Castilian"
+        }
     },
     {
         "title": "Uruguay - Subnational Administrative Boundaries",
@@ -15299,7 +15952,10 @@
         "admin1_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/VUT_EN/MapServer/1/query?where=0%3D0&outFields=*&f=pjson",
         "admin2Name_en": "Aneityum",
         "admin2Pcode": "VU06021",
-        "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/VUT_EN/MapServer/3/query?where=0%3D0&outFields=*&f=pjson"
+        "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/VUT_EN/MapServer/3/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "en": "English"
+        }
     },
     {
         "title": "Burundi - Subnational Administrative Boundaries",
@@ -15352,7 +16008,10 @@
         "admin2Name_fr": "Ryansoro",
         "admin2Name_fr_utf8": "b'Ryansoro'",
         "admin2Pcode": "BDI006010",
-        "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/BDI_FR/MapServer/3/query?where=0%3D0&outFields=*&f=pjson"
+        "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/BDI_FR/MapServer/3/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "fr": "French"
+        }
     },
     {
         "title": "Bhutan - Subnational Administrative Boundaries",
@@ -15448,7 +16107,10 @@
         "admin1_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/MRT_EN/MapServer/1/query?where=0%3D0&outFields=*&f=pjson",
         "admin2Name_en": "Akjoujt",
         "admin2Pcode": "MR0901",
-        "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/MRT_EN/MapServer/3/query?where=0%3D0&outFields=*&f=pjson"
+        "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/MRT_EN/MapServer/3/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "en": "English"
+        }
     },
     {
         "title": "Pakistan administrative level 0, 1, 2, and 3 boundary polygons, lines, and central places",
@@ -15514,7 +16176,10 @@
         "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/PAK_EN/MapServer/3/query?where=0%3D0&outFields=*&f=pjson",
         "admin3Name_en": "Abbottabad",
         "admin3Pcode": "PK20101",
-        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/PAK_EN/MapServer/5/query?where=0%3D0&outFields=*&f=pjson"
+        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/PAK_EN/MapServer/5/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "en": "English"
+        }
     },
     {
         "title": "Timor-Leste - Subnational Administrative Boundaries",
@@ -15626,7 +16291,10 @@
         "admin3Name_fr": "Bogongo Gaza",
         "admin3Name_fr_utf8": "b'Bogongo Gaza'",
         "admin3Pcode": "CF1214",
-        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/CAF_FR/MapServer/5/query?where=0%3D0&outFields=*&f=pjson"
+        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/CAF_FR/MapServer/5/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "fr": "French"
+        }
     },
     {
         "title": "Viet Nam - Subnational Administrative Boundaries",
@@ -15695,7 +16363,11 @@
         "admin2Name_vi": "Huy\u1ec7n A L\u01b0\u1edbi",
         "admin2Name_vi_utf8": "b'Huy\\xe1\\xbb\\x87n A L\\xc6\\xb0\\xe1\\xbb\\x9bi'",
         "admin2Pcode": "VN41115",
-        "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/VNM_VI/MapServer/3/query?where=0%3D0&outFields=*&f=pjson"
+        "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/VNM_VI/MapServer/3/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "en": "English",
+            "vi": "Vietnamese"
+        }
     },
     {
         "title": "DPR Korea administrative level 0-2 boundaries",
@@ -16393,7 +17065,10 @@
         "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/AGO_EN/MapServer/3/query?where=0%3D0&outFields=*&f=pjson",
         "admin3Name_en": "Aldeia Nova",
         "admin3Pcode": "AO06038138",
-        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/AGO_EN/MapServer/5/query?where=0%3D0&outFields=*&f=pjson"
+        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/AGO_EN/MapServer/5/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "en": "English"
+        }
     },
     {
         "title": "Papua New Guinea - Subnational Population Statistics",
@@ -16439,7 +17114,10 @@
         "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/PNG_EN/MapServer/3/query?where=0%3D0&outFields=*&f=pjson",
         "admin3Name_en": "Afore Rural LLG",
         "admin3Pcode": "PG060103",
-        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/PNG_EN/MapServer/5/query?where=0%3D0&outFields=*&f=pjson"
+        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/PNG_EN/MapServer/5/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "en": "English"
+        }
     },
     {
         "title": "Mali - Subnational Population Statistics",
@@ -16535,7 +17213,11 @@
         "admin3Name_ar": "\u0645\u0631\u0643\u0632 \u0623\u0631\u064a\u062d\u0627",
         "admin3Name_ar_utf8": "b'\\xd9\\x85\\xd8\\xb1\\xd9\\x83\\xd8\\xb2 \\xd8\\xa3\\xd8\\xb1\\xd9\\x8a\\xd8\\xad\\xd8\\xa7'",
         "admin3Pcode": "SY070500",
-        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/SYR_EN/MapServer/9/query?where=0%3D0&outFields=*&f=pjson"
+        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/SYR_EN/MapServer/9/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "en": "English",
+            "ar": "Arabic"
+        }
     },
     {
         "title": "Burkina Faso - Subnational Population Statistics",
@@ -16582,7 +17264,10 @@
         "admin2Name_fr_utf8": "b'Bal\\xc3\\xa9'",
         "admin2Pcode": "BF4601",
         "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/BFA_FR/MapServer/3/query?where=0%3D0&outFields=*&f=pjson",
-        "admin3": "Error performing query operation."
+        "admin3": "Error performing query operation.",
+        "languageCode": {
+            "fr": "French"
+        }
     },
     {
         "title": "C\u00f4te d'Ivoire - Subnational Population Statistics",
@@ -16633,7 +17318,10 @@
         "admin3Name_fr": "Abengourou",
         "admin3Name_fr_utf8": "b'Abengourou'",
         "admin3Pcode": "CI200101",
-        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/CIV_FR/MapServer/5/query?where=0%3D0&outFields=*&f=pjson"
+        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/CIV_FR/MapServer/5/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "fr": "French"
+        }
     },
     {
         "title": "Liberia - Subnational Population Statistics",
@@ -16676,7 +17364,10 @@
         "admin1_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/LBR_EN/MapServer/1/query?where=0%3D0&outFields=*&f=pjson",
         "admin2Name_en": "B'hai",
         "admin2Pcode": "LR0601",
-        "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/LBR_EN/MapServer/3/query?where=0%3D0&outFields=*&f=pjson"
+        "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/LBR_EN/MapServer/3/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "en": "English"
+        }
     },
     {
         "title": "Guyana - Subnational Population Statistics",
@@ -16747,7 +17438,10 @@
         "admin2Name_fr": "Aderbissinat",
         "admin2Name_fr_utf8": "b'Aderbissinat'",
         "admin2Pcode": "NE001001",
-        "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/NER_FR/MapServer/3/query?where=0%3D0&outFields=*&f=pjson"
+        "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/NER_FR/MapServer/3/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "fr": "French"
+        }
     },
     {
         "title": "Venezuela (Bolivarian Republic of) - Subnational Population Statistics",
@@ -17059,7 +17753,10 @@
         "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/UGA_EN/MapServer/3/query?where=0%3D0&outFields=*&f=pjson",
         "admin3Name_en": "Agago",
         "admin3Pcode": "UG306601",
-        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/UGA_EN/MapServer/5/query?where=0%3D0&outFields=*&f=pjson"
+        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/UGA_EN/MapServer/5/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "en": "English"
+        }
     },
     {
         "title": "C\u00f4te d'Ivoire - Subnational Administrative Boundaries",
@@ -17121,7 +17818,10 @@
         "admin3Name_fr": "Abengourou",
         "admin3Name_fr_utf8": "b'Abengourou'",
         "admin3Pcode": "CI200101",
-        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/CIV_FR/MapServer/5/query?where=0%3D0&outFields=*&f=pjson"
+        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/CIV_FR/MapServer/5/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "fr": "French"
+        }
     },
     {
         "title": "Rwanda administrative levels 0-4 boundaries",
@@ -17212,7 +17912,10 @@
         "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/AGO_EN/MapServer/3/query?where=0%3D0&outFields=*&f=pjson",
         "admin3Name_en": "Aldeia Nova",
         "admin3Pcode": "AO06038138",
-        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/AGO_EN/MapServer/5/query?where=0%3D0&outFields=*&f=pjson"
+        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/AGO_EN/MapServer/5/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "en": "English"
+        }
     },
     {
         "title": "Zimbabwe - Subnational Administrative Boundaries",
@@ -17266,7 +17969,10 @@
         "admin2Name_en": "Beitbridge",
         "admin2Pcode": "ZW1601",
         "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/ZWE_EN/MapServer/3/query?where=0%3D0&outFields=*&f=pjson",
-        "admin3": "Error performing query operation."
+        "admin3": "Error performing query operation.",
+        "languageCode": {
+            "en": "English"
+        }
     },
     {
         "title": "Zimbabwe - Subnational Population Statistics",
@@ -17310,7 +18016,10 @@
         "admin2Name_en": "Beitbridge",
         "admin2Pcode": "ZW1601",
         "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/ZWE_EN/MapServer/3/query?where=0%3D0&outFields=*&f=pjson",
-        "admin3": "Error performing query operation."
+        "admin3": "Error performing query operation.",
+        "languageCode": {
+            "en": "English"
+        }
     },
     {
         "title": "Malawi administrative level 0-3 boundaries",
@@ -17376,7 +18085,10 @@
         "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/MWI_EN/MapServer/3/query?where=0%3D0&outFields=*&f=pjson",
         "admin3Name_en": "Area 1",
         "admin3Pcode": "MW21031",
-        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/MWI_EN/MapServer/5/query?where=0%3D0&outFields=*&f=pjson"
+        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/MWI_EN/MapServer/5/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "en": "English"
+        }
     },
     {
         "title": "Malawi - Subnational Population Statistics",
@@ -17424,7 +18136,10 @@
         "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/MWI_EN/MapServer/3/query?where=0%3D0&outFields=*&f=pjson",
         "admin3Name_en": "Area 1",
         "admin3Pcode": "MW21031",
-        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/MWI_EN/MapServer/5/query?where=0%3D0&outFields=*&f=pjson"
+        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/MWI_EN/MapServer/5/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "en": "English"
+        }
     },
     {
         "title": "Mozambique administrative level 0 (country), 1 (province), 2 (district) and 3 (posto) boundaries",
@@ -17500,7 +18215,11 @@
         "admin3Name_pt": "7 De Abril",
         "admin3Name_pt_utf8": "b'7 De Abril'",
         "admin3Pcode": "MZ070901",
-        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/MOZ_PT/MapServer/5/query?where=0%3D0&outFields=*&f=pjson"
+        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/MOZ_PT/MapServer/5/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "en": "English",
+            "pt": "Portuguese"
+        }
     },
     {
         "title": "Uganda - Subnational Population Statistics",
@@ -17546,7 +18265,10 @@
         "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/UGA_EN/MapServer/3/query?where=0%3D0&outFields=*&f=pjson",
         "admin3Name_en": "Agago",
         "admin3Pcode": "UG306601",
-        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/UGA_EN/MapServer/5/query?where=0%3D0&outFields=*&f=pjson"
+        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/UGA_EN/MapServer/5/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "en": "English"
+        }
     },
     {
         "title": "Democratic Republic of the Congo - major cities",
@@ -17795,7 +18517,10 @@
         "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/PAK_EN/MapServer/3/query?where=0%3D0&outFields=*&f=pjson",
         "admin3Name_en": "Abbottabad",
         "admin3Pcode": "PK20101",
-        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/PAK_EN/MapServer/5/query?where=0%3D0&outFields=*&f=pjson"
+        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/PAK_EN/MapServer/5/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "en": "English"
+        }
     },
     {
         "title": "Ecuador - Subnational Population Statistics",
@@ -17842,7 +18567,11 @@
         "admin1Pcode": "EC01",
         "admin1_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/ECU_ES/MapServer/1/query?where=0%3D0&outFields=*&f=pjson",
         "admin2": "Error performing query operation.",
-        "admin3": "Error performing query operation."
+        "admin3": "Error performing query operation.",
+        "languageCode": {
+            "en": "English",
+            "es": "Spanish; Castilian"
+        }
     },
     {
         "title": "Namibia - Subnational Population Statistics",
@@ -17886,7 +18615,10 @@
         "admin1_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/NAM_EN/MapServer/1/query?where=0%3D0&outFields=*&f=pjson",
         "admin2Name_en": "Aminius",
         "admin2Pcode": "NA0901",
-        "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/NAM_EN/MapServer/3/query?where=0%3D0&outFields=*&f=pjson"
+        "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/NAM_EN/MapServer/3/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "en": "English"
+        }
     },
     {
         "title": "South Africa - Subnational Population Statistics",
@@ -18049,7 +18781,10 @@
         "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/ETH_EN/MapServer/3/query?where=0%3D0&outFields=*&f=pjson",
         "admin3Name_en": "Aba-Korow",
         "admin3Pcode": "ET050699",
-        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/ETH_EN/MapServer/5/query?where=0%3D0&outFields=*&f=pjson"
+        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/ETH_EN/MapServer/5/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "en": "English"
+        }
     },
     {
         "title": "Lesotho administrative level 0 - 2 boundaries",
@@ -18246,7 +18981,10 @@
         "admin1Pcode": "10",
         "admin1_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/BGD_EN/MapServer/1/query?where=0%3D0&outFields=*&f=pjson",
         "admin2": "Error performing query operation.",
-        "admin3": "Error performing query operation."
+        "admin3": "Error performing query operation.",
+        "languageCode": {
+            "en": "English"
+        }
     },
     {
         "title": "Thailand - Subnational Population Statistics",
@@ -18290,7 +19028,11 @@
         "admin0_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/THA_TH/MapServer/0/query?where=0%3D0&outFields=*&f=pjson",
         "admin1": "Error performing query operation.",
         "admin2": "Error performing query operation.",
-        "admin3": "Error performing query operation."
+        "admin3": "Error performing query operation.",
+        "languageCode": {
+            "en": "English",
+            "th": "Thai"
+        }
     },
     {
         "title": "Ukraine - Subnational Population Statistics",
@@ -18341,7 +19083,12 @@
         "admin1Pcode": "UA01",
         "admin1_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/UKR_UA/MapServer/4/query?where=0%3D0&outFields=*&f=pjson",
         "admin2": "Error performing query operation.",
-        "admin3": "Error performing query operation."
+        "admin3": "Error performing query operation.",
+        "languageCode": {
+            "en": "English",
+            "ua": "unknown",
+            "ru": "Russian"
+        }
     },
     {
         "title": "Trinidad and Tobago - Subnational Population Statistics",
@@ -18448,7 +19195,12 @@
         "admin2Name_ta_utf8": "b'[unkno\\xe0\\xae\\xaa\\xe0\\xaf\\x81\\xe0\\xae\\xa4\\xe0\\xaf\\x8d\\xe0\\xae\\xa4\\xe0\\xae\\xb3\\xe0\\xae\\xae\\xe0\\xaf\\x8d \\xe0\\xae\\xae\\xe0\\xae\\xbe\\xe0\\xae\\xb5\\xe0\\xae\\x9f\\xe0\\xaf\\x8d\\xe0\\xae\\x9f\\xe0\\xae\\xae\\xe0\\xaf\\x8dwn]'",
         "admin2Pcode": "LK60",
         "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/LKA_TA/MapServer/3/query?where=0%3D0&outFields=*&f=pjson",
-        "admin3": "Error performing query operation."
+        "admin3": "Error performing query operation.",
+        "languageCode": {
+            "en": "English",
+            "si": "Sinhala; Sinhalese",
+            "ta": "Tamil"
+        }
     },
     {
         "title": "Iran (Islamic Republic of) administrative levels 0-2 boundaries",
@@ -18721,7 +19473,10 @@
         "admin1Name_en": "Alibori",
         "admin1Pcode": "BE01",
         "admin1_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/WCA/MapServer/5/query?where=0%3D0&outFields=*&f=pjson",
-        "admin2": "Error performing query operation."
+        "admin2": "Error performing query operation.",
+        "languageCode": {
+            "en": "English"
+        }
     },
     {
         "title": "Bermuda administrative level 0-2 population statistics",
@@ -18806,7 +19561,10 @@
         "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/PAK_EN/MapServer/3/query?where=0%3D0&outFields=*&f=pjson",
         "admin3Name_en": "Abbottabad",
         "admin3Pcode": "PK20101",
-        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/PAK_EN/MapServer/5/query?where=0%3D0&outFields=*&f=pjson"
+        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/PAK_EN/MapServer/5/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "en": "English"
+        }
     },
     {
         "title": "Micronesia (Federated States of) - Subnational Population Statistics",
@@ -18926,7 +19684,10 @@
         "admin2Name_fr": "Agou",
         "admin2Name_fr_utf8": "b'Agou'",
         "admin2Pcode": "TG0403",
-        "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/TGO_FR/MapServer/3/query?where=0%3D0&outFields=*&f=pjson"
+        "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/TGO_FR/MapServer/3/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "fr": "French"
+        }
     },
     {
         "title": "Cuba - Subnational Population Statistics",
@@ -19068,7 +19829,10 @@
         "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/MWI_EN/MapServer/3/query?where=0%3D0&outFields=*&f=pjson",
         "admin3Name_en": "Area 1",
         "admin3Pcode": "MW21031",
-        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/MWI_EN/MapServer/5/query?where=0%3D0&outFields=*&f=pjson"
+        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/MWI_EN/MapServer/5/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "en": "English"
+        }
     },
     {
         "title": "Belarus - Subnational Administrative Boundaries",
@@ -19214,7 +19978,11 @@
         "admin2Name_ka": "\u10d0\u10d1\u10d0\u10e8\u10d8\u10e1",
         "admin2Name_ka_utf8": "b'\\xe1\\x83\\x90\\xe1\\x83\\x91\\xe1\\x83\\x90\\xe1\\x83\\xa8\\xe1\\x83\\x98\\xe1\\x83\\xa1'",
         "admin2Pcode": "GE3823",
-        "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/GEO_KA/MapServer/3/query?where=0%3D0&outFields=*&f=pjson"
+        "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/GEO_KA/MapServer/3/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "en": "English",
+            "ka": "Georgian"
+        }
     },
     {
         "title": "Ethiopia - Subnational Administrative Boundaries",
@@ -19280,7 +20048,10 @@
         "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/ETH_EN/MapServer/3/query?where=0%3D0&outFields=*&f=pjson",
         "admin3Name_en": "Aba-Korow",
         "admin3Pcode": "ET050699",
-        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/ETH_EN/MapServer/5/query?where=0%3D0&outFields=*&f=pjson"
+        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/ETH_EN/MapServer/5/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "en": "English"
+        }
     },
     {
         "title": "Moldova administrative level 0-1 boundaries",
@@ -19478,7 +20249,11 @@
         "admin2Name_vi": "Huy\u1ec7n A L\u01b0\u1edbi",
         "admin2Name_vi_utf8": "b'Huy\\xe1\\xbb\\x87n A L\\xc6\\xb0\\xe1\\xbb\\x9bi'",
         "admin2Pcode": "VN41115",
-        "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/VNM_VI/MapServer/3/query?where=0%3D0&outFields=*&f=pjson"
+        "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/VNM_VI/MapServer/3/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "en": "English",
+            "vi": "Vietnamese"
+        }
     },
     {
         "title": "Jamaica - Subnational Population Statistics",
@@ -19554,7 +20329,11 @@
         "admin3Name_pt": "7 De Abril",
         "admin3Name_pt_utf8": "b'7 De Abril'",
         "admin3Pcode": "MZ070901",
-        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/MOZ_PT/MapServer/5/query?where=0%3D0&outFields=*&f=pjson"
+        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/MOZ_PT/MapServer/5/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "en": "English",
+            "pt": "Portuguese"
+        }
     },
     {
         "title": "Afghanistan administrative level 0-2 and UNAMA region boundary polygons, lines, and points",
@@ -19589,7 +20368,11 @@
         "admin2Name_da": "\u0622\u0628 \u0628\u0646\u062f",
         "admin2Name_da_utf8": "b'\\xd8\\xa2\\xd8\\xa8 \\xd8\\xa8\\xd9\\x86\\xd8\\xaf'",
         "admin2Pcode": "AF1113",
-        "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/AFG_EN/MapServer/3/query?where=0%3D0&outFields=*&f=pjson"
+        "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/AFG_EN/MapServer/3/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "en": "English",
+            "da": "Danish"
+        }
     },
     {
         "title": "Suriname - Subnational Population Statistics",
@@ -19736,7 +20519,10 @@
         "admin1_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/SSD_EN/MapServer/1/query?where=0%3D0&outFields=*&f=pjson",
         "admin2Name_en": "Juba",
         "admin2Pcode": "SS0101",
-        "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/SSD_EN/MapServer/4/query?where=0%3D0&outFields=*&f=pjson"
+        "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/SSD_EN/MapServer/4/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "en": "English"
+        }
     },
     {
         "title": "Philippines: Population projections by Province level",
@@ -20406,7 +21192,10 @@
         "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/ETH_EN/MapServer/3/query?where=0%3D0&outFields=*&f=pjson",
         "admin3Name_en": "Aba-Korow",
         "admin3Pcode": "ET050699",
-        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/ETH_EN/MapServer/5/query?where=0%3D0&outFields=*&f=pjson"
+        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/ETH_EN/MapServer/5/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "en": "English"
+        }
     },
     {
         "title": "Martinique - Subnational Population Statistics",
@@ -20759,7 +21548,10 @@
         "admin1_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/VUT_EN/MapServer/1/query?where=0%3D0&outFields=*&f=pjson",
         "admin2Name_en": "Aneityum",
         "admin2Pcode": "VU06021",
-        "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/VUT_EN/MapServer/3/query?where=0%3D0&outFields=*&f=pjson"
+        "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/VUT_EN/MapServer/3/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "en": "English"
+        }
     },
     {
         "title": "Aruba - Subnational Population Statistics",
@@ -20833,7 +21625,10 @@
         "admin2Name_fr_utf8": "b'Bal\\xc3\\xa9'",
         "admin2Pcode": "BF4601",
         "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/BFA_FR/MapServer/3/query?where=0%3D0&outFields=*&f=pjson",
-        "admin3": "Error performing query operation."
+        "admin3": "Error performing query operation.",
+        "languageCode": {
+            "fr": "French"
+        }
     },
     {
         "title": "Global Humanitarian Response Plan COVID-19 Administrative Boundaries and Population Statistics",
@@ -21101,7 +21896,10 @@
         "admin2Name_es": "Acatenango",
         "admin2Name_es_utf8": "b'Acatenango'",
         "admin2Pcode": "GT0411",
-        "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/GTM_ES/MapServer/3/query?where=0%3D0&outFields=*&f=pjson"
+        "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/GTM_ES/MapServer/3/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "es": "Spanish; Castilian"
+        }
     },
     {
         "title": "Chile - Subnational Population Statistics",
@@ -21306,7 +22104,10 @@
         "admin2Name_es": "Achuapa",
         "admin2Name_es_utf8": "b'Achuapa'",
         "admin2Pcode": "NI1001",
-        "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/NIC_ES/MapServer/3/query?where=0%3D0&outFields=*&f=pjson"
+        "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/NIC_ES/MapServer/3/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "es": "Spanish; Castilian"
+        }
     },
     {
         "title": "Panama - Subnational Population Statistics",
@@ -21653,7 +22454,11 @@
         "admin3Name_ar": "\u062f\u0627\u0626\u0631\u0629 \u0627\u0644\u0646\u0647\u0631 \u0627\u0644\u0643\u0628\u064a\u0631",
         "admin3Name_ar_utf8": "b'\\xd8\\xaf\\xd8\\xa7\\xd8\\xa6\\xd8\\xb1\\xd8\\xa9 \\xd8\\xa7\\xd9\\x84\\xd9\\x86\\xd9\\x87\\xd8\\xb1 \\xd8\\xa7\\xd9\\x84\\xd9\\x83\\xd8\\xa8\\xd9\\x8a\\xd8\\xb1'",
         "admin3Pcode": "35511",
-        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/LBN_EN/MapServer/9/query?where=0%3D0&outFields=*&f=pjson"
+        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/LBN_EN/MapServer/9/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "en": "English",
+            "ar": "Arabic"
+        }
     },
     {
         "title": "UNHABITAT Socio-economic Classification of Affected Zones",
@@ -21721,7 +22526,11 @@
         "admin3Name_ar": "\u062f\u0627\u0626\u0631\u0629 \u0627\u0644\u0646\u0647\u0631 \u0627\u0644\u0643\u0628\u064a\u0631",
         "admin3Name_ar_utf8": "b'\\xd8\\xaf\\xd8\\xa7\\xd8\\xa6\\xd8\\xb1\\xd8\\xa9 \\xd8\\xa7\\xd9\\x84\\xd9\\x86\\xd9\\x87\\xd8\\xb1 \\xd8\\xa7\\xd9\\x84\\xd9\\x83\\xd8\\xa8\\xd9\\x8a\\xd8\\xb1'",
         "admin3Pcode": "35511",
-        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/LBN_EN/MapServer/9/query?where=0%3D0&outFields=*&f=pjson"
+        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/LBN_EN/MapServer/9/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "en": "English",
+            "ar": "Arabic"
+        }
     },
     {
         "title": "Sahel - Subnational Administrative Boundaries",
@@ -21769,6 +22578,9 @@
         "admin2Name_fr_utf8": "b'Bal\\xc3\\xa9'",
         "admin2Pcode": "BF4601",
         "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/BFA_FR/MapServer/3/query?where=0%3D0&outFields=*&f=pjson",
-        "admin3": "Error performing query operation."
+        "admin3": "Error performing query operation.",
+        "languageCode": {
+            "fr": "French"
+        }
     }
 ]

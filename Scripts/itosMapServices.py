@@ -81,12 +81,37 @@ def itosMapServises():
                 
     return jsonData
 
+def addLanguageCode(metaData):
+    languageCode = requests.get('https://datahub.io/core/language-codes/r/language-codes.json').json()
+    languageDict = {}
+    for langDict in languageCodes:
+        alpha2 = langDict['alpha2']
+        language = langDict['English']
+        languageDict[alpha2] = language
+        
+    for metaDict in metaData:
+    adminName = [key for key,value in metaDict.items() if key.startswith('admin0Name') and len(key)==(len('admin0Name')+3)]
+    if adminName:
+        metaDict['languageCode'] = {}
+        for admin0 in adminName:
+            alpha2 = admin0[-2:]
+            if alpha2 in languageDict:
+                metaDict['languageCode'].update({alpha2:languageDict[alpha2]})
+            else:
+                metaDict['languageCode'].update({alpha2:'unknown'})
+                
+    return metaData
+
 
 def getCODData(fileName):
     
     log("Beginning python process...")
     
     metaData = itosMapServises()
+    
+    print('Adding language code to the retrived ITOS data.')
+    
+    metaData = addLanguageCode(metaData)
     
     with open(fileName,'w') as fp:
         json.dump(metaData, fp, indent=4)
