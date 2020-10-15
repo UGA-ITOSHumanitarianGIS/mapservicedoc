@@ -145,10 +145,10 @@ def getData(tags, themeList, fileName = None):
     for dataset in tagDatasets:
         theme = getTheme(themeList,dataset)
         
-        try:
-            dueDate = dataset['due_date']
-        except:
-            dueDate =  None
+        keyCheck = ['due_date','license_other','methodology_other']
+        for key in keyCheck:
+            if key not in dataset:
+                dataset[key] = None
         
         isoCodes = getISOCode(dataset['groups'])
         
@@ -157,11 +157,17 @@ def getData(tags, themeList, fileName = None):
                     'theme': theme,
                     'tags': dataset.get_tags(),
                     'iso': isoCodes,
-                    'country': json.loads(dataset['solr_additions'])['countries'],
+                    'location': json.loads(dataset['solr_additions'])['countries'],
+                    'datasetSource': dataset['dataset_source'],
                     'organization': dataset['organization']['title'],
                     'datasetDate': dataset['dataset_date'],
                     'updateFrequency':dataset['data_update_frequency'],
-                    'dueDate': dueDate,
+                    'dueDate': dataset['due_date'],
+                    'license_id': dataset['license_id'],
+                    'license_other':dataset['license_other'],
+                    'license_title':dataset['license_title'],
+                    'methodology': dataset['methodology'],
+                    'methodology_other': dataset['methodology_other'],
                     'format':{}
         }
         resources = Dataset.get_all_resources([dataset])
