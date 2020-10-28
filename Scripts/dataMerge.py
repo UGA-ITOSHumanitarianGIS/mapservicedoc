@@ -16,26 +16,31 @@ def getCleanData(dataList):
         if data['theme'] != 'unknown':
             cleanData.append(data)
             
-    return dataList
+    return cleanData
 
 
 def mergeCOD(hdxPath, itosPath, destination):
     
+    hdxCODData = getJSONData(hdxPath)
+    print("Number of CODs in HDX: %d"%(len(hdxCODData)))
     print("Initiating cleaning for HDX data, based on themes")
-    hdxData = getCleanData(getJSONData(hdxPath))
+    hdxData = getCleanData(hdxCODData)
     print("Number of CODs in HDX: %d"%(len(hdxData)))
     itosData = getJSONData(itosPath)
     print("Number of CODs in ITOS: %d"%(len(itosData)))
     
+    enhancedCOD = []
     for hdxCOD in hdxData:
         for itosCOD in itosData:
-            if itosCOD['country'] in hdxCOD['country']:
-                hdxCOD.update(itosCOD)
+            if itosCOD['country'] in hdxCOD['location']:
+#                 enhancedCOD.append(hdxCOD.update(itosCOD))
+                enhancedCOD.append({**hdxCOD,**itosCOD})
                 
                 
     with open(destination,'w') as fp:
-        json.dump(hdxData, fp, indent=4)
-        
+        json.dump(enhancedCOD, fp, indent=4)
+    
+    print('Number of Merged CODs: %d'%(len(enhancedCOD)))
     print("Process Compelete, Data has been written into %s"%(destination))
         
         
