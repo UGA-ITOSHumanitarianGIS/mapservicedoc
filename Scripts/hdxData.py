@@ -48,12 +48,12 @@ def dataLookup(tags):
     
     return tagDatasets
 
-def fileValidation(fileName, tags):
+def fileValidation(fileName = None):
     '''
     Helper function for getData() [fileName or filePath].
     '''
     if fileName is None:
-        fileName = ''.join([tags,'.json'])
+        fileName = ''.join(['hdxCODData','.json'])
     else:
         if fileName.endswith('.json'):
             pass
@@ -114,7 +114,7 @@ def getISOCode(groupList):
     return isoCodes
 
 
-def getData(tags, themeList, fileName = None):
+def getCODData(tags, themeList):
     '''
     getData takes two arguments tags and fileName/filePath to save json file.
     If multiple tags are presents for a query than give a single string of tags separated by comma(,).
@@ -129,23 +129,18 @@ def getData(tags, themeList, fileName = None):
                  For different themes in the datasets
                  I.e. themeList = ['administrative boundaries','population statistics']
 
-    fileName => (optional) If not given than the tags string will be taken as fileName
-                fileName can be a filePath also with the fileName.
-
     Return:
-    Saves a json format of the filtered tag Datasets.
+    COD Metadata => dataType -> List of Dictionary 
     '''
     
     tagDatasets = dataLookup(tags)
-    
-    fileName = fileValidation(fileName, tags)
     
     jsonData = []
     
     for dataset in tagDatasets:
         theme = getTheme(themeList,dataset)
         
-        keyCheck = ['due_date','license_other','methodology_other']
+        keyCheck = ['due_date','caveats','license_other','methodology_other']
         for key in keyCheck:
             if key not in dataset:
                 dataset[key] = None
@@ -155,6 +150,8 @@ def getData(tags, themeList, fileName = None):
         dataDict = {'title': dataset['title'],
                     'id': dataset['id'],
                     'theme': theme,
+                    'datasetDescription': dataset['notes'],
+                    'caveats': dataset['caveats'],
                     'tags': dataset.get_tags(),
                     'iso': isoCodes,
                     'location': json.loads(dataset['solr_additions'])['countries'],
@@ -182,7 +179,47 @@ def getData(tags, themeList, fileName = None):
         
         jsonData.append(dataDict)
         
-        with open(fileName, 'w') as fp:
-            json.dump(jsonData, fp, indent=4)
+    return jsonData
+
+def saveJSON(codData, fileName):
+    '''
+    Helper function for storing COD Metadata in a JSON format
+    
+    Parameters:
+    COD Metadata (List) => It can fetch from getCODData function
+    
+    fileName (String) => fileValidation function will return the fileName
+    
+    Returns: Saves a JSON file with COD Metadata
+    '''
+    with open(fileName, 'w') as fp:
+        json.dump(codData, fp, indent=4)
             
     print('Data has written into %s file' %(fileName))
+    
+    
+def main(tags, themeList, fileName = None):
+    '''
+    Main Wraper function which takes three arguments tags, themeList and fileName/filePath (optional) to save json file.
+    If multiple tags are presents for a query than give a single string of tags separated by comma(,).
+
+    Parameters:
+
+    tags => dataType -> string
+            For multiple tag filters, give it in a single string separated by comma(,)
+            I.e. tags = 'common operational dataset - cod,administrative divisions'
+
+    themeList => dataType -> List of Strings
+                 For different themes in the datasets
+                 I.e. themeList = ['administrative boundaries','population statistics']
+                 
+    fileName (optional) => dataType -> String
+                It can be a fileName or the filePath with the fileName
+
+    Return:
+    Saves a JSON file with COD Metadata
+    '''
+    
+    codData = getCODData(tags, themeList)
+    fileName = fileValidation(fileName)
+    saveJSON(codData, fileName)
