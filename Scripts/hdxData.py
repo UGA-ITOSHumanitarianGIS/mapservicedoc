@@ -170,7 +170,10 @@ def getCODData(tags, themeList):
         resources = Dataset.get_all_resources([dataset])
         
         for res in resources:
-            restype = {res['format']:{'resoource_id':res['id'],
+            restype = {res['format']:{'resource_id':res['id'],
+                                      'created':res['created'],
+                                      'last_modified':res['last_modified'],
+                                      'revision_last_updated':res['revision_last_updated'],
                                       'download_url':res['download_url'],
                                       'description':res['description']
                                      }
