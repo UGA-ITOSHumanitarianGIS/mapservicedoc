@@ -3,8 +3,8 @@
         "title": "Nepal municipalities - administrative layer",
         "id": "757e66f0-692d-4837-9af8-0ecb74b15c10",
         "theme": "administrative boundaries",
-        "datasetDescription": "Polygon and Point datasets for the Municipalities of Nepal.   Municipalities are not treated as part of the administrative hierarchy but are useful in some contexts.\r\n",
-        "caveats": "",
+        "datasetDescription": "Polygon and Point datasets for the Municipalities of Nepal as of 2014.   Municipalities are not treated as part of the administrative hierarchy but are useful in some contexts.\r\n\r\nREFERENCE YEAR :  2014\r\n",
+        "caveats": null,
         "tags": [
             "common operational dataset - cod",
             "earthquakes",
@@ -43,7 +43,9 @@
         "admin1Name_en": "1",
         "admin1Pcode": "NP01",
         "admin1_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/NPL_EN/MapServer/1/query?where=0%3D0&outFields=*&f=pjson",
-        "admin2": "Error performing query operation.",
+        "admin2Name_en": "Aamchowk",
+        "admin2Pcode": "NP0110406",
+        "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/NPL_EN/MapServer/5/query?where=0%3D0&outFields=*&f=pjson",
         "languageCode": {
             "en": "English"
         }
@@ -99,7 +101,9 @@
         "admin1Name_en": "1",
         "admin1Pcode": "NP01",
         "admin1_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/NPL_EN/MapServer/1/query?where=0%3D0&outFields=*&f=pjson",
-        "admin2": "Error performing query operation.",
+        "admin2Name_en": "Aamchowk",
+        "admin2Pcode": "NP0110406",
+        "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/NPL_EN/MapServer/5/query?where=0%3D0&outFields=*&f=pjson",
         "languageCode": {
             "en": "English"
         }
@@ -174,6 +178,7 @@
         "datasetDescription": "Informaci\u00f3n de aspectos lim\u00edtrofes de Per\u00fa.\r\n\r\nInformaci\u00f3n Cartogr\u00e1fica B\u00e1sica generalizada a partir de los archivos de Carta Nacional Escala 1/100 000. Con per\u00edodos de actualizaci\u00f3n diferentes\r\n\r\nVetting and live service provision by [Information Technology Outreach Services (ITOS)](https://cviog.uga.edu/international-center/) with funding from USAID.\r\n\r\nThese boundaries are suitable for database or GIS linkage to the [Peru - Subnational Population Statistics](https://data.humdata.org/dataset/proyeccion-de-poblacion-por-distrito-y-edad-de-peru).",
         "caveats": "[HDX dataset name edited 2018 05 10]\r\n\r\nThe KMZ files are made from generalized versions of the shapefiles.  Tolerances were 1,000 m and 1,000,000 square metres.",
         "tags": [
+            "administrative divisions",
             "common operational dataset - cod",
             "gazetteer"
         ],
@@ -257,6 +262,7 @@
         "datasetDescription": "Liberia administrative level 0 (country), 1 (country), and 2 (district) boundaries\r\n\r\nVetting and live service provision by [Information Technology Outreach Services (ITOS)](https://cviog.uga.edu/international-center/) with funding from USAID.\r\n\r\n\r\nThese boundaries are suitable for database or GIS linkage to the [Liberia - Population statistics](https://data.humdata.org/dataset/liberia-population-statistics) tables.\r\n",
         "caveats": "**Most Recent Changes:** (2017 - 12 - 27) LBR_District.zip: is a new shapefile registered to be used in Ebola response. This replaces the district_4.zip dataset from 2011. Also record was changed from Level 3 to Level 2. OCHA pcodes and HRinfo have been also added.\\\r\n\r\n(2014-11-20) unpublished newest data being maintained by UNMEER find data \r\n\r\n\r\n\r\n**Languages:** EN\r\n",
         "tags": [
+            "administrative divisions",
             "common operational dataset - cod",
             "gazetteer",
             "geodata"
@@ -327,9 +333,10 @@
         "title": "Somalia - Subnational Administrative Boundaries",
         "id": "ec140a63-5330-4376-a3df-c7ebf73cfc3c",
         "theme": "administrative boundaries",
-        "datasetDescription": "**Summary:** Somalia Regional Boundaries - Polygon - SHP\r\n\r\nVetting and live service provision by [Information Technology Outreach Services (ITOS)](https://cviog.uga.edu/international-center/) with funding from USAID.\r\n\r\n\r\n\r\n**Abstract:** Somalia has 2 levels of administrative Boundaries CODs: Admin level 1 = Region; Admin Level 2  = District. There are multiple pcode formats in this shapefile (Region_AdminLevel1),REG_CODE is used by humanitarian partners in Somalia and was developed by the United National Development Programme (1998).HRpcodes are duplicates of REG_CODE and can be used to link to products derived from HR.info such as the assessment registry. Regional-boundaries_polygon is the earlier registered dataset.\r\n\r\n\r\n\r\n**Instructions:** Unzip\r\n\r\n\r\n",
+        "datasetDescription": "**Summary:** Somalia Regional Boundaries - Polygon - SHP\r\n\r\nREFERENCE YEAR:  2014\r\n\r\nVetting and live service provision by [Information Technology Outreach Services (ITOS)](https://cviog.uga.edu/international-center/) with funding from USAID.\r\n\r\n\r\n\r\n**Abstract:** Somalia has 2 levels of administrative Boundaries CODs: Admin level 1 = Region; Admin Level 2  = District. There are multiple pcode formats in this shapefile (Region_AdminLevel1),REG_CODE is used by humanitarian partners in Somalia and was developed by the United National Development Programme (1998).HRpcodes are duplicates of REG_CODE and can be used to link to products derived from HR.info such as the assessment registry. Regional-boundaries_polygon is the earlier registered dataset.\r\n\r\n\r\n\r\n**Instructions:** Unzip\r\n\r\n\r\n",
         "caveats": "Data cleaned and live services provided by ITOS,  5 April, 2017.\r\n\r\nUsers should be aware that administrative level 2 unit Banadir is not nested with administrative levels 0 - 2.\r\n\r\n\r\n\r\n**Languages:** EN\r\n",
         "tags": [
+            "administrative divisions",
             "common operational dataset - cod",
             "gazetteer"
         ],
@@ -389,9 +396,10 @@
         "title": "Eritrea - Subnational Administrative Boundaries",
         "id": "2025e742-8b5a-4f72-aac5-a28e96ce3cb8",
         "theme": "administrative boundaries",
-        "datasetDescription": "Eritrea level 0 (national), level 1 (region) and level 2 (district) boundaries\r\n\r\nPrepared by OCHA\r\n\r\nThese boundaries are suitable for database or GIS linkage to the [Eritrea - Subnational Population Statistics](https://data.humdata.org/dataset/eritrea-2001-population) tables.\r\n\r\nVetting and live service provision by [Information Technology Outreach Services (ITOS)](https://cviog.uga.edu/) with funding from USAID.\r\n",
+        "datasetDescription": "Eritrea level 0 (national), level 1 (region) and level 2 (district) boundaries\r\n\r\nREFERENCE YEAR:  2017\r\n\r\nPrepared by OCHA\r\n\r\nThese boundaries are suitable for database or GIS linkage to the [Eritrea - Subnational Population Statistics](https://data.humdata.org/dataset/eritrea-2001-population) tables.\r\n\r\nVetting and live service provision by [Information Technology Outreach Services (ITOS)](https://cviog.uga.edu/) with funding from USAID.\r\n",
         "caveats": null,
         "tags": [
+            "administrative divisions",
             "common operational dataset - cod",
             "gazetteer"
         ],
@@ -531,6 +539,7 @@
         "datasetDescription": "The dataset represents the country, departments and communes boundaries of Benin.\r\n\r\nREFERENCE YEAR:  2015\r\n\r\nVetting and live service provision by [Information Technology Outreach Services (ITOS)](https://cviog.uga.edu/international-center/) with funding from USAID.\r\n\r\nThese layers are suitable for database or GIS linkage to the [Benin administrative level 0-2 SADD 2019 projected population statistics](https://data.humdata.org/dataset/benin-administrative-level-0-2-sadd-2019-projected-population-statistics) tables.\r\n\r\nVersion history:\r\n\r\n21 August 2019:\r\nITOS standardized files and live services uploaded (without changes to content)\r\n\r\n17 May 2019:\r\nP-codes altered to conform to COD-PS\r\n\r\nOctober 2019:\r\nInitial upload\r\n\r\n",
         "caveats": null,
         "tags": [
+            "administrative divisions",
             "common operational dataset - cod",
             "gazetteer",
             "geodata"
@@ -607,6 +616,7 @@
         "datasetDescription": "Burkina Faso  administrative level 0 (country), 1 (administrative region), 2 (province), and 3 (department) boundaries\r\n\r\nREFERENCE YEAR:  2020\r\n\r\nNOTE a health districts country-specific COD is available here:   [Burkina Faso health districts (districts de sant\u00e9)](https://data.humdata.org/dataset/burkina-faso-health-districts-districts-de-sante).\r\n\r\nVetting and live service provision by [Information Technology Outreach Services (ITOS)](https://cviog.uga.edu/international-center/) with funding from USAID.\r\n\r\nThe administrative level 0 and 1 shapefiles are suitable for database or GIS linkage to  the [CSV population statistics tables](https://data.humdata.org/dataset/burkina-faso-population-statistic). \r\n\r\n",
         "caveats": "The KMZ files for administrative levels 0, 1, and 2 were created from generalized (tolerance 0.01 degree) versions of the shapefiles. The shapefile resources are the originals.\r\n\r\nThe significant characters of administrative level 2 feature Kadiogo [BF1300], which includes Ouagadougou, are \u201800\u2019.",
         "tags": [
+            "administrative divisions",
             "common operational dataset - cod",
             "gazetteer"
         ],
@@ -838,6 +848,7 @@
         "datasetDescription": "Mauritania administrative level 0 (country), 1 (region / wilaya or r\u00e9gion), 2 (department / moughataa), 3 (commune) boundaries endorsed  by Dakar IMWG on August 2017 (only Pcodes); see metadata for description of cleaning and processing performed by ITOS.\r\n\r\nREFERENCE YEAR:  2020\r\n\r\nThese boundaries are suitable for database or GIS linkage to the [Mauritania - Subnational Population Statistics](https://data.humdata.org/dataset/mauritania-population-statistics).\r\n\r\nVetting and live service provision by [Information Technology Outreach Services (ITOS)](https://cviog.uga.edu/international-center/) with funding from USAID.\r\n\r\nThese shapefiles are suitable for database or GIS linkage to the level 0-2 [Mauritania - Subnational Population Statistics](https://data.humdata.org/dataset/mauritania-population-statistics#).",
         "caveats": "Reviewing, cleaning, pcoding and validation have been performed by OCHA and ITOS.\r\n\r\nThe August 2020 changes involve changes to administrative level 2 that no longer conform to the current population statistics COD.",
         "tags": [
+            "administrative divisions",
             "common operational dataset - cod",
             "gazetteer"
         ],
@@ -915,6 +926,7 @@
         "datasetDescription": "Senegal administrative level 0 (country), 1 (region, r\u00e9gion), 2 (department, d\u00e9partement), and 3 (arrondissement) boundary polygons and lines.\r\n\r\nVetting and live service provision by [Information Technology Outreach Services (ITOS)](https://cviog.uga.edu/international-center/) with funding from USAID.\r\n\r\nUpdated November 2018\r\n\r\nUpdated August 2017 (harmonization of codes following the IMWG meeting eg SN010101) according to the COD databases approved by the RO in January 2016; See metadata for description of ITOS cleaning and processing.\r\nThe dataset represents Admin level 0 (International), Admin Level 1 (Region), Admin Level 2 (Departement), Admin Level 3 (Arrondissement).",
         "caveats": "**Most Recent Changes:** \r\n\r\nApril 30, 2019:\r\nITOS resources added\r\n\r\nOctober 26, 2018:   \r\nKaffrine, Kedougou and Sedhiou regions have been created in 2011.\r\nGovernment data cleaned and pcoded by OCHA and ITOS\r\n\r\n**Languages:** FR\r\n",
         "tags": [
+            "administrative divisions",
             "common operational dataset - cod",
             "gazetteer"
         ],
@@ -1040,7 +1052,10 @@
         "admin0Name_es_utf8": "b'Colombia'",
         "admin0Pcode": "CO",
         "admin0_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/COL_ES/MapServer/0/query?where=0%3D0&outFields=*&f=pjson",
-        "admin1": "Error performing query operation.",
+        "admin1Name_es": "Amazonas",
+        "admin1Name_es_utf8": "b'Amazonas'",
+        "admin1Pcode": "CO91",
+        "admin1_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/COL_ES/MapServer/1/query?where=0%3D0&outFields=*&f=pjson",
         "admin2": "Error performing query operation.",
         "languageCode": {
             "es": "Spanish; Castilian"
@@ -1268,9 +1283,10 @@
         "title": "Cambodia - Subnational Administrative Boundaries",
         "id": "7472f7e0-3deb-44d9-bd36-38237c666a2e",
         "theme": "administrative boundaries",
-        "datasetDescription": "Cambodia administrative levels 0 (country), 1 (province / khaet and capital / reach thani), 2 (municipality, district), and 3 (commune / khum, quarter / sangkat) boundary polygon, line, and point shapefiles and KMZ files, and gazetteer\r\n\r\nREFERENCE YEAR:  2014\r\n\r\nVetting and live service provision by [Information Technology Outreach Services (ITOS)](https://cviog.uga.edu/international-center/) with funding from USAID.\r\n\r\nThe datasets were obtained from the Department of Geography of the Ministry of Land Management, Urbanization and Construction in 2008 and unofficially updated in 2014 according to sub-decrees on administrative modifications. Data provided by WFP - VAM unit Cambodia.\r\n\r\nThese shapefiles are suitable for database or GIS linkage to the [Cambodia administrative level 0-3 population statistics](https://data.humdata.org/dataset/cambodia-population-statistics) CSV tables.  (However, six administrative level 3 records do not correspond to any of the level 3 shapefile features.  These are listed in the caveats.)",
+        "datasetDescription": "Cambodia administrative levels 0 (country), 1 (province / khaet and capital / reach thani), 2 (municipality, district), and 3 (commune / khum, quarter / sangkat) boundary polygon, line, and point shapefiles and KMZ files, and gazetteer\r\n\r\nREFERENCE YEAR:  2008\r\n\r\nVetting and live service provision by [Information Technology Outreach Services (ITOS)](https://cviog.uga.edu/international-center/) with funding from USAID.\r\n\r\nThe datasets were obtained from the Department of Geography of the Ministry of Land Management, Urbanization and Construction in 2008 and unofficially updated in 2014 according to sub-decrees on administrative modifications. Data provided by WFP - VAM unit Cambodia.\r\n\r\nThese shapefiles are suitable for database or GIS linkage to the [Cambodia administrative level 0-3 population statistics](https://data.humdata.org/dataset/cambodia-population-statistics) CSV tables.  (However, six administrative level 3 records do not correspond to any of the level 3 shapefile features.  These are listed in the caveats.)",
         "caveats": "**Languages:** EN\r\n\r\n The boundaries used on this map do not imply official endorsement or acceptance by the United Nations and HRF members.\r\n\r\nSix administrative level 3 records do not correspond to any of the level 3 shapefile features.  These are:\r\nKdol Saen Chey [KH040809]\r\nKronhoung Saen Chey[KH100506]\r\nOu Baek K'am [KH120808]\r\nKouk Khleang [KH120809]\r\nKoah Rung Sonlem [KH180106]\r\nTa Ney [KH180215]",
         "tags": [
+            "administrative divisions",
             "common operational dataset - cod",
             "gazetteer"
         ],
@@ -1454,6 +1470,7 @@
         "datasetDescription": "Papua New Guinea administrative level 0 (country), 1 (province, autonomous region, and National Capital District), 2 (district), and 3 (local level government area) boundary shapefiles, EMF files, KMZ files, geodatabase, and gazetteer\r\n\r\nVetting and live service provision by [Information Technology Outreach Services (ITOS)](https://cviog.uga.edu/international-center/) with funding from USAID.\r\n\r\nThese boundary files are suitable for database or GIS linkage to the [Papua New Guinea administrative level 0, 1, 2, and 3 population statistics and gazetteer](https://data.humdata.org/dataset/papua-new-guinea-administrative-level-0-1-2-and-3-population-statistics) tables.\r\n",
         "caveats": null,
         "tags": [
+            "administrative divisions",
             "common operational dataset - cod",
             "gazetteer"
         ],
@@ -1528,12 +1545,72 @@
         }
     },
     {
+        "title": "Mongolia - Subnational Population Statistics",
+        "id": "a0073098-8df2-4dc4-839f-efb795deb4de",
+        "theme": "population statistics",
+        "datasetDescription": "Mongolia administrative level 0 (country), 1 (aimag), 2 (soum), and regional sex and age disaggregated population statistics and gazetteer\r\n\r\nSee caveats\r\n\r\nThese tables are suitable for database of GIS linkage to the [Mongolia - Administrative Boundaries (Polygon & Polyline)](https://data.humdata.org/dataset/mongolia-administrative-boundaries-polygon-polyline) shapefiles and gazetteer.",
+        "caveats": "**Languages:** EN\r\n",
+        "tags": [
+            "common operational dataset - cod",
+            "gazetteer"
+        ],
+        "iso": [
+            "mng"
+        ],
+        "location": [
+            "Mongolia"
+        ],
+        "datasetSource": "National Statistics Office of Mongolia - Mongolian Statistical information service",
+        "organization": "OCHA ROAP",
+        "datasetDate": "05/16/2018",
+        "updateFrequency": "365",
+        "dueDate": "2021-03-27T09:28:19",
+        "license_id": "hdx-other",
+        "license_other": "Humanitarian use only",
+        "license_title": "Other",
+        "methodology": "Other",
+        "methodology_other": "OCHA downloaded the data, cleaned it, added P-codes and calculated the age-breakdown based on the national-level age-breakdown.  More population data from the NSO can be found on their site:  [www.1212.mn](www.1212.mn) . ",
+        "format": {
+            "XLSX": {
+                "resoource_id": "a4763526-23b0-4b82-b296-1a9b589e52e1",
+                "download_url": "https://data.humdata.org/dataset/a0073098-8df2-4dc4-839f-efb795deb4de/resource/a4763526-23b0-4b82-b296-1a9b589e52e1/download/mng_pop_2017.xlsx",
+                "description": "Mongolia administrative level 0 (country), 1 (aimag), 2 (soum), and regional sex and age disaggregated population statistics"
+            },
+            "CSV": {
+                "resoource_id": "b4a0ed53-8d99-440d-999c-a7516c63935a",
+                "download_url": "https://data.humdata.org/dataset/a0073098-8df2-4dc4-839f-efb795deb4de/resource/b4a0ed53-8d99-440d-999c-a7516c63935a/download/mng_pop_region_2017.csv",
+                "description": "Mongolia regional sex and age disaggregated population statistics"
+            }
+        },
+        "country": "Mongolia",
+        "admin0Name_en": "Mongolia",
+        "admin0Name_mn": "\u043c\u043e\u043d\u0433\u043e\u043b",
+        "admin0Name_mn_utf8": "b'\\xd0\\xbc\\xd0\\xbe\\xd0\\xbd\\xd0\\xb3\\xd0\\xbe\\xd0\\xbb'",
+        "admin0Pcode": "MN",
+        "admin0_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/MNG_MN/MapServer/0/query?where=0%3D0&outFields=*&f=pjson",
+        "admin1Name_en": "Darkhan-Uul",
+        "admin1Name_mn": "\u0414\u0430\u0440\u0445\u0430\u043d-\u0423\u0443\u043b",
+        "admin1Name_mn_utf8": "b'\\xd0\\x94\\xd0\\xb0\\xd1\\x80\\xd1\\x85\\xd0\\xb0\\xd0\\xbd-\\xd0\\xa3\\xd1\\x83\\xd0\\xbb'",
+        "admin1Pcode": "MN45",
+        "admin1_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/MNG_MN/MapServer/3/query?where=0%3D0&outFields=*&f=pjson",
+        "admin2Name_en": "Adaacag",
+        "admin2Name_mn": "\u0410\u0434\u0430\u0430\u0446\u0430\u0433",
+        "admin2Name_mn_utf8": "b'\\xd0\\x90\\xd0\\xb4\\xd0\\xb0\\xd0\\xb0\\xd1\\x86\\xd0\\xb0\\xd0\\xb3'",
+        "admin2Pcode": "MN4804",
+        "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/MNG_MN/MapServer/5/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "en": "English",
+            "mn": "Mongolian"
+        }
+    },
+    {
         "title": "Namibia - Subnational Administrative Boundaries",
         "id": "50fda5c8-bc93-48e7-b542-f123b2038350",
         "theme": "administrative boundaries",
-        "datasetDescription": "Namibia administrative level 0 (country), 1 (region) and 2 (constituency) population statistics\r\n\r\nVetting and live service provision by [Information Technology Outreach Services (ITOS)](https://cviog.uga.edu/international-center/) with funding from USAID.\r\n\r\nThe shapefiles are suitable for database or GIS linkage to the [Namibia administrative level 0-2 population statistics](https://data.humdata.org/dataset/namibia-administrative-level-0-2-population-statisticsx) CSV tables.",
+        "datasetDescription": "Namibia administrative level 0 (country), 1 (region) and 2 (constituency) population statistics\r\n\r\nREFERENCE YEAR:  2018\r\n\r\nVetting and live service provision by [Information Technology Outreach Services (ITOS)](https://cviog.uga.edu/international-center/) with funding from USAID.\r\n\r\nThe shapefiles are suitable for database or GIS linkage to the [Namibia administrative level 0-2 population statistics](https://data.humdata.org/dataset/namibia-administrative-level-0-2-population-statisticsx) CSV tables.",
         "caveats": "The \u2018//Karas\u2019 administrative level 1 feature name includes the click consonant that is symbolized with a non-Latin character. The ADM1_EN attribute field includes only Roman characters but the ADM1ALT1EN field includes the click consonant symbol.\r\n\r\nThis dataset fits the former 107 constituency system but does reflect the split of Kavango region into Kavango East and West, and Caprivi to Zambezi name change.  Namibia has adopted a new 121 constituency system .",
         "tags": [
+            "administrative divisions",
             "common operational dataset - cod",
             "gazetteer"
         ],
@@ -1606,6 +1683,7 @@
         "datasetDescription": "Niger administrative level 0 (country), 1 (region), 2 (department) and  3 ( 'urban commune' or FR 'commune urbaine', 'rural commune' or FR 'commune rurale', and 'administrative post' or FR 'poste administratif) boundary polygons \r\n\r\nVetting and live service provision by [Information Technology Outreach Services (ITOS)](https://cviog.uga.edu/international-center/) with funding from USAID.\r\n\r\nThese administrative boundary shapefiles are suitable for database or GIS linkage to the [Niger administrative level 0-3 population statistics](https://data.humdata.org/dataset/niger-administrative-level-0-3-population-statistics).\r\n\r\nPLEASE SEE CAVEATS / COMMENTS\r\n\r\n",
         "caveats": "**Languages:** FR\r\n\r\nThe ITOS live services included in this dataset are for the previous versions of the administrative level 0, 1, and 2 boundary polygons.  These will be updated, and administrative level 3 added, as soon as possible.",
         "tags": [
+            "administrative divisions",
             "common operational dataset - cod",
             "geodata"
         ],
@@ -1676,6 +1754,7 @@
         "datasetDescription": "Ecuador administrative level 0 (country), level 1 (province), 2 (canton), and 3 (parroquia) boundary polygons.   \r\n\r\nREFERENCE YEAR:  2018\r\n\r\nThe administrative level 0-2 shapefiles are suitable for database or GIS linkage to the [\"Ecuador population statistics for administrative level 1, 2, and 3\"](https://data.humdata.org/dataset/ecuador-population-statistics-for-administrative-level-1-2-and-3) shapefiles on HDX.\r\n\r\nVetting and live service provision by [Information Technology Outreach Services (ITOS)](https://cviog.uga.edu/international-center/) with funding from USAID.",
         "caveats": "Unusually, three administrative level 2 features: Las Golondrinas (EC9001); Manga del Cura (EC9003); and El Piedrero (EC9004), each containing only one administrative level 3 feature, do not belong to any province. Their administrative level 1 attribute is \u2018zona no delimitada\u2019.\r\n\r\nAdministrative level 3, with 1,040 features does not match the Ecuador COD Population Statistics (COD-PS) tables which have 1,025 features.\r\n\r\nThe administrative level 0 KMZ file was converted from a generalized (0.001 degree tolerance) shapefile. The shapefile in the dataset is the original version.",
         "tags": [
+            "administrative divisions",
             "common operational dataset - cod",
             "gazetteer",
             "geodata"
@@ -1754,9 +1833,10 @@
         "title": "Honduras - Subnational Administrative Boundaries",
         "id": "bd62fb53-64d3-478f-9ca8-38e4a2de19c0",
         "theme": "administrative boundaries",
-        "datasetDescription": "Administrative level 0-3 boundaries\r\n\r\nVetting and live service provision by [Information Technology Outreach Services (ITOS)](https://cviog.uga.edu/international-center/) with funding from USAID.\r\n\r\nThese boundaries are suitable for database or GIS linkage to the [Honduras - Subnational Population Statistics](https://data.humdata.org/dataset/proyecciones-de-poblacion-por-area-y-sexo-segun-departamento-y-municipio) tables.",
-        "caveats": "**Languages:** ES\r\n\r\nOCHA is the data guardian; send questions or comments about the dataset to email [webmaster@redhum.org](mailto:webmaster@redhum.org)",
+        "datasetDescription": "Administrative level 0-3 boundaries\r\n\r\nPLEASE REFER TO THE CAVEATS ABOUT THE ADMINISTRATIVE LEVEL 3 DATA.\r\n\r\nVetting and live service provision by [Information Technology Outreach Services (ITOS)](https://cviog.uga.edu/international-center/) with funding from USAID.\r\n\r\nThese boundaries are suitable for database or GIS linkage to the [Honduras - Subnational Population Statistics](https://data.humdata.org/dataset/proyecciones-de-poblacion-por-area-y-sexo-segun-departamento-y-municipio) tables.",
+        "caveats": "37 of the 3,730 ADM3 features (in  parts of Gracias and Dios and Santa Barbara departments) have incorrect or partly incorrect parent attribute data.  This is being further investigated.  A list will be provided shortly.  ALL existing P-codes are unique and usable.\r\n\r\n**Languages:** ES\r\n\r\nOCHA is the data guardian; send questions or comments about the dataset to email [webmaster@redhum.org](mailto:webmaster@redhum.org)",
         "tags": [
+            "administrative divisions",
             "common operational dataset - cod",
             "gazetteer"
         ],
@@ -2017,6 +2097,7 @@
         "datasetDescription": "Administrative boundary datasets for levels 0, 1, 2 and 3  (international, governorate, district and sub-district) for Yemen approved for use by Humanitarian Country Team in October 2019.\r\n\r\nREFERENCE YEAR 2019\r\n\r\nVetting and live service provision by [Information Technology Outreach Services (ITOS)](https://cviog.uga.edu/international-center/) with funding from USAID.\r\n\r\nAdmin Level 1= Governorate = Mohafadha\r\nAdmin Level 2 = District = Modeeriyyah\r\nAdmin Level 3 = Sub-district  = Ozlah\r\n\r\nPCODES are those used by Yemen Central Statistical Organization ( CSO ). \"YE\" is added as a prefix for the codes.\r\n\r\nPoint layers are created by the calculating the centroids of the polygons. ",
         "caveats": "###Most Recent Changes:\r\n\r\n**27 November 2019**  ITOS files and live services added\r\n\r\n**25-November-2019-** Layers in TOPOJSON format  were added\r\n\r\n**24-November-2019-** Layers in [GEOPackage](https://www.geopackage.org) format were added\r\n\r\n**10-November-2019-** Admin3 layer was added along with updated admin 0, 1 and 2 layers. The layers were provided by Yemen Central Organization ( CSO ) and approved for use by Humanitarian Country Team (HCT)  in October 2019. \r\n\r\n**8 November 2019**\r\nGeodatabase removed due to loading error.  It will be replaced when the administrative level 3 data are ready.\r\nLines layer removed from the KMZ zip file as it does not logically belong.\r\n\r\n\r\n**7-October-2017-**  Added unique reference names in both English and Arabic for admin2 (District) ; added ESRI file geodatabase and Excel formats; standard global field naming; redundant field names were removed.\r\n\r\nAdmin Level 3 removed.  \r\n\r\nNew governorate has been added (Socotra island).\r\nDistricts pCodes of Hadramaut, Taiz and Raymah governorates have been updated based on the CSO's pCodes, 2 of Hadramaut's districts moved to Socotra governorate.\r\n\r\nThe Admin level 3 boundaries shapefile does not contain a full set of admin level 3 boundaries for all governorates.\r\n\r\n\r\n**Languages:** AR EN\r\n",
         "tags": [
+            "administrative divisions",
             "common operational dataset - cod",
             "gazetteer"
         ],
@@ -2284,6 +2365,7 @@
         "datasetDescription": "Iraq administrative level 0 (country), 1 (governorate), 2 (district), and 3 (sub-district) boundary shapefiles, geodatabase, EMF and KMZ files, and gazetteer\r\n\r\nVetting and live service provision by [Information Technology Outreach Services (ITOS)](https://cviog.uga.edu/international-center/) with funding from USAID.",
         "caveats": "Version history:\r\n6 June 2019\r\nITOS vetted and configured COD-AB files loaded to HDX\r\nITOS live services enabled\r\n\r\n26 March 2019\r\nUpdated COD-AB files loaded to HDX\r\n\r\n21 May 2017\r\nInitial upload to HDX",
         "tags": [
+            "administrative divisions",
             "common operational dataset - cod",
             "gazetteer"
         ],
@@ -2437,6 +2519,7 @@
         "datasetDescription": "Administrative boundary, administrative level 0 (national), level 1 (department),  level 2 (commune),  and level 3 (section communale).\r\nNotice! The boundaries and names shown and the designations used on these shapefiles  do not imply official endorsement or acceptance by the United Nations.\r\n\r\nVetting and live service provision by [Information Technology Outreach Services (ITOS)](https://cviog.uga.edu/international-center/) with funding from USAID.\r\n\r\n\r\nThese shapefile and geodatabase classes are fully compatible with the [Haiti - Estimated population in 2015 (with pcodes)](https://data.humdata.org/dataset/estimated-population-of-haiti-2015) population statistics tables available on HDX.\r\n\r\nThe 'AdminLevel' field categorizes the lines AdminLevel 0: coastlines AdminLevel 1: lines between administrative level 1 polygons AdminLevel 2: lines between administrative level 2 polygons within the same administrative level 1 polygon AdminLevel 3: lines between administrative level 3 polygons within the same administrative level 2 polygon AdminLevel 99: international borders",
         "caveats": null,
         "tags": [
+            "administrative divisions",
             "common operational dataset - cod",
             "gazetteer"
         ],
@@ -2869,6 +2952,7 @@
         "datasetDescription": "Libya administrative level 0 (country),  1 (province), and 2 (governorate / muhafazat) , EMF files, KMZ files, geodatabase, live services, and gazetteer\r\n\r\nVetting and live service provision by [Information Technology Outreach Services (ITOS)](https://cviog.uga.edu/international-center/) with funding from USAID.\r\n\r\nLibya populated places level 3 (baladiya) point geodatabase",
         "caveats": "Boundaries for administrative level 3 (baladiya) are anticipated to be prepared in late 2019.",
         "tags": [
+            "administrative divisions",
             "common operational dataset - cod",
             "gazetteer"
         ],
@@ -3015,7 +3099,10 @@
         "admin0Name_es_utf8": "b'Colombia'",
         "admin0Pcode": "CO",
         "admin0_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/COL_ES/MapServer/0/query?where=0%3D0&outFields=*&f=pjson",
-        "admin1": "Error performing query operation.",
+        "admin1Name_es": "Amazonas",
+        "admin1Name_es_utf8": "b'Amazonas'",
+        "admin1Pcode": "CO91",
+        "admin1_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/COL_ES/MapServer/1/query?where=0%3D0&outFields=*&f=pjson",
         "admin2": "Error performing query operation.",
         "languageCode": {
             "es": "Spanish; Castilian"
@@ -3028,6 +3115,7 @@
         "datasetDescription": "Kyrgyzstan administrative level 0 (country), 1 (province, independent city [EN];  \u043e\u0431\u043b\u0430\u0441\u0442\u044c, \u0433\u043e\u0440\u043e\u0434 [RU];  \u043e\u0431\u043b\u0443\u0441\u0443, \u0448\u0430\u0430\u0440 [KY]), 2 (district [EN]; \u0440\u0430\u0439\u043e\u043d, [RU]; \u0440\u0430\u0439\u043e\u043d\u0443\u00a0[KY]),  and 3 (community [EN]; \u0430\u0439\u044b\u043b\u043d\u044b\u0439 \u0430\u0439\u043c\u0430\u043a [RU]; \u0430\u0439\u044b\u043b \u0430\u0439\u043c\u0430\u0433 [KY]) boundary polygon and line shapefiles and KMZ files, and gazetteer.\r\n\r\nVetting and live service provision by [Information Technology Outreach Services (ITOS)](https://cviog.uga.edu/international-center/) with funding from USAID.",
         "caveats": "Community Users should be aware that 277 Admin3 names are blank. \r\n\r\nAdministrative boundaries at the administrative level 3 (community) are missing 20 polygons that were not digitized. They are:\r\nADM3_PCODE\tADM3_EN\tADM3_RU\tADM3_KY\tADM3TYPE_EN\r\n\r\nKG02210810000\tAk-Shyyr\u0430k\t\u0410\u043a-\u0428\u044b\u0439\u0440\u0430\u043a\u0441\u043a\u0438\u0439\t\u0410\u043a-\u0428\u044b\u0439\u0440\u0430\u043a\tcommunity\r\n\r\nKG04230826000\tChon-Dobon\t\u0427\u043e\u043d-\u0414\u043e\u0431\u043e\u043d\u0441\u043a\u0438\u0439\t\u0427\u043e\u04a3-\u0414\u04e9\u0431\u04e9\tcommunity\r\n\r\nKG04230835000\tSuyumb\u0430ev\t\u0421\u0443\u044e\u043c\u0431\u0430\u0435\u0432\u0441\u043a\u0438\u0439\t\u0421\u04af\u0439\u04af\u043c\u0431\u0430\u0435\u0432\tcommunity\r\n\r\nKG04230837000\tKyzyl-Jyldyz\t\u041a\u044b\u0437\u044b\u043b-\u0416\u044b\u043b\u0434\u044b\u0437\u0441\u043a\u0438\u0439\t\u041a\u044b\u0437\u044b\u043b-\u0416\u044b\u043b\u0434\u044b\u0437\tcommunity\r\n\r\nKG04245860000\tS\u0430ry-Oy\t\u0421\u0430\u0440\u044b-\u041e\u0439\u0441\u043a\u0438\u0439\t\u0421\u0430\u0440\u044b-\u041e\u0439\tcommunity\r\nKG05258610020\tK\u0430d\u0430mj\u0430y (city)\t\u041a\u0430\u0434\u0430\u043c\u0436\u0430\u0439\t\u041a\u0430\u0434\u0430\u043c\u0436\u0430\u0439\tindependent city\r\n\r\nKG06207823000\tK\u0430byl\u0430n-Kol\t\u041a\u0430\u0431\u044b\u043b\u0430\u043d-\u041a\u043e\u043b\u0441\u043a\u0438\u0439\t\u041a\u0430\u0431\u044b\u043b\u0430\u043d-\u041a\u043e\u043b\tcommunity\r\n\r\nKG06207839000\tS\u0430ry-Mogol\t\u0421\u0430\u0440\u044b-\u041c\u043e\u0433\u043e\u043b\u0441\u043a\u0438\u0439\t\u0421\u0430\u0440\u044b-\u041c\u043e\u0433\u043e\u043b\tcommunity\r\n\r\nKG06207841000\tJany-Alay\t\u0416\u0430\u043d\u044b-\u0410\u043b\u0430\u0439\u0441\u043a\u0438\u0439\t\u0416\u0430\u04a3\u044b-\u0410\u043b\u0430\u0439\tcommunity\r\n\r\nKG06211809000\tS.Yusupov\t\u0421.\u042e\u0441\u0443\u043f\u043e\u0432\u0441\u043a\u0438\u0439\t\u0421.\u042e\u0441\u0443\u043f\u043e\u0432\tcommunity\r\n\r\nKG06211824000\tNur\u0430b\u0430d\t\u041d\u0443\u0440\u0430\u0431\u0430\u0434\u0441\u043a\u0438\u0439\t\u041d\u0443\u0440\u0430\u0431\u0430\u0434\tcommunity\r\n\r\nKG06226840000\tS\u0430ry-Kolot\t\u0421\u0430\u0440\u044b-\u041a\u043e\u043b\u043e\u0442\u0441\u043a\u0438\u0439\t\u0421\u0430\u0440\u044b-\u041a\u043e\u043b\u043e\u0442\tcommunity\r\n\r\nKG06242600010\tNook\u0430t (city)\t\u041d\u043e\u043e\u043a\u0430\u0442\t\u041d\u043e\u043e\u043a\u0430\u0442\tindependent city\r\n\r\nKG06242838000\tKok-Bel\t\u041a\u043e\u043a-\u0411\u0435\u043b\u044c\u0441\u043a\u0438\u0439\t\u041a\u04e9\u043a-\u0411\u0435\u043b\tcommunity\r\n\r\nKG06242856000\tMirm\u0430khmudov\t\u041c\u0438\u0440\u043c\u0430\u0445\u043c\u0443\u0434\u043e\u0432\u0441\u043a\u0438\u0439\t\u041c\u0438\u0440\u043c\u0430\u0445\u043c\u0443\u0434\u043e\u0432\tcommunity\r\n\r\nKG06246815000\tKenesh\t\u041a\u0435\u043d\u0435\u0448\u0441\u043a\u0438\u0439\t\u041a\u0435\u04a3\u0435\u0448\tcommunity\r\n\r\nKG06255828000\tCh\u0430nget\t\u0427\u0430\u043d\u0433\u0435\u0442\u0441\u043a\u0438\u0439\t\u0427\u0430\u04a3\u0433\u0435\u0442\tcommunity\r\n\r\nKG06255860000\tAltyn-Bul\u0430k\t\u0410\u043b\u0442\u044b\u043d-\u0411\u0443\u043b\u0430\u043a\u0441\u043a\u0438\u0439\t\u0410\u043b\u0442\u044b\u043d-\u0411\u0443\u043b\u0430\u043a\tcommunity\r\n\r\nKG07215806000\tB\u0430kyyan\t\u0411\u0430\u043a\u044b\u044f\u043d\u0441\u043a\u0438\u0439\t\u0411\u0430\u043a\u044b\u044f\u043d\tcommunity\r\n\r\nKG11201510010\tChon-Aryk\t\u0427\u043e\u043d-\u0410\u0440\u044b\u043a\t\u0427\u043e\u04a3-\u0410\u0440\u044b\u043a\tsemi-urban settlement",
         "tags": [
+            "administrative divisions",
             "common operational dataset - cod",
             "gazetteer"
         ],
@@ -3643,9 +3731,10 @@
         "title": "Nepal - Subnational Administrative Boundaries",
         "id": "07db728a-4f0f-4e98-8eb0-8fa9df61f01c",
         "theme": "administrative boundaries",
-        "datasetDescription": "Nepal administrative level 0-3 administrative boundaries.\r\n",
+        "datasetDescription": "Nepal administrative level 0-3 administrative boundaries.\r\n\r\nREFERENCE YEAR:  2018",
         "caveats": "2018 12 12:  The geometry of all the Nepal COD-AB features were slightly corrected.  The displacement was consistently about 200 m.  No changes to the attributes were made.\r\n\r\nDistricts are not formally part of  the federal structure of Nepal but are included because of their common use particularly in humanitarian response. \r\n\r\nThe Nepal administrative level 0 (country) boundary polygon KMZ file was created from a generalized (tolerance 0.0001 degree) version due to the large number of vertices in the original shapefile.  The shapefile available here and the geodatabase feature class are the original complete version.",
         "tags": [
+            "administrative divisions",
             "common operational dataset - cod",
             "gazetteer"
         ],
@@ -3709,7 +3798,9 @@
         "admin1Name_en": "1",
         "admin1Pcode": "NP01",
         "admin1_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/NPL_EN/MapServer/1/query?where=0%3D0&outFields=*&f=pjson",
-        "admin2": "Error performing query operation.",
+        "admin2Name_en": "Aamchowk",
+        "admin2Pcode": "NP0110406",
+        "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/NPL_EN/MapServer/5/query?where=0%3D0&outFields=*&f=pjson",
         "languageCode": {
             "en": "English"
         }
@@ -4117,6 +4208,7 @@
         "datasetDescription": "Togo administrative level 0 (country), 1 (region), and 2 (prefecture) boundaries\r\n\r\nVetting and live service provision by [Information Technology Outreach Services (ITOS)](https://cviog.uga.edu/international-center/) with funding from USAID.\r\n\r\nREFERENCE YEAR:  2020\r\n\r\nThese boundaries are suitable for database or GIS linkage to the [Togo administrative level 0-2 population statistics](https://data.humdata.org/dataset/togo-administrative-level-0-2-population-statistics) tables.",
         "caveats": null,
         "tags": [
+            "administrative divisions",
             "common operational dataset - cod",
             "gazetteer"
         ],
@@ -4197,6 +4289,7 @@
         "datasetDescription": "Nicaragua administrative level 0 (country), 1 (department or autonomous region, departamento o regi\u00f3n aut\u00f3noma), and 2 (municipality, municipio) boundaries polygons\r\n\r\nREFERENCE YEAR:  2020\r\n\r\nVetting and live service provision by [Information Technology Outreach Services (ITOS)](https://cviog.uga.edu/international-center/) with funding from USAID.\r\n\r\n\r\nThese boundaries are suitable for database or GIS linkage to the [Nicaragua - Subnational Population Statistics](https://data.humdata.org/dataset/nicaragua-subnational-population-statistics) tables.\r\n\r\n",
         "caveats": null,
         "tags": [
+            "administrative divisions",
             "common operational dataset - cod",
             "gazetteer"
         ],
@@ -4359,7 +4452,7 @@
         "organization": "OCHA FISS",
         "datasetDate": "11/07/2017",
         "updateFrequency": "365",
-        "dueDate": "2021-02-19T10:57:26",
+        "dueDate": "2021-11-13T08:58:33",
         "license_id": "hdx-other",
         "license_other": "humanitarian use only",
         "license_title": "Other",
@@ -4380,6 +4473,11 @@
                 "resoource_id": "247b59b6-d86b-4998-b8e8-8b8824343efe",
                 "download_url": "https://data.humdata.org/dataset/63148f32-4505-433d-b8ea-1fd8088b4bdf/resource/247b59b6-d86b-4998-b8e8-8b8824343efe/download/bdi_adm_igebu_ocha_20171103_shp.zip",
                 "description": "Burundi administrative level 0 (country), 1 (province), and 2 (commune) boundary shapefiles"
+            },
+            "EMF": {
+                "resoource_id": "f6fea544-2f5e-4e49-9062-c976171a68e5",
+                "download_url": "https://data.humdata.org/dataset/63148f32-4505-433d-b8ea-1fd8088b4bdf/resource/f6fea544-2f5e-4e49-9062-c976171a68e5/download/bdi_adm_igebu_ocha_20171103_emf.zip",
+                "description": "Burundi administrative level 0-2 2 (commune) EMF files"
             },
             "LIVE SERVICE": {
                 "resoource_id": "fa88cd6f-8d96-4d07-8321-76a48510d1fe",
@@ -4402,6 +4500,75 @@
         "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/BDI_FR/MapServer/3/query?where=0%3D0&outFields=*&f=pjson",
         "languageCode": {
             "fr": "French"
+        }
+    },
+    {
+        "title": "Bhutan - Subnational Administrative Boundaries",
+        "id": "cff13277-eac9-49b0-8436-e80f42eb4684",
+        "theme": "administrative boundaries",
+        "datasetDescription": "Acquired and P-coded by OCHA in 2019\r\n\r\nREFERENCE YEAR:  2019\r\n\r\nVetting and live service provision by [Information Technology Outreach Services (ITOS)](https://cviog.uga.edu/international-center/) with funding from USAID.\r\n\r\n30 OCTOBER 2020 UPDATE:  ITOS live services added\r\n\r\nThe administrative level 0 and 1 shapefiles and geodatabase feature classes are suitable for database or GIS linkage to the [Bhutan administrative level 0-1 population statistics](https://data.humdata.org/dataset/bhutan-administrative-level-0-1-population-statistics) CSV tables.",
+        "caveats": "UPDATES\r\n\r\n2019 02 01:  \r\nP-code prefix changed from 'BTN' to 'BT'\r\nKMZ files, EMF files, and geodatabase added\r\nCorresponding COD-PS made available",
+        "tags": [
+            "administrative divisions",
+            "common operational dataset - cod",
+            "gazetteer",
+            "geodata"
+        ],
+        "iso": [
+            "btn"
+        ],
+        "location": [
+            "Bhutan"
+        ],
+        "datasetSource": "OCHA ROAP",
+        "organization": "OCHA ROAP",
+        "datasetDate": "02/01/2019",
+        "updateFrequency": "365",
+        "dueDate": "2021-10-30T13:15:12",
+        "license_id": "hdx-other",
+        "license_other": "humanitarian use only",
+        "license_title": "Other",
+        "methodology": "Other",
+        "methodology_other": "Other",
+        "format": {
+            "zipped shapefile": {
+                "resoource_id": "993e195f-3c7c-4472-ad2f-f04245a3537d",
+                "download_url": "https://data.humdata.org/dataset/cff13277-eac9-49b0-8436-e80f42eb4684/resource/993e195f-3c7c-4472-ad2f-f04245a3537d/download/btn_admbnda_bnlc_20201026_shp.zip",
+                "description": "Bhutan administrative level 0 (country), 1 (district, dzongkhag), and 2 (block, gewog) boundary polygon and line shapefiles"
+            },
+            "EMF": {
+                "resoource_id": "c83c14ed-32a2-44a3-82a9-fe31b7e19a02",
+                "download_url": "https://data.humdata.org/dataset/cff13277-eac9-49b0-8436-e80f42eb4684/resource/c83c14ed-32a2-44a3-82a9-fe31b7e19a02/download/btn_admbnda_bnlc_20201026_emf.zip",
+                "description": "Bhutan administrative level 0 (country), 1 (district, dzongkhag), and 2 (block, gewog) boundary EMF files"
+            },
+            "zipped geodatabase": {
+                "resoource_id": "2625dea2-787b-4b56-a1ec-d52bb3906b06",
+                "download_url": "https://data.humdata.org/dataset/cff13277-eac9-49b0-8436-e80f42eb4684/resource/2625dea2-787b-4b56-a1ec-d52bb3906b06/download/btn_admbnda_bnic_20201026.gdb.zip",
+                "description": "Bhutan administrative level 0 (country), 1 (district, dzongkhag), and 2 (block, gewog) boundary polygon and line geodatabase"
+            },
+            "XLSX": {
+                "resoource_id": "38d88f26-a81a-49be-aeb1-f2c3e5a4ea60",
+                "download_url": "https://data.humdata.org/dataset/cff13277-eac9-49b0-8436-e80f42eb4684/resource/38d88f26-a81a-49be-aeb1-f2c3e5a4ea60/download/btn_adminboundaries_tabulardata.xlsx",
+                "description": "Bhutan administrative level 0 (country), 1 (district, dzongkhag), and 2 (block, gewog) gazetteer"
+            },
+            "LIVE SERVICE": {
+                "resoource_id": "a20d6545-c44c-4f03-98b7-51c7005a4eec",
+                "download_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/BTN_pcode/MapServer",
+                "description": "This service is intended as a labelling layer for PCODES from OCHA's Common Operational Datasets for Bhutan. As a map service it is intended to be used in conjunction with the basemap located at http://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/BTN_EN/MapServer. The service also provides feature access to Administrative Boundaries geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services"
+            }
+        },
+        "country": "Bhutan",
+        "admin0Name_en": "Bhutan",
+        "admin0Pcode": "BT",
+        "admin0_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/BTN_EN/MapServer/0/query?where=0%3D0&outFields=*&f=pjson",
+        "admin1Name_en": "Bumthang",
+        "admin1Pcode": "BT001",
+        "admin1_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/BTN_EN/MapServer/1/query?where=0%3D0&outFields=*&f=pjson",
+        "admin2Name_en": "Athang",
+        "admin2Pcode": "BT01901",
+        "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/BTN_EN/MapServer/3/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "en": "English"
         }
     },
     {
@@ -4542,12 +4709,175 @@
         }
     },
     {
+        "title": "Timor-Leste - Subnational Administrative Boundaries",
+        "id": "ee4a485c-9180-43db-9672-55e18dac5f96",
+        "theme": "administrative boundaries",
+        "datasetDescription": "The dataset represents the Common Operational Data (COD) for administrative boundaries of Timor-Leste (East Timor).  Each administrative unit contains the p-code and name. \r\n\r\nREFERENCE YEAR:  2017\r\n\r\nVetting and live service provision by [Information Technology Outreach Services (ITOS)](https://cviog.uga.edu/international-center/) with funding from USAID.\r\n\r\nThese administrative level 0, 1, and 2 shapefiles are suitable for database or GIS linkage to the [2015 Census Population for Timor Leste](https://data.humdata.org/dataset/2015-census-population-for-timor-leste) tables.",
+        "caveats": "Govt Decree Law No 16/2017 (31 March 2017) - created several new administrative level 3 units (sucos). GIS data is not yet available. The data included here for Admin level 3 are for information only and should not be considered official. Admin levels 0, 1, 2 are fine.\r\n\r\nThe administrative level 0 KMZ file is generalized (0.001 degree tolerance).\r\n",
+        "tags": [
+            "administrative divisions",
+            "common operational dataset - cod",
+            "gazetteer"
+        ],
+        "iso": [
+            "86b999e4-6981-401e-b57d-e15ad5a9ec86"
+        ],
+        "location": [
+            "Timor-Leste"
+        ],
+        "datasetSource": "WHO",
+        "organization": "OCHA ROAP",
+        "datasetDate": "12/10/2006",
+        "updateFrequency": "365",
+        "dueDate": "2021-09-16T07:40:17",
+        "license_id": "hdx-other",
+        "license_other": "humanitarian use only",
+        "license_title": "Other",
+        "methodology": "Direct Observational Data/Anecdotal Data",
+        "methodology_other": null,
+        "format": {
+            "PDF": {
+                "resoource_id": "44c4dcbb-9fb3-4dc6-bdeb-ebca9a639383",
+                "download_url": "https://data.humdata.org/dataset/ee4a485c-9180-43db-9672-55e18dac5f96/resource/44c4dcbb-9fb3-4dc6-bdeb-ebca9a639383/download/tls-cod-ab-2020_09_16.pdf",
+                "description": "Timor-Leste COD-AB data sheet"
+            },
+            "XLSX": {
+                "resoource_id": "b497cc1e-977f-4f6a-9421-4bee3277e771",
+                "download_url": "https://data.humdata.org/dataset/ee4a485c-9180-43db-9672-55e18dac5f96/resource/b497cc1e-977f-4f6a-9421-4bee3277e771/download/tls_adminboundaries_tabulardata.xlsx",
+                "description": "Administrative level 0 (country), 1 (department), and 2 (municipality) gazetteer"
+            },
+            "ZIPPED SHAPEFILES": {
+                "resoource_id": "084a5b03-c52d-48cc-9334-2e4efd1bedea",
+                "download_url": "https://data.humdata.org/dataset/ee4a485c-9180-43db-9672-55e18dac5f96/resource/084a5b03-c52d-48cc-9334-2e4efd1bedea/download/tls_adm_who_ocha_20200911_shp.zip",
+                "description": "Administrative level 0 (country), 1 (department), and 2 (municipality) zipped shapefiles"
+            },
+            "EMF": {
+                "resoource_id": "68881f71-786d-4ee9-b53e-dfc50e4868ce",
+                "download_url": "https://data.humdata.org/dataset/ee4a485c-9180-43db-9672-55e18dac5f96/resource/68881f71-786d-4ee9-b53e-dfc50e4868ce/download/tls_adm_who_ocha_20200911_emf.zip",
+                "description": "Administrative level 0 (country), 1 (department), and 2 (municipality) EMF files"
+            },
+            "KMZ": {
+                "resoource_id": "5b6c6a28-2279-4f2d-920a-bb286ab088b3",
+                "download_url": "https://data.humdata.org/dataset/ee4a485c-9180-43db-9672-55e18dac5f96/resource/5b6c6a28-2279-4f2d-920a-bb286ab088b3/download/tls_adm_who_ocha_20200911_kmz.zip",
+                "description": "Administrative level 0 (country), 1 (department), and 2 (municipality) KMZ files"
+            },
+            "ZIPPED GEODATABASE": {
+                "resoource_id": "367cd49b-9180-4dca-ba50-5ade9abfad66",
+                "download_url": "https://data.humdata.org/dataset/ee4a485c-9180-43db-9672-55e18dac5f96/resource/367cd49b-9180-4dca-ba50-5ade9abfad66/download/tls_adm_who_ocha_20200911.gdb.zip",
+                "description": "Timor-Leste Administrative level 0-2 geodatabase"
+            },
+            "LIVE SERVICE": {
+                "resoource_id": "e2d7f09b-5f05-4979-831a-2c7a3e3b7d44",
+                "download_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/TLS_pcode/MapServer",
+                "description": "This service is intended as a labelling layer for PCODES from OCHA's Common Operational Datasets for Timor-Leste. As a map service it is intended to be used in conjunction with the basemap located at http://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/TLS_EN/MapServer. The service also provides feature access to Administrative Boundaries geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services\n"
+            }
+        },
+        "country": "Timor-Leste",
+        "admin0Name_en": "Timor-Leste",
+        "admin0Pcode": "TL",
+        "admin0_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/TLS_EN/MapServer/0/query?where=0%3D0&outFields=*&f=pjson",
+        "admin1Name_en": "Aileu",
+        "admin1Pcode": "TL02",
+        "admin1_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/TLS_EN/MapServer/1/query?where=0%3D0&outFields=*&f=pjson",
+        "admin2Name_en": "Aileu Vila",
+        "admin2Pcode": "TL0201",
+        "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/TLS_EN/MapServer/3/query?where=0%3D0&outFields=*&f=pjson",
+        "admin3Name_en": "Abafala",
+        "admin3Pcode": "TL030315",
+        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/TLS_EN/MapServer/5/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "en": "English"
+        }
+    },
+    {
+        "title": "Mongolia - Subnational Administrative Boundaries",
+        "id": "a9b0a8a6-cb14-448e-b35c-aa5eb51b0557",
+        "theme": "administrative boundaries",
+        "datasetDescription": "Mongolia administrative level 0 (country), 1 (aimag), 2 (soum), and regional boundary polygons and lines, and administrative gazeteer.\r\n\r\nREFERENCE YEAR:  2017\r\n\r\nVetting and live service provision by [Information Technology Outreach Services (ITOS)](https://cviog.uga.edu/international-center/) with funding from USAID.\r\n\r\n\r\nThese shapefiles are suitable for database and GIS linkage to the [Mongolia - Subnational Population Statistics](https://data.humdata.org/dataset/mongolia-other) tables.",
+        "caveats": "The administrative level 0  KMZ file was generated from a generalized (0.001 degree tolerance) version of the shapefile. \r\n",
+        "tags": [
+            "administrative divisions",
+            "common operational dataset - cod",
+            "gazetteer",
+            "geodata"
+        ],
+        "iso": [
+            "mng"
+        ],
+        "location": [
+            "Mongolia"
+        ],
+        "datasetSource": "National Statistical Office of Mongolia",
+        "organization": "OCHA ROAP",
+        "datasetDate": "10/26/2020",
+        "updateFrequency": "365",
+        "dueDate": "2021-10-26T11:22:26",
+        "license_id": "hdx-other",
+        "license_other": "humanitarian use only",
+        "license_title": "Other",
+        "methodology": "Other",
+        "methodology_other": "Typical surveying methods",
+        "format": {
+            "XLSX": {
+                "resoource_id": "fd674645-1f17-41fc-a941-0ffbf9650938",
+                "download_url": "https://data.humdata.org/dataset/a9b0a8a6-cb14-448e-b35c-aa5eb51b0557/resource/fd674645-1f17-41fc-a941-0ffbf9650938/download/mng_adminboundaries_tabulardata.xlsx",
+                "description": "Mongolia administrative level 0-2 and region gazetteer\n"
+            },
+            "ZIPPED SHAPEFILE": {
+                "resoource_id": "f881ee41-bedb-4a76-bdff-453628cb0c61",
+                "download_url": "https://data.humdata.org/dataset/a9b0a8a6-cb14-448e-b35c-aa5eb51b0557/resource/f881ee41-bedb-4a76-bdff-453628cb0c61/download/mng_adm_nso_20201019_shp.zip",
+                "description": "Mongolia administrative level 0-2 and region shapefiles"
+            },
+            "EMF": {
+                "resoource_id": "c6349abd-f951-4651-8586-a6df0a3cde6a",
+                "download_url": "https://data.humdata.org/dataset/a9b0a8a6-cb14-448e-b35c-aa5eb51b0557/resource/c6349abd-f951-4651-8586-a6df0a3cde6a/download/mng_adm_nso_20201019_emf.zip",
+                "description": "Mongolia administrative level 0-2 and region EMF files"
+            },
+            "KMZ": {
+                "resoource_id": "263c8d4c-72df-46a0-9d9f-1499844817f8",
+                "download_url": "https://data.humdata.org/dataset/a9b0a8a6-cb14-448e-b35c-aa5eb51b0557/resource/263c8d4c-72df-46a0-9d9f-1499844817f8/download/mng_adm_nso_20201019_kmz.zip",
+                "description": "Mongolia administrative level 0-2 and region KMZ files"
+            },
+            "ZIPPED GEODATABASE": {
+                "resoource_id": "16ef414d-5907-48be-93e9-9d0caa4b9783",
+                "download_url": "https://data.humdata.org/dataset/a9b0a8a6-cb14-448e-b35c-aa5eb51b0557/resource/16ef414d-5907-48be-93e9-9d0caa4b9783/download/mng_adminboundaries_candidate.gdb.zip",
+                "description": "Mongolia administrative level 0-2 and region geodatabase"
+            },
+            "LIVE SERVICE": {
+                "resoource_id": "fb5d5ea2-f348-4bf5-be81-1298cb12d473",
+                "download_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/MNG_pcode/MapServer",
+                "description": "This service is intended as a labelling layer for PCODES from OCHA's Common Operational Datasets for Mongolia. As a map service it is intended to be used in conjunction with the basemap located at http://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/MNG_EN/MapServer. The service also provides feature access to Administrative Boundaries and Regions geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services"
+            }
+        },
+        "country": "Mongolia",
+        "admin0Name_en": "Mongolia",
+        "admin0Name_mn": "\u043c\u043e\u043d\u0433\u043e\u043b",
+        "admin0Name_mn_utf8": "b'\\xd0\\xbc\\xd0\\xbe\\xd0\\xbd\\xd0\\xb3\\xd0\\xbe\\xd0\\xbb'",
+        "admin0Pcode": "MN",
+        "admin0_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/MNG_MN/MapServer/0/query?where=0%3D0&outFields=*&f=pjson",
+        "admin1Name_en": "Darkhan-Uul",
+        "admin1Name_mn": "\u0414\u0430\u0440\u0445\u0430\u043d-\u0423\u0443\u043b",
+        "admin1Name_mn_utf8": "b'\\xd0\\x94\\xd0\\xb0\\xd1\\x80\\xd1\\x85\\xd0\\xb0\\xd0\\xbd-\\xd0\\xa3\\xd1\\x83\\xd0\\xbb'",
+        "admin1Pcode": "MN45",
+        "admin1_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/MNG_MN/MapServer/3/query?where=0%3D0&outFields=*&f=pjson",
+        "admin2Name_en": "Adaacag",
+        "admin2Name_mn": "\u0410\u0434\u0430\u0430\u0446\u0430\u0433",
+        "admin2Name_mn_utf8": "b'\\xd0\\x90\\xd0\\xb4\\xd0\\xb0\\xd0\\xb0\\xd1\\x86\\xd0\\xb0\\xd0\\xb3'",
+        "admin2Pcode": "MN4804",
+        "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/MNG_MN/MapServer/5/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "en": "English",
+            "mn": "Mongolian"
+        }
+    },
+    {
         "title": "Viet Nam - Subnational Administrative Boundaries",
         "id": "3cb544a9-9d04-4f54-94e2-93230efd8ceb",
         "theme": "administrative boundaries",
         "datasetDescription": "Viet Nam administrative level 0 (country), 1 (province), and 2 (district) boundaries\r\n\r\nREFERENCE YEAR:  2020\r\n\r\n27 October 2020 update:  All instances of \"Thura Thien Hue\" [VN411] have been corrected to \"Thua Thien Hue\".  This affects administrative levels 1 and 2 in the shapefiles, geodatabase, KMZ files, and the gazetteer. \r\n\r\nVetting and live service provision by [Information Technology Outreach Services (ITOS)](https://cviog.uga.edu/international-center/) with funding from USAID.\r\n\r\nThe boundaries are suitable for database or GIS linkage to the [Viet Nam - Subnational Population Statistics](https://data.humdata.org/dataset/viet-nam-administrative-level-0-2-2009-population-statistics) tables.",
         "caveats": "The administrative level 0 (country) KMZ file was created from a generalized (tolerance 0.001 degree) version of the shapefile because of the number of vertices. The shapefile on HDX is the original.\r\n\r\nAs mentioned in the description above, all instances of \"Thura Thien Hue\" [VN411] have been corrected to \"Thua Thien Hue\".  This affects administrative levels 1 and 2 in the shapefiles, geodatabase, KMZ files, and the gazetteer. ",
         "tags": [
+            "administrative divisions",
             "common operational dataset - cod",
             "gazetteer"
         ],
@@ -4623,6 +4953,61 @@
         "languageCode": {
             "en": "English",
             "vi": "Vietnamese"
+        }
+    },
+    {
+        "title": "Timor-Leste - Subnational Population Statistics",
+        "id": "0a27693a-c453-4320-8d89-6b75025e1ac2",
+        "theme": "population statistics",
+        "datasetDescription": "Timor-Leste administrative level 0 (country), 1 (municipality), and 2 (administrative post) age and sex disaggregated population statistics.\r\n\r\nREFERENCE YEAR:  2015\r\n\r\nThese tables are suitable for database or GIS linkage to the [Timor-Leste - Administrative Boundaries (levels 0 - 2)](https://data.humdata.org/dataset/timor-leste-administrative-boundaries-levels-0-3) shapefiles.",
+        "caveats": "Administrative level 2 data is only disaggregated by age.",
+        "tags": [
+            "census",
+            "common operational dataset - cod"
+        ],
+        "iso": [
+            "86b999e4-6981-401e-b57d-e15ad5a9ec86"
+        ],
+        "location": [
+            "Timor-Leste"
+        ],
+        "datasetSource": "National Statistics office of Timor Leste",
+        "organization": "OCHA ROAP",
+        "datasetDate": "01/01/2018",
+        "updateFrequency": "365",
+        "dueDate": "2019-05-22T13:39:24",
+        "license_id": "hdx-other",
+        "license_other": "humanitarian use only",
+        "license_title": "Other",
+        "methodology": "Census",
+        "methodology_other": null,
+        "format": {
+            "XLS": {
+                "resoource_id": "c4b86157-f600-457b-acb7-db9ebdff58fa",
+                "download_url": "https://data.humdata.org/dataset/0a27693a-c453-4320-8d89-6b75025e1ac2/resource/c4b86157-f600-457b-acb7-db9ebdff58fa/download/tls_2015census_pop.xls",
+                "description": "Timor-Leste administrative level 0 (country), 1 (municipality), and 2 (administrative post) age and Sex disaggregated population statistics"
+            },
+            "CSV": {
+                "resoource_id": "e5c46b45-1799-420e-a74b-100181efbc4c",
+                "download_url": "https://data.humdata.org/dataset/0a27693a-c453-4320-8d89-6b75025e1ac2/resource/e5c46b45-1799-420e-a74b-100181efbc4c/download/tls_2015census_pop_adm2_v2.csv",
+                "description": "Timor-Leste administrative level 2 (administrative post) age and Sex disaggregated population statistics"
+            }
+        },
+        "country": "Timor-Leste",
+        "admin0Name_en": "Timor-Leste",
+        "admin0Pcode": "TL",
+        "admin0_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/TLS_EN/MapServer/0/query?where=0%3D0&outFields=*&f=pjson",
+        "admin1Name_en": "Aileu",
+        "admin1Pcode": "TL02",
+        "admin1_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/TLS_EN/MapServer/1/query?where=0%3D0&outFields=*&f=pjson",
+        "admin2Name_en": "Aileu Vila",
+        "admin2Pcode": "TL0201",
+        "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/TLS_EN/MapServer/3/query?where=0%3D0&outFields=*&f=pjson",
+        "admin3Name_en": "Abafala",
+        "admin3Pcode": "TL030315",
+        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/TLS_EN/MapServer/5/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "en": "English"
         }
     },
     {
@@ -5145,7 +5530,7 @@
         "title": "Angola - Subnational Administrative Boundaries",
         "id": "a62b2816-7d2e-4e07-a794-0a1dcb507092",
         "theme": "administrative boundaries",
-        "datasetDescription": "Angola administrative level 0 (country), 1 (province), 2 (municipality | city council) and 3 (commune) boundary polygon, line, and point shapefiles, KMZ files, live services, and geodatabase; and gazetteer\r\n\r\nREFERENCE YEAR:  2018\r\n\r\nVetting and live service provision by [Information Technology Outreach Services (ITOS)](https://cviog.uga.edu/international-center/) with funding from USAID.\r\n\r\nThe administrative level 0-2 shapefiles are suitable for database or ArcGIS linkage to the [population statistics tables](https://data.humdata.org/dataset/angola-census-2014-final-and-preliminary-population-results).\r\n\r\nREVISION HISTORY\r\n20 February 2020:  shapefiles consolidated into one ZIP file\r\n",
+        "datasetDescription": "Angola administrative level 0 (country), 1 (province), 2 (municipality | city council) and 3 (commune) boundary polygon, line, and point shapefiles, KMZ files, live services, and geodatabase; and gazetteer\r\n\r\nREFERENCE YEAR:  2014\r\n\r\nVetting and live service provision by [Information Technology Outreach Services (ITOS)](https://cviog.uga.edu/international-center/) with funding from USAID.\r\n\r\nThe administrative level 0-2 shapefiles are suitable for database or ArcGIS linkage to the [Angola - Subnational Population Statistics](https://data.humdata.org/dataset/angola-census-2014-final-and-preliminary-population-results).\r\n\r\nREVISION HISTORY\r\n\r\n12 November 2020:  EMF files added\r\n\r\n20 February 2020:  shapefiles consolidated into one ZIP file\r\n",
         "caveats": "The administrative level 0 KMZ file is was created from a generalized version (tolerance 0.001 degrees) copy of the shapefile due to the large number of vertices.",
         "tags": [
             "administrative divisions",
@@ -5163,7 +5548,7 @@
         "organization": "OCHA ROSEA",
         "datasetDate": "08/30/2018",
         "updateFrequency": "365",
-        "dueDate": "2021-02-19T10:32:58",
+        "dueDate": "2021-11-12T13:40:21",
         "license_id": "hdx-other",
         "license_other": "humanitarian use only",
         "license_title": "Other",
@@ -5174,6 +5559,11 @@
                 "resoource_id": "5a6a70cd-f13c-4b80-a240-1fc360ed9a2b",
                 "download_url": "https://data.humdata.org/dataset/a62b2816-7d2e-4e07-a794-0a1dcb507092/resource/5a6a70cd-f13c-4b80-a240-1fc360ed9a2b/download/ago_adminboundaries_tabulardata.xlsx",
                 "description": "Angola administrative level 0 (country), 1 (province), 2 (municipality | city council) and 3 (commune) gazetteer"
+            },
+            "EMF": {
+                "resoource_id": "d7f54b06-97aa-4a7d-b235-959b3934a200",
+                "download_url": "https://data.humdata.org/dataset/a62b2816-7d2e-4e07-a794-0a1dcb507092/resource/d7f54b06-97aa-4a7d-b235-959b3934a200/download/ago_admbnda_gadm_ine_ocha_20180904_emf.zip",
+                "description": "Angola administrative level 0-3 EMF files"
             },
             "ZIPPED SHAPEFILE": {
                 "resoource_id": "72bc18a7-764c-4e35-82f3-e524aec0f332",
@@ -5220,6 +5610,7 @@
         "datasetDescription": "Zimbabwe administrative level 0 (country), 1 (province), 2 (district) and 3 (ward) boundary polygon, line, and point shapefiles, KMZ files, geodatabase, and live services, and gazetteer.\r\n\r\nREFERENCE YEAR 2018\r\n\r\nPlease note that administrative level 3 (ward) features are identified numerically.\r\n\r\nVetting and live service provision by [Information Technology Outreach Services (ITOS)](https://cviog.uga.edu/international-center/) with funding from USAID.\r\n\r\nThese shapefiles are suitable for linkage by P-code to the [Zimbabwe administrative levels 0 - 2 population statistics](https://data.humdata.org/dataset/zimbabwe-administrative-levels-0-2-population-statistics) CSV population statistics tables.",
         "caveats": "The administrative level 0 (country) and 1 (province) KMZ files were made from generalized (tolerance 0.001 degree) shapefiles.",
         "tags": [
+            "administrative divisions",
             "common operational dataset - cod",
             "gazetteer"
         ],
@@ -5343,9 +5734,10 @@
         "title": "Malawi administrative level 0-3 boundaries",
         "id": "20eb8e5b-134d-41d8-a56f-4f358f7faf16",
         "theme": "administrative boundaries",
-        "datasetDescription": "Malawi administrative level 0 (country), 1 (region), 2 (district or city council),  and 3 (traditional authority area) boundary polygon and line shapefiles and KMZ files and gazetteer.\r\n\r\nVetting and live service provision by [Information Technology Outreach Services (ITOS)](https://cviog.uga.edu/international-center/) with funding from USAID.\r\n\r\nP-codes are based on the NSO Admin 3 code system.\r\n\r\nSome humanitarian actors are using an alternative  28-unit administrative level 2 (district) structure instead of the endorsed 32-unit structure.  A lookup table is provided.\r\n\r\nThese shapefiles are suitable for database or ArcGIS linkage to the [Malawi administrative level 0-3 population statistics](https://data.humdata.org/dataset/malawi-administrative-level-0-3-population-statistics) tables.",
+        "datasetDescription": "Malawi administrative level 0 (country), 1 (region), 2 (district or city council),  and 3 (traditional authority area) boundary polygon and line shapefiles and KMZ files and gazetteer.\r\n\r\nREFERENCE YEAR:  2018\r\n\r\nVetting and live service provision by [Information Technology Outreach Services (ITOS)](https://cviog.uga.edu/international-center/) with funding from USAID.\r\n\r\nP-codes are based on the NSO Admin 3 code system.\r\n\r\nSome humanitarian actors are using an alternative  28-unit administrative level 2 (district) structure instead of the endorsed 32-unit structure.  A lookup table is provided.\r\n\r\nThese shapefiles are suitable for database or ArcGIS linkage to the [Malawi administrative level 0-3 population statistics](https://data.humdata.org/dataset/malawi-administrative-level-0-3-population-statistics) tables.",
         "caveats": "The administrative level 0 (country) polygon boundary KMZ file was made from a generalized (tolerance 0.0001 degree) source because of the large number of vertices. ",
         "tags": [
+            "administrative divisions",
             "common operational dataset - cod",
             "gazetteer"
         ],
@@ -5485,9 +5877,10 @@
         "title": "Mozambique - Subnational Administrative Boundaries",
         "id": "5e8d83a5-1210-49be-b7d9-cf286dbc15df",
         "theme": "administrative boundaries",
-        "datasetDescription": "Mozambique  administrative level 0 (country), 1 (province), 2 (district) and 3 (posto) boundary polygons, lines,  and gazetteer.\r\n\r\nVetting and live service provision by [Information Technology Outreach Services (ITOS)](https://cviog.uga.edu/international-center/) with funding from USAID.\r\n\r\nPLEASE NOTE that the Mozambique population statistics are not currently available.",
+        "datasetDescription": "Mozambique  administrative level 0 (country), 1 (province), 2 (district) and 3 (posto) boundary polygons, lines,  and gazetteer.\r\n\r\nREFERENCE YEAR:  2019\r\n\r\nVetting and live service provision by [Information Technology Outreach Services (ITOS)](https://cviog.uga.edu/international-center/) with funding from USAID.\r\n\r\nPLEASE NOTE that the Mozambique population statistics are not currently available.",
         "caveats": "10 JUNE 2019 UPDATE:\r\nThe administrative level 3 (posto) feature for \u201cMieze\u201d (formerly MZ0117, in its own \u201cPemba\u201d district) has been corrected to belong in the \u201cMetuge\u201d district and has been P-coded MZ010902.\r\n\r\n\r\n25 APRIL 2019 UPDATE:\r\nLines file with administrative level coding added to shapefiles.\r\n\r\n\r\n\r\n\r\nApril 10, 2019 update:\r\n\r\nShapefile projections changed to WGS94\r\nUnderscore (\"_\") characters in feature names changed to spaces.\r\nNO CHANGES MADE TO P-CODES.\r\n\r\nAffected resources:\r\ngazetteer:  moz_admbnda_2019_gazetteer_v4\r\nEMF files:  moz_adm_2019_EMF_v2.zip\r\nKMZ files:  moz_adm_2019_KMZ_v2.zip\r\nshapefiles:  moz_adm_2019_SHP_v3\r\n\r\n\r\nApril 8, 2019 update:\r\n\r\nEMF files added\r\nKMZ files added\r\nCOD-AB data sheet added.\r\n\r\nThe changes do not alter the previous shapefiles.\r\n\r\nThe administrative level 1 (province) KMZ file was generated from a generalized shapefile (tolerance 0.001 degree) because of the number of vertices.  The shapefile resource on this dataset is the original.\r\n\r\n\r\n\r\nApril 3, 2019 update:  administrative level 4 (settlement) features added for the Maputo City area.",
         "tags": [
+            "administrative divisions",
             "common operational dataset - cod",
             "gazetteer"
         ],
@@ -5753,6 +6146,64 @@
         }
     },
     {
+        "title": "Bhutan - Subnational Population Statistics",
+        "id": "8ad894a9-631e-4247-918f-63b9dbc25002",
+        "theme": "population statistics",
+        "datasetDescription": "Bhutan administrative level 0 (country) and 1 (district, dzongkhag) population statistics\r\n\r\nSex and age disaggregated at administrative levels 0 and 1\r\n\r\nThe CSV tables are suitable for database or GIS linkage to the administrative level 0 and 1 [Bhutan - Administrative Boundaries (levels 0 - 2)](https://data.humdata.org/dataset/bhutan-administrative-boundaries-levels-0-2) shapefiles and geodatabase feature classes.\r\n\r\n",
+        "caveats": null,
+        "tags": [
+            "baseline population",
+            "common operational dataset - cod",
+            "gazetteer"
+        ],
+        "iso": [
+            "btn"
+        ],
+        "location": [
+            "Bhutan"
+        ],
+        "datasetSource": "OCHA ROAP",
+        "organization": "OCHA ROAP",
+        "datasetDate": "02/01/2019",
+        "updateFrequency": "365",
+        "dueDate": "2020-02-01T12:07:26",
+        "license_id": "hdx-other",
+        "license_other": "humanitarian use only",
+        "license_title": "Other",
+        "methodology": "Other",
+        "methodology_other": "Obtained from government sources.\r\n\r\nP-coded by OCHA ROAP",
+        "format": {
+            "XLSX": {
+                "resoource_id": "66855009-9c15-4042-b1fa-79d0726a20f6",
+                "download_url": "https://data.humdata.org/dataset/8ad894a9-631e-4247-918f-63b9dbc25002/resource/66855009-9c15-4042-b1fa-79d0726a20f6/download/btn_adm_gazetteer.xls",
+                "description": "Bhutan administrative level 0 (country), 1 (district, dzongkhag), and 2 (block, gewog) gazetteer"
+            },
+            "CSV": {
+                "resoource_id": "0e564067-688f-4441-ab5d-25f94d4d9b2e",
+                "download_url": "https://data.humdata.org/dataset/8ad894a9-631e-4247-918f-63b9dbc25002/resource/0e564067-688f-4441-ab5d-25f94d4d9b2e/download/btn_pop_adm1.csv",
+                "description": "Bhutan administrative  1 (district, dzongkhag) population statistics"
+            },
+            "PDF": {
+                "resoource_id": "4cc5a8d1-3d7b-420a-ac13-385cf96dbe50",
+                "download_url": "https://data.humdata.org/dataset/8ad894a9-631e-4247-918f-63b9dbc25002/resource/4cc5a8d1-3d7b-420a-ac13-385cf96dbe50/download/btn-cod-ps-2019-02-01.pdf",
+                "description": "Bhutan COD-PS data sheet"
+            }
+        },
+        "country": "Bhutan",
+        "admin0Name_en": "Bhutan",
+        "admin0Pcode": "BT",
+        "admin0_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/BTN_EN/MapServer/0/query?where=0%3D0&outFields=*&f=pjson",
+        "admin1Name_en": "Bumthang",
+        "admin1Pcode": "BT001",
+        "admin1_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/BTN_EN/MapServer/1/query?where=0%3D0&outFields=*&f=pjson",
+        "admin2Name_en": "Athang",
+        "admin2Pcode": "BT01901",
+        "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/BTN_EN/MapServer/3/query?where=0%3D0&outFields=*&f=pjson",
+        "languageCode": {
+            "en": "English"
+        }
+    },
+    {
         "title": "Bangladesh - Subnational Population Statistics",
         "id": "fdf0606c-8a3b-421a-b3e8-903301e5b2ff",
         "theme": "population statistics",
@@ -5950,6 +6401,7 @@
         "datasetDescription": "Sri Lanka administrative levels 0 (country), 1 (province), 2 (district), 3 (divisional secretariat) and 4 (grama niladhari) boundary shapefiles, geodatabase, EMF files, KMZ files, and gazetteer\r\n\r\nREFERENCE YEAR:  2019\r\n\r\nVetting and live service provision by [Information Technology Outreach Services (ITOS)](https://cviog.uga.edu/international-center/) with funding from USAID.",
         "caveats": "The Administrative level 0, 1, and 2 KMZ files were made from generalized (tolerance 0.001 degree) shapefiles due to their large number of vertices.  The shapefiles posted are the originals.",
         "tags": [
+            "administrative divisions",
             "common operational dataset - cod",
             "gazetteer"
         ],
@@ -6207,6 +6659,7 @@
         "datasetDescription": "Georgia administrative level 0 (country), 1 (region, city, or autonomous republic), 2 (district or self-governing city), and 3 (community, etc.) boundaries\r\n\r\nVetting and live service provision by [Information Technology Outreach Services (ITOS)](https://cviog.uga.edu/international-center/) with funding from USAID.\r\n\r\n\r\nUPDATE\r\n20 May 2020\r\nThe geodatabase resource was updated.  The previous geodatabase was not the correct ITOS file.\r\n\r\nThese boundaries are suitable for database or GIS linkage to the [Georgia - Population Statistics](https://data.humdata.org/dataset/georgia-population-statistics)",
         "caveats": "The gazetteer defines administrative level 3 features, but level 3 polygons are unavailable.\r\n\r\nAdministrative level 2 features are unavailable for Tbilisi, the Autonomous Republic of Abkhazia, and for the area known as the Provisional Administration.\r\n\r\nThe KMZ files were made at all levels from generalized (tolerance 0.001 degree) versions of the shapefiles due to the high number of vertices.  The shapefiles provided are the originals.\r\n",
         "tags": [
+            "administrative divisions",
             "common operational dataset - cod",
             "gazetteer"
         ],
@@ -6293,9 +6746,10 @@
         "title": "Ethiopia - Subnational Administrative Boundaries",
         "id": "cb58fa1f-687d-4cac-81a7-655ab1efb2d0",
         "theme": "administrative boundaries",
-        "datasetDescription": "Ethiopia administrative levels 0 -3 boundaries and gazetteer\r\n\r\nREFERENCE YEAR:  2020\r\n\r\nVetting and live service provision by [Information Technology Outreach Services (ITOS)](https://cviog.uga.edu/international-center/) with funding from USAID.\r\n\r\nThese boundaries are suitable for database or GIS linkage to the [Ethiopia - Subnational Population Statistics](https://data.humdata.org/dataset/ethiopia-population-data-_-admin-level-0-3) tables.\r\n\r\nVersion history:\r\n\r\n28 October 2020:  Administrative level 3 alternate feature names added\r\n\r\n13 October 2020:  Complete revision\r\n\r\n30 October 2019:  Administrative level 3 feature \u201cBabile\u201d [original P-code ET050401] level 2 membership corrected from \u201cErer\u201d [P-code ET0504] to \u201cFafan\u201d [P-code ET0502], with new P-code [ET050203].\r\n\r\n4 September 2019:  Initial upload\r\n",
-        "caveats": "Lake T\u2019ana is not shown in administrative level 1 as it lies completely within the Amhara [ET03] kilil (region).  Similarly Lake Awasa is not shown in level 1 as it lies within (although bordering the edge of) SNNP (Southern Nations, Nationalities, and Peoples') [ET07] kilil.  Both lakes form holes in administrative levels 2 and 3.\r\nIn the administrative boundary dataset, two admin 3 units cannot be represented on maps because of their contested boundaries, but they are being used in all types of analysis. These are Dawe Serer (ET041199) in Oromia region and Quarsadula (ET050905) in Somali region. These two admin 3 units are included on HDX in other datasets, for example on the population statistics and humanitarian profile.",
+        "datasetDescription": "Ethiopia administrative levels 0 -3 boundaries and gazetteer\r\n\r\nREFERENCE YEAR:  2020\r\n\r\nVetting and live service provision by [Information Technology Outreach Services (ITOS)](https://cviog.uga.edu/international-center/) with funding from USAID.\r\n\r\nThese boundaries are suitable for database or GIS linkage to the [Ethiopia - Subnational Population Statistics](https://data.humdata.org/dataset/ethiopia-population-data-_-admin-level-0-3) tables.\r\n\r\nVersion history:\r\n\r\n11 November 2020:  additional gazetteer added to reflect the two additional features found in the COD-PS\r\n\r\n28 October 2020:  Administrative level 3 alternate feature names added\r\n\r\n13 October 2020:  Complete revision\r\n\r\n30 October 2019:  Administrative level 3 feature \u201cBabile\u201d [original P-code ET050401] level 2 membership corrected from \u201cErer\u201d [P-code ET0504] to \u201cFafan\u201d [P-code ET0502], with new P-code [ET050203].\r\n\r\n4 September 2019:  Initial upload\r\n",
+        "caveats": "Lake T\u2019ana is not shown in administrative level 1 as it lies completely within the Amhara [ET03] kilil (region).  Similarly Lake Awasa is not shown in level 1 as it lies within (although bordering the edge of) SNNP (Southern Nations, Nationalities, and Peoples') [ET07] kilil.  Both lakes form holes in administrative levels 2 and 3.\r\nIn the administrative boundary dataset, two admin 3 units cannot be represented on maps because of their contested boundaries, but they are being used in all types of analysis. These are Dawe Serer (ET041199) in Oromia region and Quarsadula (ET050905) in Somali region. These two admin 3 units are included on HDX in other datasets, for example on the population statistics and humanitarian profile, and in the 'eth_gazetteer_20201102' gazetteer corresponding to population statistics",
         "tags": [
+            "administrative divisions",
             "common operational dataset - cod",
             "gazetteer"
         ],
@@ -6309,7 +6763,7 @@
         "organization": "OCHA Ethiopia",
         "datasetDate": "10/13/2020",
         "updateFrequency": "365",
-        "dueDate": "2021-10-28T10:30:01",
+        "dueDate": "2021-11-02T07:39:15",
         "license_id": "hdx-other",
         "license_other": "humanitarian use only",
         "license_title": "Other",
@@ -6322,9 +6776,9 @@
                 "description": "Ethiopia COD-AB data sheet"
             },
             "XLSX": {
-                "resoource_id": "d3c856b1-a252-461f-8531-ecbb5fb7a6b3",
-                "download_url": "https://data.humdata.org/dataset/cb58fa1f-687d-4cac-81a7-655ab1efb2d0/resource/d3c856b1-a252-461f-8531-ecbb5fb7a6b3/download/eth_adminboundaries_tabulardata_20201028.xlsx",
-                "description": "Ethiopia administrative levels 0 (country), 1 (region or chartered city; kilil or astedader akabibi), 2 (zone), and 3 (woreda; district) gazetteer"
+                "resoource_id": "5a5979c5-c591-4abe-9d0a-ffb2000fa1c9",
+                "download_url": "https://data.humdata.org/dataset/cb58fa1f-687d-4cac-81a7-655ab1efb2d0/resource/5a5979c5-c591-4abe-9d0a-ffb2000fa1c9/download/eth_gazetteer_20201102.xlsx",
+                "description": "Ethiopia administrative level 0-3 gazetteer corresponding to population statistics"
             },
             "SHP": {
                 "resoource_id": "63c4a9af-53a7-455b-a4d2-adcc22b48d28",
@@ -6482,9 +6936,10 @@
         "title": "South Sudan - Subnational Population Statistics",
         "id": "5116cb9f-5db8-4f56-9766-735d88dcbbfa",
         "theme": "population statistics",
-        "datasetDescription": "South Sudan administrative levels 0 (country), 1 (state) and 2 (county) 2020 population estimates.\r\n\r\nREFERENCE YEAR:  2020\r\n\r\nThis population statistics Common Operational Database (COD-PS) was endorsed by the South Sudan Inter Cluster Working Group (ICWG) and Humanitarian Country Team (HCT) in September, 2019.\r\n\r\nThese tables are suitable for database or GIS link to the [South Sudan - Subnational Administrative Boundaries](https://data.humdata.org/dataset/south-sudan-administrative-boundaries).\r\n",
-        "caveats": "Data are rounded to integers from the source projections.\r\n\r\nThe gazetteer is the file processed by ITOS for the boundary files.",
+        "datasetDescription": "South Sudan administrative level 0-2 2021 population estimates.\r\n\r\nREFERENCE YEAR:  2021\r\n\r\n12 November 2020 update:  \r\nAdjustments due to field validations.  total population estimate increased by 0.2% from 12,031,598 to 12,060,167 .\r\n\r\n\r\n\r\nThis population statistics Common Operational Database (COD-PS) was endorsed the Government and South Sudan National Bureau of Statistics in November 2020.\r\n\r\nThese tables are suitable for database or GIS link to the [South Sudan - Subnational Administrative Boundaries](https://data.humdata.org/dataset/south-sudan-administrative-boundaries).\r\n",
+        "caveats": "The gazetteer is the file processed by ITOS for the boundary files.\r\n\r\nNo population statistics are available for Abyei Region.\r\n\r\nTotals vary slightly due to rounding of the projection estimates.",
         "tags": [
+            "administrative divisions",
             "baseline population",
             "common operational dataset - cod",
             "gazetteer"
@@ -6495,31 +6950,26 @@
         "location": [
             "South Sudan"
         ],
-        "datasetSource": "FSNMS [Food Security and Nutrition Monitoring Systems], South Sudan National Bureau of Statistics [SSNBS], OCHA, IPC Technical Working Group, Population Working Group [SSPWG]",
+        "datasetSource": "FSNMS [Food Security and Nutrition Monitoring Systems], South Sudan National Bureau of Statistics [SSNBS], OCHA, IPC Technical Working Group, Population Working Group [SSPWG], IOM and UNHCR",
         "organization": "OCHA South Sudan",
-        "datasetDate": "09/22/2020",
+        "datasetDate": "11/03/2020",
         "updateFrequency": "365",
-        "dueDate": "2021-09-22T11:16:50",
+        "dueDate": "2021-11-12T14:39:40",
         "license_id": "hdx-other",
         "license_other": "humanitarian use only",
         "license_title": "Other",
         "methodology": "Other",
-        "methodology_other": "Mixed methods population projections",
+        "methodology_other": "Population projections driven by FSNMS [Food Security and Nutrition Monitoring Systems] countrywide assessments in the absence of official census",
         "format": {
-            "PDF": {
-                "resoource_id": "188db1ec-9a69-4868-9656-0263ec08d9ad",
-                "download_url": "https://data.humdata.org/dataset/5116cb9f-5db8-4f56-9766-735d88dcbbfa/resource/188db1ec-9a69-4868-9656-0263ec08d9ad/download/ssd-cod-ps-2020_09_22.pdf",
-                "description": "South Sudan COD-PS data sheet"
-            },
             "XLSX": {
                 "resoource_id": "d57b3d1a-c297-4a91-a676-b0de55df6af7",
-                "download_url": "https://data.humdata.org/dataset/5116cb9f-5db8-4f56-9766-735d88dcbbfa/resource/d57b3d1a-c297-4a91-a676-b0de55df6af7/download/ssd_admpop_2020.xlsx",
-                "description": "South Sudan administrative level 0-2 2020 sex and age disaggregated population estimates"
+                "download_url": "https://data.humdata.org/dataset/5116cb9f-5db8-4f56-9766-735d88dcbbfa/resource/d57b3d1a-c297-4a91-a676-b0de55df6af7/download/20201102_2020_2021_south_sudan_cod-population_endorsed_v2.xlsx",
+                "description": "South Sudan administrative level 0-2 2021 sex and age disaggregated population estimates"
             },
             "CSV": {
                 "resoource_id": "209b6acb-99d0-4055-878e-e1a68618abe1",
-                "download_url": "https://data.humdata.org/dataset/5116cb9f-5db8-4f56-9766-735d88dcbbfa/resource/209b6acb-99d0-4055-878e-e1a68618abe1/download/ssd_admpop_adm2_2020.csv",
-                "description": "South Sudan administrative level 2 2020 sex and age disaggregated population estimates"
+                "download_url": "https://data.humdata.org/dataset/5116cb9f-5db8-4f56-9766-735d88dcbbfa/resource/209b6acb-99d0-4055-878e-e1a68618abe1/download/ssd_admpop_adm2_2021_v2.csv",
+                "description": "South Sudan administrative level 2 2021 sex and age disaggregated population estimates"
             }
         },
         "country": "South Sudan",
@@ -6540,8 +6990,8 @@
         "title": "Ethiopia - Subnational Population Statistics",
         "id": "3d9b037f-5112-4afd-92a7-190a9082bd80",
         "theme": "population statistics",
-        "datasetDescription": "Ethiopia administrative level 0-3 2021 projected population statistics\r\n\r\nREFERENCE YEAR:  2021\r\n\r\nThese tables are suitable for database or GIS linkage to the [Ethiopia - Subnational Administrative Boundaries](https://data.humdata.org/dataset/ethiopia-cod-ab).",
-        "caveats": "Two administrative level 3 units are not represented in the COD-AB because of their contested boundaries:  Dawe Serer [ET041199] in Oromia region and Quarsadula [ET050905] in Somali region. ",
+        "datasetDescription": "Ethiopia administrative level 0-3 2021 projected population statistics\r\n\r\nREFERENCE YEAR:  2021\r\n\r\nThese tables are suitable for database or GIS linkage to the [Ethiopia - Subnational Administrative Boundaries](https://data.humdata.org/dataset/ethiopia-cod-ab).\r\n\r\n11 NOVEMBER 2020 UPDATE: \r\nAdditional gazetteer corresponding to the population statistics added.  See caveats.\r\nCorrection made to administrative level 3 CSV file",
+        "caveats": "Two administrative level 3 units are not represented in the COD-AB because of their contested boundaries:  Dawe Serer [ET041199] in Oromia region and Quarsadula [ET050905] in Somali region.   These features are included in the 'eth_gazetteer_20201102.xlsx' but excluded from the reference ITOS 'eth_adminboundaries_tabulardata_20201028.xlsx' gazetteer.",
         "tags": [
             "baseline population",
             "common operational dataset - cod"
@@ -6556,7 +7006,7 @@
         "organization": "OCHA Ethiopia",
         "datasetDate": "10/28/2020",
         "updateFrequency": "365",
-        "dueDate": "2021-10-28T10:18:15",
+        "dueDate": "2021-11-02T07:36:13",
         "license_id": "hdx-other",
         "license_other": "humanitarian use only",
         "license_title": "Other",
@@ -6575,7 +7025,7 @@
             },
             "CSV": {
                 "resoource_id": "3f8150d4-6d5d-4659-a0a8-586e4689ae65",
-                "download_url": "https://data.humdata.org/dataset/3d9b037f-5112-4afd-92a7-190a9082bd80/resource/3f8150d4-6d5d-4659-a0a8-586e4689ae65/download/eth_admpop_adm3_20201028.csv",
+                "download_url": "https://data.humdata.org/dataset/3d9b037f-5112-4afd-92a7-190a9082bd80/resource/3f8150d4-6d5d-4659-a0a8-586e4689ae65/download/eth_admpop_adm3_20201102.csv",
                 "description": "Ethiopia administrative level 3 2021 projected population statistics"
             }
         },
