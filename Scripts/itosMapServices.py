@@ -42,6 +42,7 @@ def itosMapServises():
     for codData in tqdm(codCountry,desc='Services'):
         
         codCountry_url = 'https://gistmaps.itos.uga.edu/arcgis/rest/services/'+codData["name"]+'/MapServer/query?where=0%3D0&outFields=*&f=pjson'
+        
         adminAcessList = ['Admin0', 'Admin1', 'Admin2', 'Admin3',]
 
         countryDataDict = getJsonData(codCountry_url)
@@ -51,7 +52,8 @@ def itosMapServises():
         for layer in countryDataDict['layers']:
             if layer['name'] in adminAcessList:
                 admin = layer['name'].lower()
-                adminURL = 'https://gistmaps.itos.uga.edu/arcgis/rest/services/'+codData["name"]+'/MapServer/'+str(layer['id'])+'/query?where=0%3D0&outFields=*&f=pjson'
+#                 adminURL = 'https://gistmaps.itos.uga.edu/arcgis/rest/services/'+codData["name"]+'/MapServer/'+str(layer['id'])+'/query?where=0%3D0&outFields=*&f=pjson'
+                adminURL = 'https://gistmaps.itos.uga.edu/arcgis/rest/services/'+codData["name"]+'/MapServer/'+str(layer['id'])+'/query?where=0%3D0&text=&objectIds=&time=&geometry=&geometryType=esriGeometryEnvelope&inSR=&spatialRel=esriSpatialRelIntersects&relationParam=&outFields=*&returnGeometry=false&returnTrueCurves=false&maxAllowableOffset=&geometryPrecision=&outSR=&returnIdsOnly=false&returnCountOnly=false&orderByFields=&groupByFieldsForStatistics=&outStatistics=&returnZ=false&returnM=false&gdbVersion=&returnDistinctValues=false&resultOffset=&resultRecordCount=&queryByDistance=&returnExtentsOnly=false&datumTransformation=&parameterValues=&rangeValues=&f=pjson'
 
                 adminData = getJsonData(adminURL)
 
@@ -82,7 +84,7 @@ def itosMapServises():
     return jsonData
 
 def addLanguageCode(metaData):
-    languageCode = requests.get('https://datahub.io/core/language-codes/r/language-codes.json').json()
+    languageCodes = requests.get('https://datahub.io/core/language-codes/r/language-codes.json').json()
     languageDict = {}
     for langDict in languageCodes:
         alpha2 = langDict['alpha2']
@@ -90,15 +92,15 @@ def addLanguageCode(metaData):
         languageDict[alpha2] = language
         
     for metaDict in metaData:
-    adminName = [key for key,value in metaDict.items() if key.startswith('admin0Name') and len(key)==(len('admin0Name')+3)]
-    if adminName:
-        metaDict['languageCode'] = {}
-        for admin0 in adminName:
-            alpha2 = admin0[-2:]
-            if alpha2 in languageDict:
-                metaDict['languageCode'].update({alpha2:languageDict[alpha2]})
-            else:
-                metaDict['languageCode'].update({alpha2:'unknown'})
+        adminName = [key for key,value in metaDict.items() if key.startswith('admin0Name') and len(key)==(len('admin0Name')+3)]
+        if adminName:
+            metaDict['languageCode'] = {}
+            for admin0 in adminName:
+                alpha2 = admin0[-2:]
+                if alpha2 in languageDict:
+                    metaDict['languageCode'].update({alpha2:languageDict[alpha2]})
+                else:
+                    metaDict['languageCode'].update({alpha2:'unknown'})
                 
     return metaData
 
