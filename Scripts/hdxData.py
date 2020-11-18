@@ -159,6 +159,7 @@ def getCODData(tags, themeList):
                     'organization': dataset['organization']['title'],
                     'datasetDate': dataset['dataset_date'],
                     'updateFrequency':dataset['data_update_frequency'],
+                    'last_modified':dataset['last_modified'],
                     'dueDate': dataset['due_date'],
                     'license_id': dataset['license_id'],
                     'license_other':dataset['license_other'],
