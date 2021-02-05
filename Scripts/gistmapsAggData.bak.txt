@@ -1,0 +1,170 @@
+[
+    {
+        "admin0Name": "Angola", 
+        "admin0Pcode": "AO", 
+        "url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/AGO_EN/MapServer/0/", 
+        "country": "Angola"
+    }, 
+    {
+        "admin0Name": "", 
+        "admin0Pcode": "BDI", 
+        "url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/BDI_FR/MapServer/0/", 
+        "country": ""
+    }, 
+    {
+        "admin0Name": "Benin", 
+        "admin0Pcode": "BJ", 
+        "url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/BEN_FR/MapServer/0/", 
+        "country": "Benin"
+    }, 
+    {
+        "admin0Name": "", 
+        "admin0Pcode": "BF", 
+        "url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/BFA_FR/MapServer/0/", 
+        "country": ""
+    }, 
+    {
+        "admin0Name": "Bangladesh", 
+        "admin0Pcode": "BD", 
+        "url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/BGD_EN/MapServer/0/", 
+        "country": "Bangladesh"
+    }, 
+    {
+        "admin0Name": "", 
+        "admin0Pcode": "BO", 
+        "url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/BOL_ES/MapServer/0/", 
+        "country": ""
+    }, 
+    {
+        "admin0Name": "", 
+        "admin0Pcode": "CF", 
+        "url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/CAF_FR/MapServer/0/", 
+        "country": ""
+    }, 
+    {
+        "admin0Name": "", 
+        "admin0Pcode": "CI", 
+        "url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/CIV_FR/MapServer/0/", 
+        "country": ""
+    }, 
+    {
+        "admin0Name": "Cameroon", 
+        "admin0Pcode": "CM", 
+        "url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/CMR_EN/MapServer/0/", 
+        "country": "Cameroon"
+    }, 
+    {
+        "admin0Name": "Cameroon", 
+        "admin0Pcode": "CM", 
+        "url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/CMR_FR/MapServer/0/", 
+        "country": "Cameroon"
+    }, 
+    {
+        "admin0Name": "", 
+        "admin0Pcode": "CD", 
+        "url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/COD_FR/MapServer/0/", 
+        "country": ""
+    }, 
+    {
+        "admin0Name": "", 
+        "admin0Pcode": "CD", 
+        "url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/COD_FR/MapServer/0/", 
+        "country": ""
+    }, 
+    {
+        "admin0Name": "", 
+        "admin0Pcode": "CG", 
+        "url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/COG_FR/MapServer/0/", 
+        "country": ""
+    }, 
+    {
+        "admin0Name": "", 
+        "admin0Pcode": "CO", 
+        "url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/COL_ES/MapServer/0/", 
+        "country": ""
+    }, 
+    {
+        "admin0Name": "Comoros (the)", 
+        "admin0Pcode": "KM", 
+        "url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/COM_EN/MapServer/0/", 
+        "country": "Comoros (the)"
+    }, 
+    {
+        "admin0Name": "Ecuador", 
+        "admin0Pcode": "EC", 
+        "url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/ECU_ES/MapServer/0/", 
+        "country": "Ecuador"
+    }, 
+    {
+        "admin0Name": "Egypt", 
+        "admin0Pcode": "EG", 
+        "url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/EGY_AR/MapServer/0/", 
+        "country": "Egypt"
+    }, 
+    {
+        "admin0Name": "Egypt", 
+        "admin0Pcode": "EG", 
+        "url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/EGY_EN/MapServer/0/", 
+        "country": "Egypt"
+    }, 
+    {
+        "admin0Name": "Eritrea", 
+        "admin0Pcode": "ER", 
+        "url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/ERI_EN/MapServer/0/", 
+        "country": "Eritrea"
+    }, 
+    {
+        "admin0Name": "Ethiopia", 
+        "admin0Pcode": "ET", 
+        "url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/ETH_EN/MapServer/0/", 
+        "country": "Ethiopia"
+    }, 
+    {
+        "admin0Name": "Georgia", 
+        "admin0Pcode": "GE", 
+        "url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/GEO_EN/MapServer/0/", 
+        "country": "Georgia"
+    }, 
+    {
+        "admin0Name": "Georgia", 
+        "admin0Pcode": "GE", 
+        "url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/GEO_KA/MapServer/0/", 
+        "country": "Georgia"
+    }, 
+    {
+        "admin0Name": "", 
+        "admin0Pcode": "GN", 
+        "url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/GIN_FR/MapServer/0/", 
+        "country": ""
+    }, 
+    {
+        "admin0Name": "", 
+        "admin0Pcode": "GT", 
+        "url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/GTM_ES/MapServer/0/", 
+        "country": ""
+    }, 
+    {
+        "admin0Name": "", 
+        "admin0Pcode": "HN", 
+        "url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/HND_ES/MapServer/0/", 
+        "country": ""
+    }, 
+    {
+        "admin0Name": "Haiti", 
+        "admin0Pcode": "HT", 
+        "url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/HTI_EN/MapServer/0/", 
+        "country": "Haiti"
+    }, 
+    {
+        "admin0Name": "Haiti", 
+        "admin0Pcode": "HT", 
+        "url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/HTI_FR/MapServer/0/", 
+        "country": "Haiti"
+    }, 
+    {
+        "admin0Name": "Haiti", 
+        "admin0Pcode": "HT", 
+        "url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/HTI_HT/MapServer/0/", 
+        "country": "Haiti"
+    }
+]
