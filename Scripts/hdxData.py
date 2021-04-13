@@ -146,8 +146,9 @@ def getCODData(tags, themeList):
                 dataset[key] = None
         
         isoCodes = getISOCode(dataset['groups'])
-        
-        dataDict = {'title': dataset['title'],
+
+        if dataset['is_requestdata_type']:
+            dataDict = {'title': dataset['title'],
                     'id': dataset['id'],
                     'theme': theme,
                     'datasetDescription': dataset['notes'],
@@ -161,11 +162,37 @@ def getCODData(tags, themeList):
                     'updateFrequency':dataset['data_update_frequency'],
                     'last_modified':dataset['last_modified'],
                     'dueDate': dataset['due_date'],
-                    'license_id': dataset['license_id'],
+                    #'license_id': dataset['license_id'],
                     'license_other':dataset['license_other'],
                     'license_title':dataset['license_title'],
                     'methodology': dataset['methodology'],
                     'methodology_other': dataset['methodology_other'],
+                    'is_requestdata_type':dataset['is_requestdata_type'],
+                    'file_types':dataset['file_types'],
+                    'field_names':dataset['field_names'],
+                    'format':{}
+            }
+        else:
+            dataDict = {'title': dataset['title'],
+                    'id': dataset['id'],
+                    'theme': theme,
+                    'datasetDescription': dataset['notes'],
+                    'caveats': dataset['caveats'],
+                    'tags': dataset.get_tags(),
+                    'iso': isoCodes,
+                    'location': json.loads(dataset['solr_additions'])['countries'],
+                    'datasetSource': dataset['dataset_source'],
+                    'organization': dataset['organization']['title'],
+                    'datasetDate': dataset['dataset_date'],
+                    'updateFrequency':dataset['data_update_frequency'],
+                    'last_modified':dataset['last_modified'],
+                    'dueDate': dataset['due_date'],
+                    #'license_id': dataset['license_id'],
+                    'license_other':dataset['license_other'],
+                    'license_title':dataset['license_title'],
+                    'methodology': dataset['methodology'],
+                    'methodology_other': dataset['methodology_other'],
+                    'is_requestdata_type':dataset['is_requestdata_type'],
                     'format':{}
         }
         resources = Dataset.get_all_resources([dataset])
@@ -174,7 +201,7 @@ def getCODData(tags, themeList):
             restype = {res['format']:{'resource_id':res['id'],
                                       'created':res['created'],
                                       'last_modified':res['last_modified'],
-                                      'revision_last_updated':res['revision_last_updated'],
+                                      #'revision_last_updated':res['revision_last_updated'],
                                       'download_url':res['download_url'],
                                       'description':res['description']
                                      }
@@ -227,3 +254,5 @@ def main(tags, themeList, fileName = None):
     codData = getCODData(tags, themeList)
     fileName = fileValidation(fileName)
     saveJSON(codData, fileName)
+
+main('common operational dataset - cod,administrative divisions', "['administrative boundaries','population statistics']")
