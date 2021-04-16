@@ -1,5 +1,72 @@
 [
     {
+        "title": "Mali - Subnational Administrative Boundaries",
+        "id": "d2ec62bb-5a93-436d-8297-88b3ee9b6818",
+        "theme": "a",
+        "datasetDescription": "The dataset represents the Common Operational Data (COD) for administrative boundaries of Mali.  Each administrative unit contains the p-code and name. \r\n\r\nAdmin COD datasets for Mali endorsed by IMWG in 2015; see metadata for description of cleaning and processing performed by ITOS.\r\n\r\nVetting and live service provision by [Information Technology Outreach Services (ITOS)](https://cviog.uga.edu/international-center/) with funding from USAID.\r\n\r\n15 October update:\r\nfile types changed to 'zipped shapefile' and 'zipped geodatabase'",
+        "caveats": "This Administrative Boundary COD (COD-AB) contains 701 records, while the Administrative level 3 (commune) COD-PS dataset contains 703 records.",
+        "tags": [
+            "administrative divisions",
+            "common operational dataset - cod",
+            "gazetteer",
+            "geodata"
+        ],
+        "iso": [
+            "mli"
+        ],
+        "location": [
+            "Mali"
+        ],
+        "datasetSource": "DNCT - Direction Nationale des Collectivit\u00e9s Territoriales",
+        "organization": "OCHA Mali",
+        "datasetDate": "[2015-06-01T00:00:00 TO *]",
+        "updateFrequency": "365",
+        "last_modified": "2019-08-07T19:57:55.091709",
+        "dueDate": "2021-08-27T15:33:38",
+        "license_other": null,
+        "license_title": "Creative Commons Attribution for Intergovernmental Organisations",
+        "methodology": "Other",
+        "methodology_other": "Data published by Direction Nationale des Collectivit\u00e9s Territoriales and served by Information Technology Outreach Services (ITOS)\r\nA complete evaluation of the dataset can be found here: https://docs.google.com/spreadsheet/ccc?key=0Akd0XzQOJrQvdEhtaWNiajZQbmF3cFBFNlBNMFJFdnc#gid=0\r\n",
+        "is_requestdata_type": false,
+        "format": {
+            "XLSX": {
+                "resource_id": "9dcd9787-f2bb-4121-9003-d2267ce73895",
+                "created": "2019-08-07T19:37:21.581749",
+                "last_modified": "2019-08-07T19:37:19.409019",
+                "download_url": "https://data.humdata.org/dataset/d2ec62bb-5a93-436d-8297-88b3ee9b6818/resource/9dcd9787-f2bb-4121-9003-d2267ce73895/download/mli_adminboundaries_tabulardata.xlsx",
+                "description": "Mali administrative level 0 (country), 1 (region or capital district), 2 (cercle), or 3 (commune) gazetteer"
+            },
+            "SHP": {
+                "resource_id": "186a227b-6e9c-4b90-8634-b6369da07e17",
+                "created": "2019-08-07T19:48:59.833500",
+                "last_modified": "2019-08-07T19:48:58.501607",
+                "download_url": "https://data.humdata.org/dataset/d2ec62bb-5a93-436d-8297-88b3ee9b6818/resource/186a227b-6e9c-4b90-8634-b6369da07e17/download/mli_adm_1m_dnct_2019_shp.zip",
+                "description": "Mali administrative level 0 (country), 1 (region or capital district), 2 (cercle), or 3 (commune) shapefiles"
+            },
+            "EMF": {
+                "resource_id": "d3fa6359-4c1b-455e-a753-250d8df603f2",
+                "created": "2019-08-07T19:49:04.873968",
+                "last_modified": "2019-08-07T19:49:03.380914",
+                "download_url": "https://data.humdata.org/dataset/d2ec62bb-5a93-436d-8297-88b3ee9b6818/resource/d3fa6359-4c1b-455e-a753-250d8df603f2/download/mli_adm_1m_dnct_2019_emf.zip",
+                "description": "Mali administrative level 0 (country), 1 (region or capital district), 2 (cercle), or 3 (commune) EMF files"
+            },
+            "Geodatabase": {
+                "resource_id": "6daca6b4-6c35-4599-8126-d1851ace73fb",
+                "created": "2019-08-07T19:57:56.749633",
+                "last_modified": "2019-08-07T19:57:55.091709",
+                "download_url": "https://data.humdata.org/dataset/d2ec62bb-5a93-436d-8297-88b3ee9b6818/resource/6daca6b4-6c35-4599-8126-d1851ace73fb/download/mli_adm_1m_dnct_2019.gdb.zip",
+                "description": "Mali administrative level 0 (country), 1 (region or capital district), 2 (cercle), or 3 (commune) geodatabase"
+            },
+            "Geoservice": {
+                "resource_id": "b4ff6a29-c1c9-491c-8391-858281d644e7",
+                "created": "2017-05-20T13:27:23.820868",
+                "last_modified": "2017-10-24T11:43:12.719676",
+                "download_url": "http://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/MLI_pcode/MapServer",
+                "description": "his service is intended as a labelling layer for PCODES from OCHA's Common Operational Datasets for Mali. As a map service it is intended to be used in conjunction with the basemap located at http://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/MLI_FR/MapServer. The service also provides feature access to Administrative Boundaries geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services. "
+            }
+        }
+    },
+    {
         "title": "Peru - Subnational Administrative Boundaries",
         "id": "54fc7f4d-f4c0-4892-91f6-2fe7c1ecf363",
         "theme": "a",
@@ -247,6 +314,65 @@
                 "last_modified": "2020-04-29T10:03:43.727049",
                 "download_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/ERI_pcode/MapServer",
                 "description": "This service is intended as a labelling layer for PCODES from OCHA's Common Operational Datasets for Eritrea. As a map service it is intended to be used in conjunction with the basemap located at http://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/ERI_EN/MapServer. The service also provides feature access to Administrative Boundaries geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services"
+            }
+        }
+    },
+    {
+        "title": "Kenya - Subnational Administrative Boundaries",
+        "id": "2c0b7571-4bef-4347-9b81-b2174c13f9ef",
+        "theme": "a",
+        "datasetDescription": "Kenya administrative level 0 (country), 1 (county), and 2 (sub-county) boundary polygon and line shapefiles, geodatabase, live services, and gazeteer\r\n\r\nVetting and live service provision by [Information Technology Outreach Services (ITOS)](https://cviog.uga.edu/international-center/) with funding from USAID.\r\n\r\nUPDATE HISTORY\r\n\r\n4 December 2019:\r\nCorrections to Narok county\r\n\r\nNovember 2017:\r\nUpdated by Field Information and Coordination Support Section (FICSS), Division of Programme Support and Management (DPSM), UNHCR\r\n\r\n",
+        "caveats": "This dataset is not an official administrative layer from the National authorities but was agreed and endorsed for operational use by IMWG in October 2016\r\n\r\nThe boundaries and names shown and the designations used on this map do not imply official endorsement or acceptance by the United Nations.",
+        "tags": [
+            "administrative divisions",
+            "common operational dataset - cod",
+            "gazetteer"
+        ],
+        "iso": [
+            "ken"
+        ],
+        "location": [
+            "Kenya"
+        ],
+        "datasetSource": "IEBC",
+        "organization": "OCHA ROSEA",
+        "datasetDate": "[2018-07-03T00:00:00 TO *]",
+        "updateFrequency": "365",
+        "last_modified": "2020-02-20T13:21:29.170284",
+        "dueDate": "2021-02-19T13:21:29",
+        "license_other": null,
+        "license_title": "Creative Commons Attribution for Intergovernmental Organisations",
+        "methodology": "Other",
+        "methodology_other": "Extensive  amount of topological errors (gaps and overlaps) were fixed by using ArcMap Integrate tool. Applying 30 meters tolerance allowed to preserve relatively high level of resolution.\r\nAfterwards Align edge tool was used to correct all the remaining errors that were not rectified by the Integrate tool.\r\n\r\nCodes were reformatted to meet FICSS-UNHCR standards. New generation of codes is based on original County_cod and Const_Code. (Codes are preserve in the dataset in DSCodeAdm2 and DSCodeAdm1 fields\u2013 DSC (Data Source Code))\r\n\r\nMoreover, a large part of the Belgut and Konoin Admin2 units were overlapping.  The issue was resolved using https://softkenya.com/kenya/belgut-constituency/ as a reference.\r\n\r\nDue to the discrepancies between Admin1 and Admin 2 boundaries listed in the previous email, the Admin1 layer was created by dissolving Admin2 boundaries based on constituency name field.\r\n\r\n",
+        "is_requestdata_type": false,
+        "format": {
+            "XLSX": {
+                "resource_id": "d3a5be7a-a15a-4cff-8cf1-908b3df3bbef",
+                "created": "2017-05-10T14:36:14.392620",
+                "last_modified": "2019-12-04T08:45:58.846323",
+                "download_url": "https://data.humdata.org/dataset/2c0b7571-4bef-4347-9b81-b2174c13f9ef/resource/d3a5be7a-a15a-4cff-8cf1-908b3df3bbef/download/ken_adminboundaries_tabulardata.xlsx",
+                "description": "Kenya administrative level 0 (country), 1 (county), and 2 (sub-county) boundary gazetteer"
+            },
+            "SHP": {
+                "resource_id": "03df9cbb-0b4f-4f22-9eb7-3cbd0157fd3d",
+                "created": "2019-12-04T08:46:15.929542",
+                "last_modified": "2020-02-20T13:21:29.170284",
+                "download_url": "https://data.humdata.org/dataset/2c0b7571-4bef-4347-9b81-b2174c13f9ef/resource/03df9cbb-0b4f-4f22-9eb7-3cbd0157fd3d/download/ken_adm_iebc_20191031_shp.zip",
+                "description": "Kenya administrative level 0 (country), 1 (county), and 2 (sub-county) boundary shapefiles"
+            },
+            "Geodatabase": {
+                "resource_id": "9edf6440-339f-4eda-b395-33f7d69929d5",
+                "created": "2019-12-04T08:46:28.094611",
+                "last_modified": "2019-12-04T08:46:25.463386",
+                "download_url": "https://data.humdata.org/dataset/2c0b7571-4bef-4347-9b81-b2174c13f9ef/resource/9edf6440-339f-4eda-b395-33f7d69929d5/download/ken_adminboundaries_working.gdb.zip",
+                "description": "Kenya administrative level 0 (country), 1 (county), and 2 (sub-county) boundary geodatabase"
+            },
+            "Geoservice": {
+                "resource_id": "a62c58d5-1a56-4c00-8537-f6959ce3dc53",
+                "created": "2018-07-18T14:07:56.336185",
+                "last_modified": "2019-04-02T15:35:21.108313",
+                "download_url": "http://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/KEN_pcode/MapServer",
+                "description": "This service is intended as a labelling layer for PCODES from OCHA's Common Operational Datasets for Kenya. As a map service it is intended to be used in conjunction with the basemap located at http://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/KEN_EN/MapServer. The service also provides feature access to Administrative Boundaries. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services. "
             }
         }
     },
@@ -2396,7 +2522,7 @@
         "title": "Lao People's Democratic Republic - Subnational Administrative Boundaries",
         "id": "9eb6aff1-9e3f-43d3-99a6-f415fe4b4dff",
         "theme": "'",
-        "datasetDescription": "Laos administrative level 0 (country), 1 (province / khoueng or prefecture / kampheng nakhon), and 2 (district / muang) boundary shapefiles, , and EMF files, geodatabase, and gazetteer\r\n\r\nVetting and live service provision by [Information Technology Outreach Services (ITOS)](https://cviog.uga.edu/international-center/) with funding from USAID.\r\n\r\nThese shapefiles are suitable for database or GIS linkage to the [Lao People's Democratic Republic levels 0-2 Population Statistics](https://data.humdata.org/dataset/lao-pdr-population-statistics) COD-PS CSV tables.",
+        "datasetDescription": "Laos administrative level 0 (country), 1 (province / khoueng or prefecture / kampheng nakhon), and 2 (district / muang) boundary shapefiles, , and EMF files, geodatabase, and gazetteer\r\n\r\nVetting and live service provision by [Information Technology Outreach Services (ITOS)](https://cviog.uga.edu/international-center/) with funding from USAID.\r\n\r\nThese shapefiles are suitable for database or GIS linkage to the [Lao People's Democratic Republic - Subnational Population Statistics](https://data.humdata.org/dataset/lao-pdr-population-statistics) COD-PS CSV tables.",
         "caveats": "The administrative level 2 (district / muang) features do not correspond exactly to the [Lao PDR - Population Statistics](https://data.humdata.org/dataset/lao-pdr-population-statistics) tables.  This is being analyzed and it is hoped that a solution will be provided soon.",
         "tags": [
             "administrative divisions",
@@ -2500,6 +2626,79 @@
                 "last_modified": "2021-03-22T12:08:42.149258",
                 "download_url": "https://data.humdata.org/dataset/ac768a5c-db29-4872-9792-bd3179e29c45/resource/f721e3c5-26e4-4750-b237-68ac1ac2c08b/download/common-operational-dataset.xlsx",
                 "description": ""
+            }
+        }
+    },
+    {
+        "title": "Nigeria - Subnational Administrative Boundaries",
+        "id": "81ac1d38-f603-4a98-804d-325c658599a3",
+        "theme": "a",
+        "datasetDescription": "The dataset represents the Common Operational Data (COD) for administrative boundaries of Nigeria.  Each administrative unit contains the p-code and name. Admin COD datasets (Admin 0 \u2013 2) for Nigeria are endorsed by the Office of the Surveyor General of the Federal Republic of Nigeria (OSGOF) and the IMWG Feb 2017.  See metadata for description of methodology for admin level 3 and the cleaning and processing performed by ITOS.  Levels 0 - 3 are polygonal administrative units, Level 3 only covers Adamawa, Borno and Yobe States and are for operational purposes only.   \r\n\r\nA senatorial district shapefile is also included.  Senatorial districts respect administrative level 1 (state) but are not reflected in the gazetteer, geodatabase, or live services.\r\n\r\nVetting and live service provision by [Information Technology Outreach Services (ITOS)](https://cviog.uga.edu/international-center/) with funding from USAID.\r\n\r\nThe administrative level 0-2 and senatorial district boundaries are suitable for database or GIS linkage to the [Nigeria 2016 Population Data](https://data.humdata.org/dataset/nigeria-2016-population-data) tables.\r\n\r\nA topojson generalized version of administrative level 3 is also provided.\r\n\r\n\r\nREVISION HISTORY\r\n14 February 2020:  Topojson generalized administrative level 3 resource added",
+        "caveats": "APRIL 25, 2019 UPDATE:\r\nThe  Senatorial Districts are now fully integrated into the gazetteer, zip files, live services, and the COD-PS.\r\n\r\n\r\nMARCH 11, 2019 UPDATE:\r\nSenatorial district shapefile added.\r\n\r\n\r\n\r\nRead me included in the datasets to provide guidance on use of fields.\r\n\r\nAdmin level 3 are developed for operational purposes only.\r\n \r\nTwo wards in the Administrative registry file (Sagir and Wurge) in Ngala, Borno State are not demarcated in the shapefile due to access constraint. \r\n\r\nThe COD replaces the following datasets: \r\n<br />\r\nhttps://data.humdata.org/dataset/nigeria-admin-level-0-1-and-2-administrative-boundaries\r\n<br />\r\nhttps://data.humdata.org/dataset/nigeria-borno-operational-boundaries-admin-1-3-state-lga-ward<br />\r\n",
+        "tags": [
+            "administrative divisions",
+            "common operational dataset - cod",
+            "gazetteer"
+        ],
+        "iso": [
+            "nga"
+        ],
+        "location": [
+            "Nigeria"
+        ],
+        "datasetSource": "Office for the Surveyor General of the Federation of Nigeria (OSGOF), Ehealth, United Nations Cartographic Section (UNCS)",
+        "organization": "OCHA Nigeria",
+        "datasetDate": "[2017-02-23T00:00:00 TO *]",
+        "updateFrequency": "-1",
+        "last_modified": "2020-04-22T22:02:26.662929",
+        "dueDate": null,
+        "license_other": null,
+        "license_title": "Creative Commons Attribution for Intergovernmental Organisations",
+        "methodology": "Other",
+        "methodology_other": "Admin Level 3 (Wards) boundaries were developed by Ehealth Africa through the collation of settlements referred to as \u201cMicroplan\u201d within each Local Government Area (LGA).\r\n\r\nThe list is then sent to Ward focal points and traditional leaders from respective LGAs to verify which Wards the settlements belong. This confirmation forms the basis for demarcating the ward boundaries. The ehealth boundaries are operational and constantly being updated. \r\n\r\nThe Ehealth boundaries are also cross-checked with the list of wards available from the Independent National Electoral Commission to harmonise the two available sources of ward level information. \r\n\r\nThe Nigeria boundaries from OSGOF and wards from Ehealth were reviewed by ITOS to clean and align the wards with the boundaries for Admin 0, 1 and 2 and international boundaries. \r\n\r\nThe complete evaluation report for the ITOS process can be found [here](https://docs.google.com/spreadsheets/d/1eEzVP_X2lGRFSrm69_iCTo5SOO67FeuxRppHbCg2oYE/edit#gid=0)\r\n",
+        "is_requestdata_type": false,
+        "format": {
+            "Geodatabase": {
+                "resource_id": "0bc2f7bb-9ff6-40db-a569-1989b8ffd3bc",
+                "created": "2017-06-13T11:40:25.913346",
+                "last_modified": "2017-08-15T07:12:40.348897",
+                "download_url": "https://data.humdata.org/dataset/81ac1d38-f603-4a98-804d-325c658599a3/resource/0bc2f7bb-9ff6-40db-a569-1989b8ffd3bc/download/nga_admbnda_osgof_eha_itos.gdb.zip",
+                "description": "Administrative level 0 (country), 1 (state), 2 (local government area), 3 (wards - northeast Nigeria), and  senatorial district boundary geodatabase"
+            },
+            "XLSX": {
+                "resource_id": "99d3e0fe-b84d-4708-8539-08542f05d6ea",
+                "created": "2017-02-21T13:53:25.143001",
+                "last_modified": "2019-04-25T09:39:24.879576",
+                "download_url": "https://data.humdata.org/dataset/81ac1d38-f603-4a98-804d-325c658599a3/resource/99d3e0fe-b84d-4708-8539-08542f05d6ea/download/nga_adminboundaries_tabulardata.xlsx",
+                "description": "Administrative level 0 (country), 1 (state), 2 (local government area), 3 (wards - northeast Nigeria), and  senatorial district gazetteer"
+            },
+            "SHP": {
+                "resource_id": "aa69f07b-ed8e-456a-9233-b20674730be6",
+                "created": "2017-02-21T13:53:08.364717",
+                "last_modified": "2020-04-22T22:02:26.662929",
+                "download_url": "https://data.humdata.org/dataset/81ac1d38-f603-4a98-804d-325c658599a3/resource/aa69f07b-ed8e-456a-9233-b20674730be6/download/nga_adm_osgof_20190417.zip",
+                "description": "Administrative level 0 (country), 1 (state), 2 (local government area), 3 (wards - northeast Nigeria), and  senatorial districts boundary shapefiles"
+            },
+            "EMF": {
+                "resource_id": "6b25c06d-6d42-4300-8b0c-67c3c2fa401e",
+                "created": "2017-02-21T13:52:57.158659",
+                "last_modified": "2019-04-25T09:39:27.863932",
+                "download_url": "https://data.humdata.org/dataset/81ac1d38-f603-4a98-804d-325c658599a3/resource/6b25c06d-6d42-4300-8b0c-67c3c2fa401e/download/nga_adm_osgof_20190417_emf.zip",
+                "description": "Administrative level 0 (country), 1 (state), 2 (local government area), 3 (wards - northeast Nigeria), and  senatorial district boundary EMF files"
+            },
+            "Geoservice": {
+                "resource_id": "39d57fc7-e3b9-4d7b-993c-5efb1c7de130",
+                "created": "2019-04-25T13:34:12.485681",
+                "last_modified": "2019-09-29T22:01:19.173260",
+                "download_url": "http://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/NGA_pcode/MapServer",
+                "description": "This service is intended as a labelling layer for PCODES from OCHA's Common Operational Datasets for Nigeria. As a map service it is intended to be used in conjunction with the basemap located at http://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/NGA_EN/MapServer. The service also provides feature access to Administrative Boundaries and Populated Places geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services. "
+            },
+            "TopoJSON": {
+                "resource_id": "2e1fcf17-4c21-4acb-bd0e-1c555c4b3f87",
+                "created": "2020-02-14T07:20:35.673748",
+                "last_modified": "2020-02-14T07:20:32.732743",
+                "download_url": "https://data.humdata.org/dataset/81ac1d38-f603-4a98-804d-325c658599a3/resource/2e1fcf17-4c21-4acb-bd0e-1c555c4b3f87/download/cod_nga_admin3.topojson",
+                "description": "This dataset is of simplified geometries from COD live services deployed Sept. 2019. To preview, download from link and load in https://mapshaper.org. Methodology: Simplification methods applied from ESRI libraries using Python, Node.js and Mapshaper.js and based on adapted procedures for best outcomes preserving shape, topology and attributes. These data are not a substitute for the original COD data sets used in GIS applications. No warranties of any kind are made for any purpose and this dataset is offered as-is."
             }
         }
     },
@@ -4096,6 +4295,72 @@
         }
     },
     {
+        "title": "Guatemala - Subnational Administrative Boundaries",
+        "id": "0b20f310-7d22-479c-b7e2-e1bb9737fa72",
+        "theme": "a",
+        "datasetDescription": "Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://cviog.uga.edu/international-center/) with funding from USAID.\r\n\r\nThese boundaries are suitable for database or GIS linkage to the [Guatemala - Subnational Population Statistics](https://data.humdata.org/dataset/guatemala-subnational-population-statistics) tables.",
+        "caveats": "Two lake features, \u2018Lago De Amatitlan [GT0100]\u2019 and \u2018Lago De Atitlan [GT0700]\u2019, are associated with administrative level 1 features but form their own [P-code GTxx00] administrative level 2 features.\r\n\r\nThis COD-AB excludes the UN recognized sovereign territory of Belize. Users are responsible for the way they depict the Guatemala / Belize border and territories.",
+        "tags": [
+            "administrative divisions",
+            "common operational dataset - cod",
+            "gazetteer"
+        ],
+        "iso": [
+            "gtm"
+        ],
+        "location": [
+            "Guatemala"
+        ],
+        "datasetSource": "Coordinadora Nacional Para La Reducci\u00f3n De Desastres",
+        "organization": "OCHA FISS",
+        "datasetDate": "[2019-02-15T00:00:00 TO 2019-02-15T23:59:59]",
+        "updateFrequency": "365",
+        "last_modified": "2019-11-10T08:02:34",
+        "dueDate": "2020-11-09T08:02:34",
+        "license_other": null,
+        "license_title": "Creative Commons Attribution for Intergovernmental Organisations",
+        "methodology": "Other",
+        "methodology_other": "Downloaded by OCHA from [Coordinadora Nacional Para La Reducci\u00f3n De Desastres](https://conred.gob.gt), small topological errors fixed, and features P-coded.\r\n\r\nThe 'gtm_admbdl_ALL_OCHA_2018' line shapefile and geodatabase class contains a field identifying the neighboring countries.\r\n\r\nVETTED, CONFIGURED, and LIVE SERVICES PROVIDED by ITOS.",
+        "is_requestdata_type": false,
+        "format": {
+            "SHP": {
+                "resource_id": "86f38f11-8062-4a09-b088-fbb581a051fd",
+                "created": "2017-09-08T10:56:41.893897",
+                "last_modified": "2019-11-10T07:55:46",
+                "download_url": "https://data.humdata.org/dataset/0b20f310-7d22-479c-b7e2-e1bb9737fa72/resource/86f38f11-8062-4a09-b088-fbb581a051fd/download/gtm_adm_ocha_conred_2019_shp.zip",
+                "description": "Guatemala administrative level 0 (country), 1 (departmento), and 2 (municipio) boundary polygon and line shapefiles"
+            },
+            "Geodatabase": {
+                "resource_id": "a0ce13e5-92f4-4b4b-802e-58fa651ec8cc",
+                "created": "2017-09-08T10:56:44.380179",
+                "last_modified": "2019-11-10T08:02:34",
+                "download_url": "https://data.humdata.org/dataset/0b20f310-7d22-479c-b7e2-e1bb9737fa72/resource/a0ce13e5-92f4-4b4b-802e-58fa651ec8cc/download/gtm_adminboundaries_candidate.gdb.zip",
+                "description": "Guatemala administrative level 0 (country), 1 (departmento), and 2 (municipio) boundary polygon and line geodatabase"
+            },
+            "EMF": {
+                "resource_id": "1af2e795-3ce3-44ee-930b-1a989cf189d3",
+                "created": "2017-09-08T10:56:47.570848",
+                "last_modified": "2019-11-10T07:21:22",
+                "download_url": "https://data.humdata.org/dataset/0b20f310-7d22-479c-b7e2-e1bb9737fa72/resource/1af2e795-3ce3-44ee-930b-1a989cf189d3/download/gtm_adm_ocha_conred_2019_emf.zip",
+                "description": "Guatemala administrative level 0 (country), 1 (departmento), and 2 (municipio) boundary EMF files"
+            },
+            "XLS": {
+                "resource_id": "2c2753e1-a4e2-4548-9bd1-773b26fd5e45",
+                "created": "2019-01-25T07:14:48.644837",
+                "last_modified": "2019-11-10T07:25:57",
+                "download_url": "https://data.humdata.org/dataset/0b20f310-7d22-479c-b7e2-e1bb9737fa72/resource/2c2753e1-a4e2-4548-9bd1-773b26fd5e45/download/gtm_adminboundaries_tabulardata.xlsx.xlsx",
+                "description": "Guatemala administrative level 0 (country), 1 (departmento), and 2 (municipio) gazetteer"
+            },
+            "Geoservice": {
+                "resource_id": "c50a6101-244c-49ed-ab28-cab3380141f5",
+                "created": "2019-02-15T08:12:41.899857",
+                "last_modified": "2019-02-15T08:14:23.629689",
+                "download_url": "http://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/GTM_pcode/MapServer",
+                "description": "This service is intended as a labelling layer for PCODES from OCHA's Common Operational Datasets for Guatemala. As a map service it is intended to be used in conjunction with the basemap located at http://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/GTM_ES/MapServer. The service also provides feature access to Administrative Boundaries geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services. "
+            }
+        }
+    },
+    {
         "title": "Aruba - Subnational Administrative Boundaries",
         "id": "5abb5b0c-f3e1-40c2-b633-9edfb0321924",
         "theme": "a",
@@ -5069,8 +5334,8 @@
         "organization": "OCHA FISS",
         "datasetDate": "[2017-09-21T00:00:00 TO *]",
         "updateFrequency": "365",
-        "last_modified": "2021-02-05T09:58:58.338786",
-        "dueDate": "2022-02-05T09:58:58",
+        "last_modified": "2021-04-14T06:31:50.081275",
+        "dueDate": "2022-04-14T06:31:50",
         "license_other": null,
         "license_title": "Creative Commons Attribution for Intergovernmental Organisations",
         "methodology": "Other",
@@ -5080,7 +5345,7 @@
             "SHP": {
                 "resource_id": "61f00afe-5b6b-4991-87dd-555875ab39f6",
                 "created": "2017-09-21T12:50:22.575796",
-                "last_modified": "2021-02-05T09:49:12.639787",
+                "last_modified": "2021-04-14T06:31:47.939760",
                 "download_url": "https://data.humdata.org/dataset/726c2a10-c0b9-469a-9cba-cc58c3f68911/resource/61f00afe-5b6b-4991-87dd-555875ab39f6/download/vct_admbnda_2021_shp.zip",
                 "description": "Saint Vincent and the Grenadines administrative level 0-1 boundary shapefiles"
             },
@@ -5094,7 +5359,7 @@
             "Geodatabase": {
                 "resource_id": "d906efa4-0898-4114-95ea-33e06f89984d",
                 "created": "2021-02-05T09:49:22.339598",
-                "last_modified": "2021-02-05T09:49:20.962112",
+                "last_modified": "2021-04-14T06:31:50.081275",
                 "download_url": "https://data.humdata.org/dataset/726c2a10-c0b9-469a-9cba-cc58c3f68911/resource/d906efa4-0898-4114-95ea-33e06f89984d/download/vct_admbnda_2021.gdb.zip",
                 "description": "Saint Vincent and the Grenadines administrative level 0-1 boundary geodatabase"
             },
@@ -5884,6 +6149,65 @@
         }
     },
     {
+        "title": "Vanuatu - Subnational Administrative Boundaries",
+        "id": "67887590-51b0-4d98-bc12-666ebedf7704",
+        "theme": "a",
+        "datasetDescription": "Vanuatu administrative level 0 (country), 1 (province), and 2 (area council) boundary polygon, line, and point shapefiles, geodatabase, and live services, and gazetteer.\r\n\r\nVetting and live service provision by [Information Technology Outreach Services (ITOS)](https://cviog.uga.edu/international-center/) with funding from USAID.\r\n\r\nThese shapefile and geodatabase layers are suitable for database or GIS joins to the [Vanuatu administrative level 0, 1, and 2 population statistics and gazetteer](https://data.humdata.org/dataset/vanuatu-administrative-level-0-1-and-2-population-statistics#) .CSV population statistics tables.\r\n",
+        "caveats": "Administrative units have the following P-code structure:\r\n\r\nAdministrative level 0 (country):  VU\r\nAdministrative level 1 (province):  VUnn\r\nAdministrative level 2 (area council):  VUnnnnn\r\n\r\nIn addition, administrative level 1 includes the alternate national system:  VU-XXX\r\n",
+        "tags": [
+            "administrative divisions",
+            "common operational dataset - cod",
+            "gazetteer"
+        ],
+        "iso": [
+            "vut"
+        ],
+        "location": [
+            "Vanuatu"
+        ],
+        "datasetSource": "PopGIS2: Secretarial of the Pacific Community (SPC), Statistics for Development Division (http://vanuatu.popgis.spc.int/#l=en;v=map4)",
+        "organization": "OCHA ROP",
+        "datasetDate": "[2018-09-12T00:00:00 TO *]",
+        "updateFrequency": "365",
+        "last_modified": "2019-09-12T22:01:05.245653",
+        "dueDate": "2020-09-11T22:01:05",
+        "license_other": null,
+        "license_title": "Creative Commons Attribution for Intergovernmental Organisations",
+        "methodology": "Other",
+        "methodology_other": "Government source",
+        "is_requestdata_type": false,
+        "format": {
+            "XLSX": {
+                "resource_id": "5a042a38-c9d1-4336-8fd1-89184f128599",
+                "created": "2017-10-31T09:58:31.358785",
+                "last_modified": "2018-09-12T08:05:03.024000",
+                "download_url": "https://data.humdata.org/dataset/67887590-51b0-4d98-bc12-666ebedf7704/resource/5a042a38-c9d1-4336-8fd1-89184f128599/download/vut_adminboundaries_tabulardata.xlsx",
+                "description": "Vanuatu administrative level 0 (country), 1 (province), and 2 (area council) gazetteer"
+            },
+            "Geodatabase": {
+                "resource_id": "1d35544b-dd4e-4d01-9e4f-4656d9842b87",
+                "created": "2017-10-31T09:49:25.917048",
+                "last_modified": "2018-09-12T07:19:24.493139",
+                "download_url": "https://data.humdata.org/dataset/67887590-51b0-4d98-bc12-666ebedf7704/resource/1d35544b-dd4e-4d01-9e4f-4656d9842b87/download/vut_adm_spc_itos_20180824.zip",
+                "description": "Vanuatu administrative level 0 (country), 1 (province), and 2 (area council) boundary polygon, line, and point geodatabase"
+            },
+            "SHP": {
+                "resource_id": "3b79bac2-9cef-4d08-a0b0-c4d41df65732",
+                "created": "2018-09-12T08:18:33.442738",
+                "last_modified": "2018-09-12T08:18:31.443371",
+                "download_url": "https://data.humdata.org/dataset/67887590-51b0-4d98-bc12-666ebedf7704/resource/3b79bac2-9cef-4d08-a0b0-c4d41df65732/download/vut_admbndp_admall_spc_itos_20180824.zip",
+                "description": "Vanuatu administrative level 0 (country), 1 (province), and 2 (area council) boundary point shapefile"
+            },
+            "Geoservice": {
+                "resource_id": "ad209e55-9e4f-451e-8508-74d49092a30f",
+                "created": "2018-09-12T06:47:48.924218",
+                "last_modified": "2019-09-12T22:01:05.245653",
+                "download_url": "http://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/VUT_pcode/FeatureServer",
+                "description": "This service is intended as a labelling layer for PCODES from OCHA's Common Operational Datasets for Vanuatu. As a map service it is intended to be used in conjunction with the basemap located at http://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/VUT_EN/MapServer. The service also provides feature access to Administrative Boundaries geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services. "
+            }
+        }
+    },
+    {
         "title": "Burundi - Subnational Administrative Boundaries",
         "id": "63148f32-4505-433d-b8ea-1fd8088b4bdf",
         "theme": "a",
@@ -6014,6 +6338,72 @@
                 "last_modified": "2020-10-30T13:15:12.549908",
                 "download_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/BTN_pcode/MapServer",
                 "description": "This service is intended as a labelling layer for PCODES from OCHA's Common Operational Datasets for Bhutan. As a map service it is intended to be used in conjunction with the basemap located at http://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/BTN_EN/MapServer. The service also provides feature access to Administrative Boundaries geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services"
+            }
+        }
+    },
+    {
+        "title": "Pakistan - Subnational Administrative Boundaries",
+        "id": "a64d1ff2-7158-48c7-887d-6af69ce21906",
+        "theme": "a",
+        "datasetDescription": "Pakistan administrative level 0 (country), 1 (province, federal capital territory, autonomous and disputed territory, or group of federally administered tribal areas), 2 (district), and 3 (tehsil) boundary polygons, lines, and central places.\r\n\r\nVetting and live service provision by [Information Technology Outreach Services (ITOS)](https://cviog.uga.edu/international-center/) with funding from USAID.\r\n\r\nNOTE:  administrative level 4 (union council) boundaries for the areas flooded in 2010 are available in the [\"Pakistan - 2010 flood-affected Union Councils\" HDX dataset](https://data.humdata.org/dataset/pakistan-admin-level-4-boundaries).  These boundaries reflect the 2015 district boundary system.\r\n\r\nThese boundaries are suitable for database or GIS linkage to the [Pakistan administrative level 0-3 population statistics](https://data.humdata.org/dataset/pakistan-administrative-level-0-3-population-statistics) tables.",
+        "caveats": "3 June 2019\r\nData sheet updated to reflect COD-PS\r\n\r\n1.\tProvinces are subdivided into administrative \"divisions\" which are not reflected in this COD-AB.\r\n\r\n2.\tAll parts of the former Kashmir territories, on either side of the Line of Control, are excluded from this dataset.\r\n\r\n3.\tThis HDX dataset updates the previous dataset by recognizing the 2018 incorporation of the Federally Administered Tribal Areas (FATA) into the province of Khyber Pakhtunkhwa.\r\n",
+        "tags": [
+            "administrative divisions",
+            "common operational dataset - cod",
+            "gazetteer"
+        ],
+        "iso": [
+            "pak"
+        ],
+        "location": [
+            "Pakistan"
+        ],
+        "datasetSource": "Pakistan Census Office (PCO)",
+        "organization": "OCHA FISS",
+        "datasetDate": "[2018-12-26T00:00:00 TO *]",
+        "updateFrequency": "-2",
+        "last_modified": "2019-11-10T08:13:22",
+        "dueDate": null,
+        "license_other": null,
+        "license_title": "Creative Commons Attribution for Intergovernmental Organisations",
+        "methodology": "Other",
+        "methodology_other": "Government",
+        "is_requestdata_type": false,
+        "format": {
+            "XLSX": {
+                "resource_id": "250ba751-8bf1-4df9-bd48-142870f0573b",
+                "created": "2018-12-26T07:47:55.565276",
+                "last_modified": "2019-11-10T07:24:00",
+                "download_url": "https://data.humdata.org/dataset/a64d1ff2-7158-48c7-887d-6af69ce21906/resource/250ba751-8bf1-4df9-bd48-142870f0573b/download/pak_adminboundaries_tabulardata.xlsx",
+                "description": "Pakistan administrative level 0 (country), 1 (province, federal capital territory, autonomous and disputed territory, or group of federally administered tribal areas), 2 (district), and 3 (tehsil) gazetteer"
+            },
+            "Geodatabase": {
+                "resource_id": "c7489d16-76d9-42c8-a38c-0bd1fb55b494",
+                "created": "2017-11-23T08:21:49.244892",
+                "last_modified": "2019-11-10T08:13:22",
+                "download_url": "https://data.humdata.org/dataset/a64d1ff2-7158-48c7-887d-6af69ce21906/resource/c7489d16-76d9-42c8-a38c-0bd1fb55b494/download/pak_adminboundaries_candidate.gdb.zip",
+                "description": "Pakistan administrative level 0 (country), 1 (province, federal capital territory, autonomous and disputed territory, or group of federally administered tribal areas), 2 (district), and 3 (tehsil) boundary polygon, line, and central place geodatabase"
+            },
+            "SHP": {
+                "resource_id": "ae15348c-ddbc-499c-af90-623c3abe72bd",
+                "created": "2017-11-23T08:24:50.346248",
+                "last_modified": "2019-11-10T08:06:10",
+                "download_url": "https://data.humdata.org/dataset/a64d1ff2-7158-48c7-887d-6af69ce21906/resource/ae15348c-ddbc-499c-af90-623c3abe72bd/download/pak_adm_ocha_pco_gaul_20181218_shp.zip",
+                "description": "Pakistan administrative level 0 (country), 1 (province, federal capital territory, autonomous and disputed territory, or group of federally administered tribal areas), 2 (district), and 3 (tehsil) boundary polygon, line, and central place shapefiles"
+            },
+            "EMF": {
+                "resource_id": "74713b91-56c7-49f5-af89-eab0e1222e7b",
+                "created": "2017-11-23T08:33:41.304654",
+                "last_modified": "2019-11-10T07:50:43",
+                "download_url": "https://data.humdata.org/dataset/a64d1ff2-7158-48c7-887d-6af69ce21906/resource/74713b91-56c7-49f5-af89-eab0e1222e7b/download/pak_adm_ocha_pco_gaul_20181218_emf.zip",
+                "description": "Pakistan administrative level 0 (country), 1 (province, federal capital territory, autonomous and disputed territory, or group of federally administered tribal areas), 2 (district), and 3 (tehsil) boundary polygons EMF files"
+            },
+            "Geoservice": {
+                "resource_id": "8515f7e9-5c63-408f-a8d7-13781b7ffbcf",
+                "created": "2018-12-26T08:14:55.668848",
+                "last_modified": "2018-12-26T08:19:06.858061",
+                "download_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/PAK_EN/MapServer",
+                "description": "This map service contains OCHA Common Operational Datasets for Pakistan: Administrative Boundaries. The service is available as ESRI Map, ESRI Feature, WMS, and KML Services. See the OCHA COD/FOD terms of use for access and use constraints. \n"
             }
         }
     },
@@ -6837,6 +7227,72 @@
                 "last_modified": "2018-07-18T17:59:56.636907",
                 "download_url": "https://data.humdata.org/dataset/c215706c-9c22-43ca-8d36-9de4726eb9e0/resource/cc174295-8f9a-47cd-ba58-b89b83dee917/download/mhl_admbnda_adm2_ea.zip",
                 "description": "Marshall Islands administrative level 2 (EA) boundary polygon shapefile"
+            }
+        }
+    },
+    {
+        "title": "Uganda - Subnational Administrative Boundaries",
+        "id": "6d6d1495-196b-49d0-86b9-dc9022cde8e7",
+        "theme": "a",
+        "datasetDescription": "Uganda administrative level 0 (country), 1 (region), 2 (district), 3 (county), and 4 (sub-country) boundaries.\r\n\r\nVetting and live service provision by [Information Technology Outreach Services (ITOS)](https://cviog.uga.edu/international-center/) with funding from USAID.\r\n\r\nThe administrative level 0, 1, and 2 boundaries are suitable for database or GIS linkage to the [Uganda - Subnational Population Statistics](https://data.humdata.org/dataset/uganda-administrative-level-population-statistics#) tables.",
+        "caveats": "This COD-AB reflects the 135 district administrative system.",
+        "tags": [
+            "administrative divisions",
+            "common operational dataset - cod",
+            "gazetteer"
+        ],
+        "iso": [
+            "uga"
+        ],
+        "location": [
+            "Uganda"
+        ],
+        "datasetSource": "Uganda Bureau of Statistics with support from WHO",
+        "organization": "OCHA ROSEA",
+        "datasetDate": "[2020-06-11T00:00:00 TO *]",
+        "updateFrequency": "365",
+        "last_modified": "2020-08-28T08:07:20.928711",
+        "dueDate": "2021-08-28T08:07:20",
+        "license_other": null,
+        "license_title": "Creative Commons Attribution for Intergovernmental Organisations",
+        "methodology": "Other",
+        "methodology_other": "Downloaded from the Uganda Bureau of Statistics [source](http://ubos.geo-solutions.it/layers/geonode:uganda_districts_2018).",
+        "is_requestdata_type": false,
+        "format": {
+            "XLSX": {
+                "resource_id": "db3e782b-26a4-4ddf-b3e7-0127c41e3b24",
+                "created": "2020-06-11T12:17:58.190366",
+                "last_modified": "2020-08-28T08:05:32.577189",
+                "download_url": "https://data.humdata.org/dataset/6d6d1495-196b-49d0-86b9-dc9022cde8e7/resource/db3e782b-26a4-4ddf-b3e7-0127c41e3b24/download/uga_adminboundaries_tabulardata.xlsx",
+                "description": "Uganda administrative level 0-4 gazetteer"
+            },
+            "SHP": {
+                "resource_id": "43dbdff6-aadd-4941-957e-f7eab0717f53",
+                "created": "2020-06-11T12:19:13.476187",
+                "last_modified": "2020-08-28T08:06:13.502494",
+                "download_url": "https://data.humdata.org/dataset/6d6d1495-196b-49d0-86b9-dc9022cde8e7/resource/43dbdff6-aadd-4941-957e-f7eab0717f53/download/uga_admbnda_ubos_20200824_shp.zip",
+                "description": "Uganda administrative level 0-4 boundary shapefiles"
+            },
+            "EMF": {
+                "resource_id": "f914a9a3-a407-42c3-953b-89516d9505fc",
+                "created": "2020-06-11T12:20:28.391547",
+                "last_modified": "2020-08-28T08:06:20.732069",
+                "download_url": "https://data.humdata.org/dataset/6d6d1495-196b-49d0-86b9-dc9022cde8e7/resource/f914a9a3-a407-42c3-953b-89516d9505fc/download/uga_admbnda_ubos_20200824_emf.zip",
+                "description": "Uganda administrative level 0-4 boundary EMF files"
+            },
+            "Geodatabase": {
+                "resource_id": "44ad260d-9313-47cb-92a7-72255242d017",
+                "created": "2020-06-11T12:26:44.168157",
+                "last_modified": "2020-08-28T08:07:20.928711",
+                "download_url": "https://data.humdata.org/dataset/6d6d1495-196b-49d0-86b9-dc9022cde8e7/resource/44ad260d-9313-47cb-92a7-72255242d017/download/uga_admbnda_ubos_20200824.gdb.zip",
+                "description": "Uganda administrative level 0-4 boundary geodatabase"
+            },
+            "Geoservice": {
+                "resource_id": "ff04ba2e-9cdd-40a1-a8f6-7d879bf970e5",
+                "created": "2020-08-28T07:40:10.427704",
+                "last_modified": "2020-08-28T08:05:27.766626",
+                "download_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/UGA_pcode/MapServer",
+                "description": "This service is intended as a labelling layer for PCODES from OCHA's Common Operational Datasets for Uganda. As a map service it is intended to be used in conjunction with the basemap located at http://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/UGA_EN/MapServer. The service also provides feature access to Administrative Boundaries geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services."
             }
         }
     },
