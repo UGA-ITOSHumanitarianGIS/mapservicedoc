@@ -2,11 +2,10 @@ import os
 import sys
 import re
 import json
-from os import path
 import datetime
 import requests
 from tqdm import tqdm
-
+from ast import literal_eval
 
 def log(message):
     refreshLog = os.path.join(os.getcwd(), "serviceAggProc.log")
@@ -38,50 +37,29 @@ def itosMapServises():
     codExternalDataDict = getJsonData(COD_External_URL)
     
     jsonData = []
-    codCountry = [countryData for countryData in codExternalDataDict['services'] if not countryData['name'].endswith('pcode')]
+    codCountry = [countryData for countryData in codExternalDataDict['services'] if countryData['name'].endswith('pcode')]
     
     for codData in tqdm(codCountry,desc='Services'):
         
-        codCountry_url = 'https://gistmaps.itos.uga.edu/arcgis/rest/services/'+codData["name"]+'/MapServer/query?where=0%3D0&outFields=*&f=pjson'
-        
+        codCountry_url = 'https://gistmaps.itos.uga.edu/arcgis/rest/services/'+codData["name"]+'/FeatureServer/?f=pjson'
+        #print(codCountry_url)
         adminAcessList = ['Admin0', 'Admin1', 'Admin2', 'Admin3',]
 
-        countryDataDict = getJsonData(codCountry_url)
+        countryDataDict = json.loads(json.dumps(getJsonData(codCountry_url)))
 
-        dataDict = {}
-
+        dataDict = 'test'
+        
         for layer in countryDataDict['layers']:
             if layer['name'] in adminAcessList:
                 admin = layer['name'].lower()
 #                 adminURL = 'https://gistmaps.itos.uga.edu/arcgis/rest/services/'+codData["name"]+'/MapServer/'+str(layer['id'])+'/query?where=0%3D0&outFields=*&f=pjson'
-                adminURL = 'https://gistmaps.itos.uga.edu/arcgis/rest/services/'+codData["name"]+'/MapServer/'+str(layer['id'])+'/query?where=0%3D0&text=&objectIds=&time=&geometry=&geometryType=esriGeometryEnvelope&inSR=&spatialRel=esriSpatialRelIntersects&relationParam=&outFields=*&returnGeometry=false&returnTrueCurves=false&maxAllowableOffset=&geometryPrecision=&outSR=&returnIdsOnly=false&returnCountOnly=false&orderByFields=&groupByFieldsForStatistics=&outStatistics=&returnZ=false&returnM=false&gdbVersion=&returnDistinctValues=false&resultOffset=&resultRecordCount=&queryByDistance=&returnExtentsOnly=false&datumTransformation=&parameterValues=&rangeValues=&f=pjson'
+                adminURL = 'https://gistmaps.itos.uga.edu/arcgis/rest/services/'+codData["name"]+'/FeatureServer/'+str(layer['id'])+'/query?where=0%3D0&objectIds=&time=&geometry=&geometryType=esriGeometryEnvelope&inSR=&spatialRel=esriSpatialRelIntersects&distance=&units=esriSRUnit_Foot&relationParam=&outFields=*&returnGeometry=true&maxAllowableOffset=&geometryPrecision=&outSR=&gdbVersion=&historicMoment=&returnDistinctValues=false&returnIdsOnly=false&returnCountOnly=false&returnExtentOnly=false&orderByFields=&groupByFieldsForStatistics=&outStatistics=&returnZ=false&returnM=false&multipatchOption=&resultOffset=&resultRecordCount=&returnTrueCurves=false&sqlFormat=none&f=geojson'
+                print (adminURL)
+                datadict = adminURL + ', '  + dataDict
 
-                adminData = getJsonData(adminURL)
 
-                if adminData == 'error':
-                    dataDict[admin] = "Error performing query operation."
-                else:
-                    adminFetAttribute = adminData['features'][0]['attributes']
-                    adminNameList = [(key, value) for key, value in adminFetAttribute.items() if key.startswith(admin+'Name')]
-
-                    for adminName in adminNameList:
-                        if adminName[0].endswith('en'):
-                            if adminName[0].startswith('admin0'):
-                                dataDict['country'] = adminName[1]
-                            dataDict[adminName[0]] = adminName[1]
-                        else:
-                            if adminName[0].startswith('admin0') and 'country' not in dataDict:
-                                dataDict['country'] = adminName[1]
-                            dataDict[adminName[0]] = adminName[1]
-                            dataDict[adminName[0]+'_utf8'] = str(adminName[1].encode())
-
-                    dataDict[admin+'Pcode'] = adminFetAttribute[admin+'Pcode']
-                    dataDict[admin+'_url'] = adminURL
-
-                    jsonData.append(dataDict)
-
-    jsonData = list({i['country']:i for i in jsonData}.values())   
-                
+    #jsonData = list({i['country']:i for i in jsonData}.values())   
+    jsonData = dataDict            
     return jsonData
 
 def addLanguageCode(metaData):
@@ -114,7 +92,7 @@ def getCODData(fileName):
     
     print('Adding language code to the retrived ITOS data.')
     
-    metaData = addLanguageCode(metaData)
+    #metaData = addLanguageCode(metaData)
     
     with open(fileName,'w') as fp:
         json.dump(metaData, fp, indent=4)
@@ -123,12 +101,12 @@ def getCODData(fileName):
 
     
 def main(fileName):
-    #print("Enter the JSON filename or filepath:")
-    #ileName = str(input())
+    print("Enter the JSON filename or filepath:")
+    fileName = str(input())
     
     getCODData(fileName)
     
     print("Process Compelete.")
     
     
-main('test.json')
+main('v00.json')

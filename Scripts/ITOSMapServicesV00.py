@@ -2,11 +2,10 @@ import os
 import sys
 import re
 import json
-from os import path
 import datetime
 import requests
 from tqdm import tqdm
-
+from ast import literal_eval
 
 def log(message):
     refreshLog = os.path.join(os.getcwd(), "serviceAggProc.log")
@@ -33,7 +32,7 @@ def itosMapServises():
 
     log("Accessing list of services...")
     # App log
-    COD_External_URL = 'https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/?f=pjson'
+    COD_External_URL = 'https://gistmaps.itos.uga.edu/arcgis/rest/services/V00_0/?f=pjson'
 
     codExternalDataDict = getJsonData(COD_External_URL)
     
@@ -46,16 +45,16 @@ def itosMapServises():
         
         adminAcessList = ['Admin0', 'Admin1', 'Admin2', 'Admin3',]
 
-        countryDataDict = getJsonData(codCountry_url)
+        countryDataDict = json.loads(json.dumps(getJsonData(codCountry_url)))
 
         dataDict = {}
-
+        
         for layer in countryDataDict['layers']:
             if layer['name'] in adminAcessList:
                 admin = layer['name'].lower()
 #                 adminURL = 'https://gistmaps.itos.uga.edu/arcgis/rest/services/'+codData["name"]+'/MapServer/'+str(layer['id'])+'/query?where=0%3D0&outFields=*&f=pjson'
                 adminURL = 'https://gistmaps.itos.uga.edu/arcgis/rest/services/'+codData["name"]+'/MapServer/'+str(layer['id'])+'/query?where=0%3D0&text=&objectIds=&time=&geometry=&geometryType=esriGeometryEnvelope&inSR=&spatialRel=esriSpatialRelIntersects&relationParam=&outFields=*&returnGeometry=false&returnTrueCurves=false&maxAllowableOffset=&geometryPrecision=&outSR=&returnIdsOnly=false&returnCountOnly=false&orderByFields=&groupByFieldsForStatistics=&outStatistics=&returnZ=false&returnM=false&gdbVersion=&returnDistinctValues=false&resultOffset=&resultRecordCount=&queryByDistance=&returnExtentsOnly=false&datumTransformation=&parameterValues=&rangeValues=&f=pjson'
-
+                #print adminURL
                 adminData = getJsonData(adminURL)
 
                 if adminData == 'error':
@@ -63,6 +62,7 @@ def itosMapServises():
                 else:
                     adminFetAttribute = adminData['features'][0]['attributes']
                     adminNameList = [(key, value) for key, value in adminFetAttribute.items() if key.startswith(admin+'Name')]
+                    adminValidList = [(key, value) for key, value in adminFetAttribute.items() if key.startswith('validOn')]
 
                     for adminName in adminNameList:
                         if adminName[0].endswith('en'):
@@ -77,6 +77,9 @@ def itosMapServises():
 
                     dataDict[admin+'Pcode'] = adminFetAttribute[admin+'Pcode']
                     dataDict[admin+'_url'] = adminURL
+
+                    for adminValid in adminValidList:
+                        dataDict[admin+'validFrom'] = adminValid[1]
 
                     jsonData.append(dataDict)
 
@@ -123,12 +126,12 @@ def getCODData(fileName):
 
     
 def main(fileName):
-    #print("Enter the JSON filename or filepath:")
-    #ileName = str(input())
+    print("Enter the JSON filename or filepath:")
+    fileName = str(input())
     
     getCODData(fileName)
     
     print("Process Compelete.")
     
     
-main('test.json')
+main('v00.json')
