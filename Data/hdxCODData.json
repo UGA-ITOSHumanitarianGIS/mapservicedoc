@@ -1,0 +1,1115 @@
+[
+    {
+        "id": "d2ec62bb-5a93-436d-8297-88b3ee9b6818",
+        "format": {
+            "description": "Previous version.  This service is intended as a labelling layer for PCODES from a previous version of OCHA's Common Operational Datasets for Mali. As a map service it is intended to be used in conjunction with the basemap located at http://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/MLI_FR/MapServer. The service also provides feature access to Administrative Boundaries geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services.",
+            "download_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/V00_0/MLI_pcode/MapServer"
+        }
+    },
+    {
+        "id": "54fc7f4d-f4c0-4892-91f6-2fe7c1ecf363",
+        "format": {
+            "description": "This service is intended as a labelling layer for PCODES from OCHA's Common Operational Datasets for Peru. As a map service it is intended to be used in conjunction with the basemap located at http://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/PER_ES/MapServer. The service also provides feature access to Administrative Boundaries geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services.",
+            "download_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/PER_pcode/MapServer"
+        }
+    },
+    {
+        "id": "bbb2f45c-3d7a-4ad3-afc5-459303dbc8f4",
+        "format": {
+            "description": "This service is intended as a labelling layer for PCODES from OCHA's Common Operational Datasets for Liberia. As a map service it is intended to be used in conjunction with the basemap located at http://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/LBR_EN/MapServer. The service also provides feature access to Administrative Boundaries geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services.",
+            "download_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/LBR_pcode/MapServer"
+        }
+    },
+    {
+        "id": "ec140a63-5330-4376-a3df-c7ebf73cfc3c",
+        "format": {
+            "description": "Somalia administrative level 0-2 boundary EMF files",
+            "download_url": "https://data.humdata.org/dataset/ec140a63-5330-4376-a3df-c7ebf73cfc3c/resource/624a6fbf-a579-4cfd-a3a5-b192ebe12c59/download/som_adm_undp_20170405_emf.zip"
+        }
+    },
+    {
+        "id": "2025e742-8b5a-4f72-aac5-a28e96ce3cb8",
+        "format": {
+            "description": "This service is intended as a labelling layer for PCODES from OCHA's Common Operational Datasets for Eritrea. As a map service it is intended to be used in conjunction with the basemap located at http://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/ERI_EN/MapServer. The service also provides feature access to Administrative Boundaries geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services",
+            "download_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/ERI_pcode/MapServer"
+        }
+    },
+    {
+        "id": "2c0b7571-4bef-4347-9b81-b2174c13f9ef",
+        "format": {
+            "description": "This service is intended as a labelling layer for PCODES from OCHA's Common Operational Datasets for Kenya. As a map service it is intended to be used in conjunction with the basemap located at http://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/KEN_EN/MapServer. The service also provides feature access to Administrative Boundaries. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services. ",
+            "download_url": "http://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/KEN_pcode/MapServer"
+        }
+    },
+    {
+        "id": "494229d9-eee0-4872-8864-2baf98691554",
+        "format": {
+            "description": "Powerpoint maps that include the COD admin for simplified use",
+            "download_url": "https://data.humdata.org/dataset/494229d9-eee0-4872-8864-2baf98691554/resource/44de42ec-bd7f-483d-8f30-13d58043dbf5/download/ben_ppt_map.pptx"
+        }
+    },
+    {
+        "id": "2940ed80-4b69-4b98-abaf-af79088852c5",
+        "format": {
+            "description": "This service is intended as a labelling layer for PCODES from a previous version of OCHA's Common Operational Datasets for Burkina Faso. As a map service it is intended to be used in conjunction with the basemap located at http://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/BFA_FR/MapServer. The service also provides access to Administrative Boundaries geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services.\n",
+            "download_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/V00_0/BFA_pcode/MapServer"
+        }
+    },
+    {
+        "id": "b13f08ef-92ee-4446-9b0a-e219f5c25415",
+        "format": {
+            "description": "This service is intended as a labelling layer for PCODES from OCHA's Common Operational Datasets for Cameroon. As a map service it is intended to be used in conjunction with the basemap located at http://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/CMR_FR/MapServer. The service also provides feature access to Administrative Boundaries geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services. \n",
+            "download_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/CMR_pcode/MapServer"
+        }
+    },
+    {
+        "id": "762e2263-c6f1-4ef6-a3bc-48338a6484a8",
+        "format": {
+            "description": "Powerpoint maps that include the COD admin for simplified use",
+            "download_url": "https://data.humdata.org/dataset/762e2263-c6f1-4ef6-a3bc-48338a6484a8/resource/8976acff-ec20-4e5c-90cb-b8f7bdcc462c/download/cog_ppt_map.pptx"
+        }
+    },
+    {
+        "id": "d8d992f3-5374-448f-a3d5-bed7c1925a11",
+        "format": {
+            "description": "Powerpoint maps that include the COD admin for simplified use",
+            "download_url": "https://data.humdata.org/dataset/d8d992f3-5374-448f-a3d5-bed7c1925a11/resource/14387aa1-f41f-470e-b477-1c6397fbff89/download/gab_ppt_map.pptx"
+        }
+    },
+    {
+        "id": "dc4c17cf-59d9-478c-b2b7-acd889241194",
+        "format": {
+            "description": "Powerpoint maps that include the COD admin for simplified use",
+            "download_url": "https://data.humdata.org/dataset/dc4c17cf-59d9-478c-b2b7-acd889241194/resource/ed41a6e9-6504-4812-8d54-ac6d3e2d1344/download/gha_ppt_map.pptx"
+        }
+    },
+    {
+        "id": "9f2ce756-2e50-4042-a952-32160977d223",
+        "format": {
+            "description": "Powerpoint maps that include the COD admin for simplified use",
+            "download_url": "https://data.humdata.org/dataset/9f2ce756-2e50-4042-a952-32160977d223/resource/fbe0c995-7420-4140-8d6d-1174d8d43fcf/download/gmb_ppt_map.pptx"
+        }
+    },
+    {
+        "id": "3db6297f-55d7-4e79-8969-281b1838ef79",
+        "format": {
+            "description": "Powerpoint maps included COD admin for simplified use",
+            "download_url": "https://data.humdata.org/dataset/3db6297f-55d7-4e79-8969-281b1838ef79/resource/ffa90c0d-5b0b-4179-be7a-90f566d60460/download/gnb_ppt_map.pptx"
+        }
+    },
+    {
+        "id": "0c1a3093-c97d-48a2-a992-e652ebcbf05c",
+        "format": {
+            "description": "Powerpoint maps included COD admin for simplified use",
+            "download_url": "https://data.humdata.org/dataset/0c1a3093-c97d-48a2-a992-e652ebcbf05c/resource/8a31c135-5101-4977-82d0-d830b566f56b/download/gnq_ppt_map.pptx"
+        }
+    },
+    {
+        "id": "8d49f50d-92a8-46d9-9462-f821a8058f6d",
+        "format": {
+            "description": "This service is intended as a labelling layer for PCODES from a previous version of OCHA's Common Operational Datasets for Mauritania. As a map service it is intended to be used in conjunction with the basemap located at http://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/MRT_EN/MapServer. The service also provides feature access to Administrative Boundaries and Populated Places geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services.",
+            "download_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/V00_0/MRT_pcode/MapServer"
+        }
+    },
+    {
+        "id": "bd9bc484-155d-41a3-87cf-064310a94492",
+        "format": {
+            "description": "Powerpoint maps that include the COD admin for simplified use",
+            "download_url": "https://data.humdata.org/dataset/bd9bc484-155d-41a3-87cf-064310a94492/resource/d5629d71-5a9b-4a15-9e5f-61166d0da221/download/sen_ppt_map.pptx"
+        }
+    },
+    {
+        "id": "9746c0f7-9ed3-4a3f-890e-88bc19166770",
+        "format": {
+            "description": "Powerpoint maps that include the COD admin for simplified use",
+            "download_url": "https://data.humdata.org/dataset/9746c0f7-9ed3-4a3f-890e-88bc19166770/resource/cdecbcb3-0e90-4759-b677-0f3976c561a7/download/stp_ppt_map.pptx"
+        }
+    },
+    {
+        "id": "ce7df560-f77b-4f55-9175-4719ea21f50b",
+        "format": {
+            "description": "Cabo Verde administrative level 0-2 boundary EMF files",
+            "download_url": "https://data.humdata.org/dataset/ce7df560-f77b-4f55-9175-4719ea21f50b/resource/ef94feb7-18e0-4576-bb2d-ed1c28485dc8/download/cpv_admbnda_emf.zip"
+        }
+    },
+    {
+        "id": "a4816317-a913-4619-b1e9-d89e21c056b4",
+        "format": {
+            "description": "Powerpoint maps that include the COD admin for simplified use",
+            "download_url": "https://data.humdata.org/dataset/a4816317-a913-4619-b1e9-d89e21c056b4/resource/0ffe8855-14f9-49a1-a30b-b7168f186809/download/sle_ppt_map.pptx"
+        }
+    },
+    {
+        "id": "ae36d1fd-1698-4f53-a4c0-2146a6b5aa29",
+        "format": {
+            "description": "Fiji administrative level 0 (country), 1 (division), 2 (province), and 3 (tikina) boundary polygons",
+            "download_url": "https://data.humdata.org/dataset/ae36d1fd-1698-4f53-a4c0-2146a6b5aa29/resource/898dd96d-9eae-4532-bd17-d4f795a371b2/download/fji_adm_gz.xlsx"
+        }
+    },
+    {
+        "id": "d24bdc45-eb4c-4e3d-8b16-44db02667c27",
+        "format": {
+            "description": "Thailand administrative level 0 (country), 1 (province), 2 (district), 3 (sub-district, tambon) boundary attribute tables with feature areas in square metres",
+            "download_url": "https://data.humdata.org/dataset/d24bdc45-eb4c-4e3d-8b16-44db02667c27/resource/b21b4a56-d2fc-41a6-9703-0665e7b625e6/download/tha_adm_feature_areas_20191106.xls"
+        }
+    },
+    {
+        "id": "7472f7e0-3deb-44d9-bd36-38237c666a2e",
+        "format": {
+            "description": "This service is intended as a labelling layer for PCODES from OCHA's Common Operational Datasets for Cambodia. As a map service it is intended to be used in conjunction with the basemap located at http://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/KHM_EN/MapServer. The service also provides feature access to Administrative Boundaries geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services. ",
+            "download_url": "http://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/KHM_pcode/MapServer"
+        }
+    },
+    {
+        "id": "f260301d-c32f-4e9e-a7d6-05bde2f70b6b",
+        "format": {
+            "description": "This service is intended as a labelling layer for PCODES from OCHA's Common Operational Datasets for Papua New Guinea. As a map service it is intended to be used in conjunction with the basemap located at http://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/PNG_EN/MapServer. The service also provides feature access to Administrative Boundaries geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services ",
+            "download_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/PNG_pcode/MapServer"
+        }
+    },
+    {
+        "id": "26fa506b-0727-4d9d-a590-d2abee21ee22",
+        "format": {
+            "description": "Excel table of P-codes and related BNGRC (Disaster Management Agency) codes for Administrative Boundaries level 1-2.  The P-codes are the official codes, however the LUT has been provided should linkages to the BNGRC codes be required during disaster response.\nThe BNGRC (Madagascar National Disaster Management Agency) is currently using different Region (Admin 1) and District (Admin 2) codes from the P-codes in the COD Administrative Boundary GIS shapefiles. The P-codes were built from the Fokontany (Admin 4) codes in order to meet COD code hierarchy standards. Over time a move should be made to use the official P-codes and lower case names where possible.",
+            "download_url": "https://data.humdata.org/dataset/26fa506b-0727-4d9d-a590-d2abee21ee22/resource/81979b8f-5dc7-47bf-8f64-5a3d5fd6c8cf/download/bngrc_codes_lut_pcodes_2018.xlsx"
+        }
+    },
+    {
+        "id": "50fda5c8-bc93-48e7-b542-f123b2038350",
+        "format": {
+            "description": "This service is intended as a labelling layer for PCODES from OCHA's Common Operational Datasets for Namibia. As a map service it is intended to be used in conjunction with the basemap located at http://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/NAM_EN/MapServer. The service also provides feature access to Administrative Boundaries geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services.",
+            "download_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/NAM_pcode/MapServer"
+        }
+    },
+    {
+        "id": "061d4492-56e8-458c-a3fb-e7950991adf0",
+        "format": {
+            "description": "This service is intended as a labelling layer for PCODES from OCHA's Common Operational Datasets for South Africa. As a map service it is intended to be used in conjunction with the basemap located at http://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/ZAF_EN/MapServer. The service also provides feature access to Administrative Boundaries geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services",
+            "download_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/ZAF_pcode/MapServer"
+        }
+    },
+    {
+        "id": "c0e0998c-b45a-4aea-ac06-c1de1d94e596",
+        "format": {
+            "description": "Niger administrative boundary tables",
+            "download_url": "https://data.humdata.org/dataset/c0e0998c-b45a-4aea-ac06-c1de1d94e596/resource/1fe8fde9-f731-4eba-81f7-ac810f9655f2/download/niger2018_tabular_data.xlsx"
+        }
+    },
+    {
+        "id": "ab3c7592-3b0c-41cd-999a-2919a6b243f2",
+        "format": {
+            "description": "This service is intended as a labelling layer for PCODES from OCHA's Common Operational Datasets for Ecuador. As a map service it is intended to be used in conjunction with the basemap located at http://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/ECU_ES/MapServer. The service also provides feature access to Administrative Boundaries geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services ",
+            "download_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/ECU_pcode/MapServer"
+        }
+    },
+    {
+        "id": "bd62fb53-64d3-478f-9ca8-38e4a2de19c0",
+        "format": {
+            "description": "Honduras administrative level 3 boundary EMF file.  PLEASE SEE CAVEATS.",
+            "download_url": "https://data.humdata.org/dataset/bd62fb53-64d3-478f-9ca8-38e4a2de19c0/resource/13d6d513-df41-45c4-be73-8f37033cc7fb/download/hnd_admbnda_adm3_sinit_20161005.emf"
+        }
+    },
+    {
+        "id": "78d80f16-b9ff-49cd-8195-d96efcf3b669",
+        "format": {
+            "description": "Central African Republic administrative level 0-3 boundary EMF files",
+            "download_url": "https://data.humdata.org/dataset/78d80f16-b9ff-49cd-8195-d96efcf3b669/resource/0eb4edf8-3f77-49cb-a9eb-5f9383ed40c5/download/caf_adm_200k_sigcaf_reach_itos_v2_emf.zip"
+        }
+    },
+    {
+        "id": "6b2656e2-b915-4671-bfed-468d5edcd80a",
+        "format": {
+            "description": "Administrative boundary datasets for levels 0, 1, 2 and 3  (international, governorate, district and sub-district) for Yemen provided by Yemen Central Organization ( CSO ) and approved for use by Humanitarian Country Team in October 2019.",
+            "download_url": "https://data.humdata.org/dataset/6b2656e2-b915-4671-bfed-468d5edcd80a/resource/de7270a6-7510-484f-a3d6-29a6d864e4b9/download/yem_adm_govyem_cso_20191122_emf.zip"
+        }
+    },
+    {
+        "id": "356a63e9-90aa-4b9c-a938-58ef24469c00",
+        "format": {
+            "description": "This service is intended as a labelling layer for PCODES from a previous version of OCHA's Common Operational Datasets for Syria. As a map service it is intended to be used in conjunction with the basemap located at http://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/SYR_EN/MapServer. The service also provides feature access to Administrative Boundaries and Populated Places geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services.",
+            "download_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/V00_0/SYR_pcode/MapServer"
+        }
+    },
+    {
+        "id": "cdd62bd9-e442-4eac-9b44-cfee8bf79153",
+        "format": {
+            "description": "South Suday administrative level 0-2 boundary shapefiles including separate shapefile for Abyei region.  SEE CAVEATS.",
+            "download_url": "https://data.humdata.org/dataset/cdd62bd9-e442-4eac-9b44-cfee8bf79153/resource/4d768ab6-c322-4af4-8fbf-6cbb442812d3/download/ssd_adm_imwg_nbs_20220121.zip"
+        }
+    },
+    {
+        "id": "488bb3cd-3ce9-49d3-862a-3ce7975c63e1",
+        "format": {
+            "description": "This service is intended as a labelling layer for PCODES from OCHA's Common Operational Datasets for Iraq. As a map service it is intended to be used in conjunction with the basemap located at http://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/IRQ_EN/MapServer. The service also provides feature access to Administrative Boundaries geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services. \n",
+            "download_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/IRQ_pcode/MapServer"
+        }
+    },
+    {
+        "id": "2caf8373-816f-458c-9913-71bddb9cab7c",
+        "format": {
+            "description": "This service is intended as a labelling layer for PCODES from OCHA's Common Operational Datasets for the State of Palestine. As a map service it is intended to be used in conjunction with the basemap located at http://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/PSE_EN/MapServer. The service also provides feature access to Administrative Boundaries geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services\n",
+            "download_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/PSE_pcode/MapServer"
+        }
+    },
+    {
+        "id": "17e2fc83-e58b-494a-bb18-83df4bb0529e",
+        "format": {
+            "description": "Administrative Boundary names and codes for Greece (levels 0,1,2)",
+            "download_url": "https://data.humdata.org/dataset/17e2fc83-e58b-494a-bb18-83df4bb0529e/resource/3ee33313-2895-4d31-a051-308b6fbcb384/download/grc_adm.xlsx"
+        }
+    },
+    {
+        "id": "777e8b06-337f-4295-80bc-ca1515244215",
+        "format": {
+            "description": "Administrative level 0 (national), level 1 (department), level 2 (commune), and level 3 (sections communale) boundary attribute tables",
+            "download_url": "https://data.humdata.org/dataset/777e8b06-337f-4295-80bc-ca1515244215/resource/9e34cf7c-8c34-4c09-8b1b-db243c25267b/download/hti_adminboundaries_tabulardata.xlsx"
+        }
+    },
+    {
+        "id": "2762c3c6-fa93-4dc6-9e82-5af6e5133c18",
+        "format": {
+            "description": "Shapefiles of administrative levels 1-4 from EuroGeographics and NTES (Nomenclature of Territorial Units for Statistics - Republic of Macedonia State Statistical Office)",
+            "download_url": "https://data.humdata.org/dataset/2762c3c6-fa93-4dc6-9e82-5af6e5133c18/resource/4a46be36-3514-477d-a4d9-5766b679e3eb/download/mkd_admn_adm_py_eurogeographics-ntes_pp.zip"
+        }
+    },
+    {
+        "id": "caf116df-f984-4deb-85ca-41b349d3f313",
+        "format": {
+            "description": "This service is intended as a labelling layer for PCODES from a previous version of OCHA's Common Operational Datasets for the Philippines: Administrative Boundaries. As a map service it is intended to be used in conjunction with the basemap located at http://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/PHL_EN/MapServer. The service also provides feature access to Administrative Boundaries geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services. See the OCHA COD/FOD terms of use for access and use constraints.",
+            "download_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/V00_0/PHL_pcode/MapServer"
+        }
+    },
+    {
+        "id": "692fc891-1e44-4413-9e88-999349c86ca7",
+        "format": {
+            "description": "Bahamas administrative level 0-1 boundary EMF files",
+            "download_url": "https://data.humdata.org/dataset/692fc891-1e44-4413-9e88-999349c86ca7/resource/3317a63f-b769-404e-8d13-54476ce7beb0/download/bhs_adm_emf.zip"
+        }
+    },
+    {
+        "id": "f01c8222-b67d-41ff-954a-731aafd4466b",
+        "format": {
+            "description": "Geodatabase containing administrative level 0 (country) polygons, administrative level 1 (region) polygons, administrative level 2 (department) polygons, administrative level 3 (sub-prefecture) polygons, all administrative boundary lines, administrative level 2 (department) capital points and administrative level 3 (sub-prefecture) capital points.",
+            "download_url": "https://data.humdata.org/dataset/f01c8222-b67d-41ff-954a-731aafd4466b/resource/5dfdb5ad-09f3-4729-8218-f8443795b6af/download/tcd_adminboundaries_candidate.gdb.zip"
+        }
+    },
+    {
+        "id": "f814a950-4d4e-4f46-a880-4da5522f14c4",
+        "format": {
+            "description": "Powerpoint maps that include the COD admin for simplified use",
+            "download_url": "https://data.humdata.org/dataset/f814a950-4d4e-4f46-a880-4da5522f14c4/resource/410df451-7854-4cea-8aa0-3e5501a81f4a/download/gin_ppt_map.pptx"
+        }
+    },
+    {
+        "id": "9eb6aff1-9e3f-43d3-99a6-f415fe4b4dff",
+        "format": {
+            "description": "This service is intended as a labelling layer for PCODES from OCHA's Common Operational Datasets for Laos. As a map service it is intended to be used in conjunction with the basemap located at http://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/LAO_EN/MapServer. The service also provides feature access to Administrative Boundaries geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services.",
+            "download_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/LAO_pcode/MapServer"
+        }
+    },
+    {
+        "id": "ac768a5c-db29-4872-9792-bd3179e29c45",
+        "format": {
+            "description": "",
+            "download_url": "https://data.humdata.org/dataset/ac768a5c-db29-4872-9792-bd3179e29c45/resource/f721e3c5-26e4-4750-b237-68ac1ac2c08b/download/common-operational-dataset.xlsx"
+        }
+    },
+    {
+        "id": "81ac1d38-f603-4a98-804d-325c658599a3",
+        "format": {
+            "description": "This dataset is of simplified geometries from COD live services deployed Sept. 2019. To preview, download from link and load in https://mapshaper.org. Methodology: Simplification methods applied from ESRI libraries using Python, Node.js and Mapshaper.js and based on adapted procedures for best outcomes preserving shape, topology and attributes. These data are not a substitute for the original COD data sets used in GIS applications. No warranties of any kind are made for any purpose and this dataset is offered as-is.",
+            "download_url": "https://data.humdata.org/dataset/81ac1d38-f603-4a98-804d-325c658599a3/resource/2e1fcf17-4c21-4acb-bd0e-1c555c4b3f87/download/cod_nga_admin3.topojson"
+        }
+    },
+    {
+        "id": "fd9fb749-5b68-4942-b5f9-115f20b5c00e",
+        "format": {
+            "description": "This service is intended as a labelling layer for PCODES from OCHA's Common Operational Datasets for Libya. As a map service it is intended to be used in conjunction with the basemap located at http://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/LBY_EN/MapServer. The service also provides feature access to Administrative Boundaries and Populated Places geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services ",
+            "download_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/LBY_pcode/MapServer"
+        }
+    },
+    {
+        "id": "3d17274d-0812-4b21-b87a-4854af4eb244",
+        "format": {
+            "description": "This service is intended as a labelling layer for PCODES from OCHA's Common Operational Datasets for Algeria. As a map service it is intended to be used in conjunction with the basemap located at http://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/DZA_EN/MapServer. The service also provides feature access to Administrative Boundaries geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services",
+            "download_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/DZA_pcode/MapServer"
+        }
+    },
+    {
+        "id": "23a85209-66d3-4d10-a69f-7baf6d2cc8c1",
+        "format": {
+            "description": "Bahrain administrative level 0-2 boundary EMF files",
+            "download_url": "https://data.humdata.org/dataset/23a85209-66d3-4d10-a69f-7baf6d2cc8c1/resource/b8544a76-2be1-410c-bcf6-7ef3463ac823/download/bhr_adm_emf.zip"
+        }
+    },
+    {
+        "id": "a28f399f-482c-4e62-8dbf-d2c12381674a",
+        "format": {
+            "description": "World Places shows the populated places in country- Point, Data Source ESRI Global Discovery 2007",
+            "download_url": "https://data.humdata.org/dataset/a28f399f-482c-4e62-8dbf-d2c12381674a/resource/697ddfd6-b40a-4cfb-b5b5-961972b75762/download/kwt_places_esri.zip"
+        }
+    },
+    {
+        "id": "7fb8f891-35f2-4bd5-8c75-5e7797ff1731",
+        "format": {
+            "description": "This service is intended as a labelling layer for PCODES from OCHA's Common Operational Datasets for Morocco. As a map service it is intended to be used in conjunction with the basemap located at http://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/MAR_EN/MapServer. The service also provides feature access to Administrative Boundaries geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services",
+            "download_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/MAR_pcode/MapServer"
+        }
+    },
+    {
+        "id": "da87f54e-64bd-4cf4-bd31-3fc520f94609",
+        "format": {
+            "description": "This service is intended as a labelling layer for PCODES from OCHA's Common Operational Datasets for Oman. As a map service it is intended to be used in conjunction with the basemap located at http://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/OMN_EN/MapServer. The service also provides feature access to Administrative Boundaries geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services\n",
+            "download_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/OMN_pcode/MapServer"
+        }
+    },
+    {
+        "id": "6a84f3b8-41cd-4769-a61f-6dbd5f61bd05",
+        "format": {
+            "description": "Qatar administrative level 0-1 boundary EMF files",
+            "download_url": "https://data.humdata.org/dataset/6a84f3b8-41cd-4769-a61f-6dbd5f61bd05/resource/17bfa398-5df8-406c-8dc4-dbb5db3259e7/download/qat_emf.zip"
+        }
+    },
+    {
+        "id": "41ce9023-1d21-4549-a485-94316200aba0",
+        "format": {
+            "description": "This service is intended as a labelling layer for PCODES from OCHA's Common Operational Datasets for Saudia Arabia. As a map service it is intended to be used in conjunction with the basemap located at http://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/SAU_EN/MapServer. The service also provides feature access to Administrative Boundaries geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services",
+            "download_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/SAU_pcode/MapServer"
+        }
+    },
+    {
+        "id": "e47eda48-8f83-4858-b739-dbffb8a50c47",
+        "format": {
+            "description": "Tunisia administrative level 0-2 boundary EMF files",
+            "download_url": "https://data.humdata.org/dataset/e47eda48-8f83-4858-b739-dbffb8a50c47/resource/12d7e931-037e-44ee-9796-63dc9e9026d1/download/tun_adm_emf.zip"
+        }
+    },
+    {
+        "id": "23d41c1f-41ef-4957-a47e-b8c08c984d83",
+        "format": {
+            "description": "World Places shows the populated places in country- Point, Data Source ESRI Global Discovery  2007",
+            "download_url": "https://data.humdata.org/dataset/23d41c1f-41ef-4957-a47e-b8c08c984d83/resource/4e42593a-ef61-472e-91cb-3a1084a14e51/download/uae_places_esri.zip"
+        }
+    },
+    {
+        "id": "ab6e70bd-3cab-4a68-9a02-04ecd3df6b46",
+        "format": {
+            "description": "This service is intended as a labelling layer for PCODES from OCHA's Common Operational Datasets for Western Sahara. As a map service it is intended to be used in conjunction with the basemap located at http://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/ESH_EN/MapServer. The service also provides feature access to Administrative Boundaries geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services\n",
+            "download_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/ESH_pcode/MapServer"
+        }
+    },
+    {
+        "id": "f42132b9-8cc6-4201-b020-9259c56e8868",
+        "format": {
+            "description": "This service is intended as a labelling layer for PCODES from OCHA's Common Operational Datasets for the Democratic Republic of the Congo. As a map service it is intended to be used in conjunction with the basemap located at http://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/COD_FR/MapServer. The service also provides feature access to Administrative Boundaries geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services.",
+            "download_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/COD_pcode/MapServer"
+        }
+    },
+    {
+        "id": "50ea7fee-f9af-45a7-8a52-abb9c790a0b6",
+        "format": {
+            "description": "This service is intended as a labelling layer for a previous version of the PCODES from OCHA's Common Operational Datasets for Colombia. As a map service it is intended to be used in conjunction with the basemap located at http://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/COL_ES/MapServer. The service also provides feature access to Administrative Boundaries and Populated Places geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services.",
+            "download_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/V00_0/COL_pcode/MapServer"
+        }
+    },
+    {
+        "id": "693aca77-1252-4404-9045-785e43bb6846",
+        "format": {
+            "description": "This map service contains OCHA Common Operational Datasets for Kyrgyzstan in Russian: Administrative Boundaries. The service is available as ESRI Map, ESRI Feature, WMS, and KML Services. See the OCHA COD/FOD terms of use for access and use constraints. \n",
+            "download_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/KGZ_RU/MapServer"
+        }
+    },
+    {
+        "id": "a66a4b6c-92de-4507-9546-aa1900474180",
+        "format": {
+            "description": "This service is intended as a labelling layer for PCODES from a previous version of OCHA's Common Operational Datasets for Sudan. As a map service it is intended to be used in conjunction with the basemap located at http://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/SDN_EN/MapServer. The service also provides feature access to Administrative Boundaries and Populated Places geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services.",
+            "download_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/V00_0/SDN_pcode/MapServer"
+        }
+    },
+    {
+        "id": "569beba7-bad7-4951-a19d-468a035461cd",
+        "format": {
+            "description": "Lebanon administrative level 0-3 EMF boundary files",
+            "download_url": "https://data.humdata.org/dataset/569beba7-bad7-4951-a19d-468a035461cd/resource/6cd44ae3-fc28-480c-88ff-07dc7d7573df/download/lbn_adm_cdr_2020810_emf.zip"
+        }
+    },
+    {
+        "id": "ecb2cb09-1270-4a7f-9187-f093efebdef7",
+        "format": {
+            "description": "Azerbaijan administrative level 0-1 boundary geodatabase",
+            "download_url": "https://data.humdata.org/dataset/ecb2cb09-1270-4a7f-9187-f093efebdef7/resource/fa526cba-2e78-495c-bd6e-0dd8d9478cf5/download/aze_adm_2020_gdb.gdb.zip"
+        }
+    },
+    {
+        "id": "37b89555-ef3e-4b26-a1ba-070318016853",
+        "format": {
+            "description": "",
+            "download_url": "https://data.humdata.org/dataset/37b89555-ef3e-4b26-a1ba-070318016853/resource/6a2163ff-c723-4935-b1ee-3d1ede194bd7/download/arm_adm_2019.gdb.zip"
+        }
+    },
+    {
+        "id": "01c71cfd-32ff-4a32-a1dd-5909702c12db",
+        "format": {
+            "description": "This service is intended as a labelling layer for PCODES from OCHA's Common Operational Datasets for Zambia. As a map service it is intended to be used in conjunction with the basemap located at http://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/ZMB_EN/MapServer. The service also provides feature access to Administrative Boundaries geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services.",
+            "download_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/ZMB_pcode/MapServer"
+        }
+    },
+    {
+        "id": "afb05759-c3da-44f4-93a1-6bd2d8bcd431",
+        "format": {
+            "description": "Kazakhstan administrative level 0 (country), 1 (region), and 2 (district) boundary geodatabase",
+            "download_url": "https://data.humdata.org/dataset/afb05759-c3da-44f4-93a1-6bd2d8bcd431/resource/4e5beed3-87e6-491c-9ded-9ccbe5162af8/download/kaz_adm_2019.gdb.zip"
+        }
+    },
+    {
+        "id": "b90d81ba-7c7a-4283-9899-827480d80a79",
+        "format": {
+            "description": "This service is intended as a labelling layer for PCODES from OCHA's Common Operational Datasets for Egypt. As a map service it is intended to be used in conjunction with the basemaps located at http://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/EGY_EN/MapServer and http://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/EGY_AR/MapServer. The service also provides feature access to Administrative Boundaries and Populated Places geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services.",
+            "download_url": "http://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/EGY_pcode/MapServer"
+        }
+    },
+    {
+        "id": "07db728a-4f0f-4e98-8eb0-8fa9df61f01c",
+        "format": {
+            "description": "This service is intended as a labelling layer for PCODES from OCHA's Common Operational Datasets for Nepal. As a map service it is intended to be used in conjunction with the basemap located at http://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/NPL_EN/MapServer. The service also provides feature access to Administrative Boundaries and Districts geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services.",
+            "download_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/NPL_pcode/MapServer"
+        }
+    },
+    {
+        "id": "e71a08a7-8529-4964-9ad7-7319e6ec05f8",
+        "format": {
+            "description": "Puerto Rico administrative level 0 (territory) and 1 (municipal) geodatabase",
+            "download_url": "https://data.humdata.org/dataset/e71a08a7-8529-4964-9ad7-7319e6ec05f8/resource/ba80e406-4b5f-4b75-89fa-2b69a3ff8d36/download/pri_adm_gdb.zip"
+        }
+    },
+    {
+        "id": "1b26ea94-4d28-4167-9209-4984ab087973",
+        "format": {
+            "description": "This service is intended as a labelling layer for PCODES from OCHA's Common Operational Datasets for the Dominican Republic. As a map service it is intended to be used in conjunction with the basemap located at http://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/DOM_ES/MapServer. The service also provides feature access to Administrative Boundaries geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services\n",
+            "download_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/DOM_pcode/MapServer"
+        }
+    },
+    {
+        "id": "51deb15e-2644-4c5d-a8e4-86093c6f8bbe",
+        "format": {
+            "description": "Antigua and Barbuda administrative level 0 (country) and 1 (parish, dependency) geodatabase",
+            "download_url": "https://data.humdata.org/dataset/51deb15e-2644-4c5d-a8e4-86093c6f8bbe/resource/0b68780a-d80d-4adb-a855-da46e3fc706f/download/atg_adm_2019.gdb.zip"
+        }
+    },
+    {
+        "id": "91ee6430-ca2a-446c-8659-8fcf5410591b",
+        "format": {
+            "description": "Barbados administrative level 0 (national) and 1 (parish) boundary geodatabase",
+            "download_url": "https://data.humdata.org/dataset/91ee6430-ca2a-446c-8659-8fcf5410591b/resource/b7287749-7f9d-429d-9d10-3cee11cb2552/download/brb_adm_2019_gdb.gdb.zip"
+        }
+    },
+    {
+        "id": "32b4ba2e-2ee5-4b2b-a7e4-9e4d323ffe73",
+        "format": {
+            "description": "Cuba administrative level 0 (country), 1 (province), and 2 (municipio) boundary geodatabase",
+            "download_url": "https://data.humdata.org/dataset/32b4ba2e-2ee5-4b2b-a7e4-9e4d323ffe73/resource/dc622acd-e9fe-4dd6-813a-69cc6dae8849/download/cub_adm_2019.gdb.zip"
+        }
+    },
+    {
+        "id": "f905304f-8969-44e1-a523-16b714da9dd6",
+        "format": {
+            "description": "Dominica administrative level 0-1 boundary EMF files",
+            "download_url": "https://data.humdata.org/dataset/f905304f-8969-44e1-a523-16b714da9dd6/resource/73b0180b-068f-441c-8cfd-0f5cdbcec2b4/download/dma_admn_py_s1_dominode_v2_emf.zip"
+        }
+    },
+    {
+        "id": "caa18d94-f20e-46cb-860b-da425ca3139b",
+        "format": {
+            "description": "Guadeloupe administrative level 0 (department), 1 (arrondissement), and 2 (canton) geodatabase",
+            "download_url": "https://data.humdata.org/dataset/caa18d94-f20e-46cb-860b-da425ca3139b/resource/8536b797-d2b6-483b-b969-6208d12d68b0/download/glp_adm_2019.gdb.zip"
+        }
+    },
+    {
+        "id": "0b20f310-7d22-479c-b7e2-e1bb9737fa72",
+        "format": {
+            "description": "This service is intended as a labelling layer for PCODES from OCHA's Common Operational Datasets for Guatemala. As a map service it is intended to be used in conjunction with the basemap located at http://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/GTM_ES/MapServer. The service also provides feature access to Administrative Boundaries geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services. ",
+            "download_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/GTM_pcode/MapServer"
+        }
+    },
+    {
+        "id": "5abb5b0c-f3e1-40c2-b633-9edfb0321924",
+        "format": {
+            "description": "Aruba administrative level 0 boundary EMF file",
+            "download_url": "https://data.humdata.org/dataset/5abb5b0c-f3e1-40c2-b633-9edfb0321924/resource/29e28cce-7c13-428e-80a5-dd283424ba78/download/abw_admbnda_adm0_2020.emf"
+        }
+    },
+    {
+        "id": "103b8a39-be5f-48e9-afb2-a08c6c112dc8",
+        "format": {
+            "description": "Anguilla administrative level 0 boundary EMF file",
+            "download_url": "https://data.humdata.org/dataset/103b8a39-be5f-48e9-afb2-a08c6c112dc8/resource/fae3ee3e-a7a9-4c34-8a93-bdbb303997bc/download/gadm36_aia_0.emf"
+        }
+    },
+    {
+        "id": "eed55f95-183c-48f7-adef-23dff31ec972",
+        "format": {
+            "description": "Trinidad and Tobago administrative level 0-1 boundary EMF file",
+            "download_url": "https://data.humdata.org/dataset/eed55f95-183c-48f7-adef-23dff31ec972/resource/7e43e04b-b5e8-4a84-838d-59907cd08428/download/tto_adm_emf.zip"
+        }
+    },
+    {
+        "id": "41f80e67-f140-494b-9b34-7861c4951364",
+        "format": {
+            "description": "Saint Barth\u00e9lemy administrative level 0 EMF file",
+            "download_url": "https://data.humdata.org/dataset/41f80e67-f140-494b-9b34-7861c4951364/resource/affc4d0c-b3b3-41a1-bce4-989c96900ab2/download/blm_adm0.emf"
+        }
+    },
+    {
+        "id": "8b2c9a50-82d5-4c31-9b4d-9f7bec2934c6",
+        "format": {
+            "description": "This service is intended as a labelling layer for PCODES from OCHA's Common Operational Datasets for Belize. As a map service it is intended to be used in conjunction with the basemap located at http://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/BLZ_EN/MapServer. The service also provides feature access to Administrative Boundaries geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services.\n",
+            "download_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/BLZ_pcode/MapServer"
+        }
+    },
+    {
+        "id": "e1761a91-7848-4449-9f1f-d2e97832b509",
+        "format": {
+            "description": "Cura\u00e7ao administrative level 0 EMF boundary file",
+            "download_url": "https://data.humdata.org/dataset/e1761a91-7848-4449-9f1f-d2e97832b509/resource/631c13cd-f5e1-409b-9df9-f94d8e0027eb/download/gadm36_cuw_0.emf"
+        }
+    },
+    {
+        "id": "01381a57-754f-46f4-ba1a-763f78796401",
+        "format": {
+            "description": "Cayman Islands administrative level 0 (nation) and 1 (district) boundary geodatabase",
+            "download_url": "https://data.humdata.org/dataset/01381a57-754f-46f4-ba1a-763f78796401/resource/081ce63a-9622-4a01-b2b1-db11ee504479/download/cym_adm_2020.gdb.zip"
+        }
+    },
+    {
+        "id": "ffdc3580-45ee-4630-9abf-4dd8a8b002d3",
+        "format": {
+            "description": "Grenada administrative level 0-1 gazetteer",
+            "download_url": "https://data.humdata.org/dataset/ffdc3580-45ee-4630-9abf-4dd8a8b002d3/resource/51ab1b11-2264-4c43-b840-5b9732a9611a/download/grd_admgz_2020.xlsx"
+        }
+    },
+    {
+        "id": "f62e5af2-463f-4880-a121-d76577cf3a03",
+        "format": {
+            "description": "Saint Kitts and Nevis administrative level 0 (country) and 1 (parish) boundary zipped geodatabase",
+            "download_url": "https://data.humdata.org/dataset/f62e5af2-463f-4880-a121-d76577cf3a03/resource/43adce12-5af8-40a3-a1e9-59c0d2bded4a/download/kna_adm_2020.gdb.zip"
+        }
+    },
+    {
+        "id": "e6b16151-3fcf-4159-88fd-257b37775fe2",
+        "format": {
+            "description": "St. Lucia administrative level 0 (country), 1 (quarter), and 2 boundary polygon geodatabase",
+            "download_url": "https://data.humdata.org/dataset/e6b16151-3fcf-4159-88fd-257b37775fe2/resource/af3700a6-fa3c-4f79-815a-68dc81017e3c/download/lca_adm_gov_2019.gdb.zip"
+        }
+    },
+    {
+        "id": "fee5299d-52f5-4273-a878-56175210da82",
+        "format": {
+            "description": "Jamaica administrative level  0 (country) and 1 (parish) EMF files",
+            "download_url": "https://data.humdata.org/dataset/fee5299d-52f5-4273-a878-56175210da82/resource/b20d32ee-6870-4613-84e6-a94fcf882dcb/download/jam_adm_emf.zip"
+        }
+    },
+    {
+        "id": "5def1205-2b8c-450a-a5bd-e77e2c5b79db",
+        "format": {
+            "description": "Montserrat administrative level 0 (territory) and 1 (parish) geodatabase",
+            "download_url": "https://data.humdata.org/dataset/5def1205-2b8c-450a-a5bd-e77e2c5b79db/resource/883ba134-067d-42a6-878a-2a7346b32afb/download/msr_adm_gadm.gdb.zip"
+        }
+    },
+    {
+        "id": "7b473de8-71e8-4960-89a0-fe3d360cd3f2",
+        "format": {
+            "description": "Turks and Caicos Islands administrative level 0-2 gazetteer",
+            "download_url": "https://data.humdata.org/dataset/7b473de8-71e8-4960-89a0-fe3d360cd3f2/resource/ffa30dab-945c-47c2-b105-3c9faf09041d/download/tca_gazetteer.xlsx"
+        }
+    },
+    {
+        "id": "db71885e-a987-43fd-976f-3aeb481341d1",
+        "format": {
+            "description": "British Virgin Islands administrative level 0 (territory) and 1 (district) boundary gazetteer",
+            "download_url": "https://data.humdata.org/dataset/db71885e-a987-43fd-976f-3aeb481341d1/resource/ceeb94af-f856-4d2f-aca7-430c6045b0f6/download/vgb_admgz_2020.xlsx"
+        }
+    },
+    {
+        "id": "8262b1d5-4338-451a-8b49-e2da9affb7be",
+        "format": {
+            "description": "Caribbean Netherlands administrative level 0-1 boundary EMF files",
+            "download_url": "https://data.humdata.org/dataset/8262b1d5-4338-451a-8b49-e2da9affb7be/resource/8ef76c4e-aa87-4a63-acd8-958d8788f589/download/bes_adm_emf.zip"
+        }
+    },
+    {
+        "id": "f0015a2b-b34e-42ca-842f-adebe3d268f8",
+        "format": {
+            "description": "United States Virgin Islands administrative level 0-2 boundary geodatabase",
+            "download_url": "https://data.humdata.org/dataset/f0015a2b-b34e-42ca-842f-adebe3d268f8/resource/d7fa1bbd-93d6-449f-83af-587797bf1fce/download/vir_adm_2019.gdb.zip"
+        }
+    },
+    {
+        "id": "e8c9c489-906d-4ad5-86d6-1752e693acc9",
+        "format": {
+            "description": "Martinique administrative level 0 (territory),  level 1 (arrondissement), and level 2 (commune) boundary geodatabase",
+            "download_url": "https://data.humdata.org/dataset/e8c9c489-906d-4ad5-86d6-1752e693acc9/resource/ea99e434-0170-4016-b392-264509a0c20c/download/mtq_adm_2016_ignf_gdb.gdb.zip"
+        }
+    },
+    {
+        "id": "f3056f1c-40bd-4dff-bb6d-d8e2b8233f35",
+        "format": {
+            "description": "Saint Martin administrative level 0 (nation) boundary EMF file",
+            "download_url": "https://data.humdata.org/dataset/f3056f1c-40bd-4dff-bb6d-d8e2b8233f35/resource/1060381c-1e82-4421-8f93-ff5181daa4d4/download/maf_adm0.emf"
+        }
+    },
+    {
+        "id": "401d3fae-4262-48c9-891f-461fd776d49b",
+        "format": {
+            "description": " This service is intended as a labelling layer for PCODES from a previous version of OCHA's Common Operational Datasets for Bangladesh. As a map service it is intended to be used in conjunction with the basemap located at http://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/BGD_EN/MapServer. The service also provides feature access to Administrative Boundaries geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services.",
+            "download_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/V00_0/BGD_pcode/MapServer"
+        }
+    },
+    {
+        "id": "4f06337c-24cb-4703-8bd9-f2e18913a9cf",
+        "format": {
+            "description": "Bermuda administrative level 0 (country), 1 (parish), and 2 (municipality)* boundary EMF files",
+            "download_url": "https://data.humdata.org/dataset/4f06337c-24cb-4703-8bd9-f2e18913a9cf/resource/f1fda545-8c35-4b7a-84b9-5957a8024a18/download/bmu_adm_2019_emf.zip"
+        }
+    },
+    {
+        "id": "726c2a10-c0b9-469a-9cba-cc58c3f68911",
+        "format": {
+            "description": "Saint Vincent and the Grenadines administrative level 0-2 gazetteer",
+            "download_url": "https://data.humdata.org/dataset/726c2a10-c0b9-469a-9cba-cc58c3f68911/resource/bd6e43f0-bcfb-499a-8e03-d1024aff2316/download/vct_admgz_2021.xlsx"
+        }
+    },
+    {
+        "id": "5b141d29-534f-4f01-a0bc-41e2f375d925",
+        "format": {
+            "description": "This service is intended as a labelling layer for PCODES from OCHA's Common Operational Datasets for Venezuela. As a map service it is intended to be used in conjunction with the basemap located at http://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/VEN_ES/MapServer. The service also provides feature access to Administrative Boundaries geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services",
+            "download_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/VEN_pcode/MapServer"
+        }
+    },
+    {
+        "id": "9647d5cc-9de9-4974-a8be-62fb12c19ffe",
+        "format": {
+            "description": "Guyana administrative level 0-2 geodatabase",
+            "download_url": "https://data.humdata.org/dataset/9647d5cc-9de9-4974-a8be-62fb12c19ffe/resource/4a387686-8801-405e-966c-c079443969d0/download/guy_admbnda_2021.gdb.zip"
+        }
+    },
+    {
+        "id": "ab35e673-76f2-43e5-a6a4-a5b81f9e093c",
+        "format": {
+            "description": "Suriname administrative level 0 (country), 1 (district) and 2 (resort) boundary geodatabase",
+            "download_url": "https://data.humdata.org/dataset/ab35e673-76f2-43e5-a6a4-a5b81f9e093c/resource/21465e9c-ff1b-4219-b4df-11db1f364a85/download/sur_adm_2017.gdb.zip"
+        }
+    },
+    {
+        "id": "e224a75d-b356-484e-a8f4-8c42395c0f10",
+        "format": {
+            "description": "French Guiana administrative level 0 (department), 1 (arrondissement), and 2 (commune) geodatabase",
+            "download_url": "https://data.humdata.org/dataset/e224a75d-b356-484e-a8f4-8c42395c0f10/resource/d5078f63-0a48-469f-9594-1e754fe92b93/download/guf_adm_ign_gdb.gdb.zip"
+        }
+    },
+    {
+        "id": "e6439952-e487-4682-8251-e9688aac60e1",
+        "format": {
+            "description": "Powerpoint maps that include the COD admin for simplified use",
+            "download_url": "https://data.humdata.org/dataset/e6439952-e487-4682-8251-e9688aac60e1/resource/581e5ac6-5383-474a-bb79-5371edca3dae/download/tgo_ppt_map.pptx"
+        }
+    },
+    {
+        "id": "70ca85b0-336a-407e-b9e5-f32a7e4840d0",
+        "format": {
+            "description": "This service is intended as a labelling layer for PCODES from OCHA's Common Operational Datasets for Chile. As a map service it is intended to be used in conjunction with the basemap located at http://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/CHL_ES/MapServer. The service also provides feature access to Administrative Boundaries geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services",
+            "download_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/CHL_pcode/MapServer"
+        }
+    },
+    {
+        "id": "08bfc7f6-3acc-45df-a69a-b853cf1cff05",
+        "format": {
+            "description": "This service is intended as a labelling layer for PCODES from OCHA's Common Operational Datasets for El Salvador. As a map service it is intended to be used in conjunction with the basemap located at http://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/SLV_ES/MapServer. The service also provides feature access to Administrative Boundaries geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services",
+            "download_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/SLV_pcode/MapServer"
+        }
+    },
+    {
+        "id": "19b220b3-2802-432b-b93d-b1a2f2ee347a",
+        "format": {
+            "description": "This service is intended as a labelling layer for PCODES from OCHA's Common Operational Datasets for Panama. As a map service it is intended to be used in conjunction with the basemap located at http://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/PAN_ES/MapServer. The service also provides feature access to Administrative Boundaries geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services",
+            "download_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/PAN_pcode/MapServer"
+        }
+    },
+    {
+        "id": "98e9bcfe-6565-4372-8422-f57d5b209448",
+        "format": {
+            "description": "This service is intended as a labelling layer for PCODES from a previous version of OCHA's Common Operational Datasets for Nicaragua. As a map service it is intended to be used in conjunction with the basemap located at http://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/NIC_ES/MapServer. The service also provides feature access to Administrative Boundaries geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services.\n",
+            "download_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/V00_0/NIC_pcode/MapServer"
+        }
+    },
+    {
+        "id": "d31c3690-b6d9-461c-8ac6-553dd9c69b81",
+        "format": {
+            "description": "Uruguay administrative level 0-2 boundary geodatabase",
+            "download_url": "https://data.humdata.org/dataset/d31c3690-b6d9-461c-8ac6-553dd9c69b81/resource/01cf4d27-85b6-4ea9-bf7f-e97eb7e62a19/download/ury_adm_2020.gdb.zip"
+        }
+    },
+    {
+        "id": "212cd82f-bcb8-445f-8b32-aa194387f6c3",
+        "format": {
+            "description": "Paraguay administrative level 0-2 geodatabase",
+            "download_url": "https://data.humdata.org/dataset/212cd82f-bcb8-445f-8b32-aa194387f6c3/resource/627972d8-9f5a-4ed7-8a1b-c3e91072b290/download/pry_adm_gadm_gdb.gdb.zip"
+        }
+    },
+    {
+        "id": "c661e398-66cf-4a9f-9607-4962c72d1ccf",
+        "format": {
+            "description": "Argentina administrative level 0-2 geodatabase",
+            "download_url": "https://data.humdata.org/dataset/c661e398-66cf-4a9f-9607-4962c72d1ccf/resource/99e4239c-fdae-4a3e-80a9-2e18504868d6/download/arg_adm_unhcr2017_emf.zip"
+        }
+    },
+    {
+        "id": "f5f0648e-f085-4c85-8242-26bf6c942f40",
+        "format": {
+            "description": "Brazil administrative level 0-2 geodatabase",
+            "download_url": "https://data.humdata.org/dataset/f5f0648e-f085-4c85-8242-26bf6c942f40/resource/b4bf8e52-2de8-443f-a72d-287c1ef6b462/download/bra_adm_ibge_2020.gdb.zip"
+        }
+    },
+    {
+        "id": "67887590-51b0-4d98-bc12-666ebedf7704",
+        "format": {
+            "description": "This service is intended as a labelling layer for PCODES from OCHA's Common Operational Datasets for Vanuatu. As a map service it is intended to be used in conjunction with the basemap located at http://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/VUT_EN/MapServer. The service also provides feature access to Administrative Boundaries geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services. ",
+            "download_url": "http://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/VUT_pcode/FeatureServer"
+        }
+    },
+    {
+        "id": "63148f32-4505-433d-b8ea-1fd8088b4bdf",
+        "format": {
+            "description": "This service is intended as a labelling layer for PCODES from OCHA's Common Operational Datasets for Burundi. As a map service it is intended to be used in conjunction with the basemap located at http://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/BDI_FR/MapServer. The service also provides feature access to Administrative Boundaries geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services. ",
+            "download_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/BDI_pcode/MapServer"
+        }
+    },
+    {
+        "id": "cff13277-eac9-49b0-8436-e80f42eb4684",
+        "format": {
+            "description": "This service is intended as a labelling layer for PCODES from OCHA's Common Operational Datasets for Bhutan. As a map service it is intended to be used in conjunction with the basemap located at http://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/BTN_EN/MapServer. The service also provides feature access to Administrative Boundaries geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services",
+            "download_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/BTN_pcode/MapServer"
+        }
+    },
+    {
+        "id": "a64d1ff2-7158-48c7-887d-6af69ce21906",
+        "format": {
+            "description": "This map service contains OCHA Common Operational Datasets for Pakistan: Administrative Boundaries. The service is available as ESRI Map, ESRI Feature, WMS, and KML Services. See the OCHA COD/FOD terms of use for access and use constraints. \n",
+            "download_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/PAK_EN/MapServer"
+        }
+    },
+    {
+        "id": "ee4a485c-9180-43db-9672-55e18dac5f96",
+        "format": {
+            "description": "This service is intended as a labelling layer for PCODES from OCHA's Common Operational Datasets for Timor-Leste. As a map service it is intended to be used in conjunction with the basemap located at http://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/TLS_EN/MapServer. The service also provides feature access to Administrative Boundaries geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services\n",
+            "download_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/TLS_pcode/MapServer"
+        }
+    },
+    {
+        "id": "a9b0a8a6-cb14-448e-b35c-aa5eb51b0557",
+        "format": {
+            "description": "This service is intended as a labelling layer for PCODES from OCHA's Common Operational Datasets for Mongolia. As a map service it is intended to be used in conjunction with the basemap located at http://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/MNG_EN/MapServer. The service also provides feature access to Administrative Boundaries and Regions geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services",
+            "download_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/MNG_pcode/MapServer"
+        }
+    },
+    {
+        "id": "3cb544a9-9d04-4f54-94e2-93230efd8ceb",
+        "format": {
+            "description": "This map service contains OCHA Common Operational Datasets for Viet Nam in Vietnamese: Administrative Boundaries. The service is available as ESRI Map, ESRI Feature, WMS, and KML Services. See the OCHA COD/FOD terms of use for access and use constraints.  SEE CAVEATS",
+            "download_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/VNM_VI/MapServer"
+        }
+    },
+    {
+        "id": "0cd9579f-ca75-4af4-88e1-9c5fa0bbb7ab",
+        "format": {
+            "description": "This service is intended as a labelling layer for PCODES from OCHA's Common Operational Datasets for DPR Korea. As a map service it is intended to be used in conjunction with the basemap located at http://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/PRK_EN/MapServer. The service also provides feature access to Administrative Boundaries geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services. ",
+            "download_url": "http://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/PRK_pcode/MapServer"
+        }
+    },
+    {
+        "id": "a968d227-24c9-49ea-bbce-cee04ee94819",
+        "format": {
+            "description": "This service is intended as a labelling layer for PCODES from OCHA's Common Operational Datasets for Maldives. As a map service it is intended to be used in conjunction with the basemap located at http://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/MDV_EN/MapServer. The service also provides feature access to Administrative Boundaries geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services",
+            "download_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/MDV_pcode/MapServer"
+        }
+    },
+    {
+        "id": "17a2aaa2-dea9-4a2e-8b3f-92d1bdfb850c",
+        "format": {
+            "description": "China administrative level 0-2 zipped geodatabase",
+            "download_url": "https://data.humdata.org/dataset/17a2aaa2-dea9-4a2e-8b3f-92d1bdfb850c/resource/05acf01e-6d6f-4f8b-a955-cdbc24bb455c/download/chn_adm_ocha_2020.gdb.zip"
+        }
+    },
+    {
+        "id": "776dd627-a97a-4f86-9b0d-52ce64525120",
+        "format": {
+            "description": "Solomon Islands administrative level 0-3 boundary EMF files",
+            "download_url": "https://data.humdata.org/dataset/776dd627-a97a-4f86-9b0d-52ce64525120/resource/81e9efac-e589-41af-8f2c-2b508af88fa5/download/slb_adm_emf.zip"
+        }
+    },
+    {
+        "id": "9721eaf0-5663-4137-b3a2-c21dc8fac15a",
+        "format": {
+            "description": "This service is intended as a labelling layer for PCODES from a previous version of OCHA's Common Operational Datasets for Mexico. As a map service it is intended to be used in conjunction with the basemap located at http://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/MEX_ES/MapServer. The service also provides feature access to Administrative Boundaries geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services\n",
+            "download_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/V00_0/MEX_pcode/MapServer"
+        }
+    },
+    {
+        "id": "723b5226-781a-4aee-9718-37e3fbddd886",
+        "format": {
+            "description": "Tonga administrative level 0 (country), 1 (division), 2 (district), and 3 (village) metadata",
+            "download_url": "https://data.humdata.org/dataset/723b5226-781a-4aee-9718-37e3fbddd886/resource/bb61c322-4ae7-478e-a69c-1d5d721faf22/download/ton_admin_boundary_taxonomy_metadata.xlsx"
+        }
+    },
+    {
+        "id": "451bdd28-d06d-46ea-91c0-2e081f884395",
+        "format": {
+            "description": "Tanzania administrative level 0 (country), 1 (region), 2 (district), and 3 (ward) boundary line shapefile",
+            "download_url": "https://data.humdata.org/dataset/451bdd28-d06d-46ea-91c0-2e081f884395/resource/891e9f9c-a967-4026-91da-24a5e45421b2/download/tza_admbndl_all_20181019.zip"
+        }
+    },
+    {
+        "id": "67333305-5479-4936-a7a3-1713ec3b7398",
+        "format": {
+            "description": "This service is intended as a labelling layer for PCODES from a previous version of OCHA's Common Operational Datasets for Bolivia. As a map service it is intended to be used in conjunction with the basemap located at http://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/BOL_ES/MapServer. The service also provides feature access to Administrative Boundaries geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services.",
+            "download_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/V00_0/BOL_pcode/FeatureServer"
+        }
+    },
+    {
+        "id": "66f56d39-3f19-4798-a0df-a0ed9a4836ea",
+        "format": {
+            "description": "Uzbekistan administrative level 0-2 boundary EMF files",
+            "download_url": "https://data.humdata.org/dataset/66f56d39-3f19-4798-a0df-a0ed9a4836ea/resource/5b94f537-1197-4440-8749-b2a7f3e4d764/download/uzb_adm_2018b_emf.zip"
+        }
+    },
+    {
+        "id": "c215706c-9c22-43ca-8d36-9de4726eb9e0",
+        "format": {
+            "description": "Marshall Islands administrative level 2 (EA) boundary polygon shapefile",
+            "download_url": "https://data.humdata.org/dataset/c215706c-9c22-43ca-8d36-9de4726eb9e0/resource/cc174295-8f9a-47cd-ba58-b89b83dee917/download/mhl_admbnda_adm2_ea.zip"
+        }
+    },
+    {
+        "id": "6d6d1495-196b-49d0-86b9-dc9022cde8e7",
+        "format": {
+            "description": "This service is intended as a labelling layer for PCODES from OCHA's Common Operational Datasets for Uganda. As a map service it is intended to be used in conjunction with the basemap located at http://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/UGA_EN/MapServer. The service also provides feature access to Administrative Boundaries geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services.",
+            "download_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/UGA_pcode/MapServer"
+        }
+    },
+    {
+        "id": "503a9167-ba56-4174-b160-bdb0fb703719",
+        "format": {
+            "description": "Powerpoint maps that include the COD admin for simplified use",
+            "download_url": "https://data.humdata.org/dataset/503a9167-ba56-4174-b160-bdb0fb703719/resource/be7b3236-fe71-41d9-b310-e04e064eca59/download/civ_ppt_map.pptx"
+        }
+    },
+    {
+        "id": "2768bdfd-6486-4963-8e3d-e63149478eb4",
+        "format": {
+            "description": "Rwanda administrative level 0-3 and 4 (incomplete) boundary EMF files",
+            "download_url": "https://data.humdata.org/dataset/2768bdfd-6486-4963-8e3d-e63149478eb4/resource/0394d7ee-255f-46e0-88bf-8ea1f0b68de1/download/rwa_2006_nisr_wgs1984_20181002_emf.zip"
+        }
+    },
+    {
+        "id": "a62b2816-7d2e-4e07-a794-0a1dcb507092",
+        "format": {
+            "description": "This service is intended as a labelling layer for PCODES from OCHA's Common Operational Datasets for Angola. As a map service it is intended to be used in conjunction with the basemap located at http://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/AGO_EN/MapServer. The service also provides feature access to Administrative Boundaries geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services. ",
+            "download_url": "http://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/AGO_pcode/MapServer"
+        }
+    },
+    {
+        "id": "f5c4f4e4-a3c8-4d12-891f-d28d74ce04d5",
+        "format": {
+            "description": "This service is intended as a labelling layer for PCODES from OCHA's Common Operational Datasets for Zimbabwe. As a map service it is intended to be used in conjunction with the basemap located at http://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/ZWE_EN/MapServer. The service also provides feature access to Administrative Boundaries geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services. ",
+            "download_url": "http://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/ZWE_pcode/MapServer"
+        }
+    },
+    {
+        "id": "20eb8e5b-134d-41d8-a56f-4f358f7faf16",
+        "format": {
+            "description": "District lookup table between 32-district (official) and 28-district (alternate) systems.",
+            "download_url": "https://data.humdata.org/dataset/20eb8e5b-134d-41d8-a56f-4f358f7faf16/resource/8c9fec7a-a28e-4367-a56a-02189de68332/download/mwi_district_lookup.xls"
+        }
+    },
+    {
+        "id": "5e8d83a5-1210-49be-b7d9-cf286dbc15df",
+        "format": {
+            "description": "This map service contains OCHA Common Operational Datasets for for Mozambique in Portuguese: Administrative Boundaries. The service is available as ESRI Map, ESRI Feature, WMS, and KML Services. See the OCHA COD/FOD terms of use for access and use constraints. ",
+            "download_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/MOZ_PT/MapServer"
+        }
+    },
+    {
+        "id": "b09efeaa-f9ee-44f2-a8b9-c99956be95ef",
+        "format": {
+            "description": "Sint Maarten administrative level 0-1 boundary EMF files",
+            "download_url": "https://data.humdata.org/dataset/b09efeaa-f9ee-44f2-a8b9-c99956be95ef/resource/717bc3fd-c191-402e-a49e-0b6240feb1cf/download/sxm_adm_emf.zip"
+        }
+    },
+    {
+        "id": "ceee47a3-cd1d-4eae-ab93-87d6f2ca00b9",
+        "format": {
+            "description": "Djibouti administrative level 2 (district) boundary polygon EMF file",
+            "download_url": "https://data.humdata.org/dataset/ceee47a3-cd1d-4eae-ab93-87d6f2ca00b9/resource/c49a139e-8384-46d0-a704-09b3fb4964d8/download/dji_admbnda_adm2_fews.emf"
+        }
+    },
+    {
+        "id": "7f80a5d1-9f1a-462c-b298-338c7edc9224",
+        "format": {
+            "description": "This service is intended as a labelling layer for PCODES from OCHA's Common Operational Datasets for Comoros. As a map service it is intended to be used in conjunction with the basemap located at http://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/COM_EN/MapServer. The service also provides feature access to Administrative Boundaries geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services.",
+            "download_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/COM_pcode/MapServer"
+        }
+    },
+    {
+        "id": "55b1367e-667a-447b-952d-5bb139835628",
+        "format": {
+            "description": "Lesotho population administrative level 0 (country), 1 (district), and 2 (community council, municipal council, or urban council) boundary EMF files",
+            "download_url": "https://data.humdata.org/dataset/55b1367e-667a-447b-952d-5bb139835628/resource/ce623a7b-4b49-4368-8bf4-723d4d57cf81/download/lso_adm_fao_mlgca_2019_emf.zip"
+        }
+    },
+    {
+        "id": "0bedcaf3-88cd-4591-b9d5-5d3220e26abf",
+        "format": {
+            "description": "This map service contains a previous version of the OCHA Common Operational Datasets for Sri Lanka: Administrative Boundaries. The service is available as ESRI Map, ESRI Feature, WMS, and KML Services.",
+            "download_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/V00_0/LKA_EN/MapServer"
+        }
+    },
+    {
+        "id": "247b4026-79ff-4b16-95b9-0f366792d2cc",
+        "format": {
+            "description": "This service is intended as a labelling layer for PCODES from OCHA's Common Operational Datasets for Iran (Islamic Republic of). As a map service it is intended to be used in conjunction with the basemap located at http://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/IRN_EN/MapServer. The service also provides feature access to Administrative Boundaries geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services.",
+            "download_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/IRN_pcode/MapServer"
+        }
+    },
+    {
+        "id": "dc71c13f-e848-4ddc-9074-17e608464b63",
+        "format": {
+            "description": "Federated States of Micronesia 2010 administrative level 0 (country), 1 (state), 2 (municipality) shapefiles",
+            "download_url": "https://data.humdata.org/dataset/dc71c13f-e848-4ddc-9074-17e608464b63/resource/7348d022-6726-438c-9b1c-0b5524b7dbfd/download/fsm_admbnda_shp.zip"
+        }
+    },
+    {
+        "id": "d64db592-f54c-4ae4-9b68-2fd81d7a4175",
+        "format": {
+            "description": "Belarus administrative level 0 (country), 1 (region or special administrative district), and 2 (district) geodatabase",
+            "download_url": "https://data.humdata.org/dataset/d64db592-f54c-4ae4-9b68-2fd81d7a4175/resource/d2f6f16e-f043-4b7b-afc8-0dafc809224f/download/blr_adm_2019.gdb.zip"
+        }
+    },
+    {
+        "id": "3ee95199-2dfe-40fc-b9bd-b44cc8c91024",
+        "format": {
+            "description": "This service is intended as a labelling layer for PCODES from OCHA's Common Operational Datasets for Georgia. As a map service it is intended to be used in conjunction with the basemap located at http://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/GEO_EN/MapServer. The service also provides feature access to Administrative Boundaries geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services.",
+            "download_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/GEO_pcode/MapServer"
+        }
+    },
+    {
+        "id": "cb58fa1f-687d-4cac-81a7-655ab1efb2d0",
+        "format": {
+            "description": "This service is intended as a labelling layer for PCODES from a previous version of OCHA's Common Operational Datasets for Ethiopia. As a map service it is intended to be used in conjunction with the basemap located at http://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/ETH_EN/MapServer. The service also provides feature access to Administrative Boundaries geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services.",
+            "download_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/V1_00/ETH_pcode/MapServer"
+        }
+    },
+    {
+        "id": "3cd53554-3ad7-4aae-b862-9bbbc6fa3bfc",
+        "format": {
+            "description": "Moldova administrative level 0-1 boundary geodatabase",
+            "download_url": "https://data.humdata.org/dataset/3cd53554-3ad7-4aae-b862-9bbbc6fa3bfc/resource/d4ba0603-fec3-4537-8516-a54da93065d9/download/mda_adm.gdb.zip"
+        }
+    },
+    {
+        "id": "178684f5-5552-4b71-af65-525bd806c237",
+        "format": {
+            "description": "Bulgaria administrative level 0 (country), 1 (province, capital), and 2 (municipality) geodatabase",
+            "download_url": "https://data.humdata.org/dataset/178684f5-5552-4b71-af65-525bd806c237/resource/d0405cc7-3e74-4972-9b2e-4e2d90c5789c/download/bgr_adm_unicef_2019.gdb.zip"
+        }
+    },
+    {
+        "id": "4c303d7b-8eae-4a5a-a3aa-b2331fa39d74",
+        "format": {
+            "description": "This service is intended as a labelling layer for PCODES from OCHA's Common Operational Datasets for Afghanistan. As a map service it is intended to be used in conjunction with the basemap located at http://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/AFG_EN/MapServer. The service is available as ESRI Map, WMS, WFS and KML Services.",
+            "download_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/AFG_pcode/MapServer"
+        }
+    },
+    {
+        "id": "b85a92b8-e29d-444c-9990-94e4a3a85480",
+        "format": {
+            "description": "This service is intended as a labelling layer for PCODES from OCHA's Common Operational Datasets for Malaysia. As a map service it is intended to be used in conjunction with the basemap located at http://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/MYS_EN/MapServer. The service also provides feature access to Administrative Boundaries geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services",
+            "download_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/MYS_pcode/MapServer"
+        }
+    },
+    {
+        "id": "6ba099c6-350b-4711-9a65-d85a1c5e519c",
+        "format": {
+            "description": "Japan administrative level 0 (country), 1 (prefecture) and 2 (city, town, or village) boundary geodatabase",
+            "download_url": "https://data.humdata.org/dataset/6ba099c6-350b-4711-9a65-d85a1c5e519c/resource/c390f004-90c8-41a9-863f-8d93a8a32b89/download/jpn_adm_2019_gdb.gdb.zip"
+        }
+    },
+    {
+        "id": "c62ad81d-ce24-4e61-90c6-836caeec6766",
+        "format": {
+            "description": "Albania administrative level 0 (country), 1 (county), 2 (municipality), and 3 (locality) boundary geodatabase",
+            "download_url": "https://data.humdata.org/dataset/c62ad81d-ce24-4e61-90c6-836caeec6766/resource/7fdd64fe-af3b-497f-bd11-ae92638cb58a/download/alb_adm_2019_gdb.gdb.zip"
+        }
+    },
+    {
+        "id": "84a1d98a-790b-4d66-9d14-bbfa48500802",
+        "format": {
+            "description": "This service is intended as a labelling layer for PCODES from a previous version of OCHA's Common Operational Datasets for Indonesia. As a map service it is intended to be used in conjunction with the basemap located at http://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/IDN_EN/MapServer. The service also provides feature access to Administrative Boundaries geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services.",
+            "download_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/V00_0/IDN_pcode/FeatureServer"
+        }
+    },
+    {
+        "id": "156a0966-1e09-455c-9e4f-e68676aa2fbf",
+        "format": {
+            "description": "Kiribati administrative level 0 (country), 1 (group), 2 (island) geodatabase",
+            "download_url": "https://data.humdata.org/dataset/156a0966-1e09-455c-9e4f-e68676aa2fbf/resource/e6759485-f662-4261-8e11-8184472a6ec8/download/kir_adm_2020_gdb.gdb.zip"
+        }
+    },
+    {
+        "id": "30c13830-6f14-46db-acd9-29eae51c540a",
+        "format": {
+            "description": "Mauritius administrative level 0-1 EMF boundary shapefiles",
+            "download_url": "https://data.humdata.org/dataset/30c13830-6f14-46db-acd9-29eae51c540a/resource/6d9dabc4-f8f8-498e-a7ca-9f24710f385f/download/mus_administrative_boundary_ndma_gadm_ocha_emf.zip"
+        }
+    },
+    {
+        "id": "e145e4c6-0a78-42c7-833c-5850ac3a1731",
+        "format": {
+            "description": "This service is intended as a labelling layer for PCODES from OCHA's Common Operational Datasets for Eswatini. As a map service it is intended to be used in conjunction with the basemap located at http://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/SWZ_EN/MapServer. The service also provides feature access to Administrative Boundaries geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services",
+            "download_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/SWZ_pcode/MapServer"
+        }
+    },
+    {
+        "id": "9ac1737f-cd33-4458-86e8-aec90eeffda2",
+        "format": {
+            "description": "Seychelles administrative level 0 (country), 1 (islands), 2 (region), and 3 (district) geodatabase",
+            "download_url": "https://data.humdata.org/dataset/9ac1737f-cd33-4458-86e8-aec90eeffda2/resource/4a737df4-892f-4cd9-89f5-6a7f8b2d5ce2/download/syc_adm_nbs2010.gdb.zip"
+        }
+    },
+    {
+        "id": "7cf2b2c2-ad83-4f65-aa69-dae9c574df13",
+        "format": {
+            "description": "Costa Rica administrative level 0-3 2021 boundaries",
+            "download_url": "https://data.humdata.org/dataset/7cf2b2c2-ad83-4f65-aa69-dae9c574df13/resource/5503b90c-d1b6-422b-a641-47ff6630f729/download/cri_adm_2021_wgs_84.gdb.zip"
+        }
+    },
+    {
+        "id": "c188d79c-fc74-44dd-aa46-adebb6b340d5",
+        "format": {
+            "description": "Sahel administrative level 3 boundary shapefile metadata (French and English)",
+            "download_url": "https://data.humdata.org/dataset/c188d79c-fc74-44dd-aa46-adebb6b340d5/resource/ddb9bc2e-cd07-4424-a4c2-bfa2f4090275/download/sah-admin3-metadata.txt"
+        }
+    },
+    {
+        "id": "74d579a7-e30b-445a-9ff3-1d673da53d3b",
+        "format": {
+            "description": "Botswana administrative level 0-3 boundary geodatabase",
+            "download_url": "https://data.humdata.org/dataset/74d579a7-e30b-445a-9ff3-1d673da53d3b/resource/be38c4aa-a2ab-495c-be07-5fd7bb545dc1/download/bwa_adm_2011.gdb.zip"
+        }
+    },
+    {
+        "id": "d23f529f-31e4-4021-a65b-13987e5cfb42",
+        "format": {
+            "description": "This map service contains a previous version of OCHA Common Operational Datasets for Ukraine: Administrative Boundaries, in Ukrainian. Russian and English services are also available. The service is available as ESRI Map, ESRI Feature, WMS, and KML Services. See the OCHA COD/FOD terms of use for access and use constraints.",
+            "download_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/V00_0/UKR_UA/MapServer"
+        }
+    }
+]

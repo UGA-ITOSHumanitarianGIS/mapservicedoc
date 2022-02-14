@@ -2,7 +2,7 @@ import json
 from os import path
 import numpy as np
 from hdx.utilities.easy_logging import setup_logging
-from hdx.hdx_configuration import Configuration
+from hdx.api.configuration import Configuration
 from hdx.data.dataset import Dataset
 
 setup_logging()
