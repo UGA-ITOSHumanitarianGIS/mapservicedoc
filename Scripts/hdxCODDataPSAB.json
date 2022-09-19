@@ -1,0 +1,2308 @@
+[
+    {
+        "id": "e71f53d9-2339-4df5-b76e-397957ec65dc",
+        "format": {
+            "name": "cod-ps-npl",
+            "description": "Nepal administrative level 0 (country), 1 (province), district (un-numbered), and 2 (local unit) boundary gazetteer",
+            "download_url": "https://data.humdata.org/dataset/e71f53d9-2339-4df5-b76e-397957ec65dc/resource/6a8804f9-a580-4cdf-b33d-f3c4a7db3d51/download/npl_adminboundaries_tabulardata.xlsx"
+        }
+    },
+    {
+        "id": "89127169-6002-456f-adb1-7151d987467f",
+        "format": {
+            "name": "cod-ps-slv",
+            "description": "El Salvador administrative level 2 sex and age disaggregated 2021 projected population statistics",
+            "download_url": "https://data.humdata.org/dataset/89127169-6002-456f-adb1-7151d987467f/resource/1d8a3ccb-3002-4119-866d-5d9473c3f461/download/slv_admpop_adm2_2021.csv"
+        }
+    },
+    {
+        "id": "0d8f2f78-cb46-4eb8-94eb-100b5388c3ff",
+        "format": {
+            "name": "cod-ps-per",
+            "description": "Peru administrative level 2 2017 sex and age disaggregated population statistics",
+            "download_url": "https://data.humdata.org/dataset/0d8f2f78-cb46-4eb8-94eb-100b5388c3ff/resource/0fff74cd-742f-485d-8ca9-396c840698ad/download/per_adm2_pop.csv"
+        }
+    },
+    {
+        "id": "94b26815-cd91-4553-b64d-7a6f153400bc",
+        "format": {
+            "name": "cod-ps-rwa",
+            "description": "Rwanda administrative level 3 sex and age disaggregated 2020 population statistics projections",
+            "download_url": "https://data.humdata.org/dataset/94b26815-cd91-4553-b64d-7a6f153400bc/resource/b07265ad-055e-4ea8-bb95-de3adb1ae0a1/download/rwa_admpop_adm3_2020-.csv"
+        }
+    },
+    {
+        "id": "ac1e22fd-a89d-45d8-ad05-d6282ac4ffce",
+        "format": {
+            "name": "cod-ps-dji",
+            "description": "",
+            "download_url": "https://data.humdata.org/dataset/ac1e22fd-a89d-45d8-ad05-d6282ac4ffce/resource/abb17c87-7209-41ff-a491-5895321a54d8/download/djiboutipopulationstatistics-2009.xlsx"
+        }
+    },
+    {
+        "id": "944d6072-f333-4da5-87a7-7516f197a7c2",
+        "format": {
+            "name": "cod-ps-gin",
+            "description": "Guinea administrative level 3 (sub-prefecture) 2021 projected population statistics",
+            "download_url": "https://data.humdata.org/dataset/944d6072-f333-4da5-87a7-7516f197a7c2/resource/67cb72cc-b352-4de7-a0d9-336a37b3ac83/download/gin_admpop_adm3_2020_v2.csv"
+        }
+    },
+    {
+        "id": "b59b17f3-a3c7-45c0-a61d-539a01180494",
+        "format": {
+            "name": "cod-ps-gmb",
+            "description": "Administrative level 1 (local government area) population statistics suitable for linking to the gmb_admbnda_adm1_lga_1m_wfp_ocha shapefile.\r\n",
+            "download_url": "https://data.humdata.org/dataset/b59b17f3-a3c7-45c0-a61d-539a01180494/resource/57a8f480-4893-4d3f-8905-6e5cde149930/download/gmb_popadm_2021_admin1.csv"
+        }
+    },
+    {
+        "id": "8520e386-9263-48c9-b1bf-b2349e019fbb",
+        "format": {
+            "name": "cod-ps-col",
+            "description": "Colombia administrative level  2 (municipality) 2020 projected population statistics",
+            "download_url": "https://data.humdata.org/dataset/8520e386-9263-48c9-b1bf-b2349e019fbb/resource/76e12f52-af0d-45b2-8024-e6b0e63913c4/download/col_adm2_pop.csv"
+        }
+    },
+    {
+        "id": "f9ec8c86-e300-443b-bd04-a6c9923c29ef",
+        "format": {
+            "name": "cod-ps-lao",
+            "description": "Lao People's Democratic Republic level 2 2020 projected sex and age disaggregated population statistics",
+            "download_url": "https://data.humdata.org/dataset/f9ec8c86-e300-443b-bd04-a6c9923c29ef/resource/87e60232-7af8-43c3-bc47-685f2a770ab1/download/lao_admpop_adm2_2020.csv"
+        }
+    },
+    {
+        "id": "770386b0-d7c6-4ea7-abbc-beccac38c192",
+        "format": {
+            "name": "cod-ps-khm",
+            "description": "Cambodia administrative level 3 2016 population statistics",
+            "download_url": "https://data.humdata.org/dataset/770386b0-d7c6-4ea7-abbc-beccac38c192/resource/4012987a-cfd4-4b0a-9608-0be786ce9975/download/khm_admpop_adm3_2016.csv"
+        }
+    },
+    {
+        "id": "a0073098-8df2-4dc4-839f-efb795deb4de",
+        "format": {
+            "name": "cod-ps-mng",
+            "description": "Mongolia administrative level 2 2017 sex disaggregated population statistics",
+            "download_url": "https://data.humdata.org/dataset/a0073098-8df2-4dc4-839f-efb795deb4de/resource/38d2a064-5d9d-4606-b9fb-3c4f141f9028/download/mng_admpop_adm2_2017.csv"
+        }
+    },
+    {
+        "id": "f92e2197-8922-4640-885f-c21b15ec623a",
+        "format": {
+            "name": "cod-ps-lso",
+            "description": "Lesotho population administrative level 0-2 gazetteer",
+            "download_url": "https://data.humdata.org/dataset/f92e2197-8922-4640-885f-c21b15ec623a/resource/b8b29498-6ee9-4c1c-aa52-b7b44ada64eb/download/lso_admgz.xls"
+        }
+    },
+    {
+        "id": "61ae5d81-b933-4044-8f46-c26e3ead704d",
+        "format": {
+            "name": "cod-ps-kaz",
+            "description": "Kazakhstan administrative level 1 sex and age disaggregated 2021 population statistics",
+            "download_url": "https://data.humdata.org/dataset/61ae5d81-b933-4044-8f46-c26e3ead704d/resource/76b34ad2-4547-4b30-98b8-2cfefc9ba15c/download/kaz_admpop_adm1_2021.csv"
+        }
+    },
+    {
+        "id": "008e23ea-9d98-482e-bc1e-555b32b44715",
+        "format": {
+            "name": "cod-ps-tjk",
+            "description": "Tajikistan administrative level 0-1 sex and age disaggregated 2019 projected population statistics.  See caveats.",
+            "download_url": "https://data.humdata.org/dataset/008e23ea-9d98-482e-bc1e-555b32b44715/resource/c05484a5-cec1-4021-9110-3466de02c373/download/tjk_admpop_2019.xlsx"
+        }
+    },
+    {
+        "id": "a2166d16-f76e-40cc-ade6-69c4ab5ecba4",
+        "format": {
+            "name": "cod-ps-tun",
+            "description": "",
+            "download_url": "https://data.humdata.org/dataset/a2166d16-f76e-40cc-ade6-69c4ab5ecba4/resource/625aa267-e24c-4d01-9579-ed0f8c25dcd1/download/tab6_fr_gov_estimation_01-january-2013.xls"
+        }
+    },
+    {
+        "id": "c5dd0d76-cc9a-4601-ba6e-12626688956d",
+        "format": {
+            "name": "cod-ps-arm",
+            "description": "Armenia administrative level 0 (country) 1 (province), 2 (unofficial level), and 3 (municipal community)  gazetteer",
+            "download_url": "https://data.humdata.org/dataset/c5dd0d76-cc9a-4601-ba6e-12626688956d/resource/5f82c0fe-0fbf-4f22-8914-d1ae663ddde9/download/arm_gazetteer_2019.xlsx"
+        }
+    },
+    {
+        "id": "d3600c4b-d93d-4ed0-b7b1-359a060b916a",
+        "format": {
+            "name": "cod-ps-caf",
+            "description": "Population by Adm1, Adm2, and Adm3",
+            "download_url": "https://data.humdata.org/dataset/d3600c4b-d93d-4ed0-b7b1-359a060b916a/resource/54f45c20-7e16-4390-8350-c6d6f2e12231/download/caf_pplp_adm_160214.zip"
+        }
+    },
+    {
+        "id": "6203b8df-ef66-4e55-baba-6d8547438a77",
+        "format": {
+            "name": "cod-ps-hnd",
+            "description": "Honduras administrative level 2 (municipality) 2020 projected sex and age disaggregated population statistics",
+            "download_url": "https://data.humdata.org/dataset/6203b8df-ef66-4e55-baba-6d8547438a77/resource/bbc79d8a-71c1-48e3-9436-f2aab6055168/download/hnd_admpop_adm2_2020ine.csv"
+        }
+    },
+    {
+        "id": "6db7ad28-a1e6-444c-b5d8-7eb1094f3575",
+        "format": {
+            "name": "cod-ps-mmr",
+            "description": "Myanmar administrative level 1 2021 projected sex and age disaggregated population statistics",
+            "download_url": "https://data.humdata.org/dataset/6db7ad28-a1e6-444c-b5d8-7eb1094f3575/resource/8f083523-151b-4868-a272-4f41d546e72b/download/mmr_admpop_adm1_2021.csv"
+        }
+    },
+    {
+        "id": "26801642-7088-4149-9605-6ae282897937",
+        "format": {
+            "name": "cod-ps-ken",
+            "description": "Kenya administrative level 1 2019 sex and age disaggregated population statistics",
+            "download_url": "https://data.humdata.org/dataset/26801642-7088-4149-9605-6ae282897937/resource/d4fed43d-8abe-48d2-987a-35c101292af3/download/ken_admpop_adm1_2019.csv"
+        }
+    },
+    {
+        "id": "6cac9c64-2716-4809-9e82-440839d421f6",
+        "format": {
+            "name": "cod-ps-som",
+            "description": "Gazeteer (tabular data)",
+            "download_url": "https://data.humdata.org/dataset/6cac9c64-2716-4809-9e82-440839d421f6/resource/9a28bbae-e169-4c2c-bd8c-8575b8bc952e/download/som_adminboundaries_tabulardata.xlsx"
+        }
+    },
+    {
+        "id": "a7c3de5e-ff27-4746-99cd-05f2ad9b1066",
+        "format": {
+            "name": "cod-ps-nga",
+            "description": "Nigeria Senatorial District 2016 projected population statistics",
+            "download_url": "https://data.humdata.org/dataset/a7c3de5e-ff27-4746-99cd-05f2ad9b1066/resource/deb1aba8-1e90-47f5-9567-4ee0ba8d3655/download/nga_admpop_sendist_2020.csv"
+        }
+    },
+    {
+        "id": "5e60290d-0a82-48e2-9454-812b01c7d9d4",
+        "format": {
+            "name": "cod-ps-tcd",
+            "description": "Chad administrative level 2 2021 projected sex disaggregated population statistics",
+            "download_url": "https://data.humdata.org/dataset/5e60290d-0a82-48e2-9454-812b01c7d9d4/resource/56452d47-7f29-474d-a13c-0bbec70034db/download/tcd_admpop_adm2_2021.csv"
+        }
+    },
+    {
+        "id": "448e3320-d3bf-4f85-bc55-b173602579a6",
+        "format": {
+            "name": "cod-ps-geo",
+            "description": "Georgia administrative level 3 supplementary gazetteer",
+            "download_url": "https://data.humdata.org/dataset/448e3320-d3bf-4f85-bc55-b173602579a6/resource/d4f3a79e-557b-48cd-bf50-acbd5cd0662b/download/geo_suppliementary_gazetteer_2019.xlsx"
+        }
+    },
+    {
+        "id": "3320ad0a-1350-4eab-942e-c7b517e4dca1",
+        "format": {
+            "name": "cod-ps-aze",
+            "description": "This excel file contains 4 worksheets.",
+            "download_url": "https://data.humdata.org/dataset/3320ad0a-1350-4eab-942e-c7b517e4dca1/resource/979f9153-5e59-4e6f-809f-c984144d4d58/download/azerbaijan_population_statistics_2018.xlsx"
+        }
+    },
+    {
+        "id": "61e643bc-e36d-4106-8815-4b952fc40e9c",
+        "format": {
+            "name": "cod-ps-bdi",
+            "description": "Burundi administrative level 2 2021 sex and age disaggregated projections from 2008 population census statistics\n\nSee caveats",
+            "download_url": "https://data.humdata.org/dataset/61e643bc-e36d-4106-8815-4b952fc40e9c/resource/caf569e5-177b-4a6f-abc9-b01e8bf85c43/download/bdi_admpop_adm2_2021_119_feature.csv"
+        }
+    },
+    {
+        "id": "7c38a699-d5e5-4972-8090-c676d299d4ea",
+        "format": {
+            "name": "cod-ps-kgz",
+            "description": "",
+            "download_url": "https://data.humdata.org/dataset/7c38a699-d5e5-4972-8090-c676d299d4ea/resource/b627dccf-6b10-4c59-a4cb-65794655763f/download/kyrgyzstan_population_statistics_2018_adm2.csv"
+        }
+    },
+    {
+        "id": "5a466c38-32a2-47de-ba36-70530505df98",
+        "format": {
+            "name": "cod-ps-phl",
+            "description": "Philippines administrative level 2 sex and age disaggregated 2025 population statistics",
+            "download_url": "https://data.humdata.org/dataset/5a466c38-32a2-47de-ba36-70530505df98/resource/13940b8a-0806-4022-a4ed-844c488efc7a/download/phl_admpop_adm2_2025.csv"
+        }
+    },
+    {
+        "id": "d50f2b35-5819-414a-93a5-7e30d036f958",
+        "format": {
+            "name": "cod-ps-eri",
+            "description": "Eritrea level 2 (dostrict) 2001 population statistics including  number of individuals, number of households, number of administrative villages, and number of villages.",
+            "download_url": "https://data.humdata.org/dataset/d50f2b35-5819-414a-93a5-7e30d036f958/resource/e5903f64-8fdf-4b3e-8565-929768087f9f/download/eri_adm2_pop_20170818.csv"
+        }
+    },
+    {
+        "id": "6485db1c-096c-4949-a32f-7ec6c38d07c5",
+        "format": {
+            "name": "cod-ps-sle",
+            "description": "Sierra Leone administrative level 3 (chiefdom) sex-disaggregated population statistics",
+            "download_url": "https://data.humdata.org/dataset/6485db1c-096c-4949-a32f-7ec6c38d07c5/resource/de7691a3-74ff-4a00-aa7b-d22e0da2f0c8/download/sle_admpop_adm3_2020.csv"
+        }
+    },
+    {
+        "id": "f10db463-110f-4772-8fd8-105bf095ed8b",
+        "format": {
+            "name": "cod-ps-dma",
+            "description": "Metadata for the dmn_pop_adm1_2011.csv file.",
+            "download_url": "https://data.humdata.org/dataset/f10db463-110f-4772-8fd8-105bf095ed8b/resource/599ce43a-316f-48c2-a6e6-2eb36937bb7e/download/dmn_pop_adm1_2011.txt"
+        }
+    },
+    {
+        "id": "df55b265-878e-4209-beac-1743cdf5445c",
+        "format": {
+            "name": "cod-ps-egy",
+            "description": "Egypt administrative level 1 (governorate) population statistics - suitable for joining to the egy_admbnda_adm1_capmas_itos_20170421 shapefile",
+            "download_url": "https://data.humdata.org/dataset/df55b265-878e-4209-beac-1743cdf5445c/resource/1d8f8cbd-68ec-4149-a26b-5ef10a4cae99/download/egypt_population_estimate_compas_2012_v1.1_0_fis.csv"
+        }
+    },
+    {
+        "id": "c686be28-1858-44e9-a44b-598ce32ca20b",
+        "format": {
+            "name": "cod-ps-sen",
+            "description": "Senegal administrative level 3 (arrondissement) 2019 projection population statistics",
+            "download_url": "https://data.humdata.org/dataset/c686be28-1858-44e9-a44b-598ce32ca20b/resource/9cf5c96f-a819-43d6-bda6-abbbe5590c2f/download/sen_admpop_adm3_2020.csv"
+        }
+    },
+    {
+        "id": "77c97850-4004-4285-94db-0b390a962d6e",
+        "format": {
+            "name": "cod-ps-mrt",
+            "description": "Mauritania administrative  level 2 (department / moughataa) 2020 population statistics",
+            "download_url": "https://data.humdata.org/dataset/77c97850-4004-4285-94db-0b390a962d6e/resource/9cc81717-f1ec-48cd-9924-bfbbc7869041/download/mrt_admpop_adm2_2020.csv"
+        }
+    },
+    {
+        "id": "53e6df8b-ca6e-42b8-a13a-d16e033865eb",
+        "format": {
+            "name": "cod-ps-slb",
+            "description": "Solomon Islands administrative level 3 (ward) population statistics",
+            "download_url": "https://data.humdata.org/dataset/53e6df8b-ca6e-42b8-a13a-d16e033865eb/resource/3741b707-50b4-4a98-9713-bd79d2d46aac/download/slb_pplp_adm3_ward.csv"
+        }
+    },
+    {
+        "id": "4d9c1179-ddda-4b66-8989-7574a5c008a5",
+        "format": {
+            "name": "cod-ps-fji",
+            "description": "Fiji administrative level 3 (tikina) population statistics",
+            "download_url": "https://data.humdata.org/dataset/4d9c1179-ddda-4b66-8989-7574a5c008a5/resource/838ce25a-8c5e-4f30-8727-ebacaa286f12/download/fji_pplp_adm3_tikina_2017.csv"
+        }
+    },
+    {
+        "id": "0a27693a-c453-4320-8d89-6b75025e1ac2",
+        "format": {
+            "name": "cod-ps-tls",
+            "description": "Timor-Leste administrative level 2 (administrative post) age and Sex disaggregated population statistics",
+            "download_url": "https://data.humdata.org/dataset/0a27693a-c453-4320-8d89-6b75025e1ac2/resource/e5c46b45-1799-420e-a74b-100181efbc4c/download/tls_2015census_pop_adm2_v2.csv"
+        }
+    },
+    {
+        "id": "05d82fd1-c2a8-402a-86f5-745837553eed",
+        "format": {
+            "name": "cod-ps-mex",
+            "description": "Mexico administrative level 2 sex and age disaggregated 2021 projected population statistics",
+            "download_url": "https://data.humdata.org/dataset/05d82fd1-c2a8-402a-86f5-745837553eed/resource/18fab7ed-b244-4245-95b6-9734afa98714/download/mex_admpop_adm2_2021.csv"
+        }
+    },
+    {
+        "id": "f8075c2a-7c31-49c1-9aa8-925a271d4de2",
+        "format": {
+            "name": "cod-ps-cpv",
+            "description": "Cabo Verde  administrative island sex and age disaggregated 2021 projected population statistics",
+            "download_url": "https://data.humdata.org/dataset/f8075c2a-7c31-49c1-9aa8-925a271d4de2/resource/561efc5d-683a-4bf4-8c3a-25d636e3a770/download/cpv_admpop_island_2021.csv"
+        }
+    },
+    {
+        "id": "e6079c64-856c-4952-b39f-d2ffec547803",
+        "format": {
+            "name": "cod-ps-ton",
+            "description": "Tonga administrative level 1 sex disaggregated 2021 population statistics with individual year steps to age 19",
+            "download_url": "https://data.humdata.org/dataset/e6079c64-856c-4952-b39f-d2ffec547803/resource/49d907a2-c4e3-4891-9c89-a42260623b1e/download/ton_admpop_adm1_2021_years.csv"
+        }
+    },
+    {
+        "id": "01679d5e-9cf1-45a4-a212-662a2309780c",
+        "format": {
+            "name": "cod-ps-ago",
+            "description": "Angola administrative level 0 2021 projected sex and age disaggregated population statistics.",
+            "download_url": "https://data.humdata.org/dataset/01679d5e-9cf1-45a4-a212-662a2309780c/resource/8eaff3c4-277c-4404-b135-2bf512a280ff/download/ago_admpop_adm0_2021.csv"
+        }
+    },
+    {
+        "id": "5f76d06a-70f6-4cc4-a0f2-d9da9342fc06",
+        "format": {
+            "name": "cod-ps-png",
+            "description": "Papua New Guinea administrative level 3 2011 population statistics.  \n(Please see caveats.)",
+            "download_url": "https://data.humdata.org/dataset/5f76d06a-70f6-4cc4-a0f2-d9da9342fc06/resource/fca6139c-15fc-4bad-bf62-5f21426e821b/download/png_admpop_adm3_2011.csv"
+        }
+    },
+    {
+        "id": "ce21c7db-d8f0-40f8-adc2-452d2d2d105c",
+        "format": {
+            "name": "cod-ps-mli",
+            "description": "Mali administrative level 0 (country), 1 (region or capital district), 2 (cercle), or 3 (commune) gazetteer",
+            "download_url": "https://data.humdata.org/dataset/ce21c7db-d8f0-40f8-adc2-452d2d2d105c/resource/dfbc914d-ecd6-4642-8e18-01ca6d2e3b5d/download/mli_adminboundaries_tabulardata.xlsx"
+        }
+    },
+    {
+        "id": "a8e69c6c-16fc-4983-92ee-e04e8960b51f",
+        "format": {
+            "name": "cod-ps-bfa",
+            "description": "Burkina Faso administrative level  3 (department) population statistics",
+            "download_url": "https://data.humdata.org/dataset/a8e69c6c-16fc-4983-92ee-e04e8960b51f/resource/63220016-6caf-4ea6-a2f6-7716a280f4cc/download/bfa_adm3_pop.csv"
+        }
+    },
+    {
+        "id": "53d768e8-7a66-438c-abcb-8393fa74adf8",
+        "format": {
+            "name": "cod-ps-civ",
+            "description": "C\u00f4te d'Ivoire COD-PS data sheet",
+            "download_url": "https://data.humdata.org/dataset/53d768e8-7a66-438c-abcb-8393fa74adf8/resource/fb3f16e4-fb32-461f-b9d5-047c9d854b81/download/civ-cod-ps-2019_05_30.pdf"
+        }
+    },
+    {
+        "id": "31e5e358-284a-4f21-9af7-03c755eee555",
+        "format": {
+            "name": "cod-ps-lbr",
+            "description": "Liberia gazetteer",
+            "download_url": "https://data.humdata.org/dataset/31e5e358-284a-4f21-9af7-03c755eee555/resource/dd5911e8-4b11-4ea1-80f8-cdf0e478ed7e/download/lbr_adminboundaries_tabulardata.xlsx"
+        }
+    },
+    {
+        "id": "4c628dd9-b96d-49b0-9bd2-1b9babc59f68",
+        "format": {
+            "name": "cod-ps-guy",
+            "description": "Guyana administrative level 1 sex and age disaggregated 2021 population statistics",
+            "download_url": "https://data.humdata.org/dataset/4c628dd9-b96d-49b0-9bd2-1b9babc59f68/resource/316741eb-a4ce-4eb4-a976-e92710f7b56d/download/guy_admpop_adm1_2021.csv"
+        }
+    },
+    {
+        "id": "d5687df7-7163-42c7-a483-4e6dc0c569b4",
+        "format": {
+            "name": "cod-ps-ner",
+            "description": "Niger administrative level 0 (country), 1 ('region' or 'capital district'), 2 ('department'), and 3 ('urban commune' /  'commune urbaine', 'rural commune' / 'commune rurale', and 'administrative post' / 'poste administratif) tabular data",
+            "download_url": "https://data.humdata.org/dataset/d5687df7-7163-42c7-a483-4e6dc0c569b4/resource/7ec64001-07bf-4d74-84ef-2fbdc0992c53/download/niger2018_tabular_data.xlsx"
+        }
+    },
+    {
+        "id": "5c74e336-3162-44da-8c52-d4818c31c37b",
+        "format": {
+            "name": "cod-ps-ven",
+            "description": "Venezuela administrative level 2 2011 sex and age disaggregated population statistics",
+            "download_url": "https://data.humdata.org/dataset/5c74e336-3162-44da-8c52-d4818c31c37b/resource/08faf516-e8cd-4834-8ac5-5a5ec081d0c3/download/ven_admpop_adm2_2011.csv"
+        }
+    },
+    {
+        "id": "e73a2b15-3947-42c2-a8b0-4e4b442af6d2",
+        "format": {
+            "name": "cod-ps-uzb",
+            "description": "Uzbekistan administrative level 0 (country) age and sex disaggregated population statistics",
+            "download_url": "https://data.humdata.org/dataset/e73a2b15-3947-42c2-a8b0-4e4b442af6d2/resource/c3507c14-1a15-47b6-998f-734b520dc440/download/uzb_admpop_adm0.csv"
+        }
+    },
+    {
+        "id": "855354a5-f090-4bb2-8e65-e25d156d9693",
+        "format": {
+            "name": "cod-ps-mhl",
+            "description": "Marshall Islands administrative level 2 (EA) population statistics",
+            "download_url": "https://data.humdata.org/dataset/855354a5-f090-4bb2-8e65-e25d156d9693/resource/f47de148-b234-463f-ae5a-2c4718a75ce1/download/mhl_pplp_adm2_eas.csv"
+        }
+    },
+    {
+        "id": "4acece15-fd70-455f-b1b7-c63cf0793352",
+        "format": {
+            "name": "cod-ps-zwe",
+            "description": "Zimbabwe administrative level 1 (province) sex and age dissaggregated population statistics",
+            "download_url": "https://data.humdata.org/dataset/4acece15-fd70-455f-b1b7-c63cf0793352/resource/65bb7e44-aa18-4a5c-9da8-b145530478c2/download/zwe_admpop_adm1_2021.csv"
+        }
+    },
+    {
+        "id": "8ceb03ac-2272-447f-8887-39cfc4d78b59",
+        "format": {
+            "name": "cod-ps-mwi",
+            "description": "Malawi administrative level 2 sex and age disaggregated 2021 projected population statistics",
+            "download_url": "https://data.humdata.org/dataset/8ceb03ac-2272-447f-8887-39cfc4d78b59/resource/28082779-76b1-49cb-bc4a-61efb19a7e1b/download/mwi_admpop_adm2_2021.csv"
+        }
+    },
+    {
+        "id": "9a997a19-0531-46cc-aa2e-a314d253c40f",
+        "format": {
+            "name": "cod-ps-uga",
+            "description": "Uganda level 0-2 projected 2020 sex and age disaggregated population statistics CSV files with single-year and five-year age cohorts ",
+            "download_url": "https://data.humdata.org/dataset/9a997a19-0531-46cc-aa2e-a314d253c40f/resource/95fe67c6-53bc-4884-a0bd-9a81ba5f467f/download/uga_admpop_2020_csv.zip"
+        }
+    },
+    {
+        "id": "f5b5b7cd-7e6b-4c04-841e-75a0a656932d",
+        "format": {
+            "name": "cod-ps-sxm",
+            "description": "Sint Maarten administrative level 1 (district) sex and age disaggregated population population statistics",
+            "download_url": "https://data.humdata.org/dataset/f5b5b7cd-7e6b-4c04-841e-75a0a656932d/resource/fcffc24e-4ae3-4aa2-a44f-167b1257e3b7/download/sxm_adm1_pop_2018.csv"
+        }
+    },
+    {
+        "id": "0b6ce366-8651-43aa-8c36-9f3fdc8d6b4f",
+        "format": {
+            "name": "cod-ps-mdg",
+            "description": "Metadata notes updated 2018 10 31",
+            "download_url": "https://data.humdata.org/dataset/0b6ce366-8651-43aa-8c36-9f3fdc8d6b4f/resource/f5a5542f-6ed7-4322-83c7-2553bca314c4/download/mdg_cod_metadata_20181031.pdf"
+        }
+    },
+    {
+        "id": "fcd33248-774d-4be2-aa16-86b10519330e",
+        "format": {
+            "name": "cod-ps-tza",
+            "description": "United Republic of Tanzania administrative level 2 sex and age disaggregated 2000 population projections",
+            "download_url": "https://data.humdata.org/dataset/fcd33248-774d-4be2-aa16-86b10519330e/resource/8af542c3-9f80-4f5c-9362-d5954d7824ec/download/tza_admpop_adm2_2000.csv"
+        }
+    },
+    {
+        "id": "538a4523-8d2f-4875-b2c6-e7ba2b85fcd8",
+        "format": {
+            "name": "cod-ps-ecu",
+            "description": "Ecuador administrative level 0 (country), 1 (province),  2 (canton) and 3 (parroquia) population statistics and level 2 (canton) gazetteer",
+            "download_url": "https://data.humdata.org/dataset/538a4523-8d2f-4875-b2c6-e7ba2b85fcd8/resource/a882d581-e78a-4a55-ab7f-1683dd847fc9/download/ecu_adminboundaries_tabulardata.xlsx"
+        }
+    },
+    {
+        "id": "2111be21-5869-496d-97ae-2c991a0b75bb",
+        "format": {
+            "name": "cod-ps-nam",
+            "description": "Namibia administrative level 2 sex and age disaggregated 2020 population statistic projections",
+            "download_url": "https://data.humdata.org/dataset/2111be21-5869-496d-97ae-2c991a0b75bb/resource/ad9f1724-3a38-4fe4-87cd-4a54be76318c/download/nam_admpop_adm2_2020.csv"
+        }
+    },
+    {
+        "id": "e0289b5d-8f32-4869-b14d-c599e630cab4",
+        "format": {
+            "name": "cod-ps-zaf",
+            "description": "South Africa administrative levels 2 2020 sex and age disaggregated population statistics",
+            "download_url": "https://data.humdata.org/dataset/e0289b5d-8f32-4869-b14d-c599e630cab4/resource/76292912-d597-4c2a-9cca-dceffd6ff236/download/zaf_admpop_adm2_2020.csv"
+        }
+    },
+    {
+        "id": "8351491f-75d7-4154-a5cd-d527011c7b55",
+        "format": {
+            "name": "cod-ps-com",
+            "description": "Comoros administrative level 1 sex and age disaggregated 2017 population statistics",
+            "download_url": "https://data.humdata.org/dataset/8351491f-75d7-4154-a5cd-d527011c7b55/resource/a541d3f4-e697-44d7-92b9-6db46d29ff93/download/com_admpop_adm1_2017.csv"
+        }
+    },
+    {
+        "id": "8ad894a9-631e-4247-918f-63b9dbc25002",
+        "format": {
+            "name": "cod-ps-btn",
+            "description": "Bhutan administrative level 1 2021 2022 integrated sex and age disaggregated population statistics",
+            "download_url": "https://data.humdata.org/dataset/8ad894a9-631e-4247-918f-63b9dbc25002/resource/18d4f6f5-c1f1-4ac5-b239-1a5c9648a8d1/download/btn_admpop_adm1_unfpa_2022.csv"
+        }
+    },
+    {
+        "id": "0b26b6ed-8bcb-4c9a-9c69-ba3df48162c4",
+        "format": {
+            "name": "cod-ps-prk",
+            "description": "DPR Korea administrative level  2 (county, city, special city) population statistics",
+            "download_url": "https://data.humdata.org/dataset/0b26b6ed-8bcb-4c9a-9c69-ba3df48162c4/resource/f21a15b9-2ccb-4917-985f-1ab64c379526/download/prk_pop_adm2.csv"
+        }
+    },
+    {
+        "id": "fdf0606c-8a3b-421a-b3e8-903301e5b2ff",
+        "format": {
+            "name": "cod-ps-bgd",
+            "description": "Bangladesh administrative level 3 population statistics",
+            "download_url": "https://data.humdata.org/dataset/fdf0606c-8a3b-421a-b3e8-903301e5b2ff/resource/f23d4da2-e473-4960-9d94-37df92c8d044/download/bgd_admpop_adm3_bd.csv"
+        }
+    },
+    {
+        "id": "a5d0b682-1644-4a2d-a9d7-90f1a0fdc959",
+        "format": {
+            "name": "cod-ps-tha",
+            "description": "Thailand administrative level 2 2020 projected sex and age disaggregated population statistics",
+            "download_url": "https://data.humdata.org/dataset/a5d0b682-1644-4a2d-a9d7-90f1a0fdc959/resource/8c882b9b-c17c-426e-a333-193a6f97f98c/download/tha_admpop_adm2_2020.csv"
+        }
+    },
+    {
+        "id": "fa86e763-aa12-4270-890c-6cea033d5174",
+        "format": {
+            "name": "cod-ps-tto",
+            "description": "Trinidad and Tobago administrative level 0 (country) and 1 (regional corporation or municipality) gazetteer",
+            "download_url": "https://data.humdata.org/dataset/fa86e763-aa12-4270-890c-6cea033d5174/resource/65cb5d61-724d-42f5-b327-78d8578bbc9b/download/tto_adm_gazetteer_v2.xls"
+        }
+    },
+    {
+        "id": "07f4ec78-42c7-4606-ae62-4f1bff918c45",
+        "format": {
+            "name": "cod-ps-irn",
+            "description": "Iran (Islamic Republic of) administrative level 2 (district, bax\u0161) sex disaggregated population statistics",
+            "download_url": "https://data.humdata.org/dataset/07f4ec78-42c7-4606-ae62-4f1bff918c45/resource/81700d7b-fbea-49ab-9972-c867231cb3c0/download/irn_admpop_adm2_2019.csv"
+        }
+    },
+    {
+        "id": "c75ed1fb-52a6-4e97-80e0-20d66d2a79e4",
+        "format": {
+            "name": "cod-ps-lca",
+            "description": "St. Lucia administrative level 1 (quarter) sex and age disaggregated population statistics",
+            "download_url": "https://data.humdata.org/dataset/c75ed1fb-52a6-4e97-80e0-20d66d2a79e4/resource/c803a782-f19f-4bc5-9857-f09dc76712b6/download/lca_pop_adm1.csv"
+        }
+    },
+    {
+        "id": "91aeaa9d-35d3-4901-8d66-28bb580e7611",
+        "format": {
+            "name": "cod-ps-atg",
+            "description": "Antigua and Barbuda administrative level 1 (parish, dependency) population statistics",
+            "download_url": "https://data.humdata.org/dataset/91aeaa9d-35d3-4901-8d66-28bb580e7611/resource/93ecc021-1847-4e09-ba70-7710a85bfd7d/download/atg_adm1_pop.csv"
+        }
+    },
+    {
+        "id": "0929c192-5092-4dcb-bc88-b350d49c5a12",
+        "format": {
+            "name": "cod-ps-tca",
+            "description": "Turks and Caicos administrative level 0 (country) population statistics",
+            "download_url": "https://data.humdata.org/dataset/0929c192-5092-4dcb-bc88-b350d49c5a12/resource/8f1e2e10-b8eb-4ca1-a190-ec3d9e829f14/download/tca_admpop_adm0.csv"
+        }
+    },
+    {
+        "id": "6fb65c8a-4681-4c0d-b82e-83467bc497be",
+        "format": {
+            "name": "cod-ps-aia",
+            "description": "Anguilla administrative level 0 and 1 population statistics",
+            "download_url": "https://data.humdata.org/dataset/6fb65c8a-4681-4c0d-b82e-83467bc497be/resource/645fea39-fffd-4295-8536-7de4dd497d49/download/aia_admpop_2011.xlsx"
+        }
+    },
+    {
+        "id": "c4485944-5cd5-48a2-b39f-c58caa8a223e",
+        "format": {
+            "name": "cod-ps-ben",
+            "description": "Benin administrative level 0 (country), 1 (department, d\u00e9partement), and 2 (commune) gazetteer",
+            "download_url": "https://data.humdata.org/dataset/c4485944-5cd5-48a2-b39f-c58caa8a223e/resource/b8c01e81-20f0-4e21-bbf3-900b2100cd57/download/ben_adminboundaries_tabulardata.xlsx"
+        }
+    },
+    {
+        "id": "dbfd14c4-0ef3-44fc-be1f-d9d2d7b4a0d6",
+        "format": {
+            "name": "cod-ps-bmu",
+            "description": "Bermuda administrative level 0 (country) sex and age disaggregated population statistics population statistics",
+            "download_url": "https://data.humdata.org/dataset/dbfd14c4-0ef3-44fc-be1f-d9d2d7b4a0d6/resource/4a8c61c6-de8d-45ce-807d-c2416cd8febe/download/bmu_admpop_adm0.csv"
+        }
+    },
+    {
+        "id": "9d48b019-3dd3-4284-ac11-200a70370447",
+        "format": {
+            "name": "cod-ps-pak",
+            "description": "Pakistan administrative level 3 (tehsil) population statistics",
+            "download_url": "https://data.humdata.org/dataset/9d48b019-3dd3-4284-ac11-200a70370447/resource/a0b9fd68-9880-4cb0-8df8-74c093888f1b/download/pak_admpop_adm3.csv"
+        }
+    },
+    {
+        "id": "a1a30440-d7ab-4e22-8636-ef717a20be5d",
+        "format": {
+            "name": "cod-ps-fsm",
+            "description": "Federated States of Micronesia 2010 administrative level 0 (country), 1 (state), and 2 (municipality) gazetteer",
+            "download_url": "https://data.humdata.org/dataset/a1a30440-d7ab-4e22-8636-ef717a20be5d/resource/e8573590-7e94-40f0-b985-2f3a2baa6608/download/fsm_adm_gazeteer.xls"
+        }
+    },
+    {
+        "id": "922af9f0-237d-4c6c-aa7e-187cb3195b5c",
+        "format": {
+            "name": "cod-ps-tgo",
+            "description": "Togo administrative level 1 sex and age disaggregated 2021 projected population statistics",
+            "download_url": "https://data.humdata.org/dataset/922af9f0-237d-4c6c-aa7e-187cb3195b5c/resource/855d196a-c240-4190-a4f1-67801a4526d8/download/tgo_admpop_adm1_2021.csv"
+        }
+    },
+    {
+        "id": "b947bfba-cbde-454c-8ea8-3fd6ac075007",
+        "format": {
+            "name": "cod-ps-cub",
+            "description": "Cuba administrative level 0-2 sex and age disaggregated 2019 projected population statistics",
+            "download_url": "https://data.humdata.org/dataset/b947bfba-cbde-454c-8ea8-3fd6ac075007/resource/c3e1b16e-21dd-47c5-9a3a-a643759f7dff/download/cub_admpop_adm2_2019.csv"
+        }
+    },
+    {
+        "id": "5c23364e-8e2c-4927-a357-16a83228fb43",
+        "format": {
+            "name": "cod-ps-blz",
+            "description": "Belize administrative level 2 (local government) sex disaggregated population statistics",
+            "download_url": "https://data.humdata.org/dataset/5c23364e-8e2c-4927-a357-16a83228fb43/resource/74c80cee-019e-43e0-a2f2-d1d58b375a04/download/blz_adm2_pop.csv"
+        }
+    },
+    {
+        "id": "36271e9b-9ec2-4c1c-bfff-82848eba0b2f",
+        "format": {
+            "name": "cod-ps-pse",
+            "description": "State of Palestine administrative level 2 projected 2020 and 2021 population statistics",
+            "download_url": "https://data.humdata.org/dataset/36271e9b-9ec2-4c1c-bfff-82848eba0b2f/resource/911fb327-988d-4996-bcae-71da6e93707c/download/pse_admpop_adm2_pcbs2020.csv"
+        }
+    },
+    {
+        "id": "5148a1b7-289c-45e1-a5a5-c1b2a9bbd69a",
+        "format": {
+            "name": "cod-ps-bhs",
+            "description": "Bahamas COD-PS data sheet",
+            "download_url": "https://data.humdata.org/dataset/5148a1b7-289c-45e1-a5a5-c1b2a9bbd69a/resource/725cac2f-3247-4cc2-a7a0-a0dad8a7b3f9/download/bhs-cod-ps-2019_09_09.pdf"
+        }
+    },
+    {
+        "id": "d1160fa9-1d58-4f96-9df5-edbff2e80895",
+        "format": {
+            "name": "cod-ps-cod",
+            "description": "Democratic Republic of the Congo administrative level 2 (district) sex and age disaggregated population statistics",
+            "download_url": "https://data.humdata.org/dataset/d1160fa9-1d58-4f96-9df5-edbff2e80895/resource/2a1ea089-8476-4e61-927c-9ff0db68413a/download/cod_admpop_adm2.csv"
+        }
+    },
+    {
+        "id": "bf6858bf-a5a8-403b-8380-f78cd72c9fee",
+        "format": {
+            "name": "cod-ps-vnm",
+            "description": "Viet Nam administrative level 1 sex and age disaggregated 2019 population statistics ",
+            "download_url": "https://data.humdata.org/dataset/bf6858bf-a5a8-403b-8380-f78cd72c9fee/resource/a53504df-3d97-482c-abfa-4488b1ff423b/download/vnm_adm1_pop_2019.csv"
+        }
+    },
+    {
+        "id": "d6655bd6-4213-4b83-b394-e23a80a9dada",
+        "format": {
+            "name": "cod-ps-jam",
+            "description": "Jamaica administrative level 1 (parish) 2011 sex and age disaggregated population statistics",
+            "download_url": "https://data.humdata.org/dataset/d6655bd6-4213-4b83-b394-e23a80a9dada/resource/3d43ebef-07a2-4383-9633-59b681abaa7e/download/jam_adm1_pop.csv"
+        }
+    },
+    {
+        "id": "9d2ed08a-0a56-467f-a318-b58e28561b6d",
+        "format": {
+            "name": "cod-ps-sur",
+            "description": "Suriname administrative level 2 (resort) integrated sex and age disaggregated population statistics",
+            "download_url": "https://data.humdata.org/dataset/9d2ed08a-0a56-467f-a318-b58e28561b6d/resource/f5e6a11c-ab0c-4e06-90e9-1434d2da1a7f/download/sur_admpop_adm2.csv"
+        }
+    },
+    {
+        "id": "b252982e-3558-4c13-98c6-716a6fc10af1",
+        "format": {
+            "name": "cod-ps-vir",
+            "description": "United States Virgin Islands administrative level 2 (sub-district) sex and age disaggregated population statistics",
+            "download_url": "https://data.humdata.org/dataset/b252982e-3558-4c13-98c6-716a6fc10af1/resource/4199ec8e-87fc-497f-8954-d7f69456a30c/download/vir_admpop_adm2.csv"
+        }
+    },
+    {
+        "id": "e3c4720b-86cf-44d2-9edd-e9179363d6ae",
+        "format": {
+            "name": "cod-ps-pri",
+            "description": "Puerto Rico administrative level 0 (territory) and 1 (municipal) 2010 age and sex disaggregated population statistics",
+            "download_url": "https://data.humdata.org/dataset/e3c4720b-86cf-44d2-9edd-e9179363d6ae/resource/a74812e1-19b9-4473-95e4-69efaaf5edb0/download/pri_admpop_2019.xlsx"
+        }
+    },
+    {
+        "id": "5116cb9f-5db8-4f56-9766-735d88dcbbfa",
+        "format": {
+            "name": "cod-ps-ssd",
+            "description": "South Sudan administrative level 2 2022 sex and age disaggregated population estimates",
+            "download_url": "https://data.humdata.org/dataset/5116cb9f-5db8-4f56-9766-735d88dcbbfa/resource/209b6acb-99d0-4055-878e-e1a68618abe1/download/ssd_admpop_adm2_2022.csv"
+        }
+    },
+    {
+        "id": "81fb3abf-2aca-404a-b1f0-84ce9441bac8",
+        "format": {
+            "name": "cod-ps-brb",
+            "description": "Barbados administrative level 0 (country) and 1 (parish) 2010 sex and age disaggregated population statistics",
+            "download_url": "https://data.humdata.org/dataset/81fb3abf-2aca-404a-b1f0-84ce9441bac8/resource/d302026e-97cd-4d27-83b4-69a240865d74/download/brb_admpop_2010.xlsx"
+        }
+    },
+    {
+        "id": "12645b70-5eb9-4248-a876-4a19741dba07",
+        "format": {
+            "name": "cod-ps-mys",
+            "description": "Malaysia administrative level 1 2020 sex and age disaggregated population statistics projected from 2010 census.",
+            "download_url": "https://data.humdata.org/dataset/12645b70-5eb9-4248-a876-4a19741dba07/resource/aeab157e-624f-4c1c-8700-7691434e0282/download/mys_admpop_adm1_2020.csv"
+        }
+    },
+    {
+        "id": "b5af4a48-ed62-42b4-a753-ca7fa7e13034",
+        "format": {
+            "name": "cod-ps-glp",
+            "description": "Guadeloupe administrative level 2 (canton) sex and age disaggregated 2016 population statistics",
+            "download_url": "https://data.humdata.org/dataset/b5af4a48-ed62-42b4-a753-ca7fa7e13034/resource/67e60dea-620e-4e2d-9595-5f820c865ce5/download/glp_admpop_adm2.csv"
+        }
+    },
+    {
+        "id": "1097842c-85b7-4b01-a195-0bd97caed451",
+        "format": {
+            "name": "cod-ps-cuw",
+            "description": "Cura\u00e7ao administrative level 0 (territory) and 1 (geozone) gazetteer",
+            "download_url": "https://data.humdata.org/dataset/1097842c-85b7-4b01-a195-0bd97caed451/resource/74a01b32-204c-4b9e-af82-2be7e4cf0f41/download/cuw_gz.xlsx"
+        }
+    },
+    {
+        "id": "e656842e-9643-4ef7-97f9-18c33654022d",
+        "format": {
+            "name": "cod-ps-kir",
+            "description": "Kiribati administrative level 2 sex and age disaggregated 2020 projected population statistics",
+            "download_url": "https://data.humdata.org/dataset/e656842e-9643-4ef7-97f9-18c33654022d/resource/39f3de96-0176-4397-aa9f-b3c44d3e0515/download/kir_admpop_adm2_2020.csv"
+        }
+    },
+    {
+        "id": "23eb98d2-e167-4b89-a026-f767cc81487e",
+        "format": {
+            "name": "cod-ps-dom",
+            "description": "Dominican Republic administrative level 3 projected 2020 sex and age disaggregated population statistics",
+            "download_url": "https://data.humdata.org/dataset/23eb98d2-e167-4b89-a026-f767cc81487e/resource/f13e2fdd-6c21-4341-9dde-a1ce2ffe4ba9/download/dom_admpop_adm3_2020.csv"
+        }
+    },
+    {
+        "id": "3d9b037f-5112-4afd-92a7-190a9082bd80",
+        "format": {
+            "name": "cod-ps-eth",
+            "description": "Ethiopia administrative level 3 2021 projected population statistics",
+            "download_url": "https://data.humdata.org/dataset/3d9b037f-5112-4afd-92a7-190a9082bd80/resource/3f8150d4-6d5d-4659-a0a8-586e4689ae65/download/eth_admpop_adm3_2022.csv"
+        }
+    },
+    {
+        "id": "bb111529-95dd-4d87-bf97-c3f4cb36d15f",
+        "format": {
+            "name": "cod-ps-mtq",
+            "description": "Martinique administrative level 2 (commune) sex and age dissaggregated population statistics",
+            "download_url": "https://data.humdata.org/dataset/bb111529-95dd-4d87-bf97-c3f4cb36d15f/resource/ed0ebcde-ff90-4baf-9aa8-858b741d4cee/download/mtq_adm2_pop.csv"
+        }
+    },
+    {
+        "id": "2c978fb9-2a40-4d68-86b9-926d4f78a3b1",
+        "format": {
+            "name": "cod-ps-blm",
+            "description": "Saint Barth\u00e9lemy administrative level 1 (parish) sex and age disaggregated population statistics",
+            "download_url": "https://data.humdata.org/dataset/2c978fb9-2a40-4d68-86b9-926d4f78a3b1/resource/9dcbc54a-cb7d-4be0-807c-7d09e362279e/download/blm_admpop_adm1_2016_insee.csv"
+        }
+    },
+    {
+        "id": "901d6c8a-847d-4324-8651-0ba3d1f98069",
+        "format": {
+            "name": "cod-ps-maf",
+            "description": "Saint-Martin administrative level 1 (\"\u00eelot regroup\u00e9 pour l'information statistique\" (IRIS)) sex and age disaggregated population statistics",
+            "download_url": "https://data.humdata.org/dataset/901d6c8a-847d-4324-8651-0ba3d1f98069/resource/981c4518-5ded-42c7-b305-db92bd261516/download/maf_admpop_adm1_2016_insee.csv"
+        }
+    },
+    {
+        "id": "3a84e618-de09-4295-a9ce-d26f72a50577",
+        "format": {
+            "name": "cod-ps-msr",
+            "description": "Montserrat administrative level 1 (parish) sex and age disaggregated 2011 population statistics",
+            "download_url": "https://data.humdata.org/dataset/3a84e618-de09-4295-a9ce-d26f72a50577/resource/b54ca1b7-32a2-4f69-9f62-5a8ea56b1a82/download/msr_admpop_adm1_2011.csv"
+        }
+    },
+    {
+        "id": "624f9b66-164b-434e-ba82-e9a497f1bdd5",
+        "format": {
+            "name": "cod-ps-kna",
+            "description": "Saint Kitts and Nevis administrative level 1 (parish) sex and age disaggregated 2000 population statistics",
+            "download_url": "https://data.humdata.org/dataset/624f9b66-164b-434e-ba82-e9a497f1bdd5/resource/a79a8745-4e89-4aef-a17d-337ab742d1a5/download/kna_admpop_adm1_2000.csv"
+        }
+    },
+    {
+        "id": "dfbd2b4f-37d9-43ef-8cff-0666ed5b6d26",
+        "format": {
+            "name": "cod-ps-cym",
+            "description": "Cayman Islands administrative level 1 (district) 2010 Sex and Age  Disaggregated Data (SADD) population statistics",
+            "download_url": "https://data.humdata.org/dataset/dfbd2b4f-37d9-43ef-8cff-0666ed5b6d26/resource/3750b905-e3d3-4f05-843c-27ea1a7714b0/download/cym_admpop_adm1_2010.csv"
+        }
+    },
+    {
+        "id": "c75a511f-aaa7-4e9b-962f-39e81acbb4d7",
+        "format": {
+            "name": "cod-ps-vgb",
+            "description": "British Virgin Islands administrative level 1 (district) 2010 sex and age disaggregated population statistics\n\nSee caveats",
+            "download_url": "https://data.humdata.org/dataset/c75a511f-aaa7-4e9b-962f-39e81acbb4d7/resource/129e9105-362b-46c0-a844-2e88448e4c62/download/vgb_admpop_adm1_2010.csv"
+        }
+    },
+    {
+        "id": "695576e6-d9c7-4dca-ae36-d114e957d035",
+        "format": {
+            "name": "cod-ps-vut",
+            "description": "Vanuatu administrative level 2 sex and age disaggregated 2020 population statistics",
+            "download_url": "https://data.humdata.org/dataset/695576e6-d9c7-4dca-ae36-d114e957d035/resource/cc9ec342-f5eb-4be8-a6dd-c300510a3398/download/vut_admpop_adm2_2020.csv"
+        }
+    },
+    {
+        "id": "f7452dd2-7f24-4407-83c8-4d50916832f9",
+        "format": {
+            "name": "cod-ps-abw",
+            "description": "Aruba administrative level 0-2 2010 population statistics",
+            "download_url": "https://data.humdata.org/dataset/f7452dd2-7f24-4407-83c8-4d50916832f9/resource/293b52f1-0878-442f-862c-0db7caf9d1fd/download/abw_admpop_2010.xlsx"
+        }
+    },
+    {
+        "id": "e06a9206-767e-4ee5-b50b-96e0402aade5",
+        "format": {
+            "name": "cod-ps-bra",
+            "description": "Brazil administrative level 1 2020 projected sex and age disaggregated population statistics",
+            "download_url": "https://data.humdata.org/dataset/e06a9206-767e-4ee5-b50b-96e0402aade5/resource/e59903e6-f15d-4c98-8674-63890908575c/download/bra_admpop_adm1_ibge_2020.csv"
+        }
+    },
+    {
+        "id": "fb0f0b1d-c8a3-4f51-86d7-662bbdb9948c",
+        "format": {
+            "name": "cod-ps-arg",
+            "description": "Argentina administrative level 1 2021 sex and age disaggregated Population Statistics ",
+            "download_url": "https://data.humdata.org/dataset/fb0f0b1d-c8a3-4f51-86d7-662bbdb9948c/resource/8d50a319-0726-4657-a9fa-a48658ef59ea/download/arg_admpop_adm1_2021.csv"
+        }
+    },
+    {
+        "id": "71a4a4cb-a282-4c41-bc7f-df576b909d94",
+        "format": {
+            "name": "cod-ps-swz",
+            "description": "Kingdom of Eswatini administrative level 1 sex and age disaggregated 2021 population statistics",
+            "download_url": "https://data.humdata.org/dataset/71a4a4cb-a282-4c41-bc7f-df576b909d94/resource/0d8e40d2-04ff-424d-b7a8-61dbda22b56a/download/swz_admpop_adm1_2021.csv"
+        }
+    },
+    {
+        "id": "fc29f982-6f4e-4ac1-85e4-fb2e17cdcbff",
+        "format": {
+            "name": "cod-ps-grd",
+            "description": "Grenada administrative level 1 (parish) 2011 sex and age disaggregated population statistics",
+            "download_url": "https://data.humdata.org/dataset/fc29f982-6f4e-4ac1-85e4-fb2e17cdcbff/resource/bf1f9b92-7e69-467d-859b-5a91c44efa68/download/grd_admpop_adm1_2011.csv"
+        }
+    },
+    {
+        "id": "452f4fe9-6baf-46ef-a50e-7a6b1862d9fb",
+        "format": {
+            "name": "cod-ps-gtm",
+            "description": "Guatemala administrative level 2 sex and age disaggregated 2021 projected population statistics\r\n\r\nPlease see caveat about administrative level 2",
+            "download_url": "https://data.humdata.org/dataset/452f4fe9-6baf-46ef-a50e-7a6b1862d9fb/resource/2dc15d20-568b-4c23-92bc-443eefba8460/download/gtm_admpop_adm2_2021.csv"
+        }
+    },
+    {
+        "id": "41d5a318-783f-4da4-8960-ab938cc8a12f",
+        "format": {
+            "name": "cod-ps-chl",
+            "description": "Chile administrative level 3 sex and age disaggregated 2021 projected population statistics",
+            "download_url": "https://data.humdata.org/dataset/41d5a318-783f-4da4-8960-ab938cc8a12f/resource/fdaadeea-0ebe-45be-a3e3-ff7448655ac9/download/chl_admpop_adm3_2021.csv"
+        }
+    },
+    {
+        "id": "095b9a42-8880-477b-9fa9-e84054c6da98",
+        "format": {
+            "name": "cod-ps-bol",
+            "description": "Bolivia (Plurinational State of) administrative level 1 sex and age disaggregated 2021 projected population statistics",
+            "download_url": "https://data.humdata.org/dataset/095b9a42-8880-477b-9fa9-e84054c6da98/resource/557d7e42-af6c-4138-960b-794570816bf7/download/bol_admpop_adm1_2021.csv"
+        }
+    },
+    {
+        "id": "4dccd58f-22c6-4d82-ac14-aa5de5c327ae",
+        "format": {
+            "name": "cod-ps-syc",
+            "description": "Seychelles administrative level 3 (district) 2019 projection and 2010 sex and age disaggregated population statistics",
+            "download_url": "https://data.humdata.org/dataset/4dccd58f-22c6-4d82-ac14-aa5de5c327ae/resource/974335ad-4e08-4d6c-8757-7344d0802321/download/syc_admpop_adm3_nbs2019.csv"
+        }
+    },
+    {
+        "id": "f9522559-8454-4cf8-8834-864f4b696ce1",
+        "format": {
+            "name": "cod-ps-nic",
+            "description": "Nicaragua administrative level 2 sex and age disaggregated 2020 projected population statistics",
+            "download_url": "https://data.humdata.org/dataset/f9522559-8454-4cf8-8834-864f4b696ce1/resource/207e5894-880f-4f45-bb88-8fb0a66b2f0b/download/nic_admpop_adm2_2020.csv"
+        }
+    },
+    {
+        "id": "e0ceea6c-f35f-4883-b43e-8239951992d9",
+        "format": {
+            "name": "cod-ps-pan",
+            "description": "Panama administrative level 1 sex and age disaggregated 2021 projected population statistics",
+            "download_url": "https://data.humdata.org/dataset/e0ceea6c-f35f-4883-b43e-8239951992d9/resource/abcef221-8bc3-4d5e-80f4-c87dbadbcf2d/download/pan_admpop_adm1_2021.csv"
+        }
+    },
+    {
+        "id": "fb5f7cd6-3893-48ba-860c-5873145740e0",
+        "format": {
+            "name": "cod-ps-pry",
+            "description": "Paraguay administrative level 2 2020 projected sex and age disaggregated population statistics",
+            "download_url": "https://data.humdata.org/dataset/fb5f7cd6-3893-48ba-860c-5873145740e0/resource/620a87fc-c7d4-4746-bfb1-8f0deacb95b7/download/pry_admpop_adm2_2021.csv"
+        }
+    },
+    {
+        "id": "807a9f99-d3c6-4f32-9313-2eeabaecdecc",
+        "format": {
+            "name": "cod-ps-ury",
+            "description": "Uruguay administrative level 1 projected 2020 sex and age disaggregated population statistics",
+            "download_url": "https://data.humdata.org/dataset/807a9f99-d3c6-4f32-9313-2eeabaecdecc/resource/717116c4-a070-4ad4-950f-7f1bd5fa8549/download/ury_adm1_pop.csv"
+        }
+    },
+    {
+        "id": "be82db36-2529-4709-a524-9d39186e38fc",
+        "format": {
+            "name": "cod-ps-stp",
+            "description": "Sao Tome and Principe administrative level 0-2 sex and age disaggregated 2021 projected population statistics",
+            "download_url": "https://data.humdata.org/dataset/be82db36-2529-4709-a524-9d39186e38fc/resource/a02ce10d-6854-4eed-9704-b9033d8c4196/download/stp_admpop_adm2_2021.csv"
+        }
+    },
+    {
+        "id": "fcc9ea5a-3e1c-4588-a511-91b89697794c",
+        "format": {
+            "name": "cod-ps-mus",
+            "description": "Mauritius administrative level 1,  2018 projected population with gender and  Census 2011 population with age and gender.  ",
+            "download_url": "https://data.humdata.org/dataset/fcc9ea5a-3e1c-4588-a511-91b89697794c/resource/9e20488d-b6d1-46d6-82d7-187723529a94/download/mus_admpop_adm1.csv"
+        }
+    },
+    {
+        "id": "c56d2ba4-0017-4983-9439-18242636fd86",
+        "format": {
+            "name": "cod-ps-guf",
+            "description": "French Guiana administrative level 2 2016 sex and age disaggregated population statistics",
+            "download_url": "https://data.humdata.org/dataset/c56d2ba4-0017-4983-9439-18242636fd86/resource/c77f5366-57a0-4feb-816a-f53dad2e12e1/download/guf_admpop_adm2_insee_2016.csv"
+        }
+    },
+    {
+        "id": "e982aec3-478e-4910-ae5c-072ae2cf6933",
+        "format": {
+            "name": "cod-ps-lka",
+            "description": "Sri Lanka administrative level 2 2022 projected sex and age disaggregated population statistics",
+            "download_url": "https://data.humdata.org/dataset/e982aec3-478e-4910-ae5c-072ae2cf6933/resource/4405f46a-e4b3-4778-9290-131613a7ce71/download/lka_admpop_adm2_unhcr2022.csv"
+        }
+    },
+    {
+        "id": "7e00297b-7b5b-4a98-932d-509f298fd8a8",
+        "format": {
+            "name": "cod-ps-idn",
+            "description": "Indonesia administrative level 2 2020 projected sex and age disaggregated population statistics",
+            "download_url": "https://data.humdata.org/dataset/7e00297b-7b5b-4a98-932d-509f298fd8a8/resource/8f6f09d2-95f7-42dc-b6f1-aead319607f3/download/idn_admpop_adm2_2020.csv"
+        }
+    },
+    {
+        "id": "46b79d47-0667-4baa-8d69-468b208855ed",
+        "format": {
+            "name": "cod-ps-moz",
+            "description": "Mozambique administrative level 0-3 gazetteer",
+            "download_url": "https://data.humdata.org/dataset/46b79d47-0667-4baa-8d69-468b208855ed/resource/8ff834fd-6524-41a6-929b-37f8f9881c28/download/moz_adminboundaries_tabulardata.xlsx"
+        }
+    },
+    {
+        "id": "6514105a-b234-4b8c-856e-103cc5ea48bd",
+        "format": {
+            "name": "cod-ps-vct",
+            "description": "Saint Vincent and The Grenadines administrative level 2 sex and age disaggregated population statistics",
+            "download_url": "https://data.humdata.org/dataset/6514105a-b234-4b8c-856e-103cc5ea48bd/resource/b0a1e904-ba19-4948-a56f-219c8c1ff28c/download/vct_admpop_adm2_2012.csv"
+        }
+    },
+    {
+        "id": "eade6bae-9be6-43f4-bbf0-75c49ccecb2e",
+        "format": {
+            "name": "cod-ps-zmb",
+            "description": "Zambia administrative level 0 2020 projection sex and age disaggregated population statistics.",
+            "download_url": "https://data.humdata.org/dataset/eade6bae-9be6-43f4-bbf0-75c49ccecb2e/resource/5061a588-fee0-444d-8a23-9927b9e83868/download/zmb_admpop_adm0_2020.csv"
+        }
+    },
+    {
+        "id": "17acb541-9431-409a-80a8-50eda7e8ebab",
+        "format": {
+            "name": "cod-ps-afg",
+            "description": "Afghanistan administrative level 0 (country), 1 (province) and 2 (district) gazetteer.",
+            "download_url": "https://data.humdata.org/dataset/17acb541-9431-409a-80a8-50eda7e8ebab/resource/cf83aaec-09e7-453c-bd28-b9c5bbd97d90/download/afg_pcode_list_adm0_3.xlsx"
+        }
+    },
+    {
+        "id": "1a30dcc7-14a2-46a4-bcaa-1d42ed2a0858",
+        "format": {
+            "name": "cod-ps-bwa",
+            "description": "Botswana administrative level 3 sex and age disaggregated 2021 population projections",
+            "download_url": "https://data.humdata.org/dataset/1a30dcc7-14a2-46a4-bcaa-1d42ed2a0858/resource/1ae63036-f20e-4897-aadf-f0714f0ce0a2/download/bwa_admpop_adm3_2021.csv"
+        }
+    },
+    {
+        "id": "d618e616-dfbc-4993-9eac-0b484b5cd2b4",
+        "format": {
+            "name": "cod-ps-gha",
+            "description": "Ghana administrative level 2 age and sex disaggregated 2000 to 2020 projected population statistics",
+            "download_url": "https://data.humdata.org/dataset/d618e616-dfbc-4993-9eac-0b484b5cd2b4/resource/b2859ba9-4923-447f-b887-29ae7d328d78/download/ghana_adm2_2000_2020.xlsx"
+        }
+    },
+    {
+        "id": "79d8aa16-f74e-4881-99a7-81cbd976b8c6",
+        "format": {
+            "name": "cod-ps-tur",
+            "description": "Turkey administrative level 0-4 and camps gazetteer",
+            "download_url": "https://data.humdata.org/dataset/79d8aa16-f74e-4881-99a7-81cbd976b8c6/resource/3764eaa0-de58-4c69-808b-11dc4083f50b/download/common-operational-dataset.xlsx"
+        }
+    },
+    {
+        "id": "b7d75a42-d394-4dfd-af88-00f108edb682",
+        "format": {
+            "name": "cod-ps-alb",
+            "description": "Albania administrative level 0-1 2021 sex and age disaggregated population statistics",
+            "download_url": "https://data.humdata.org/dataset/b7d75a42-d394-4dfd-af88-00f108edb682/resource/35598b7b-9f52-4257-9598-a964f06ab477/download/alb_admpop_adm1_2021.csv"
+        }
+    },
+    {
+        "id": "2ed8eb18-6df3-4e31-b907-4902334d0bbf",
+        "format": {
+            "name": "cod-ps-cri",
+            "description": "Costa Rica administrative level 3 sex and age disaggregated 2021 projected population statistics",
+            "download_url": "https://data.humdata.org/dataset/2ed8eb18-6df3-4e31-b907-4902334d0bbf/resource/bcaf2420-b334-44c5-86cf-fbba4669184d/download/cri_admpop_adm3_unfpa2021.csv"
+        }
+    },
+	[
+    {
+        "id": "d2ec62bb-5a93-436d-8297-88b3ee9b6818",
+        "format": {
+            "name": "cod-ab-mli",
+            "description": "Previous version.  This service is intended as a labelling layer for PCODES from a previous version of OCHA's Common Operational Datasets for Mali. As a map service it is intended to be used in conjunction with the basemap located at http://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/MLI_FR/MapServer. The service also provides feature access to Administrative Boundaries geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services.",
+            "download_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/V00_0/MLI_pcode/MapServer"
+        }
+    },
+    {
+        "id": "54fc7f4d-f4c0-4892-91f6-2fe7c1ecf363",
+        "format": {
+            "name": "cod-ab-per",
+            "description": "This service is intended as a labelling layer for PCODES from OCHA's Common Operational Datasets for Peru. As a map service it is intended to be used in conjunction with the basemap located at http://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/PER_ES/MapServer. The service also provides feature access to Administrative Boundaries geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services.",
+            "download_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/PER_pcode/MapServer"
+        }
+    },
+    {
+        "id": "bbb2f45c-3d7a-4ad3-afc5-459303dbc8f4",
+        "format": {
+            "name": "cod-ab-lbr",
+            "description": "This service is intended as a labelling layer for PCODES from OCHA's Common Operational Datasets for Liberia. As a map service it is intended to be used in conjunction with the basemap located at http://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/LBR_EN/MapServer. The service also provides feature access to Administrative Boundaries geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services.",
+            "download_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/LBR_pcode/MapServer"
+        }
+    },
+    {
+        "id": "ec140a63-5330-4376-a3df-c7ebf73cfc3c",
+        "format": {
+            "name": "cod-ab-som",
+            "description": "Somalia administrative level 0-2 boundary EMF files",
+            "download_url": "https://data.humdata.org/dataset/ec140a63-5330-4376-a3df-c7ebf73cfc3c/resource/624a6fbf-a579-4cfd-a3a5-b192ebe12c59/download/som_adm_undp_20170405_emf.zip"
+        }
+    },
+    {
+        "id": "2025e742-8b5a-4f72-aac5-a28e96ce3cb8",
+        "format": {
+            "name": "cod-ab-eri",
+            "description": "This service is intended as a labelling layer for PCODES from OCHA's Common Operational Datasets for Eritrea. As a map service it is intended to be used in conjunction with the basemap located at http://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/ERI_EN/MapServer. The service also provides feature access to Administrative Boundaries geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services",
+            "download_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/ERI_pcode/MapServer"
+        }
+    },
+    {
+        "id": "2c0b7571-4bef-4347-9b81-b2174c13f9ef",
+        "format": {
+            "name": "cod-ab-ken",
+            "description": "This service is intended as a labelling layer for PCODES from OCHA's Common Operational Datasets for Kenya. As a map service it is intended to be used in conjunction with the basemap located at http://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/KEN_EN/MapServer. The service also provides feature access to Administrative Boundaries. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services. ",
+            "download_url": "http://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/KEN_pcode/MapServer"
+        }
+    },
+    {
+        "id": "494229d9-eee0-4872-8864-2baf98691554",
+        "format": {
+            "name": "cod-ab-ben",
+            "description": "Powerpoint maps that include the COD admin for simplified use",
+            "download_url": "https://data.humdata.org/dataset/494229d9-eee0-4872-8864-2baf98691554/resource/44de42ec-bd7f-483d-8f30-13d58043dbf5/download/ben_ppt_map.pptx"
+        }
+    },
+    {
+        "id": "2940ed80-4b69-4b98-abaf-af79088852c5",
+        "format": {
+            "name": "cod-ab-bfa",
+            "description": "This service is intended as a labelling layer for PCODES from a previous version of OCHA's Common Operational Datasets for Burkina Faso. As a map service it is intended to be used in conjunction with the basemap located at http://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/BFA_FR/MapServer. The service also provides access to Administrative Boundaries geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services.\n",
+            "download_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/V00_0/BFA_pcode/MapServer"
+        }
+    },
+    {
+        "id": "b13f08ef-92ee-4446-9b0a-e219f5c25415",
+        "format": {
+            "name": "cod-ab-cmr",
+            "description": "This service is intended as a labelling layer for PCODES from OCHA's Common Operational Datasets for Cameroon. As a map service it is intended to be used in conjunction with the basemap located at http://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/CMR_FR/MapServer. The service also provides feature access to Administrative Boundaries geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services. \n",
+            "download_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/CMR_pcode/MapServer"
+        }
+    },
+    {
+        "id": "762e2263-c6f1-4ef6-a3bc-48338a6484a8",
+        "format": {
+            "name": "cod-ab-cog",
+            "description": "Powerpoint maps that include the COD admin for simplified use",
+            "download_url": "https://data.humdata.org/dataset/762e2263-c6f1-4ef6-a3bc-48338a6484a8/resource/8976acff-ec20-4e5c-90cb-b8f7bdcc462c/download/cog_ppt_map.pptx"
+        }
+    },
+    {
+        "id": "d8d992f3-5374-448f-a3d5-bed7c1925a11",
+        "format": {
+            "name": "cod-ab-gab",
+            "description": "Powerpoint maps that include the COD admin for simplified use",
+            "download_url": "https://data.humdata.org/dataset/d8d992f3-5374-448f-a3d5-bed7c1925a11/resource/14387aa1-f41f-470e-b477-1c6397fbff89/download/gab_ppt_map.pptx"
+        }
+    },
+    {
+        "id": "dc4c17cf-59d9-478c-b2b7-acd889241194",
+        "format": {
+            "name": "cod-ab-gha",
+            "description": "Powerpoint maps that include the COD admin for simplified use",
+            "download_url": "https://data.humdata.org/dataset/dc4c17cf-59d9-478c-b2b7-acd889241194/resource/ed41a6e9-6504-4812-8d54-ac6d3e2d1344/download/gha_ppt_map.pptx"
+        }
+    },
+    {
+        "id": "9f2ce756-2e50-4042-a952-32160977d223",
+        "format": {
+            "name": "cod-ab-gmb",
+            "description": "Powerpoint maps that include the COD admin for simplified use",
+            "download_url": "https://data.humdata.org/dataset/9f2ce756-2e50-4042-a952-32160977d223/resource/fbe0c995-7420-4140-8d6d-1174d8d43fcf/download/gmb_ppt_map.pptx"
+        }
+    },
+    {
+        "id": "3db6297f-55d7-4e79-8969-281b1838ef79",
+        "format": {
+            "name": "cod-ab-gnb",
+            "description": "Powerpoint maps included COD admin for simplified use",
+            "download_url": "https://data.humdata.org/dataset/3db6297f-55d7-4e79-8969-281b1838ef79/resource/ffa90c0d-5b0b-4179-be7a-90f566d60460/download/gnb_ppt_map.pptx"
+        }
+    },
+    {
+        "id": "0c1a3093-c97d-48a2-a992-e652ebcbf05c",
+        "format": {
+            "name": "cod-ab-gnq",
+            "description": "Powerpoint maps included COD admin for simplified use",
+            "download_url": "https://data.humdata.org/dataset/0c1a3093-c97d-48a2-a992-e652ebcbf05c/resource/8a31c135-5101-4977-82d0-d830b566f56b/download/gnq_ppt_map.pptx"
+        }
+    },
+    {
+        "id": "8d49f50d-92a8-46d9-9462-f821a8058f6d",
+        "format": {
+            "name": "cod-ab-mrt",
+            "description": "This service is intended as a labelling layer for PCODES from a previous version of OCHA's Common Operational Datasets for Mauritania. As a map service it is intended to be used in conjunction with the basemap located at http://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/MRT_EN/MapServer. The service also provides feature access to Administrative Boundaries and Populated Places geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services.",
+            "download_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/V00_0/MRT_pcode/MapServer"
+        }
+    },
+    {
+        "id": "bd9bc484-155d-41a3-87cf-064310a94492",
+        "format": {
+            "name": "cod-ab-sen",
+            "description": "Powerpoint maps that include the COD admin for simplified use",
+            "download_url": "https://data.humdata.org/dataset/bd9bc484-155d-41a3-87cf-064310a94492/resource/d5629d71-5a9b-4a15-9e5f-61166d0da221/download/sen_ppt_map.pptx"
+        }
+    },
+    {
+        "id": "9746c0f7-9ed3-4a3f-890e-88bc19166770",
+        "format": {
+            "name": "cod-ab-stp",
+            "description": "Powerpoint maps that include the COD admin for simplified use",
+            "download_url": "https://data.humdata.org/dataset/9746c0f7-9ed3-4a3f-890e-88bc19166770/resource/cdecbcb3-0e90-4759-b677-0f3976c561a7/download/stp_ppt_map.pptx"
+        }
+    },
+    {
+        "id": "ce7df560-f77b-4f55-9175-4719ea21f50b",
+        "format": {
+            "name": "cod-ab-cpv",
+            "description": "Cabo Verde administrative level 0-2 boundary EMF files",
+            "download_url": "https://data.humdata.org/dataset/ce7df560-f77b-4f55-9175-4719ea21f50b/resource/ef94feb7-18e0-4576-bb2d-ed1c28485dc8/download/cpv_admbnda_emf.zip"
+        }
+    },
+    {
+        "id": "a4816317-a913-4619-b1e9-d89e21c056b4",
+        "format": {
+            "name": "cod-ab-sle",
+            "description": "Powerpoint maps that include the COD admin for simplified use",
+            "download_url": "https://data.humdata.org/dataset/a4816317-a913-4619-b1e9-d89e21c056b4/resource/0ffe8855-14f9-49a1-a30b-b7168f186809/download/sle_ppt_map.pptx"
+        }
+    },
+    {
+        "id": "ae36d1fd-1698-4f53-a4c0-2146a6b5aa29",
+        "format": {
+            "name": "cod-ab-fji",
+            "description": "Fiji administrative level 0 (country), 1 (division), 2 (province), and 3 (tikina) boundary polygons",
+            "download_url": "https://data.humdata.org/dataset/ae36d1fd-1698-4f53-a4c0-2146a6b5aa29/resource/898dd96d-9eae-4532-bd17-d4f795a371b2/download/fji_adm_gz.xlsx"
+        }
+    },
+    {
+        "id": "d24bdc45-eb4c-4e3d-8b16-44db02667c27",
+        "format": {
+            "name": "cod-ab-tha",
+            "description": "Thailand administrative level 0 (country), 1 (province), 2 (district), 3 (sub-district, tambon) boundary attribute tables with feature areas in square metres",
+            "download_url": "https://data.humdata.org/dataset/d24bdc45-eb4c-4e3d-8b16-44db02667c27/resource/b21b4a56-d2fc-41a6-9703-0665e7b625e6/download/tha_adm_feature_areas_20191106.xls"
+        }
+    },
+    {
+        "id": "7472f7e0-3deb-44d9-bd36-38237c666a2e",
+        "format": {
+            "name": "cod-ab-khm",
+            "description": "This service is intended as a labelling layer for PCODES from OCHA's Common Operational Datasets for Cambodia. As a map service it is intended to be used in conjunction with the basemap located at http://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/KHM_EN/MapServer. The service also provides feature access to Administrative Boundaries geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services. ",
+            "download_url": "http://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/KHM_pcode/MapServer"
+        }
+    },
+    {
+        "id": "f260301d-c32f-4e9e-a7d6-05bde2f70b6b",
+        "format": {
+            "name": "cod-ab-png",
+            "description": "This service is intended as a labelling layer for PCODES from OCHA's Common Operational Datasets for Papua New Guinea. As a map service it is intended to be used in conjunction with the basemap located at http://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/PNG_EN/MapServer. The service also provides feature access to Administrative Boundaries geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services ",
+            "download_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/PNG_pcode/MapServer"
+        }
+    },
+    {
+        "id": "26fa506b-0727-4d9d-a590-d2abee21ee22",
+        "format": {
+            "name": "cod-ab-mdg",
+            "description": "Excel table of P-codes and related BNGRC (Disaster Management Agency) codes for Administrative Boundaries level 1-2.  The P-codes are the official codes, however the LUT has been provided should linkages to the BNGRC codes be required during disaster response.\nThe BNGRC (Madagascar National Disaster Management Agency) is currently using different Region (Admin 1) and District (Admin 2) codes from the P-codes in the COD Administrative Boundary GIS shapefiles. The P-codes were built from the Fokontany (Admin 4) codes in order to meet COD code hierarchy standards. Over time a move should be made to use the official P-codes and lower case names where possible.",
+            "download_url": "https://data.humdata.org/dataset/26fa506b-0727-4d9d-a590-d2abee21ee22/resource/81979b8f-5dc7-47bf-8f64-5a3d5fd6c8cf/download/bngrc_codes_lut_pcodes_2018.xlsx"
+        }
+    },
+    {
+        "id": "50fda5c8-bc93-48e7-b542-f123b2038350",
+        "format": {
+            "name": "cod-ab-nam",
+            "description": "This service is intended as a labelling layer for PCODES from OCHA's Common Operational Datasets for Namibia. As a map service it is intended to be used in conjunction with the basemap located at http://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/NAM_EN/MapServer. The service also provides feature access to Administrative Boundaries geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services.",
+            "download_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/NAM_pcode/MapServer"
+        }
+    },
+    {
+        "id": "061d4492-56e8-458c-a3fb-e7950991adf0",
+        "format": {
+            "name": "cod-ab-zaf",
+            "description": "This service is intended as a labelling layer for PCODES from OCHA's Common Operational Datasets for South Africa. As a map service it is intended to be used in conjunction with the basemap located at http://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/ZAF_EN/MapServer. The service also provides feature access to Administrative Boundaries geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services",
+            "download_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/ZAF_pcode/MapServer"
+        }
+    },
+    {
+        "id": "c0e0998c-b45a-4aea-ac06-c1de1d94e596",
+        "format": {
+            "name": "cod-ab-ner",
+            "description": "Niger administrative boundary tables",
+            "download_url": "https://data.humdata.org/dataset/c0e0998c-b45a-4aea-ac06-c1de1d94e596/resource/1fe8fde9-f731-4eba-81f7-ac810f9655f2/download/niger2018_tabular_data.xlsx"
+        }
+    },
+    {
+        "id": "ab3c7592-3b0c-41cd-999a-2919a6b243f2",
+        "format": {
+            "name": "cod-ab-ecu",
+            "description": "This service is intended as a labelling layer for PCODES from OCHA's Common Operational Datasets for Ecuador. As a map service it is intended to be used in conjunction with the basemap located at http://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/ECU_ES/MapServer. The service also provides feature access to Administrative Boundaries geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services ",
+            "download_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/ECU_pcode/MapServer"
+        }
+    },
+    {
+        "id": "bd62fb53-64d3-478f-9ca8-38e4a2de19c0",
+        "format": {
+            "name": "cod-ab-hnd",
+            "description": "Honduras administrative level 3 boundary EMF file.  PLEASE SEE CAVEATS.",
+            "download_url": "https://data.humdata.org/dataset/bd62fb53-64d3-478f-9ca8-38e4a2de19c0/resource/13d6d513-df41-45c4-be73-8f37033cc7fb/download/hnd_admbnda_adm3_sinit_20161005.emf"
+        }
+    },
+    {
+        "id": "78d80f16-b9ff-49cd-8195-d96efcf3b669",
+        "format": {
+            "name": "cod-ab-caf",
+            "description": "Central African Republic administrative level 0-3 boundary EMF files",
+            "download_url": "https://data.humdata.org/dataset/78d80f16-b9ff-49cd-8195-d96efcf3b669/resource/0eb4edf8-3f77-49cb-a9eb-5f9383ed40c5/download/caf_adm_200k_sigcaf_reach_itos_v2_emf.zip"
+        }
+    },
+    {
+        "id": "6b2656e2-b915-4671-bfed-468d5edcd80a",
+        "format": {
+            "name": "cod-ab-yem",
+            "description": "Administrative boundary datasets for levels 0, 1, 2 and 3  (international, governorate, district and sub-district) for Yemen provided by Yemen Central Organization ( CSO ) and approved for use by Humanitarian Country Team in October 2019.",
+            "download_url": "https://data.humdata.org/dataset/6b2656e2-b915-4671-bfed-468d5edcd80a/resource/de7270a6-7510-484f-a3d6-29a6d864e4b9/download/yem_adm_govyem_cso_20191122_emf.zip"
+        }
+    },
+    {
+        "id": "356a63e9-90aa-4b9c-a938-58ef24469c00",
+        "format": {
+            "name": "cod-ab-syr",
+            "description": "This service is intended as a labelling layer for PCODES from a previous version of OCHA's Common Operational Datasets for Syria. As a map service it is intended to be used in conjunction with the basemap located at http://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/SYR_EN/MapServer. The service also provides feature access to Administrative Boundaries and Populated Places geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services.",
+            "download_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/V00_0/SYR_pcode/MapServer"
+        }
+    },
+    {
+        "id": "cdd62bd9-e442-4eac-9b44-cfee8bf79153",
+        "format": {
+            "name": "cod-ab-ssd",
+            "description": "South Suday administrative level 0-2 boundary shapefiles including separate shapefile for Abyei region.  SEE CAVEATS.",
+            "download_url": "https://data.humdata.org/dataset/cdd62bd9-e442-4eac-9b44-cfee8bf79153/resource/4d768ab6-c322-4af4-8fbf-6cbb442812d3/download/ssd_adm_imwg_nbs_20220121.zip"
+        }
+    },
+    {
+        "id": "488bb3cd-3ce9-49d3-862a-3ce7975c63e1",
+        "format": {
+            "name": "cod-ab-irq",
+            "description": "This service is intended as a labelling layer for PCODES from OCHA's Common Operational Datasets for Iraq. As a map service it is intended to be used in conjunction with the basemap located at http://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/IRQ_EN/MapServer. The service also provides feature access to Administrative Boundaries geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services. \n",
+            "download_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/IRQ_pcode/MapServer"
+        }
+    },
+    {
+        "id": "2caf8373-816f-458c-9913-71bddb9cab7c",
+        "format": {
+            "name": "cod-ab-pse",
+            "description": "This service is intended as a labelling layer for PCODES from OCHA's Common Operational Datasets for the State of Palestine. As a map service it is intended to be used in conjunction with the basemap located at http://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/PSE_EN/MapServer. The service also provides feature access to Administrative Boundaries geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services\n",
+            "download_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/PSE_pcode/MapServer"
+        }
+    },
+    {
+        "id": "17e2fc83-e58b-494a-bb18-83df4bb0529e",
+        "format": {
+            "name": "cod-ab-grc",
+            "description": "Administrative Boundary names and codes for Greece (levels 0,1,2)",
+            "download_url": "https://data.humdata.org/dataset/17e2fc83-e58b-494a-bb18-83df4bb0529e/resource/3ee33313-2895-4d31-a051-308b6fbcb384/download/grc_adm.xlsx"
+        }
+    },
+    {
+        "id": "777e8b06-337f-4295-80bc-ca1515244215",
+        "format": {
+            "name": "cod-ab-hti",
+            "description": "Administrative level 0 (national), level 1 (department), level 2 (commune), and level 3 (sections communale) boundary attribute tables",
+            "download_url": "https://data.humdata.org/dataset/777e8b06-337f-4295-80bc-ca1515244215/resource/9e34cf7c-8c34-4c09-8b1b-db243c25267b/download/hti_adminboundaries_tabulardata.xlsx"
+        }
+    },
+    {
+        "id": "2762c3c6-fa93-4dc6-9e82-5af6e5133c18",
+        "format": {
+            "name": "cod-ab-mkd",
+            "description": "Shapefiles of administrative levels 1-4 from EuroGeographics and NTES (Nomenclature of Territorial Units for Statistics - Republic of Macedonia State Statistical Office)",
+            "download_url": "https://data.humdata.org/dataset/2762c3c6-fa93-4dc6-9e82-5af6e5133c18/resource/4a46be36-3514-477d-a4d9-5766b679e3eb/download/mkd_admn_adm_py_eurogeographics-ntes_pp.zip"
+        }
+    },
+    {
+        "id": "caf116df-f984-4deb-85ca-41b349d3f313",
+        "format": {
+            "name": "cod-ab-phl",
+            "description": "This service is intended as a labelling layer for PCODES from a previous version of OCHA's Common Operational Datasets for the Philippines: Administrative Boundaries. As a map service it is intended to be used in conjunction with the basemap located at http://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/PHL_EN/MapServer. The service also provides feature access to Administrative Boundaries geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services. See the OCHA COD/FOD terms of use for access and use constraints.",
+            "download_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/V00_0/PHL_pcode/MapServer"
+        }
+    },
+    {
+        "id": "692fc891-1e44-4413-9e88-999349c86ca7",
+        "format": {
+            "name": "cod-ab-bhs",
+            "description": "Bahamas administrative level 0-1 boundary EMF files",
+            "download_url": "https://data.humdata.org/dataset/692fc891-1e44-4413-9e88-999349c86ca7/resource/3317a63f-b769-404e-8d13-54476ce7beb0/download/bhs_adm_emf.zip"
+        }
+    },
+    {
+        "id": "f01c8222-b67d-41ff-954a-731aafd4466b",
+        "format": {
+            "name": "cod-ab-tcd",
+            "description": "Geodatabase containing administrative level 0 (country) polygons, administrative level 1 (region) polygons, administrative level 2 (department) polygons, administrative level 3 (sub-prefecture) polygons, all administrative boundary lines, administrative level 2 (department) capital points and administrative level 3 (sub-prefecture) capital points.",
+            "download_url": "https://data.humdata.org/dataset/f01c8222-b67d-41ff-954a-731aafd4466b/resource/5dfdb5ad-09f3-4729-8218-f8443795b6af/download/tcd_adminboundaries_candidate.gdb.zip"
+        }
+    },
+    {
+        "id": "f814a950-4d4e-4f46-a880-4da5522f14c4",
+        "format": {
+            "name": "cod-ab-gin",
+            "description": "Powerpoint maps that include the COD admin for simplified use",
+            "download_url": "https://data.humdata.org/dataset/f814a950-4d4e-4f46-a880-4da5522f14c4/resource/410df451-7854-4cea-8aa0-3e5501a81f4a/download/gin_ppt_map.pptx"
+        }
+    },
+    {
+        "id": "9eb6aff1-9e3f-43d3-99a6-f415fe4b4dff",
+        "format": {
+            "name": "cod-ab-lao",
+            "description": "This service is intended as a labelling layer for PCODES from OCHA's Common Operational Datasets for Laos. As a map service it is intended to be used in conjunction with the basemap located at http://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/LAO_EN/MapServer. The service also provides feature access to Administrative Boundaries geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services.",
+            "download_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/LAO_pcode/MapServer"
+        }
+    },
+    {
+        "id": "ac768a5c-db29-4872-9792-bd3179e29c45",
+        "format": {
+            "name": "cod-ab-tur",
+            "description": "",
+            "download_url": "https://data.humdata.org/dataset/ac768a5c-db29-4872-9792-bd3179e29c45/resource/f721e3c5-26e4-4750-b237-68ac1ac2c08b/download/common-operational-dataset.xlsx"
+        }
+    },
+    {
+        "id": "81ac1d38-f603-4a98-804d-325c658599a3",
+        "format": {
+            "name": "cod-ab-nga",
+            "description": "This dataset is of simplified geometries from COD live services deployed Sept. 2019. To preview, download from link and load in https://mapshaper.org. Methodology: Simplification methods applied from ESRI libraries using Python, Node.js and Mapshaper.js and based on adapted procedures for best outcomes preserving shape, topology and attributes. These data are not a substitute for the original COD data sets used in GIS applications. No warranties of any kind are made for any purpose and this dataset is offered as-is.",
+            "download_url": "https://data.humdata.org/dataset/81ac1d38-f603-4a98-804d-325c658599a3/resource/2e1fcf17-4c21-4acb-bd0e-1c555c4b3f87/download/cod_nga_admin3.topojson"
+        }
+    },
+    {
+        "id": "fd9fb749-5b68-4942-b5f9-115f20b5c00e",
+        "format": {
+            "name": "cod-ab-lby",
+            "description": "This service is intended as a labelling layer for PCODES from OCHA's Common Operational Datasets for Libya. As a map service it is intended to be used in conjunction with the basemap located at http://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/LBY_EN/MapServer. The service also provides feature access to Administrative Boundaries and Populated Places geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services ",
+            "download_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/LBY_pcode/MapServer"
+        }
+    },
+    {
+        "id": "3d17274d-0812-4b21-b87a-4854af4eb244",
+        "format": {
+            "name": "cod-ab-dza",
+            "description": "This service is intended as a labelling layer for PCODES from OCHA's Common Operational Datasets for Algeria. As a map service it is intended to be used in conjunction with the basemap located at http://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/DZA_EN/MapServer. The service also provides feature access to Administrative Boundaries geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services",
+            "download_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/DZA_pcode/MapServer"
+        }
+    },
+    {
+        "id": "23a85209-66d3-4d10-a69f-7baf6d2cc8c1",
+        "format": {
+            "name": "cod-ab-bhr",
+            "description": "Bahrain administrative level 0-2 boundary EMF files",
+            "download_url": "https://data.humdata.org/dataset/23a85209-66d3-4d10-a69f-7baf6d2cc8c1/resource/b8544a76-2be1-410c-bcf6-7ef3463ac823/download/bhr_adm_emf.zip"
+        }
+    },
+    {
+        "id": "a28f399f-482c-4e62-8dbf-d2c12381674a",
+        "format": {
+            "name": "cod-ab-kwt",
+            "description": "This service is intended as a labelling layer for PCODES from OCHA's Common Operational Datasets for Kuwait. As a map service it is intended to be used in conjunction with the basemap located at http://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/KWT_EN/MapServer. The service also provides feature access to Administrative Boundaries geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services",
+            "download_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/KWT_pcode/MapServer"
+        }
+    },
+    {
+        "id": "7fb8f891-35f2-4bd5-8c75-5e7797ff1731",
+        "format": {
+            "name": "cod-ab-mar",
+            "description": "This service is intended as a labelling layer for PCODES from OCHA's Common Operational Datasets for Morocco. As a map service it is intended to be used in conjunction with the basemap located at http://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/MAR_EN/MapServer. The service also provides feature access to Administrative Boundaries geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services",
+            "download_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/MAR_pcode/MapServer"
+        }
+    },
+    {
+        "id": "da87f54e-64bd-4cf4-bd31-3fc520f94609",
+        "format": {
+            "name": "cod-ab-omn",
+            "description": "This service is intended as a labelling layer for PCODES from OCHA's Common Operational Datasets for Oman. As a map service it is intended to be used in conjunction with the basemap located at http://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/OMN_EN/MapServer. The service also provides feature access to Administrative Boundaries geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services\n",
+            "download_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/OMN_pcode/MapServer"
+        }
+    },
+    {
+        "id": "6a84f3b8-41cd-4769-a61f-6dbd5f61bd05",
+        "format": {
+            "name": "cod-ab-qat",
+            "description": "Qatar administrative level 0-1 boundary EMF files",
+            "download_url": "https://data.humdata.org/dataset/6a84f3b8-41cd-4769-a61f-6dbd5f61bd05/resource/17bfa398-5df8-406c-8dc4-dbb5db3259e7/download/qat_emf.zip"
+        }
+    },
+    {
+        "id": "41ce9023-1d21-4549-a485-94316200aba0",
+        "format": {
+            "name": "cod-ab-sau",
+            "description": "This service is intended as a labelling layer for PCODES from OCHA's Common Operational Datasets for Saudia Arabia. As a map service it is intended to be used in conjunction with the basemap located at http://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/SAU_EN/MapServer. The service also provides feature access to Administrative Boundaries geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services",
+            "download_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/SAU_pcode/MapServer"
+        }
+    },
+    {
+        "id": "e47eda48-8f83-4858-b739-dbffb8a50c47",
+        "format": {
+            "name": "cod-ab-tun",
+            "description": "Tunisia administrative level 0-2 boundary EMF files",
+            "download_url": "https://data.humdata.org/dataset/e47eda48-8f83-4858-b739-dbffb8a50c47/resource/12d7e931-037e-44ee-9796-63dc9e9026d1/download/tun_adm_emf.zip"
+        }
+    },
+    {
+        "id": "23d41c1f-41ef-4957-a47e-b8c08c984d83",
+        "format": {
+            "name": "cod-ab-are",
+            "description": "World Places shows the populated places in country- Point, Data Source ESRI Global Discovery  2007",
+            "download_url": "https://data.humdata.org/dataset/23d41c1f-41ef-4957-a47e-b8c08c984d83/resource/4e42593a-ef61-472e-91cb-3a1084a14e51/download/uae_places_esri.zip"
+        }
+    },
+    {
+        "id": "ab6e70bd-3cab-4a68-9a02-04ecd3df6b46",
+        "format": {
+            "name": "cod-ab-esh",
+            "description": "This service is intended as a labelling layer for PCODES from OCHA's Common Operational Datasets for Western Sahara. As a map service it is intended to be used in conjunction with the basemap located at http://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/ESH_EN/MapServer. The service also provides feature access to Administrative Boundaries geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services\n",
+            "download_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/ESH_pcode/MapServer"
+        }
+    },
+    {
+        "id": "f42132b9-8cc6-4201-b020-9259c56e8868",
+        "format": {
+            "name": "cod-ab-cod",
+            "description": "This service is intended as a labelling layer for PCODES from OCHA's Common Operational Datasets for the Democratic Republic of the Congo. As a map service it is intended to be used in conjunction with the basemap located at http://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/COD_FR/MapServer. The service also provides feature access to Administrative Boundaries geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services.",
+            "download_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/COD_pcode/MapServer"
+        }
+    },
+    {
+        "id": "50ea7fee-f9af-45a7-8a52-abb9c790a0b6",
+        "format": {
+            "name": "cod-ab-col",
+            "description": "This service is intended as a labelling layer for a previous version of the PCODES from OCHA's Common Operational Datasets for Colombia. As a map service it is intended to be used in conjunction with the basemap located at http://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/COL_ES/MapServer. The service also provides feature access to Administrative Boundaries and Populated Places geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services.",
+            "download_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/V00_0/COL_pcode/MapServer"
+        }
+    },
+    {
+        "id": "693aca77-1252-4404-9045-785e43bb6846",
+        "format": {
+            "name": "cod-ab-kgz",
+            "description": "This map service contains OCHA Common Operational Datasets for Kyrgyzstan in Russian: Administrative Boundaries. The service is available as ESRI Map, ESRI Feature, WMS, and KML Services. See the OCHA COD/FOD terms of use for access and use constraints. \n",
+            "download_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/KGZ_RU/MapServer"
+        }
+    },
+    {
+        "id": "a66a4b6c-92de-4507-9546-aa1900474180",
+        "format": {
+            "name": "cod-ab-sdn",
+            "description": "This service is intended as a labelling layer for PCODES from a previous version of OCHA's Common Operational Datasets for Sudan. As a map service it is intended to be used in conjunction with the basemap located at http://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/SDN_EN/MapServer. The service also provides feature access to Administrative Boundaries and Populated Places geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services.",
+            "download_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/V00_0/SDN_pcode/MapServer"
+        }
+    },
+    {
+        "id": "569beba7-bad7-4951-a19d-468a035461cd",
+        "format": {
+            "name": "cod-ab-lbn",
+            "description": "Lebanon administrative level 0-3 EMF boundary files",
+            "download_url": "https://data.humdata.org/dataset/569beba7-bad7-4951-a19d-468a035461cd/resource/6cd44ae3-fc28-480c-88ff-07dc7d7573df/download/lbn_adm_cdr_2020810_emf.zip"
+        }
+    },
+    {
+        "id": "ecb2cb09-1270-4a7f-9187-f093efebdef7",
+        "format": {
+            "name": "cod-ab-aze",
+            "description": "Azerbaijan administrative level 0-1 boundary geodatabase",
+            "download_url": "https://data.humdata.org/dataset/ecb2cb09-1270-4a7f-9187-f093efebdef7/resource/fa526cba-2e78-495c-bd6e-0dd8d9478cf5/download/aze_adm_2020_gdb.gdb.zip"
+        }
+    },
+    {
+        "id": "37b89555-ef3e-4b26-a1ba-070318016853",
+        "format": {
+            "name": "cod-ab-arm",
+            "description": "",
+            "download_url": "https://data.humdata.org/dataset/37b89555-ef3e-4b26-a1ba-070318016853/resource/6a2163ff-c723-4935-b1ee-3d1ede194bd7/download/arm_adm_2019.gdb.zip"
+        }
+    },
+    {
+        "id": "01c71cfd-32ff-4a32-a1dd-5909702c12db",
+        "format": {
+            "name": "cod-ab-zmb",
+            "description": "This service is intended as a labelling layer for PCODES from OCHA's Common Operational Datasets for Zambia. As a map service it is intended to be used in conjunction with the basemap located at http://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/ZMB_EN/MapServer. The service also provides feature access to Administrative Boundaries geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services.",
+            "download_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/ZMB_pcode/MapServer"
+        }
+    },
+    {
+        "id": "afb05759-c3da-44f4-93a1-6bd2d8bcd431",
+        "format": {
+            "name": "cod-ab-kaz",
+            "description": "Kazakhstan administrative level 0 (country), 1 (region), and 2 (district) boundary geodatabase",
+            "download_url": "https://data.humdata.org/dataset/afb05759-c3da-44f4-93a1-6bd2d8bcd431/resource/4e5beed3-87e6-491c-9ded-9ccbe5162af8/download/kaz_adm_2019.gdb.zip"
+        }
+    },
+    {
+        "id": "b90d81ba-7c7a-4283-9899-827480d80a79",
+        "format": {
+            "name": "cod-ab-egy",
+            "description": "This service is intended as a labelling layer for PCODES from OCHA's Common Operational Datasets for Egypt. As a map service it is intended to be used in conjunction with the basemaps located at http://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/EGY_EN/MapServer and http://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/EGY_AR/MapServer. The service also provides feature access to Administrative Boundaries and Populated Places geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services.",
+            "download_url": "http://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/EGY_pcode/MapServer"
+        }
+    },
+    {
+        "id": "07db728a-4f0f-4e98-8eb0-8fa9df61f01c",
+        "format": {
+            "name": "cod-ab-npl",
+            "description": "This service is intended as a labelling layer for PCODES from OCHA's Common Operational Datasets for Nepal. As a map service it is intended to be used in conjunction with the basemap located at http://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/NPL_EN/MapServer. The service also provides feature access to Administrative Boundaries and Districts geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services.",
+            "download_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/NPL_pcode/MapServer"
+        }
+    },
+    {
+        "id": "e71a08a7-8529-4964-9ad7-7319e6ec05f8",
+        "format": {
+            "name": "cod-ab-pri",
+            "description": "Puerto Rico administrative level 0 (territory) and 1 (municipal) geodatabase",
+            "download_url": "https://data.humdata.org/dataset/e71a08a7-8529-4964-9ad7-7319e6ec05f8/resource/ba80e406-4b5f-4b75-89fa-2b69a3ff8d36/download/pri_adm_gdb.zip"
+        }
+    },
+    {
+        "id": "1b26ea94-4d28-4167-9209-4984ab087973",
+        "format": {
+            "name": "cod-ab-dom",
+            "description": "This service is intended as a labelling layer for PCODES from OCHA's Common Operational Datasets for the Dominican Republic. As a map service it is intended to be used in conjunction with the basemap located at http://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/DOM_ES/MapServer. The service also provides feature access to Administrative Boundaries geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services\n",
+            "download_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/DOM_pcode/MapServer"
+        }
+    },
+    {
+        "id": "51deb15e-2644-4c5d-a8e4-86093c6f8bbe",
+        "format": {
+            "name": "cod-ab-atg",
+            "description": "Antigua and Barbuda administrative level 0 (country) and 1 (parish, dependency) geodatabase",
+            "download_url": "https://data.humdata.org/dataset/51deb15e-2644-4c5d-a8e4-86093c6f8bbe/resource/0b68780a-d80d-4adb-a855-da46e3fc706f/download/atg_adm_2019.gdb.zip"
+        }
+    },
+    {
+        "id": "91ee6430-ca2a-446c-8659-8fcf5410591b",
+        "format": {
+            "name": "cod-ab-brb",
+            "description": "Barbados administrative level 0 (national) and 1 (parish) boundary geodatabase",
+            "download_url": "https://data.humdata.org/dataset/91ee6430-ca2a-446c-8659-8fcf5410591b/resource/b7287749-7f9d-429d-9d10-3cee11cb2552/download/brb_adm_2019_gdb.gdb.zip"
+        }
+    },
+    {
+        "id": "32b4ba2e-2ee5-4b2b-a7e4-9e4d323ffe73",
+        "format": {
+            "name": "cod-ab-cub",
+            "description": "Cuba administrative level 0 (country), 1 (province), and 2 (municipio) boundary geodatabase",
+            "download_url": "https://data.humdata.org/dataset/32b4ba2e-2ee5-4b2b-a7e4-9e4d323ffe73/resource/dc622acd-e9fe-4dd6-813a-69cc6dae8849/download/cub_adm_2019.gdb.zip"
+        }
+    },
+    {
+        "id": "f905304f-8969-44e1-a523-16b714da9dd6",
+        "format": {
+            "name": "cod-ab-dma",
+            "description": "Dominica administrative level 0-1 boundary EMF files",
+            "download_url": "https://data.humdata.org/dataset/f905304f-8969-44e1-a523-16b714da9dd6/resource/73b0180b-068f-441c-8cfd-0f5cdbcec2b4/download/dma_admn_py_s1_dominode_v2_emf.zip"
+        }
+    },
+    {
+        "id": "caa18d94-f20e-46cb-860b-da425ca3139b",
+        "format": {
+            "name": "cod-ab-glp",
+            "description": "Guadeloupe administrative level 0 (department), 1 (arrondissement), and 2 (canton) geodatabase",
+            "download_url": "https://data.humdata.org/dataset/caa18d94-f20e-46cb-860b-da425ca3139b/resource/8536b797-d2b6-483b-b969-6208d12d68b0/download/glp_adm_2019.gdb.zip"
+        }
+    },
+    {
+        "id": "0b20f310-7d22-479c-b7e2-e1bb9737fa72",
+        "format": {
+            "name": "cod-ab-gtm",
+            "description": "This service is intended as a labelling layer for PCODES from OCHA's Common Operational Datasets for Guatemala. As a map service it is intended to be used in conjunction with the basemap located at http://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/GTM_ES/MapServer. The service also provides feature access to Administrative Boundaries geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services. ",
+            "download_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/GTM_pcode/MapServer"
+        }
+    },
+    {
+        "id": "5abb5b0c-f3e1-40c2-b633-9edfb0321924",
+        "format": {
+            "name": "cod-ab-abw",
+            "description": "Aruba administrative level 0 boundary EMF file",
+            "download_url": "https://data.humdata.org/dataset/5abb5b0c-f3e1-40c2-b633-9edfb0321924/resource/29e28cce-7c13-428e-80a5-dd283424ba78/download/abw_admbnda_adm0_2020.emf"
+        }
+    },
+    {
+        "id": "103b8a39-be5f-48e9-afb2-a08c6c112dc8",
+        "format": {
+            "name": "cod-ab-aia",
+            "description": "Anguilla administrative level 0 boundary EMF file",
+            "download_url": "https://data.humdata.org/dataset/103b8a39-be5f-48e9-afb2-a08c6c112dc8/resource/fae3ee3e-a7a9-4c34-8a93-bdbb303997bc/download/gadm36_aia_0.emf"
+        }
+    },
+    {
+        "id": "eed55f95-183c-48f7-adef-23dff31ec972",
+        "format": {
+            "name": "cod-ab-tto",
+            "description": "Trinidad and Tobago administrative level 0-1 boundary EMF file",
+            "download_url": "https://data.humdata.org/dataset/eed55f95-183c-48f7-adef-23dff31ec972/resource/7e43e04b-b5e8-4a84-838d-59907cd08428/download/tto_adm_emf.zip"
+        }
+    },
+    {
+        "id": "41f80e67-f140-494b-9b34-7861c4951364",
+        "format": {
+            "name": "cod-ab-blm",
+            "description": "Saint Barth\u00e9lemy administrative level 0 EMF file",
+            "download_url": "https://data.humdata.org/dataset/41f80e67-f140-494b-9b34-7861c4951364/resource/affc4d0c-b3b3-41a1-bce4-989c96900ab2/download/blm_adm0.emf"
+        }
+    },
+    {
+        "id": "8b2c9a50-82d5-4c31-9b4d-9f7bec2934c6",
+        "format": {
+            "name": "cod-ab-blz",
+            "description": "This service is intended as a labelling layer for PCODES from OCHA's Common Operational Datasets for Belize. As a map service it is intended to be used in conjunction with the basemap located at http://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/BLZ_EN/MapServer. The service also provides feature access to Administrative Boundaries geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services.\n",
+            "download_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/BLZ_pcode/MapServer"
+        }
+    },
+    {
+        "id": "e1761a91-7848-4449-9f1f-d2e97832b509",
+        "format": {
+            "name": "cod-ab-cuw",
+            "description": "Cura\u00e7ao administrative level 0 EMF boundary file",
+            "download_url": "https://data.humdata.org/dataset/e1761a91-7848-4449-9f1f-d2e97832b509/resource/631c13cd-f5e1-409b-9df9-f94d8e0027eb/download/gadm36_cuw_0.emf"
+        }
+    },
+    {
+        "id": "01381a57-754f-46f4-ba1a-763f78796401",
+        "format": {
+            "name": "cod-ab-cym",
+            "description": "Cayman Islands administrative level 0 (nation) and 1 (district) boundary geodatabase",
+            "download_url": "https://data.humdata.org/dataset/01381a57-754f-46f4-ba1a-763f78796401/resource/081ce63a-9622-4a01-b2b1-db11ee504479/download/cym_adm_2020.gdb.zip"
+        }
+    },
+    {
+        "id": "ffdc3580-45ee-4630-9abf-4dd8a8b002d3",
+        "format": {
+            "name": "cod-ab-grd",
+            "description": "Grenada administrative level 0-1 gazetteer",
+            "download_url": "https://data.humdata.org/dataset/ffdc3580-45ee-4630-9abf-4dd8a8b002d3/resource/51ab1b11-2264-4c43-b840-5b9732a9611a/download/grd_admgz_2020.xlsx"
+        }
+    },
+    {
+        "id": "f62e5af2-463f-4880-a121-d76577cf3a03",
+        "format": {
+            "name": "cod-ab-kna",
+            "description": "Saint Kitts and Nevis administrative level 0 (country) and 1 (parish) boundary zipped geodatabase",
+            "download_url": "https://data.humdata.org/dataset/f62e5af2-463f-4880-a121-d76577cf3a03/resource/43adce12-5af8-40a3-a1e9-59c0d2bded4a/download/kna_adm_2020.gdb.zip"
+        }
+    },
+    {
+        "id": "e6b16151-3fcf-4159-88fd-257b37775fe2",
+        "format": {
+            "name": "cod-ab-lca",
+            "description": "St. Lucia administrative level 0 (country), 1 (quarter), and 2 boundary polygon geodatabase",
+            "download_url": "https://data.humdata.org/dataset/e6b16151-3fcf-4159-88fd-257b37775fe2/resource/af3700a6-fa3c-4f79-815a-68dc81017e3c/download/lca_adm_gov_2019.gdb.zip"
+        }
+    },
+    {
+        "id": "fee5299d-52f5-4273-a878-56175210da82",
+        "format": {
+            "name": "cod-ab-jam",
+            "description": "Jamaica administrative level  0 (country) and 1 (parish) EMF files",
+            "download_url": "https://data.humdata.org/dataset/fee5299d-52f5-4273-a878-56175210da82/resource/b20d32ee-6870-4613-84e6-a94fcf882dcb/download/jam_adm_emf.zip"
+        }
+    },
+    {
+        "id": "5def1205-2b8c-450a-a5bd-e77e2c5b79db",
+        "format": {
+            "name": "cod-ab-msr",
+            "description": "Montserrat administrative level 0 (territory) and 1 (parish) geodatabase",
+            "download_url": "https://data.humdata.org/dataset/5def1205-2b8c-450a-a5bd-e77e2c5b79db/resource/883ba134-067d-42a6-878a-2a7346b32afb/download/msr_adm_gadm.gdb.zip"
+        }
+    },
+    {
+        "id": "7b473de8-71e8-4960-89a0-fe3d360cd3f2",
+        "format": {
+            "name": "cod-ab-tca",
+            "description": "Turks and Caicos Islands administrative level 0-2 gazetteer",
+            "download_url": "https://data.humdata.org/dataset/7b473de8-71e8-4960-89a0-fe3d360cd3f2/resource/ffa30dab-945c-47c2-b105-3c9faf09041d/download/tca_gazetteer.xlsx"
+        }
+    },
+    {
+        "id": "db71885e-a987-43fd-976f-3aeb481341d1",
+        "format": {
+            "name": "cod-ab-vgb",
+            "description": "British Virgin Islands administrative level 0 (territory) and 1 (district) boundary gazetteer",
+            "download_url": "https://data.humdata.org/dataset/db71885e-a987-43fd-976f-3aeb481341d1/resource/ceeb94af-f856-4d2f-aca7-430c6045b0f6/download/vgb_admgz_2020.xlsx"
+        }
+    },
+    {
+        "id": "8262b1d5-4338-451a-8b49-e2da9affb7be",
+        "format": {
+            "name": "cod-ab-ant",
+            "description": "Caribbean Netherlands administrative level 0-1 boundary EMF files",
+            "download_url": "https://data.humdata.org/dataset/8262b1d5-4338-451a-8b49-e2da9affb7be/resource/8ef76c4e-aa87-4a63-acd8-958d8788f589/download/bes_adm_emf.zip"
+        }
+    },
+    {
+        "id": "f0015a2b-b34e-42ca-842f-adebe3d268f8",
+        "format": {
+            "name": "cod-ab-vir",
+            "description": "United States Virgin Islands administrative level 0-2 boundary geodatabase",
+            "download_url": "https://data.humdata.org/dataset/f0015a2b-b34e-42ca-842f-adebe3d268f8/resource/d7fa1bbd-93d6-449f-83af-587797bf1fce/download/vir_adm_2019.gdb.zip"
+        }
+    },
+    {
+        "id": "e8c9c489-906d-4ad5-86d6-1752e693acc9",
+        "format": {
+            "name": "cod-ab-mtq",
+            "description": "Martinique administrative level 0 (territory),  level 1 (arrondissement), and level 2 (commune) boundary geodatabase",
+            "download_url": "https://data.humdata.org/dataset/e8c9c489-906d-4ad5-86d6-1752e693acc9/resource/ea99e434-0170-4016-b392-264509a0c20c/download/mtq_adm_2016_ignf_gdb.gdb.zip"
+        }
+    },
+    {
+        "id": "f3056f1c-40bd-4dff-bb6d-d8e2b8233f35",
+        "format": {
+            "name": "cod-ab-maf",
+            "description": "Saint Martin administrative level 0 (nation) boundary EMF file",
+            "download_url": "https://data.humdata.org/dataset/f3056f1c-40bd-4dff-bb6d-d8e2b8233f35/resource/1060381c-1e82-4421-8f93-ff5181daa4d4/download/maf_adm0.emf"
+        }
+    },
+    {
+        "id": "401d3fae-4262-48c9-891f-461fd776d49b",
+        "format": {
+            "name": "cod-ab-bgd",
+            "description": " This service is intended as a labelling layer for PCODES from a previous version of OCHA's Common Operational Datasets for Bangladesh. As a map service it is intended to be used in conjunction with the basemap located at http://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/BGD_EN/MapServer. The service also provides feature access to Administrative Boundaries geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services.",
+            "download_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/V00_0/BGD_pcode/MapServer"
+        }
+    },
+    {
+        "id": "4f06337c-24cb-4703-8bd9-f2e18913a9cf",
+        "format": {
+            "name": "cod-ab-bmu",
+            "description": "Bermuda administrative level 0 (country), 1 (parish), and 2 (municipality)* boundary EMF files",
+            "download_url": "https://data.humdata.org/dataset/4f06337c-24cb-4703-8bd9-f2e18913a9cf/resource/f1fda545-8c35-4b7a-84b9-5957a8024a18/download/bmu_adm_2019_emf.zip"
+        }
+    },
+    {
+        "id": "726c2a10-c0b9-469a-9cba-cc58c3f68911",
+        "format": {
+            "name": "cod-ab-vct",
+            "description": "Saint Vincent and the Grenadines administrative level 0-2 gazetteer",
+            "download_url": "https://data.humdata.org/dataset/726c2a10-c0b9-469a-9cba-cc58c3f68911/resource/bd6e43f0-bcfb-499a-8e03-d1024aff2316/download/vct_admgz_2021.xlsx"
+        }
+    },
+    {
+        "id": "5b141d29-534f-4f01-a0bc-41e2f375d925",
+        "format": {
+            "name": "cod-ab-ven",
+            "description": "This service is intended as a labelling layer for PCODES from OCHA's Common Operational Datasets for Venezuela. As a map service it is intended to be used in conjunction with the basemap located at http://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/VEN_ES/MapServer. The service also provides feature access to Administrative Boundaries geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services",
+            "download_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/VEN_pcode/MapServer"
+        }
+    },
+    {
+        "id": "9647d5cc-9de9-4974-a8be-62fb12c19ffe",
+        "format": {
+            "name": "cod-ab-guy",
+            "description": "Guyana administrative level 0-2 geodatabase",
+            "download_url": "https://data.humdata.org/dataset/9647d5cc-9de9-4974-a8be-62fb12c19ffe/resource/4a387686-8801-405e-966c-c079443969d0/download/guy_admbnda_2021.gdb.zip"
+        }
+    },
+    {
+        "id": "ab35e673-76f2-43e5-a6a4-a5b81f9e093c",
+        "format": {
+            "name": "cod-ab-sur",
+            "description": "Suriname administrative level 0 (country), 1 (district) and 2 (resort) boundary geodatabase",
+            "download_url": "https://data.humdata.org/dataset/ab35e673-76f2-43e5-a6a4-a5b81f9e093c/resource/21465e9c-ff1b-4219-b4df-11db1f364a85/download/sur_adm_2017.gdb.zip"
+        }
+    },
+    {
+        "id": "e224a75d-b356-484e-a8f4-8c42395c0f10",
+        "format": {
+            "name": "cod-ab-guf",
+            "description": "French Guiana administrative level 0 (department), 1 (arrondissement), and 2 (commune) geodatabase",
+            "download_url": "https://data.humdata.org/dataset/e224a75d-b356-484e-a8f4-8c42395c0f10/resource/d5078f63-0a48-469f-9594-1e754fe92b93/download/guf_adm_ign_gdb.gdb.zip"
+        }
+    },
+    {
+        "id": "e6439952-e487-4682-8251-e9688aac60e1",
+        "format": {
+            "name": "cod-ab-tgo",
+            "description": "Powerpoint maps that include the COD admin for simplified use",
+            "download_url": "https://data.humdata.org/dataset/e6439952-e487-4682-8251-e9688aac60e1/resource/581e5ac6-5383-474a-bb79-5371edca3dae/download/tgo_ppt_map.pptx"
+        }
+    },
+    {
+        "id": "70ca85b0-336a-407e-b9e5-f32a7e4840d0",
+        "format": {
+            "name": "cod-ab-chl",
+            "description": "This service is intended as a labelling layer for PCODES from OCHA's Common Operational Datasets for Chile. As a map service it is intended to be used in conjunction with the basemap located at http://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/CHL_ES/MapServer. The service also provides feature access to Administrative Boundaries geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services",
+            "download_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/CHL_pcode/MapServer"
+        }
+    },
+    {
+        "id": "08bfc7f6-3acc-45df-a69a-b853cf1cff05",
+        "format": {
+            "name": "cod-ab-slv",
+            "description": "This service is intended as a labelling layer for PCODES from OCHA's Common Operational Datasets for El Salvador. As a map service it is intended to be used in conjunction with the basemap located at http://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/SLV_ES/MapServer. The service also provides feature access to Administrative Boundaries geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services",
+            "download_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/SLV_pcode/MapServer"
+        }
+    },
+    {
+        "id": "19b220b3-2802-432b-b93d-b1a2f2ee347a",
+        "format": {
+            "name": "cod-ab-pan",
+            "description": "This service is intended as a labelling layer for PCODES from OCHA's Common Operational Datasets for Panama. As a map service it is intended to be used in conjunction with the basemap located at http://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/PAN_ES/MapServer. The service also provides feature access to Administrative Boundaries geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services",
+            "download_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/PAN_pcode/MapServer"
+        }
+    },
+    {
+        "id": "98e9bcfe-6565-4372-8422-f57d5b209448",
+        "format": {
+            "name": "cod-ab-nic",
+            "description": "This service is intended as a labelling layer for PCODES from a previous version of OCHA's Common Operational Datasets for Nicaragua. As a map service it is intended to be used in conjunction with the basemap located at http://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/NIC_ES/MapServer. The service also provides feature access to Administrative Boundaries geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services.\n",
+            "download_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/V00_0/NIC_pcode/MapServer"
+        }
+    },
+    {
+        "id": "d31c3690-b6d9-461c-8ac6-553dd9c69b81",
+        "format": {
+            "name": "cod-ab-ury",
+            "description": "Uruguay administrative level 0-2 boundary geodatabase",
+            "download_url": "https://data.humdata.org/dataset/d31c3690-b6d9-461c-8ac6-553dd9c69b81/resource/01cf4d27-85b6-4ea9-bf7f-e97eb7e62a19/download/ury_adm_2020.gdb.zip"
+        }
+    },
+    {
+        "id": "212cd82f-bcb8-445f-8b32-aa194387f6c3",
+        "format": {
+            "name": "cod-ab-pry",
+            "description": "Paraguay administrative level 0-2 geodatabase",
+            "download_url": "https://data.humdata.org/dataset/212cd82f-bcb8-445f-8b32-aa194387f6c3/resource/627972d8-9f5a-4ed7-8a1b-c3e91072b290/download/pry_adm_gadm_gdb.gdb.zip"
+        }
+    },
+    {
+        "id": "c661e398-66cf-4a9f-9607-4962c72d1ccf",
+        "format": {
+            "name": "cod-ab-arg",
+            "description": "Argentina administrative level 0-2 geodatabase",
+            "download_url": "https://data.humdata.org/dataset/c661e398-66cf-4a9f-9607-4962c72d1ccf/resource/99e4239c-fdae-4a3e-80a9-2e18504868d6/download/arg_adm_unhcr2017_emf.zip"
+        }
+    },
+    {
+        "id": "f5f0648e-f085-4c85-8242-26bf6c942f40",
+        "format": {
+            "name": "cod-ab-bra",
+            "description": "Brazil administrative level 0-2 geodatabase",
+            "download_url": "https://data.humdata.org/dataset/f5f0648e-f085-4c85-8242-26bf6c942f40/resource/b4bf8e52-2de8-443f-a72d-287c1ef6b462/download/bra_adm_ibge_2020.gdb.zip"
+        }
+    },
+    {
+        "id": "67887590-51b0-4d98-bc12-666ebedf7704",
+        "format": {
+            "name": "cod-ab-vut",
+            "description": "This service is intended as a labelling layer for PCODES from OCHA's Common Operational Datasets for Vanuatu. As a map service it is intended to be used in conjunction with the basemap located at http://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/VUT_EN/MapServer. The service also provides feature access to Administrative Boundaries geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services. ",
+            "download_url": "http://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/VUT_pcode/FeatureServer"
+        }
+    },
+    {
+        "id": "63148f32-4505-433d-b8ea-1fd8088b4bdf",
+        "format": {
+            "name": "cod-ab-bdi",
+            "description": "This service is intended as a labelling layer for PCODES from OCHA's Common Operational Datasets for Burundi. As a map service it is intended to be used in conjunction with the basemap located at http://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/BDI_FR/MapServer. The service also provides feature access to Administrative Boundaries geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services. ",
+            "download_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/BDI_pcode/MapServer"
+        }
+    },
+    {
+        "id": "cff13277-eac9-49b0-8436-e80f42eb4684",
+        "format": {
+            "name": "cod-ab-btn",
+            "description": "This service is intended as a labelling layer for PCODES from OCHA's Common Operational Datasets for Bhutan. As a map service it is intended to be used in conjunction with the basemap located at http://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/BTN_EN/MapServer. The service also provides feature access to Administrative Boundaries geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services",
+            "download_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/BTN_pcode/MapServer"
+        }
+    },
+    {
+        "id": "a64d1ff2-7158-48c7-887d-6af69ce21906",
+        "format": {
+            "name": "cod-ab-pak",
+            "description": "This map service contains OCHA Common Operational Datasets for Pakistan: Administrative Boundaries. The service is available as ESRI Map, ESRI Feature, WMS, and KML Services. See the OCHA COD/FOD terms of use for access and use constraints. \n",
+            "download_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/PAK_EN/MapServer"
+        }
+    },
+    {
+        "id": "ee4a485c-9180-43db-9672-55e18dac5f96",
+        "format": {
+            "name": "cod-ab-tls",
+            "description": "This service is intended as a labelling layer for PCODES from OCHA's Common Operational Datasets for Timor-Leste. As a map service it is intended to be used in conjunction with the basemap located at http://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/TLS_EN/MapServer. The service also provides feature access to Administrative Boundaries geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services\n",
+            "download_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/TLS_pcode/MapServer"
+        }
+    },
+    {
+        "id": "a9b0a8a6-cb14-448e-b35c-aa5eb51b0557",
+        "format": {
+            "name": "cod-ab-mng",
+            "description": "This service is intended as a labelling layer for PCODES from OCHA's Common Operational Datasets for Mongolia. As a map service it is intended to be used in conjunction with the basemap located at http://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/MNG_EN/MapServer. The service also provides feature access to Administrative Boundaries and Regions geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services",
+            "download_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/MNG_pcode/MapServer"
+        }
+    },
+    {
+        "id": "3cb544a9-9d04-4f54-94e2-93230efd8ceb",
+        "format": {
+            "name": "cod-ab-vnm",
+            "description": "This map service contains OCHA Common Operational Datasets for Viet Nam in Vietnamese: Administrative Boundaries. The service is available as ESRI Map, ESRI Feature, WMS, and KML Services. See the OCHA COD/FOD terms of use for access and use constraints.  SEE CAVEATS",
+            "download_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/VNM_VI/MapServer"
+        }
+    },
+    {
+        "id": "0cd9579f-ca75-4af4-88e1-9c5fa0bbb7ab",
+        "format": {
+            "name": "cod-ab-prk",
+            "description": "This service is intended as a labelling layer for PCODES from OCHA's Common Operational Datasets for DPR Korea. As a map service it is intended to be used in conjunction with the basemap located at http://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/PRK_EN/MapServer. The service also provides feature access to Administrative Boundaries geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services. ",
+            "download_url": "http://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/PRK_pcode/MapServer"
+        }
+    },
+    {
+        "id": "a968d227-24c9-49ea-bbce-cee04ee94819",
+        "format": {
+            "name": "cod-ab-mdv",
+            "description": "This service is intended as a labelling layer for PCODES from OCHA's Common Operational Datasets for Maldives. As a map service it is intended to be used in conjunction with the basemap located at http://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/MDV_EN/MapServer. The service also provides feature access to Administrative Boundaries geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services",
+            "download_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/MDV_pcode/MapServer"
+        }
+    },
+    {
+        "id": "17a2aaa2-dea9-4a2e-8b3f-92d1bdfb850c",
+        "format": {
+            "name": "cod-ab-chn",
+            "description": "China administrative level 0-2 zipped geodatabase",
+            "download_url": "https://data.humdata.org/dataset/17a2aaa2-dea9-4a2e-8b3f-92d1bdfb850c/resource/05acf01e-6d6f-4f8b-a955-cdbc24bb455c/download/chn_adm_ocha_2020.gdb.zip"
+        }
+    },
+    {
+        "id": "776dd627-a97a-4f86-9b0d-52ce64525120",
+        "format": {
+            "name": "cod-ab-slb",
+            "description": "Solomon Islands administrative level 0-3 boundary EMF files",
+            "download_url": "https://data.humdata.org/dataset/776dd627-a97a-4f86-9b0d-52ce64525120/resource/81e9efac-e589-41af-8f2c-2b508af88fa5/download/slb_adm_emf.zip"
+        }
+    },
+    {
+        "id": "9721eaf0-5663-4137-b3a2-c21dc8fac15a",
+        "format": {
+            "name": "cod-ab-mex",
+            "description": "This service is intended as a labelling layer for PCODES from a previous version of OCHA's Common Operational Datasets for Mexico. As a map service it is intended to be used in conjunction with the basemap located at http://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/MEX_ES/MapServer. The service also provides feature access to Administrative Boundaries geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services\n",
+            "download_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/V00_0/MEX_pcode/MapServer"
+        }
+    },
+    {
+        "id": "723b5226-781a-4aee-9718-37e3fbddd886",
+        "format": {
+            "name": "cod-ab-ton",
+            "description": "Tonga administrative level 0 (country), 1 (division), 2 (district), and 3 (village) metadata",
+            "download_url": "https://data.humdata.org/dataset/723b5226-781a-4aee-9718-37e3fbddd886/resource/bb61c322-4ae7-478e-a69c-1d5d721faf22/download/ton_admin_boundary_taxonomy_metadata.xlsx"
+        }
+    },
+    {
+        "id": "451bdd28-d06d-46ea-91c0-2e081f884395",
+        "format": {
+            "name": "cod-ab-tza",
+            "description": "Tanzania administrative level 0 (country), 1 (region), 2 (district), and 3 (ward) boundary line shapefile",
+            "download_url": "https://data.humdata.org/dataset/451bdd28-d06d-46ea-91c0-2e081f884395/resource/891e9f9c-a967-4026-91da-24a5e45421b2/download/tza_admbndl_all_20181019.zip"
+        }
+    },
+    {
+        "id": "67333305-5479-4936-a7a3-1713ec3b7398",
+        "format": {
+            "name": "cod-ab-bol",
+            "description": "This service is intended as a labelling layer for PCODES from a previous version of OCHA's Common Operational Datasets for Bolivia. As a map service it is intended to be used in conjunction with the basemap located at http://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/BOL_ES/MapServer. The service also provides feature access to Administrative Boundaries geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services.",
+            "download_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/V00_0/BOL_pcode/FeatureServer"
+        }
+    },
+    {
+        "id": "66f56d39-3f19-4798-a0df-a0ed9a4836ea",
+        "format": {
+            "name": "cod-ab-uzb",
+            "description": "Uzbekistan administrative level 0-2 boundary EMF files",
+            "download_url": "https://data.humdata.org/dataset/66f56d39-3f19-4798-a0df-a0ed9a4836ea/resource/5b94f537-1197-4440-8749-b2a7f3e4d764/download/uzb_adm_2018b_emf.zip"
+        }
+    },
+    {
+        "id": "c215706c-9c22-43ca-8d36-9de4726eb9e0",
+        "format": {
+            "name": "cod-ab-mhl",
+            "description": "Marshall Islands administrative level 2 (EA) boundary polygon shapefile",
+            "download_url": "https://data.humdata.org/dataset/c215706c-9c22-43ca-8d36-9de4726eb9e0/resource/cc174295-8f9a-47cd-ba58-b89b83dee917/download/mhl_admbnda_adm2_ea.zip"
+        }
+    },
+    {
+        "id": "6d6d1495-196b-49d0-86b9-dc9022cde8e7",
+        "format": {
+            "name": "cod-ab-uga",
+            "description": "This service is intended as a labelling layer for PCODES from OCHA's Common Operational Datasets for Uganda. As a map service it is intended to be used in conjunction with the basemap located at http://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/UGA_EN/MapServer. The service also provides feature access to Administrative Boundaries geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services.",
+            "download_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/UGA_pcode/MapServer"
+        }
+    },
+    {
+        "id": "503a9167-ba56-4174-b160-bdb0fb703719",
+        "format": {
+            "name": "cod-ab-civ",
+            "description": "Powerpoint maps that include the COD admin for simplified use",
+            "download_url": "https://data.humdata.org/dataset/503a9167-ba56-4174-b160-bdb0fb703719/resource/be7b3236-fe71-41d9-b310-e04e064eca59/download/civ_ppt_map.pptx"
+        }
+    },
+    {
+        "id": "2768bdfd-6486-4963-8e3d-e63149478eb4",
+        "format": {
+            "name": "cod-ab-rwa",
+            "description": "Rwanda administrative level 0-3 and 4 (incomplete) boundary EMF files",
+            "download_url": "https://data.humdata.org/dataset/2768bdfd-6486-4963-8e3d-e63149478eb4/resource/0394d7ee-255f-46e0-88bf-8ea1f0b68de1/download/rwa_2006_nisr_wgs1984_20181002_emf.zip"
+        }
+    },
+    {
+        "id": "a62b2816-7d2e-4e07-a794-0a1dcb507092",
+        "format": {
+            "name": "cod-ab-ago",
+            "description": "This service is intended as a labelling layer for PCODES from OCHA's Common Operational Datasets for Angola. As a map service it is intended to be used in conjunction with the basemap located at http://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/AGO_EN/MapServer. The service also provides feature access to Administrative Boundaries geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services. ",
+            "download_url": "http://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/AGO_pcode/MapServer"
+        }
+    },
+    {
+        "id": "f5c4f4e4-a3c8-4d12-891f-d28d74ce04d5",
+        "format": {
+            "name": "cod-ab-zwe",
+            "description": "This service is intended as a labelling layer for PCODES from OCHA's Common Operational Datasets for Zimbabwe. As a map service it is intended to be used in conjunction with the basemap located at http://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/ZWE_EN/MapServer. The service also provides feature access to Administrative Boundaries geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services. ",
+            "download_url": "http://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/ZWE_pcode/MapServer"
+        }
+    },
+    {
+        "id": "20eb8e5b-134d-41d8-a56f-4f358f7faf16",
+        "format": {
+            "name": "cod-ab-mwi",
+            "description": "District lookup table between 32-district (official) and 28-district (alternate) systems.",
+            "download_url": "https://data.humdata.org/dataset/20eb8e5b-134d-41d8-a56f-4f358f7faf16/resource/8c9fec7a-a28e-4367-a56a-02189de68332/download/mwi_district_lookup.xls"
+        }
+    },
+    {
+        "id": "5e8d83a5-1210-49be-b7d9-cf286dbc15df",
+        "format": {
+            "name": "cod-ab-moz",
+            "description": "This map service contains OCHA Common Operational Datasets for for Mozambique in Portuguese: Administrative Boundaries. The service is available as ESRI Map, ESRI Feature, WMS, and KML Services. See the OCHA COD/FOD terms of use for access and use constraints. ",
+            "download_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/MOZ_PT/MapServer"
+        }
+    },
+    {
+        "id": "b09efeaa-f9ee-44f2-a8b9-c99956be95ef",
+        "format": {
+            "name": "cod-ab-sxm",
+            "description": "Sint Maarten administrative level 0-1 boundary EMF files",
+            "download_url": "https://data.humdata.org/dataset/b09efeaa-f9ee-44f2-a8b9-c99956be95ef/resource/717bc3fd-c191-402e-a49e-0b6240feb1cf/download/sxm_adm_emf.zip"
+        }
+    },
+    {
+        "id": "ceee47a3-cd1d-4eae-ab93-87d6f2ca00b9",
+        "format": {
+            "name": "cod-ab-dji",
+            "description": "Djibouti administrative level 2 (district) boundary polygon EMF file",
+            "download_url": "https://data.humdata.org/dataset/ceee47a3-cd1d-4eae-ab93-87d6f2ca00b9/resource/c49a139e-8384-46d0-a704-09b3fb4964d8/download/dji_admbnda_adm2_fews.emf"
+        }
+    },
+    {
+        "id": "7f80a5d1-9f1a-462c-b298-338c7edc9224",
+        "format": {
+            "name": "cod-ab-com",
+            "description": "This service is intended as a labelling layer for PCODES from OCHA's Common Operational Datasets for Comoros. As a map service it is intended to be used in conjunction with the basemap located at http://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/COM_EN/MapServer. The service also provides feature access to Administrative Boundaries geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services.",
+            "download_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/COM_pcode/MapServer"
+        }
+    },
+    {
+        "id": "55b1367e-667a-447b-952d-5bb139835628",
+        "format": {
+            "name": "cod-ab-lso",
+            "description": "Lesotho population administrative level 0 (country), 1 (district), and 2 (community council, municipal council, or urban council) boundary EMF files",
+            "download_url": "https://data.humdata.org/dataset/55b1367e-667a-447b-952d-5bb139835628/resource/ce623a7b-4b49-4368-8bf4-723d4d57cf81/download/lso_adm_fao_mlgca_2019_emf.zip"
+        }
+    },
+    {
+        "id": "0bedcaf3-88cd-4591-b9d5-5d3220e26abf",
+        "format": {
+            "name": "cod-ab-lka",
+            "description": "This map service contains a previous version of the OCHA Common Operational Datasets for Sri Lanka: Administrative Boundaries. The service is available as ESRI Map, ESRI Feature, WMS, and KML Services.",
+            "download_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/V00_0/LKA_EN/MapServer"
+        }
+    },
+    {
+        "id": "247b4026-79ff-4b16-95b9-0f366792d2cc",
+        "format": {
+            "name": "cod-ab-irn",
+            "description": "This service is intended as a labelling layer for PCODES from OCHA's Common Operational Datasets for Iran (Islamic Republic of). As a map service it is intended to be used in conjunction with the basemap located at http://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/IRN_EN/MapServer. The service also provides feature access to Administrative Boundaries geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services.",
+            "download_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/IRN_pcode/MapServer"
+        }
+    },
+    {
+        "id": "dc71c13f-e848-4ddc-9074-17e608464b63",
+        "format": {
+            "name": "cod-ab-fsm",
+            "description": "Federated States of Micronesia 2010 administrative level 0 (country), 1 (state), 2 (municipality) shapefiles",
+            "download_url": "https://data.humdata.org/dataset/dc71c13f-e848-4ddc-9074-17e608464b63/resource/7348d022-6726-438c-9b1c-0b5524b7dbfd/download/fsm_admbnda_shp.zip"
+        }
+    },
+    {
+        "id": "d64db592-f54c-4ae4-9b68-2fd81d7a4175",
+        "format": {
+            "name": "cod-ab-blr",
+            "description": "Belarus administrative level 0 (country), 1 (region or special administrative district), and 2 (district) geodatabase",
+            "download_url": "https://data.humdata.org/dataset/d64db592-f54c-4ae4-9b68-2fd81d7a4175/resource/d2f6f16e-f043-4b7b-afc8-0dafc809224f/download/blr_adm_2019.gdb.zip"
+        }
+    },
+    {
+        "id": "3ee95199-2dfe-40fc-b9bd-b44cc8c91024",
+        "format": {
+            "name": "cod-ab-geo",
+            "description": "This service is intended as a labelling layer for PCODES from OCHA's Common Operational Datasets for Georgia. As a map service it is intended to be used in conjunction with the basemap located at http://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/GEO_EN/MapServer. The service also provides feature access to Administrative Boundaries geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services.",
+            "download_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/GEO_pcode/MapServer"
+        }
+    },
+    {
+        "id": "cb58fa1f-687d-4cac-81a7-655ab1efb2d0",
+        "format": {
+            "name": "cod-ab-eth",
+            "description": "This service is intended as a labelling layer for PCODES from a previous version of OCHA's Common Operational Datasets for Ethiopia. As a map service it is intended to be used in conjunction with the basemap located at http://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/ETH_EN/MapServer. The service also provides feature access to Administrative Boundaries geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services.",
+            "download_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/V1_00/ETH_pcode/MapServer"
+        }
+    },
+    {
+        "id": "3cd53554-3ad7-4aae-b862-9bbbc6fa3bfc",
+        "format": {
+            "name": "cod-ab-mda",
+            "description": "Moldova administrative level 0-1 boundary geodatabase",
+            "download_url": "https://data.humdata.org/dataset/3cd53554-3ad7-4aae-b862-9bbbc6fa3bfc/resource/d4ba0603-fec3-4537-8516-a54da93065d9/download/mda_adm.gdb.zip"
+        }
+    },
+    {
+        "id": "178684f5-5552-4b71-af65-525bd806c237",
+        "format": {
+            "name": "cod-ab-bgr",
+            "description": "Bulgaria administrative level 0 (country), 1 (province, capital), and 2 (municipality) geodatabase",
+            "download_url": "https://data.humdata.org/dataset/178684f5-5552-4b71-af65-525bd806c237/resource/d0405cc7-3e74-4972-9b2e-4e2d90c5789c/download/bgr_adm_unicef_2019.gdb.zip"
+        }
+    },
+    {
+        "id": "4c303d7b-8eae-4a5a-a3aa-b2331fa39d74",
+        "format": {
+            "name": "cod-ab-afg",
+            "description": "This service is intended as a labelling layer for PCODES from OCHA's Common Operational Datasets for Afghanistan. As a map service it is intended to be used in conjunction with the basemap located at http://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/AFG_EN/MapServer. The service is available as ESRI Map, WMS, WFS and KML Services.",
+            "download_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/AFG_pcode/MapServer"
+        }
+    },
+    {
+        "id": "b85a92b8-e29d-444c-9990-94e4a3a85480",
+        "format": {
+            "name": "cod-ab-mys",
+            "description": "This service is intended as a labelling layer for PCODES from OCHA's Common Operational Datasets for Malaysia. As a map service it is intended to be used in conjunction with the basemap located at http://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/MYS_EN/MapServer. The service also provides feature access to Administrative Boundaries geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services",
+            "download_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/MYS_pcode/MapServer"
+        }
+    },
+    {
+        "id": "6ba099c6-350b-4711-9a65-d85a1c5e519c",
+        "format": {
+            "name": "cod-ab-jpn",
+            "description": "Japan administrative level 0 (country), 1 (prefecture) and 2 (city, town, or village) boundary geodatabase",
+            "download_url": "https://data.humdata.org/dataset/6ba099c6-350b-4711-9a65-d85a1c5e519c/resource/c390f004-90c8-41a9-863f-8d93a8a32b89/download/jpn_adm_2019_gdb.gdb.zip"
+        }
+    },
+    {
+        "id": "c62ad81d-ce24-4e61-90c6-836caeec6766",
+        "format": {
+            "name": "cod-ab-alb",
+            "description": "Albania administrative level 0 (country), 1 (county), 2 (municipality), and 3 (locality) boundary geodatabase",
+            "download_url": "https://data.humdata.org/dataset/c62ad81d-ce24-4e61-90c6-836caeec6766/resource/7fdd64fe-af3b-497f-bd11-ae92638cb58a/download/alb_adm_2019_gdb.gdb.zip"
+        }
+    },
+    {
+        "id": "84a1d98a-790b-4d66-9d14-bbfa48500802",
+        "format": {
+            "name": "cod-ab-idn",
+            "description": "This service is intended as a labelling layer for PCODES from a previous version of OCHA's Common Operational Datasets for Indonesia. As a map service it is intended to be used in conjunction with the basemap located at http://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/IDN_EN/MapServer. The service also provides feature access to Administrative Boundaries geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services.",
+            "download_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/V00_0/IDN_pcode/FeatureServer"
+        }
+    },
+    {
+        "id": "156a0966-1e09-455c-9e4f-e68676aa2fbf",
+        "format": {
+            "name": "cod-ab-kir",
+            "description": "Kiribati administrative level 0 (country), 1 (group), 2 (island) geodatabase",
+            "download_url": "https://data.humdata.org/dataset/156a0966-1e09-455c-9e4f-e68676aa2fbf/resource/e6759485-f662-4261-8e11-8184472a6ec8/download/kir_adm_2020_gdb.gdb.zip"
+        }
+    },
+    {
+        "id": "30c13830-6f14-46db-acd9-29eae51c540a",
+        "format": {
+            "name": "cod-ab-mus",
+            "description": "Mauritius administrative level 0-1 EMF boundary shapefiles",
+            "download_url": "https://data.humdata.org/dataset/30c13830-6f14-46db-acd9-29eae51c540a/resource/6d9dabc4-f8f8-498e-a7ca-9f24710f385f/download/mus_administrative_boundary_ndma_gadm_ocha_emf.zip"
+        }
+    },
+    {
+        "id": "e145e4c6-0a78-42c7-833c-5850ac3a1731",
+        "format": {
+            "name": "cod-ab-swz",
+            "description": "This service is intended as a labelling layer for PCODES from OCHA's Common Operational Datasets for Eswatini. As a map service it is intended to be used in conjunction with the basemap located at http://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/SWZ_EN/MapServer. The service also provides feature access to Administrative Boundaries geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services",
+            "download_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/SWZ_pcode/MapServer"
+        }
+    },
+    {
+        "id": "9ac1737f-cd33-4458-86e8-aec90eeffda2",
+        "format": {
+            "name": "cod-ab-syc",
+            "description": "Seychelles administrative level 0 (country), 1 (islands), 2 (region), and 3 (district) geodatabase",
+            "download_url": "https://data.humdata.org/dataset/9ac1737f-cd33-4458-86e8-aec90eeffda2/resource/4a737df4-892f-4cd9-89f5-6a7f8b2d5ce2/download/syc_adm_nbs2010.gdb.zip"
+        }
+    },
+    {
+        "id": "7cf2b2c2-ad83-4f65-aa69-dae9c574df13",
+        "format": {
+            "name": "cod-ab-cri",
+            "description": "Costa Rica administrative level 0-3 2021 boundaries",
+            "download_url": "https://data.humdata.org/dataset/7cf2b2c2-ad83-4f65-aa69-dae9c574df13/resource/5503b90c-d1b6-422b-a641-47ff6630f729/download/cri_adm_2021_wgs_84.gdb.zip"
+        }
+    },
+    {
+        "id": "c188d79c-fc74-44dd-aa46-adebb6b340d5",
+        "format": {
+            "name": "sahel-subnational-administrative-boundaries",
+            "description": "Sahel administrative level 3 boundary shapefile metadata (French and English)",
+            "download_url": "https://data.humdata.org/dataset/c188d79c-fc74-44dd-aa46-adebb6b340d5/resource/ddb9bc2e-cd07-4424-a4c2-bfa2f4090275/download/sah-admin3-metadata.txt"
+        }
+    },
+    {
+        "id": "74d579a7-e30b-445a-9ff3-1d673da53d3b",
+        "format": {
+            "name": "cod-ab-bwa",
+            "description": "Botswana administrative level 0-3 boundary geodatabase",
+            "download_url": "https://data.humdata.org/dataset/74d579a7-e30b-445a-9ff3-1d673da53d3b/resource/be38c4aa-a2ab-495c-be07-5fd7bb545dc1/download/bwa_adm_2011.gdb.zip"
+        }
+    },
+    {
+        "id": "d23f529f-31e4-4021-a65b-13987e5cfb42",
+        "format": {
+            "name": "cod-ab-ukr",
+            "description": "This map service contains a previous version of OCHA Common Operational Datasets for Ukraine: Administrative Boundaries, in Ukrainian. Russian and English services are also available. The service is available as ESRI Map, ESRI Feature, WMS, and KML Services. See the OCHA COD/FOD terms of use for access and use constraints.",
+            "download_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/V00_0/UKR_UA/MapServer"
+        }
+    }
+]
+]

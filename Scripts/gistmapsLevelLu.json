@@ -1,0 +1,1926 @@
+{
+    "countryISO": "AFG",
+    "adminUnitLevelNumber": 0
+}{
+    "countryISO": "AFG",
+    "adminUnitLevelNumber": 1,
+    "adminUnitLevelTitle": "Country",
+    "adminUnitLocalTitle": null
+}{
+    "countryISO": "AFG",
+    "adminUnitLevelNumber": 2,
+    "adminUnitLevelTitle": "Province",
+    "adminUnitLocalTitle": "Wilayat"
+}{
+    "countryISO": "AFG",
+    "adminUnitLevelNumber": null,
+    "adminUnitLevelTitle": "District",
+    "adminUnitLocalTitle": "Wuleswali"
+}{
+    "countryISO": "AFG",
+    "adminUnitLevelNumber": 0
+}{
+    "countryISO": "AFG",
+    "adminUnitLevelNumber": 1,
+    "adminUnitLevelTitle": "Country",
+    "adminUnitLocalTitle": null
+}{
+    "countryISO": "AFG",
+    "adminUnitLevelNumber": 2,
+    "adminUnitLevelTitle": "Province",
+    "adminUnitLocalTitle": "Wilayat"
+}{
+    "countryISO": "AFG",
+    "adminUnitLevelNumber": null,
+    "adminUnitLevelTitle": "District",
+    "adminUnitLocalTitle": "Wuleswali"
+}{
+    "countryISO": "AGO",
+    "adminUnitLevelNumber": 0
+}{
+    "countryISO": "AGO",
+    "adminUnitLevelNumber": 1,
+    "adminUnitLevelTitle": "Country",
+    "adminUnitLocalTitle": "Pa\u00eds"
+}{
+    "countryISO": "AGO",
+    "adminUnitLevelNumber": 2,
+    "adminUnitLevelTitle": "Province",
+    "adminUnitLocalTitle": "Prov\u00edncia"
+}{
+    "countryISO": "AGO",
+    "adminUnitLevelNumber": 3,
+    "adminUnitLevelTitle": "Municipality, City Council",
+    "adminUnitLocalTitle": "Munic\u00edpio, C\u00e2mara Municipal"
+}{
+    "countryISO": "BDI",
+    "adminUnitLevelNumber": 0
+}{
+    "countryISO": "BDI",
+    "adminUnitLevelNumber": 1,
+    "adminUnitLevelTitle": "Country",
+    "adminUnitLocalTitle": "Pays"
+}{
+    "countryISO": "BDI",
+    "adminUnitLevelNumber": 2,
+    "adminUnitLevelTitle": "Province",
+    "adminUnitLocalTitle": "Province"
+}{
+    "countryISO": "BEN",
+    "adminUnitLevelNumber": 0
+}{
+    "countryISO": "BEN",
+    "adminUnitLevelNumber": 1,
+    "adminUnitLevelTitle": "Country",
+    "adminUnitLocalTitle": "Pays"
+}{
+    "countryISO": "BEN",
+    "adminUnitLevelNumber": 2,
+    "adminUnitLevelTitle": "Department",
+    "adminUnitLocalTitle": "D\u00e9partement"
+}{
+    "countryISO": "BFA",
+    "adminUnitLevelNumber": 0
+}{
+    "countryISO": "BFA",
+    "adminUnitLevelNumber": 1,
+    "adminUnitLevelTitle": "Country",
+    "adminUnitLocalTitle": "Pays"
+}{
+    "countryISO": "BFA",
+    "adminUnitLevelNumber": 2,
+    "adminUnitLevelTitle": "Administrative Region",
+    "adminUnitLocalTitle": "R\u00e9gion Administrative"
+}{
+    "countryISO": "BFA",
+    "adminUnitLevelNumber": 3,
+    "adminUnitLevelTitle": "Province",
+    "adminUnitLocalTitle": "Province"
+}{
+    "countryISO": "BGD",
+    "adminUnitLevelNumber": 0
+}{
+    "countryISO": "BGD",
+    "adminUnitLevelNumber": 1,
+    "adminUnitLevelTitle": "Country",
+    "adminUnitLocalTitle": null
+}{
+    "countryISO": "BGD",
+    "adminUnitLevelNumber": 2,
+    "adminUnitLevelTitle": "Division",
+    "adminUnitLocalTitle": "Bibhag"
+}{
+    "countryISO": "BGD",
+    "adminUnitLevelNumber": 3,
+    "adminUnitLevelTitle": "District",
+    "adminUnitLocalTitle": "Jela"
+}{
+    "countryISO": "BGD",
+    "adminUnitLevelNumber": 4,
+    "adminUnitLevelTitle": "Upazila",
+    "adminUnitLocalTitle": "Up\u00f4jela"
+}{
+    "countryISO": "BLZ",
+    "adminUnitLevelNumber": 0
+}{
+    "countryISO": "BLZ",
+    "adminUnitLevelNumber": 1,
+    "adminUnitLevelTitle": "Country"
+}{
+    "countryISO": "BOL",
+    "adminUnitLevelNumber": 0
+}{
+    "countryISO": "BOL",
+    "adminUnitLevelNumber": 1,
+    "adminUnitLevelTitle": "Country",
+    "adminUnitLocalTitle": "Pa\u00eds"
+}{
+    "countryISO": "BOL",
+    "adminUnitLevelNumber": 2,
+    "adminUnitLevelTitle": "Department",
+    "adminUnitLocalTitle": "Departmento"
+}{
+    "countryISO": "BOL",
+    "adminUnitLevelNumber": 3,
+    "adminUnitLevelTitle": "Province",
+    "adminUnitLocalTitle": "Provincia"
+}{
+    "countryISO": "BTN",
+    "adminUnitLevelNumber": 0
+}{
+    "countryISO": "BTN",
+    "adminUnitLevelNumber": 1,
+    "adminUnitLevelTitle": "Country",
+    "adminUnitLocalTitle": null
+}{
+    "countryISO": "BTN",
+    "adminUnitLevelNumber": 2,
+    "adminUnitLevelTitle": "District",
+    "adminUnitLocalTitle": "Dzongkhag"
+}{
+    "countryISO": "CAF",
+    "adminUnitLevelNumber": 0
+}{
+    "countryISO": "CAF",
+    "adminUnitLevelNumber": 1,
+    "adminUnitLevelTitle": "Country",
+    "adminUnitLocalTitle": "Country"
+}{
+    "countryISO": "CAF",
+    "adminUnitLevelNumber": 2,
+    "adminUnitLevelTitle": "Prefecture",
+    "adminUnitLocalTitle": "Prefecture"
+}{
+    "countryISO": "CAF",
+    "adminUnitLevelNumber": 3,
+    "adminUnitLevelTitle": "Sub-Prefecture",
+    "adminUnitLocalTitle": "Sub-Prefecture"
+}{
+    "countryISO": "CAF",
+    "adminUnitLevelNumber": 4,
+    "adminUnitLevelTitle": "Commune/District",
+    "adminUnitLocalTitle": "Commune/Arrondissement"
+}{
+    "countryISO": "CHL",
+    "adminUnitLevelNumber": 0
+}{
+    "countryISO": "CHL",
+    "adminUnitLevelNumber": 1,
+    "adminUnitLevelTitle": "Country",
+    "adminUnitLocalTitle": "Pa\u00eds\r\nPa\u00eds"
+}{
+    "countryISO": "CHL",
+    "adminUnitLevelNumber": 2,
+    "adminUnitLevelTitle": "Region",
+    "adminUnitLocalTitle": "Regi\u00f3n"
+}{
+    "countryISO": "CHL",
+    "adminUnitLevelNumber": 3,
+    "adminUnitLevelTitle": "Province",
+    "adminUnitLocalTitle": "Provincia"
+}{
+    "countryISO": "CIV",
+    "adminUnitLevelNumber": 0
+}{
+    "countryISO": "CIV",
+    "adminUnitLevelNumber": 1,
+    "adminUnitLevelTitle": "Country",
+    "adminUnitLocalTitle": "Pays"
+}{
+    "countryISO": "CIV",
+    "adminUnitLevelNumber": 2,
+    "adminUnitLevelTitle": "District",
+    "adminUnitLocalTitle": "District"
+}{
+    "countryISO": "CIV",
+    "adminUnitLevelNumber": 3,
+    "adminUnitLevelTitle": "Region",
+    "adminUnitLocalTitle": "R\u00e9gion"
+}{
+    "countryISO": "CMR",
+    "adminUnitLevelNumber": 0
+}{
+    "countryISO": "CMR",
+    "adminUnitLevelNumber": 1,
+    "adminUnitLevelTitle": "Country",
+    "adminUnitLocalTitle": "Pays"
+}{
+    "countryISO": "CMR",
+    "adminUnitLevelNumber": 2,
+    "adminUnitLevelTitle": "Region",
+    "adminUnitLocalTitle": "R\u00e9gion"
+}{
+    "countryISO": "CMR",
+    "adminUnitLevelNumber": 3,
+    "adminUnitLevelTitle": "Department",
+    "adminUnitLocalTitle": "D\u00e9partement"
+}{
+    "countryISO": "CMR",
+    "adminUnitLevelNumber": 0
+}{
+    "countryISO": "CMR",
+    "adminUnitLevelNumber": 1,
+    "adminUnitLevelTitle": "Country",
+    "adminUnitLocalTitle": "Pays"
+}{
+    "countryISO": "CMR",
+    "adminUnitLevelNumber": 2,
+    "adminUnitLevelTitle": "Region",
+    "adminUnitLocalTitle": "R\u00e9gion"
+}{
+    "countryISO": "CMR",
+    "adminUnitLevelNumber": 3,
+    "adminUnitLevelTitle": "Department",
+    "adminUnitLocalTitle": "D\u00e9partement"
+}{
+    "countryISO": "COD",
+    "adminUnitLevelNumber": 0
+}{
+    "countryISO": "COD",
+    "adminUnitLevelNumber": 1,
+    "adminUnitLevelTitle": "Country",
+    "adminUnitLocalTitle": "Pays"
+}{
+    "countryISO": "COD",
+    "adminUnitLevelNumber": 2,
+    "adminUnitLevelTitle": "Province",
+    "adminUnitLocalTitle": "Province"
+}{
+    "countryISO": "COG",
+    "adminUnitLevelNumber": 0
+}{
+    "countryISO": "COG",
+    "adminUnitLevelNumber": 1,
+    "adminUnitLevelTitle": "Country",
+    "adminUnitLocalTitle": "Pays"
+}{
+    "countryISO": "COG",
+    "adminUnitLevelNumber": 2,
+    "adminUnitLevelTitle": "Department",
+    "adminUnitLocalTitle": "D\u00e9partement"
+}{
+    "countryISO": "COL",
+    "adminUnitLevelNumber": 0
+}{
+    "countryISO": "COL",
+    "adminUnitLevelNumber": 1,
+    "adminUnitLevelTitle": "Country",
+    "adminUnitLocalTitle": "Pa\u00eds"
+}{
+    "countryISO": "COL",
+    "adminUnitLevelNumber": 2,
+    "adminUnitLevelTitle": "Department, Capital District",
+    "adminUnitLocalTitle": "Departamento, Distrito Capital"
+}{
+    "countryISO": "COM",
+    "adminUnitLevelNumber": 0
+}{
+    "countryISO": "COM",
+    "adminUnitLevelNumber": 1,
+    "adminUnitLevelTitle": "Country",
+    "adminUnitLocalTitle": null
+}{
+    "countryISO": "COM",
+    "adminUnitLevelNumber": 2,
+    "adminUnitLevelTitle": "Island",
+    "adminUnitLocalTitle": null
+}{
+    "countryISO": "COM",
+    "adminUnitLevelNumber": 3,
+    "adminUnitLevelTitle": "Prefecture",
+    "adminUnitLocalTitle": null
+}{
+    "countryISO": "DOM",
+    "adminUnitLevelNumber": 0
+}{
+    "countryISO": "DOM",
+    "adminUnitLevelNumber": 1,
+    "adminUnitLevelTitle": "Country",
+    "adminUnitLocalTitle": null
+}{
+    "countryISO": "DOM",
+    "adminUnitLevelNumber": 2,
+    "adminUnitLevelTitle": "Region",
+    "adminUnitLocalTitle": "Regi\u00f3n"
+}{
+    "countryISO": "DOM",
+    "adminUnitLevelNumber": 3,
+    "adminUnitLevelTitle": "Province",
+    "adminUnitLocalTitle": "Provincia"
+}{
+    "countryISO": "DOM",
+    "adminUnitLevelNumber": 4,
+    "adminUnitLevelTitle": "Municipality",
+    "adminUnitLocalTitle": "Municipio"
+}{
+    "countryISO": "DZA",
+    "adminUnitLevelNumber": 0
+}{
+    "countryISO": "DZA",
+    "adminUnitLevelNumber": 1,
+    "adminUnitLevelTitle": "Country",
+    "adminUnitLocalTitle": null
+}{
+    "countryISO": "DZA",
+    "adminUnitLevelNumber": 2,
+    "adminUnitLevelTitle": "Department",
+    "adminUnitLocalTitle": "Wilayah"
+}{
+    "countryISO": "DZA",
+    "adminUnitLevelNumber": 0
+}{
+    "countryISO": "DZA",
+    "adminUnitLevelNumber": 1,
+    "adminUnitLevelTitle": "Country",
+    "adminUnitLocalTitle": null
+}{
+    "countryISO": "DZA",
+    "adminUnitLevelNumber": 2,
+    "adminUnitLevelTitle": "Department",
+    "adminUnitLocalTitle": "Wilayah"
+}{
+    "countryISO": "ECU",
+    "adminUnitLevelNumber": 0
+}{
+    "countryISO": "ECU",
+    "adminUnitLevelNumber": 1,
+    "adminUnitLevelTitle": "Country",
+    "adminUnitLocalTitle": "Pa\u00eds"
+}{
+    "countryISO": "ECU",
+    "adminUnitLevelNumber": 2,
+    "adminUnitLevelTitle": "Province",
+    "adminUnitLocalTitle": "Provincia"
+}{
+    "countryISO": "ECU",
+    "adminUnitLevelNumber": 3,
+    "adminUnitLevelTitle": "Canton",
+    "adminUnitLocalTitle": "Canton"
+}{
+    "countryISO": "EGY",
+    "adminUnitLevelNumber": 0
+}{
+    "countryISO": "EGY",
+    "adminUnitLevelNumber": 1,
+    "adminUnitLevelTitle": "Country",
+    "adminUnitLocalTitle": null
+}{
+    "countryISO": "EGY",
+    "adminUnitLevelNumber": 2,
+    "adminUnitLevelTitle": "Governorate",
+    "adminUnitLocalTitle": "mu\u1e25\u0101fa\u1e93ah"
+}{
+    "countryISO": "EGY",
+    "adminUnitLevelNumber": 3,
+    "adminUnitLevelTitle": "District",
+    "adminUnitLocalTitle": null
+}{
+    "countryISO": "EGY",
+    "adminUnitLevelNumber": 0
+}{
+    "countryISO": "EGY",
+    "adminUnitLevelNumber": 1,
+    "adminUnitLevelTitle": "Country",
+    "adminUnitLocalTitle": null
+}{
+    "countryISO": "EGY",
+    "adminUnitLevelNumber": 2,
+    "adminUnitLevelTitle": "Governorate",
+    "adminUnitLocalTitle": "mu\u1e25\u0101fa\u1e93ah"
+}{
+    "countryISO": "EGY",
+    "adminUnitLevelNumber": 3,
+    "adminUnitLevelTitle": "District",
+    "adminUnitLocalTitle": null
+}{
+    "countryISO": "ERI",
+    "adminUnitLevelNumber": 0
+}{
+    "countryISO": "ERI",
+    "adminUnitLevelNumber": 1,
+    "adminUnitLevelTitle": "Country",
+    "adminUnitLocalTitle": null
+}{
+    "countryISO": "ERI",
+    "adminUnitLevelNumber": 2,
+    "adminUnitLevelTitle": "Region",
+    "adminUnitLocalTitle": null
+}{
+    "countryISO": "ESH",
+    "adminUnitLevelNumber": 0
+}{
+    "countryISO": "ESH",
+    "adminUnitLevelNumber": 1,
+    "adminUnitLevelTitle": "Territory",
+    "adminUnitLocalTitle": null
+}{
+    "countryISO": "ETH",
+    "adminUnitLevelNumber": 0
+}{
+    "countryISO": "ETH",
+    "adminUnitLevelNumber": 1,
+    "adminUnitLevelTitle": "Country",
+    "adminUnitLocalTitle": " \u12a2\u1275\u12ee\u1335\u12eb"
+}{
+    "countryISO": "ETH",
+    "adminUnitLevelNumber": 2,
+    "adminUnitLevelTitle": "Region, Chartered City",
+    "adminUnitLocalTitle": "Kilil, Astedader Akabibi"
+}{
+    "countryISO": "ETH",
+    "adminUnitLevelNumber": 3,
+    "adminUnitLevelTitle": "Zone",
+    "adminUnitLocalTitle": "\u12de\u1295"
+}{
+    "countryISO": "GEO",
+    "adminUnitLevelNumber": 0
+}{
+    "countryISO": "GEO",
+    "adminUnitLevelNumber": 1,
+    "adminUnitLevelTitle": "Country",
+    "adminUnitLocalTitle": null
+}{
+    "countryISO": "GEO",
+    "adminUnitLevelNumber": 2,
+    "adminUnitLevelTitle": "Region, City, Autonomous Republic",
+    "adminUnitLocalTitle": "Mkhare, Munits'ipaliteti, Avtonomiuri Respublika"
+}{
+    "countryISO": "GEO",
+    "adminUnitLevelNumber": 0
+}{
+    "countryISO": "GEO",
+    "adminUnitLevelNumber": 1,
+    "adminUnitLevelTitle": "Country",
+    "adminUnitLocalTitle": null
+}{
+    "countryISO": "GEO",
+    "adminUnitLevelNumber": 2,
+    "adminUnitLevelTitle": "Region, City, Autonomous Republic",
+    "adminUnitLocalTitle": "Mkhare, Munits'ipaliteti, Avtonomiuri Respublika"
+}{
+    "countryISO": "GHA",
+    "adminUnitLevelNumber": 0
+}{
+    "countryISO": "GHA",
+    "adminUnitLevelNumber": 1,
+    "adminUnitLevelTitle": "Country",
+    "adminUnitLocalTitle": null
+}{
+    "countryISO": "GHA",
+    "adminUnitLevelNumber": 2,
+    "adminUnitLevelTitle": "Region",
+    "adminUnitLocalTitle": null
+}{
+    "countryISO": "GIN",
+    "adminUnitLevelNumber": 0
+}{
+    "countryISO": "GIN",
+    "adminUnitLevelNumber": 1,
+    "adminUnitLevelTitle": "Country",
+    "adminUnitLocalTitle": "Pays"
+}{
+    "countryISO": "GIN",
+    "adminUnitLevelNumber": 2,
+    "adminUnitLevelTitle": "Region",
+    "adminUnitLocalTitle": "R\u00e9gion"
+}{
+    "countryISO": "GIN",
+    "adminUnitLevelNumber": 3,
+    "adminUnitLevelTitle": "Prefecture",
+    "adminUnitLocalTitle": "Pr\u00e9fecture"
+}{
+    "countryISO": "GNB",
+    "adminUnitLevelNumber": 0
+}{
+    "countryISO": "GNB",
+    "adminUnitLevelNumber": 1,
+    "adminUnitLevelTitle": "Country",
+    "adminUnitLocalTitle": "Pa\u00eds"
+}{
+    "countryISO": "GNB",
+    "adminUnitLevelNumber": 2,
+    "adminUnitLevelTitle": "Region",
+    "adminUnitLocalTitle": "Regi\u00e3o"
+}{
+    "countryISO": "GNQ",
+    "adminUnitLevelNumber": 0
+}{
+    "countryISO": "GNQ",
+    "adminUnitLevelNumber": 1,
+    "adminUnitLevelTitle": "Country",
+    "adminUnitLocalTitle": null
+}{
+    "countryISO": "GNQ",
+    "adminUnitLevelNumber": 2,
+    "adminUnitLevelTitle": "Province",
+    "adminUnitLocalTitle": null
+}{
+    "countryISO": "GTM",
+    "adminUnitLevelNumber": 0
+}{
+    "countryISO": "GTM",
+    "adminUnitLevelNumber": 1,
+    "adminUnitLevelTitle": "Country",
+    "adminUnitLocalTitle": "Pais"
+}{
+    "countryISO": "GTM",
+    "adminUnitLevelNumber": 2,
+    "adminUnitLevelTitle": "Department",
+    "adminUnitLocalTitle": "Departmento"
+}{
+    "countryISO": "HND",
+    "adminUnitLevelNumber": 0
+}{
+    "countryISO": "HND",
+    "adminUnitLevelNumber": 1,
+    "adminUnitLevelTitle": "Country",
+    "adminUnitLocalTitle": "Pa\u00eds"
+}{
+    "countryISO": "HND",
+    "adminUnitLevelNumber": 2,
+    "adminUnitLevelTitle": "Department",
+    "adminUnitLocalTitle": "Departamentos"
+}{
+    "countryISO": "HTI",
+    "adminUnitLevelNumber": 0
+}{
+    "countryISO": "HTI",
+    "adminUnitLevelNumber": 1,
+    "adminUnitLevelTitle": "Country",
+    "adminUnitLocalTitle": "Pays"
+}{
+    "countryISO": "HTI",
+    "adminUnitLevelNumber": 2,
+    "adminUnitLevelTitle": "Department",
+    "adminUnitLocalTitle": "D\u00e9partement"
+}{
+    "countryISO": "HTI",
+    "adminUnitLevelNumber": 3,
+    "adminUnitLevelTitle": "Commune",
+    "adminUnitLocalTitle": "Commune"
+}{
+    "countryISO": "HTI",
+    "adminUnitLevelNumber": 0
+}{
+    "countryISO": "HTI",
+    "adminUnitLevelNumber": 1,
+    "adminUnitLevelTitle": "Country",
+    "adminUnitLocalTitle": "Pays"
+}{
+    "countryISO": "HTI",
+    "adminUnitLevelNumber": 2,
+    "adminUnitLevelTitle": "Department",
+    "adminUnitLocalTitle": "D\u00e9partement"
+}{
+    "countryISO": "HTI",
+    "adminUnitLevelNumber": 3,
+    "adminUnitLevelTitle": "Commune",
+    "adminUnitLocalTitle": "Commune"
+}{
+    "countryISO": "HTI",
+    "adminUnitLevelNumber": 0
+}{
+    "countryISO": "HTI",
+    "adminUnitLevelNumber": 1,
+    "adminUnitLevelTitle": "Country",
+    "adminUnitLocalTitle": "Pays"
+}{
+    "countryISO": "HTI",
+    "adminUnitLevelNumber": 2,
+    "adminUnitLevelTitle": "Department",
+    "adminUnitLocalTitle": "D\u00e9partement"
+}{
+    "countryISO": "HTI",
+    "adminUnitLevelNumber": 3,
+    "adminUnitLevelTitle": "Commune",
+    "adminUnitLocalTitle": "Commune"
+}{
+    "countryISO": "IDN",
+    "adminUnitLevelNumber": 0
+}{
+    "countryISO": "IDN",
+    "adminUnitLevelNumber": 1,
+    "adminUnitLevelTitle": "Country",
+    "adminUnitLocalTitle": null
+}{
+    "countryISO": "IDN",
+    "adminUnitLevelNumber": 2,
+    "adminUnitLevelTitle": "Province",
+    "adminUnitLocalTitle": "Provinsi"
+}{
+    "countryISO": "IDN",
+    "adminUnitLevelNumber": 3,
+    "adminUnitLevelTitle": "District (Regency, City) ",
+    "adminUnitLocalTitle": "Kabupaten, Kota"
+}{
+    "countryISO": "IDN",
+    "adminUnitLevelNumber": 4,
+    "adminUnitLevelTitle": "Sub-District",
+    "adminUnitLocalTitle": "Kecamatan"
+}{
+    "countryISO": "IRN",
+    "adminUnitLevelNumber": 0
+}{
+    "countryISO": "IRN",
+    "adminUnitLevelNumber": 1,
+    "adminUnitLevelTitle": "Country",
+    "adminUnitLocalTitle": null
+}{
+    "countryISO": "IRN",
+    "adminUnitLevelNumber": 2,
+    "adminUnitLevelTitle": "Province",
+    "adminUnitLocalTitle": "Ost\u0101n"
+}{
+    "countryISO": "IRN",
+    "adminUnitLevelNumber": 0
+}{
+    "countryISO": "IRN",
+    "adminUnitLevelNumber": 1,
+    "adminUnitLevelTitle": "Country",
+    "adminUnitLocalTitle": null
+}{
+    "countryISO": "IRN",
+    "adminUnitLevelNumber": 2,
+    "adminUnitLevelTitle": "Province",
+    "adminUnitLocalTitle": "Ost\u0101n"
+}{
+    "countryISO": "IRQ",
+    "adminUnitLevelNumber": 0
+}{
+    "countryISO": "IRQ",
+    "adminUnitLevelNumber": 1,
+    "adminUnitLevelTitle": "Country",
+    "adminUnitLocalTitle": null
+}{
+    "countryISO": "IRQ",
+    "adminUnitLevelNumber": 2,
+    "adminUnitLevelTitle": "Governorate",
+    "adminUnitLocalTitle": "Muhafadhah"
+}{
+    "countryISO": "IRQ",
+    "adminUnitLevelNumber": 3,
+    "adminUnitLevelTitle": "District",
+    "adminUnitLocalTitle": "Qadha"
+}{
+    "countryISO": "IRQ",
+    "adminUnitLevelNumber": 0
+}{
+    "countryISO": "IRQ",
+    "adminUnitLevelNumber": 1,
+    "adminUnitLevelTitle": "Country",
+    "adminUnitLocalTitle": null
+}{
+    "countryISO": "IRQ",
+    "adminUnitLevelNumber": 2,
+    "adminUnitLevelTitle": "Governorate",
+    "adminUnitLocalTitle": "Muhafadhah"
+}{
+    "countryISO": "IRQ",
+    "adminUnitLevelNumber": 3,
+    "adminUnitLevelTitle": "District",
+    "adminUnitLocalTitle": "Qadha"
+}{
+    "countryISO": "KDN",
+    "adminUnitLevelNumber": 0
+}{
+    "countryISO": "KDN",
+    "adminUnitLevelNumber": 1,
+    "adminUnitLevelTitle": "Country",
+    "adminUnitLocalTitle": "Country"
+}{
+    "countryISO": "KDN",
+    "adminUnitLevelNumber": 2,
+    "adminUnitLevelTitle": "Department",
+    "adminUnitLocalTitle": "Department"
+}{
+    "countryISO": "KDN",
+    "adminUnitLevelNumber": 3,
+    "adminUnitLevelTitle": "Province",
+    "adminUnitLocalTitle": "Province"
+}{
+    "countryISO": "KDN",
+    "adminUnitLevelNumber": 4,
+    "adminUnitLevelTitle": "Municipality",
+    "adminUnitLocalTitle": "Municipality"
+}{
+    "countryISO": "KEN",
+    "adminUnitLevelNumber": 0
+}{
+    "countryISO": "KEN",
+    "adminUnitLevelNumber": 1,
+    "adminUnitLevelTitle": "Country",
+    "adminUnitLocalTitle": "Country"
+}{
+    "countryISO": "KEN",
+    "adminUnitLevelNumber": 2,
+    "adminUnitLevelTitle": "County",
+    "adminUnitLocalTitle": "County"
+}{
+    "countryISO": "KGZ",
+    "adminUnitLevelNumber": 0
+}{
+    "countryISO": "KGZ",
+    "adminUnitLevelNumber": 1,
+    "adminUnitLevelTitle": "Country",
+    "adminUnitLocalTitle": ""
+}{
+    "countryISO": "KGZ",
+    "adminUnitLevelNumber": 2,
+    "adminUnitLevelTitle": "Province, Independent City",
+    "adminUnitLocalTitle": "Oblast, Shaar"
+}{
+    "countryISO": "KGZ",
+    "adminUnitLevelNumber": 3,
+    "adminUnitLevelTitle": "District, Independent City",
+    "adminUnitLocalTitle": "Raion, Shaar"
+}{
+    "countryISO": "KGZ",
+    "adminUnitLevelNumber": 0
+}{
+    "countryISO": "KGZ",
+    "adminUnitLevelNumber": 1,
+    "adminUnitLevelTitle": "Country",
+    "adminUnitLocalTitle": ""
+}{
+    "countryISO": "KGZ",
+    "adminUnitLevelNumber": 2,
+    "adminUnitLevelTitle": "Province, Independent City",
+    "adminUnitLocalTitle": "Oblast, Shaar"
+}{
+    "countryISO": "KGZ",
+    "adminUnitLevelNumber": 3,
+    "adminUnitLevelTitle": "District, Independent City",
+    "adminUnitLocalTitle": "Raion, Shaar"
+}{
+    "countryISO": "KGZ",
+    "adminUnitLevelNumber": 0
+}{
+    "countryISO": "KGZ",
+    "adminUnitLevelNumber": 1,
+    "adminUnitLevelTitle": "Country",
+    "adminUnitLocalTitle": ""
+}{
+    "countryISO": "KGZ",
+    "adminUnitLevelNumber": 2,
+    "adminUnitLevelTitle": "Province, Independent City",
+    "adminUnitLocalTitle": "Oblast, Shaar"
+}{
+    "countryISO": "KGZ",
+    "adminUnitLevelNumber": 3,
+    "adminUnitLevelTitle": "District, Independent City",
+    "adminUnitLocalTitle": "Raion, Shaar"
+}{
+    "countryISO": "KHM",
+    "adminUnitLevelNumber": 0
+}{
+    "countryISO": "KHM",
+    "adminUnitLevelNumber": 1,
+    "adminUnitLevelTitle": "Country",
+    "adminUnitLocalTitle": null
+}{
+    "countryISO": "KHM",
+    "adminUnitLevelNumber": 2,
+    "adminUnitLevelTitle": "Province, Capital",
+    "adminUnitLocalTitle": "Khaet, Reach Thani"
+}{
+    "countryISO": "KHM",
+    "adminUnitLevelNumber": 3,
+    "adminUnitLevelTitle": "District, Municipality",
+    "adminUnitLocalTitle": "Sr\u014fk, Krong, Khan"
+}{
+    "countryISO": "KWT",
+    "adminUnitLevelNumber": 0
+}{
+    "countryISO": "KWT",
+    "adminUnitLevelNumber": 1,
+    "adminUnitLevelTitle": "Country",
+    "adminUnitLocalTitle": "\u062f\u0648\u0644\u0629"
+}{
+    "countryISO": "KWT",
+    "adminUnitLevelNumber": 0
+}{
+    "countryISO": "KWT",
+    "adminUnitLevelNumber": 1,
+    "adminUnitLevelTitle": "Country",
+    "adminUnitLocalTitle": "\u062f\u0648\u0644\u0629"
+}{
+    "countryISO": "LAO",
+    "adminUnitLevelNumber": 0
+}{
+    "countryISO": "LAO",
+    "adminUnitLevelNumber": 1,
+    "adminUnitLevelTitle": "Country",
+    "adminUnitLocalTitle": null
+}{
+    "countryISO": "LAO",
+    "adminUnitLevelNumber": 2,
+    "adminUnitLevelTitle": "Province, Prefecture",
+    "adminUnitLocalTitle": "Khoueng, Kampheng Nakhon"
+}{
+    "countryISO": "LAO",
+    "adminUnitLevelNumber": 0
+}{
+    "countryISO": "LAO",
+    "adminUnitLevelNumber": 1,
+    "adminUnitLevelTitle": "Country",
+    "adminUnitLocalTitle": null
+}{
+    "countryISO": "LAO",
+    "adminUnitLevelNumber": 2,
+    "adminUnitLevelTitle": "Province, Prefecture",
+    "adminUnitLocalTitle": "Khoueng, Kampheng Nakhon"
+}{
+    "countryISO": "LBN",
+    "adminUnitLevelNumber": 0
+}{
+    "countryISO": "LBN",
+    "adminUnitLevelNumber": 1,
+    "adminUnitLevelTitle": "National",
+    "adminUnitLocalTitle": null
+}{
+    "countryISO": "LBN",
+    "adminUnitLevelNumber": 2,
+    "adminUnitLevelTitle": "Governorate",
+    "adminUnitLocalTitle": "Mohafazah"
+}{
+    "countryISO": "LBN",
+    "adminUnitLevelNumber": 3,
+    "adminUnitLevelTitle": "District",
+    "adminUnitLocalTitle": "Kadda"
+}{
+    "countryISO": "LBR",
+    "adminUnitLevelNumber": 0
+}{
+    "countryISO": "LBR",
+    "adminUnitLevelNumber": 1,
+    "adminUnitLevelTitle": "Country"
+}{
+    "countryISO": "LBR",
+    "adminUnitLevelNumber": 2,
+    "adminUnitLevelTitle": "County"
+}{
+    "countryISO": "LBY",
+    "adminUnitLevelNumber": 0
+}{
+    "countryISO": "LBY",
+    "adminUnitLevelNumber": 1,
+    "adminUnitLevelTitle": "Country",
+    "adminUnitLocalTitle": null
+}{
+    "countryISO": "LBY",
+    "adminUnitLevelNumber": 2,
+    "adminUnitLevelTitle": "Geodivision",
+    "adminUnitLocalTitle": null
+}{
+    "countryISO": "LBY",
+    "adminUnitLevelNumber": 0
+}{
+    "countryISO": "LBY",
+    "adminUnitLevelNumber": 1,
+    "adminUnitLevelTitle": "Country",
+    "adminUnitLocalTitle": null
+}{
+    "countryISO": "LBY",
+    "adminUnitLevelNumber": 2,
+    "adminUnitLevelTitle": "Geodivision",
+    "adminUnitLocalTitle": null
+}{
+    "countryISO": "LKA",
+    "adminUnitLevelNumber": 0
+}{
+    "countryISO": "LKA",
+    "adminUnitLevelNumber": 1,
+    "adminUnitLevelTitle": "Country",
+    "adminUnitLocalTitle": null
+}{
+    "countryISO": "LKA",
+    "adminUnitLevelNumber": 2,
+    "adminUnitLevelTitle": "Province",
+    "adminUnitLocalTitle": "Pa\u1e37\u0101ta"
+}{
+    "countryISO": "LKA",
+    "adminUnitLevelNumber": 3,
+    "adminUnitLevelTitle": "District",
+    "adminUnitLocalTitle": "Distrikka"
+}{
+    "countryISO": "LKA",
+    "adminUnitLevelNumber": 4,
+    "adminUnitLevelTitle": "Divisional Secretariat",
+    "adminUnitLocalTitle": null
+}{
+    "countryISO": "LKA",
+    "adminUnitLevelNumber": 0
+}{
+    "countryISO": "LKA",
+    "adminUnitLevelNumber": 1,
+    "adminUnitLevelTitle": "Country",
+    "adminUnitLocalTitle": null
+}{
+    "countryISO": "LKA",
+    "adminUnitLevelNumber": 2,
+    "adminUnitLevelTitle": "Province",
+    "adminUnitLocalTitle": "Pa\u1e37\u0101ta"
+}{
+    "countryISO": "LKA",
+    "adminUnitLevelNumber": 3,
+    "adminUnitLevelTitle": "District",
+    "adminUnitLocalTitle": "Distrikka"
+}{
+    "countryISO": "LKA",
+    "adminUnitLevelNumber": 4,
+    "adminUnitLevelTitle": "Divisional Secretariat",
+    "adminUnitLocalTitle": null
+}{
+    "countryISO": "LKA",
+    "adminUnitLevelNumber": 0
+}{
+    "countryISO": "LKA",
+    "adminUnitLevelNumber": 1,
+    "adminUnitLevelTitle": "Country",
+    "adminUnitLocalTitle": null
+}{
+    "countryISO": "LKA",
+    "adminUnitLevelNumber": 2,
+    "adminUnitLevelTitle": "Province",
+    "adminUnitLocalTitle": "Pa\u1e37\u0101ta"
+}{
+    "countryISO": "LKA",
+    "adminUnitLevelNumber": 3,
+    "adminUnitLevelTitle": "District",
+    "adminUnitLocalTitle": "Distrikka"
+}{
+    "countryISO": "LKA",
+    "adminUnitLevelNumber": 4,
+    "adminUnitLevelTitle": "Divisional Secretariat",
+    "adminUnitLocalTitle": null
+}{
+    "countryISO": "MAR",
+    "adminUnitLevelNumber": 0
+}{
+    "countryISO": "MAR",
+    "adminUnitLevelNumber": 1,
+    "adminUnitLevelTitle": "Country",
+    "adminUnitLocalTitle": null
+}{
+    "countryISO": "MAR",
+    "adminUnitLevelNumber": 2,
+    "adminUnitLevelTitle": "Region",
+    "adminUnitLocalTitle": "\u062c\u0647\u0627\u062a"
+}{
+    "countryISO": "MAR",
+    "adminUnitLevelNumber": 0
+}{
+    "countryISO": "MAR",
+    "adminUnitLevelNumber": 1,
+    "adminUnitLevelTitle": "Country",
+    "adminUnitLocalTitle": null
+}{
+    "countryISO": "MAR",
+    "adminUnitLevelNumber": 2,
+    "adminUnitLevelTitle": "Region",
+    "adminUnitLocalTitle": "\u062c\u0647\u0627\u062a"
+}{
+    "countryISO": "MDV",
+    "adminUnitLevelNumber": 0
+}{
+    "countryISO": "MDV",
+    "adminUnitLevelNumber": 1,
+    "adminUnitLevelTitle": "Country",
+    "adminUnitLocalTitle": null
+}{
+    "countryISO": "MDV",
+    "adminUnitLevelNumber": 2,
+    "adminUnitLevelTitle": "Province",
+    "adminUnitLocalTitle": null
+}{
+    "countryISO": "MDV",
+    "adminUnitLevelNumber": 3,
+    "adminUnitLevelTitle": "Atoll, City",
+    "adminUnitLocalTitle": null
+}{
+    "countryISO": "MEX",
+    "adminUnitLevelNumber": 0
+}{
+    "countryISO": "MEX",
+    "adminUnitLevelNumber": 1,
+    "adminUnitLevelTitle": "Country",
+    "adminUnitLocalTitle": "Pa\u00eds"
+}{
+    "countryISO": "MEX",
+    "adminUnitLevelNumber": 2,
+    "adminUnitLevelTitle": "State",
+    "adminUnitLocalTitle": "Estado"
+}{
+    "countryISO": "MLI",
+    "adminUnitLevelNumber": 0
+}{
+    "countryISO": "MLI",
+    "adminUnitLevelNumber": 1,
+    "adminUnitLevelTitle": "Country",
+    "adminUnitLocalTitle": "Pays"
+}{
+    "countryISO": "MLI",
+    "adminUnitLevelNumber": 2,
+    "adminUnitLevelTitle": "Region",
+    "adminUnitLocalTitle": "R\u00e9gion"
+}{
+    "countryISO": "MLI",
+    "adminUnitLevelNumber": 3,
+    "adminUnitLevelTitle": "Circle",
+    "adminUnitLocalTitle": "Cercle"
+}{
+    "countryISO": "MNG",
+    "adminUnitLevelNumber": 0
+}{
+    "countryISO": "MNG",
+    "adminUnitLevelNumber": 1,
+    "adminUnitLevelTitle": "Country",
+    "adminUnitLocalTitle": null
+}{
+    "countryISO": "MNG",
+    "adminUnitLevelNumber": 2,
+    "adminUnitLevelTitle": "Province",
+    "adminUnitLocalTitle": "Aimag"
+}{
+    "countryISO": "MNG",
+    "adminUnitLevelNumber": null,
+    "adminUnitLevelTitle": "District",
+    "adminUnitLocalTitle": "Soum"
+}{
+    "countryISO": "MNG",
+    "adminUnitLevelNumber": 0
+}{
+    "countryISO": "MNG",
+    "adminUnitLevelNumber": 1,
+    "adminUnitLevelTitle": "Country",
+    "adminUnitLocalTitle": null
+}{
+    "countryISO": "MNG",
+    "adminUnitLevelNumber": 2,
+    "adminUnitLevelTitle": "Province",
+    "adminUnitLocalTitle": "Aimag"
+}{
+    "countryISO": "MNG",
+    "adminUnitLevelNumber": null,
+    "adminUnitLevelTitle": "District",
+    "adminUnitLocalTitle": "Soum"
+}{
+    "countryISO": "MOZ",
+    "adminUnitLevelNumber": 0
+}{
+    "countryISO": "MOZ",
+    "adminUnitLevelNumber": 1,
+    "adminUnitLevelTitle": "Country",
+    "adminUnitLocalTitle": "Pa\u00eds"
+}{
+    "countryISO": "MOZ",
+    "adminUnitLevelNumber": 2,
+    "adminUnitLevelTitle": "Province",
+    "adminUnitLocalTitle": "Prov\u00edncia"
+}{
+    "countryISO": "MOZ",
+    "adminUnitLevelNumber": 3,
+    "adminUnitLevelTitle": "District",
+    "adminUnitLocalTitle": "Distrito"
+}{
+    "countryISO": "MRT",
+    "adminUnitLevelNumber": 0
+}{
+    "countryISO": "MRT",
+    "adminUnitLevelNumber": 1,
+    "adminUnitLevelTitle": "Country",
+    "adminUnitLocalTitle": "Pays"
+}{
+    "countryISO": "MRT",
+    "adminUnitLevelNumber": 2,
+    "adminUnitLevelTitle": "Region",
+    "adminUnitLocalTitle": "Wilaya"
+}{
+    "countryISO": "MWI",
+    "adminUnitLevelNumber": 0
+}{
+    "countryISO": "MWI",
+    "adminUnitLevelNumber": 1,
+    "adminUnitLevelTitle": "Country",
+    "adminUnitLocalTitle": null
+}{
+    "countryISO": "MWI",
+    "adminUnitLevelNumber": 2,
+    "adminUnitLevelTitle": "Region",
+    "adminUnitLocalTitle": "Madera"
+}{
+    "countryISO": "MWI",
+    "adminUnitLevelNumber": 3,
+    "adminUnitLevelTitle": "District",
+    "adminUnitLocalTitle": null
+}{
+    "countryISO": "MYS",
+    "adminUnitLevelNumber": 0
+}{
+    "countryISO": "MYS",
+    "adminUnitLevelNumber": 1,
+    "adminUnitLevelTitle": "Country",
+    "adminUnitLocalTitle": null
+}{
+    "countryISO": "MYS",
+    "adminUnitLevelNumber": 2,
+    "adminUnitLevelTitle": "State, Federal Territory",
+    "adminUnitLocalTitle": null
+}{
+    "countryISO": "NAM",
+    "adminUnitLevelNumber": 0
+}{
+    "countryISO": "NAM",
+    "adminUnitLevelNumber": 1,
+    "adminUnitLevelTitle": "Country",
+    "adminUnitLocalTitle": null
+}{
+    "countryISO": "NAM",
+    "adminUnitLevelNumber": 2,
+    "adminUnitLevelTitle": "Region",
+    "adminUnitLocalTitle": null
+}{
+    "countryISO": "NER",
+    "adminUnitLevelNumber": 0
+}{
+    "countryISO": "NER",
+    "adminUnitLevelNumber": 1,
+    "adminUnitLevelTitle": "Country",
+    "adminUnitLocalTitle": "Pays"
+}{
+    "countryISO": "NER",
+    "adminUnitLevelNumber": 2,
+    "adminUnitLevelTitle": "Region",
+    "adminUnitLocalTitle": "R\u00e9gion"
+}{
+    "countryISO": "NGA",
+    "adminUnitLevelNumber": 0
+}{
+    "countryISO": "NGA",
+    "adminUnitLevelNumber": 1,
+    "adminUnitLevelTitle": "Country",
+    "adminUnitLocalTitle": "Country"
+}{
+    "countryISO": "NGA",
+    "adminUnitLevelNumber": null,
+    "adminUnitLevelTitle": "State",
+    "adminUnitLocalTitle": "State"
+}{
+    "countryISO": "NGA",
+    "adminUnitLevelNumber": 2,
+    "adminUnitLevelTitle": "Senatorial Districts",
+    "adminUnitLocalTitle": "Senatorial Districts"
+}{
+    "countryISO": "NGA",
+    "adminUnitLevelNumber": 3,
+    "adminUnitLevelTitle": "LGA",
+    "adminUnitLocalTitle": "LGA"
+}{
+    "countryISO": "NIC",
+    "adminUnitLevelNumber": 0
+}{
+    "countryISO": "NIC",
+    "adminUnitLevelNumber": 1,
+    "adminUnitLevelTitle": "Country",
+    "adminUnitLocalTitle": "Pa\u00eds"
+}{
+    "countryISO": "NIC",
+    "adminUnitLevelNumber": 2,
+    "adminUnitLevelTitle": "Department or Autonomous Region",
+    "adminUnitLocalTitle": "Departamento o Regi\u00f3n Aut\u00f3noma"
+}{
+    "countryISO": "NPL",
+    "adminUnitLevelNumber": 0
+}{
+    "countryISO": "NPL",
+    "adminUnitLevelNumber": 1,
+    "adminUnitLevelTitle": "Country",
+    "adminUnitLocalTitle": null
+}{
+    "countryISO": "NPL",
+    "adminUnitLevelNumber": 2,
+    "adminUnitLevelTitle": "State",
+    "adminUnitLocalTitle": "Pradeshaharu"
+}{
+    "countryISO": "NPL",
+    "adminUnitLevelNumber": null,
+    "adminUnitLevelTitle": "Local Unit",
+    "adminUnitLocalTitle": "Gaunpalika, Mahanagarpalika, Nagarpalika"
+}{
+    "countryISO": "OMN",
+    "adminUnitLevelNumber": 0
+}{
+    "countryISO": "OMN",
+    "adminUnitLevelNumber": 1,
+    "adminUnitLevelTitle": "Country",
+    "adminUnitLocalTitle": null
+}{
+    "countryISO": "OMN",
+    "adminUnitLevelNumber": 2,
+    "adminUnitLevelTitle": "Governorate",
+    "adminUnitLocalTitle": "Mu\u1e25\u0101fa\u1e93ah"
+}{
+    "countryISO": "PAK",
+    "adminUnitLevelNumber": 0
+}{
+    "countryISO": "PAK",
+    "adminUnitLevelNumber": 1,
+    "adminUnitLevelTitle": "Country",
+    "adminUnitLocalTitle": "Country"
+}{
+    "countryISO": "PAK",
+    "adminUnitLevelNumber": 2,
+    "adminUnitLevelTitle": "Province",
+    "adminUnitLocalTitle": "Province"
+}{
+    "countryISO": "PAK",
+    "adminUnitLevelNumber": 3,
+    "adminUnitLevelTitle": "District",
+    "adminUnitLocalTitle": "District"
+}{
+    "countryISO": "PAN",
+    "adminUnitLevelNumber": 0
+}{
+    "countryISO": "PAN",
+    "adminUnitLevelNumber": 1,
+    "adminUnitLevelTitle": "Country",
+    "adminUnitLocalTitle": "Pa\u00eds"
+}{
+    "countryISO": "PAN",
+    "adminUnitLevelNumber": 2,
+    "adminUnitLevelTitle": "Province or Indigenous Territory",
+    "adminUnitLocalTitle": "Provincia o Comarca Ind\u00edgena"
+}{
+    "countryISO": "PAN",
+    "adminUnitLevelNumber": 3,
+    "adminUnitLevelTitle": "District or Indigenous Territory",
+    "adminUnitLocalTitle": "Distrito o Comarca Ind\u00edgena"
+}{
+    "countryISO": "PER",
+    "adminUnitLevelNumber": 0
+}{
+    "countryISO": "PER",
+    "adminUnitLevelNumber": 1,
+    "adminUnitLevelTitle": "Pa\u00eds",
+    "adminUnitLocalTitle": "Country"
+}{
+    "countryISO": "PER",
+    "adminUnitLevelNumber": 2,
+    "adminUnitLevelTitle": "Departamento",
+    "adminUnitLocalTitle": "Department"
+}{
+    "countryISO": "PER",
+    "adminUnitLevelNumber": 3,
+    "adminUnitLevelTitle": "Provincia",
+    "adminUnitLocalTitle": "Province"
+}{
+    "countryISO": "PHL",
+    "adminUnitLevelNumber": 0
+}{
+    "countryISO": "PHL",
+    "adminUnitLevelNumber": 1,
+    "adminUnitLevelTitle": "Country",
+    "adminUnitLocalTitle": "Bansa"
+}{
+    "countryISO": "PHL",
+    "adminUnitLevelNumber": 2,
+    "adminUnitLevelTitle": "Region, Autonomous Region",
+    "adminUnitLocalTitle": "Rehiyon, Awtonomong Rehiyon"
+}{
+    "countryISO": "PHL",
+    "adminUnitLevelNumber": 3,
+    "adminUnitLevelTitle": "Province",
+    "adminUnitLocalTitle": "Lalawigan"
+}{
+    "countryISO": "PNG",
+    "adminUnitLevelNumber": 0
+}{
+    "countryISO": "PNG",
+    "adminUnitLevelNumber": 1,
+    "adminUnitLevelTitle": "Country",
+    "adminUnitLocalTitle": "Country"
+}{
+    "countryISO": "PNG",
+    "adminUnitLevelNumber": 2,
+    "adminUnitLevelTitle": "Province, Autonomous Region, National Capital",
+    "adminUnitLocalTitle": "Province, Autonomous Region, National Capital"
+}{
+    "countryISO": "PNG",
+    "adminUnitLevelNumber": 3,
+    "adminUnitLevelTitle": "District",
+    "adminUnitLocalTitle": "District"
+}{
+    "countryISO": "PRK",
+    "adminUnitLevelNumber": 0
+}{
+    "countryISO": "PRK",
+    "adminUnitLevelNumber": 1,
+    "adminUnitLevelTitle": "Country",
+    "adminUnitLocalTitle": null
+}{
+    "countryISO": "PRK",
+    "adminUnitLevelNumber": 2,
+    "adminUnitLevelTitle": "Province, Special City",
+    "adminUnitLocalTitle": "To, T'\u016dkpy\u014flsi"
+}{
+    "countryISO": "PSE",
+    "adminUnitLevelNumber": 0
+}{
+    "countryISO": "PSE",
+    "adminUnitLevelNumber": 1,
+    "adminUnitLevelTitle": "Observer State",
+    "adminUnitLocalTitle": null
+}{
+    "countryISO": "PSE",
+    "adminUnitLevelNumber": 2,
+    "adminUnitLevelTitle": "Governorate",
+    "adminUnitLocalTitle": "Muhafazah"
+}{
+    "countryISO": "SAU",
+    "adminUnitLevelNumber": 0
+}{
+    "countryISO": "SAU",
+    "adminUnitLevelNumber": 1,
+    "adminUnitLevelTitle": "Country",
+    "adminUnitLocalTitle": null
+}{
+    "countryISO": "SDN",
+    "adminUnitLevelNumber": 0
+}{
+    "countryISO": "SDN",
+    "adminUnitLevelNumber": 1,
+    "adminUnitLevelTitle": "Country",
+    "adminUnitLocalTitle": "Dawla"
+}{
+    "countryISO": "SDN",
+    "adminUnitLevelNumber": 2,
+    "adminUnitLevelTitle": "State",
+    "adminUnitLocalTitle": "Wilayah"
+}{
+    "countryISO": "SDN",
+    "adminUnitLevelNumber": 0
+}{
+    "countryISO": "SDN",
+    "adminUnitLevelNumber": 1,
+    "adminUnitLevelTitle": "Country",
+    "adminUnitLocalTitle": "Dawla"
+}{
+    "countryISO": "SDN",
+    "adminUnitLevelNumber": 2,
+    "adminUnitLevelTitle": "State",
+    "adminUnitLocalTitle": "Wilayah"
+}{
+    "countryISO": "SEN",
+    "adminUnitLevelNumber": 0
+}{
+    "countryISO": "SEN",
+    "adminUnitLevelNumber": 1,
+    "adminUnitLevelTitle": "Country",
+    "adminUnitLocalTitle": "Pays"
+}{
+    "countryISO": "SEN",
+    "adminUnitLevelNumber": 2,
+    "adminUnitLevelTitle": "Region",
+    "adminUnitLocalTitle": "R\u00e9gion"
+}{
+    "countryISO": "SEN",
+    "adminUnitLevelNumber": 3,
+    "adminUnitLevelTitle": "Department",
+    "adminUnitLocalTitle": "D\u00e9partement"
+}{
+    "countryISO": "SLE",
+    "adminUnitLevelNumber": 0
+}{
+    "countryISO": "SLE",
+    "adminUnitLevelNumber": 1,
+    "adminUnitLevelTitle": "Country",
+    "adminUnitLocalTitle": "Country"
+}{
+    "countryISO": "SLE",
+    "adminUnitLevelNumber": 2,
+    "adminUnitLevelTitle": "Province",
+    "adminUnitLocalTitle": "Province"
+}{
+    "countryISO": "SLE",
+    "adminUnitLevelNumber": 3,
+    "adminUnitLevelTitle": "District",
+    "adminUnitLocalTitle": "District"
+}{
+    "countryISO": "SLE",
+    "adminUnitLevelNumber": 4,
+    "adminUnitLevelTitle": "Chiefdom",
+    "adminUnitLocalTitle": "Chiefdom"
+}{
+    "countryISO": "SLV",
+    "adminUnitLevelNumber": 0
+}{
+    "countryISO": "SLV",
+    "adminUnitLevelNumber": 1,
+    "adminUnitLevelTitle": "Country",
+    "adminUnitLocalTitle": "Pa\u00eds"
+}{
+    "countryISO": "SLV",
+    "adminUnitLevelNumber": 2,
+    "adminUnitLevelTitle": "Department",
+    "adminUnitLocalTitle": "Departamento"
+}{
+    "countryISO": "SOM",
+    "adminUnitLevelNumber": 0
+}{
+    "countryISO": "SOM",
+    "adminUnitLevelNumber": 1,
+    "adminUnitLevelTitle": "Country",
+    "adminUnitLocalTitle": "\u0628\u0644\u062f"
+}{
+    "countryISO": "SOM",
+    "adminUnitLevelNumber": 2,
+    "adminUnitLevelTitle": "Region",
+    "adminUnitLocalTitle": "Gobol"
+}{
+    "countryISO": "SWZ",
+    "adminUnitLevelNumber": 0
+}{
+    "countryISO": "SWZ",
+    "adminUnitLevelNumber": 1,
+    "adminUnitLevelTitle": "Country",
+    "adminUnitLocalTitle": null
+}{
+    "countryISO": "SWZ",
+    "adminUnitLevelNumber": 2,
+    "adminUnitLevelTitle": "Region",
+    "adminUnitLocalTitle": null
+}{
+    "countryISO": "SYR",
+    "adminUnitLevelNumber": 0
+}{
+    "countryISO": "SYR",
+    "adminUnitLevelNumber": 1,
+    "adminUnitLevelTitle": "Country",
+    "adminUnitLocalTitle": null
+}{
+    "countryISO": "SYR",
+    "adminUnitLevelNumber": 2,
+    "adminUnitLevelTitle": "Governorate",
+    "adminUnitLocalTitle": "Mohafaza "
+}{
+    "countryISO": "SYR",
+    "adminUnitLevelNumber": 3,
+    "adminUnitLevelTitle": "District",
+    "adminUnitLocalTitle": "Mantika"
+}{
+    "countryISO": "SYR",
+    "adminUnitLevelNumber": 4,
+    "adminUnitLevelTitle": "Sub-district",
+    "adminUnitLocalTitle": "Nahya"
+}{
+    "countryISO": "SYR",
+    "adminUnitLevelNumber": 5,
+    "adminUnitLevelTitle": "Place/Built-up Area",
+    "adminUnitLocalTitle": null
+}{
+    "countryISO": "SYR",
+    "adminUnitLevelNumber": 0
+}{
+    "countryISO": "SYR",
+    "adminUnitLevelNumber": 1,
+    "adminUnitLevelTitle": "Country",
+    "adminUnitLocalTitle": null
+}{
+    "countryISO": "SYR",
+    "adminUnitLevelNumber": 2,
+    "adminUnitLevelTitle": "Governorate",
+    "adminUnitLocalTitle": "Mohafaza "
+}{
+    "countryISO": "SYR",
+    "adminUnitLevelNumber": 3,
+    "adminUnitLevelTitle": "District",
+    "adminUnitLocalTitle": "Mantika"
+}{
+    "countryISO": "SYR",
+    "adminUnitLevelNumber": 4,
+    "adminUnitLevelTitle": "Sub-district",
+    "adminUnitLocalTitle": "Nahya"
+}{
+    "countryISO": "SYR",
+    "adminUnitLevelNumber": 5,
+    "adminUnitLevelTitle": "Place/Built-up Area",
+    "adminUnitLocalTitle": null
+}{
+    "countryISO": "TCD",
+    "adminUnitLevelNumber": 0
+}{
+    "countryISO": "TCD",
+    "adminUnitLevelNumber": 1,
+    "adminUnitLevelTitle": "Country",
+    "adminUnitLocalTitle": "Pays"
+}{
+    "countryISO": "TCD",
+    "adminUnitLevelNumber": 2,
+    "adminUnitLevelTitle": "Region",
+    "adminUnitLocalTitle": "R\u00e9gions"
+}{
+    "countryISO": "TCD",
+    "adminUnitLevelNumber": 3,
+    "adminUnitLevelTitle": "Department or Prefecture",
+    "adminUnitLocalTitle": "D\u00e9partement ou Pr\u00e9fecture"
+}{
+    "countryISO": "TGO",
+    "adminUnitLevelNumber": 0
+}{
+    "countryISO": "TGO",
+    "adminUnitLevelNumber": 1,
+    "adminUnitLevelTitle": "Country",
+    "adminUnitLocalTitle": "Pays"
+}{
+    "countryISO": "TGO",
+    "adminUnitLevelNumber": 2,
+    "adminUnitLevelTitle": "Region",
+    "adminUnitLocalTitle": "R\u00e9gion"
+}{
+    "countryISO": "TGO",
+    "adminUnitLevelNumber": 3,
+    "adminUnitLevelTitle": "Prefecture",
+    "adminUnitLocalTitle": "Pr\u00e9fecture"
+}{
+    "countryISO": "THA",
+    "adminUnitLevelNumber": 0
+}{
+    "countryISO": "THA",
+    "adminUnitLevelNumber": 1,
+    "adminUnitLevelTitle": "Country",
+    "adminUnitLocalTitle": null
+}{
+    "countryISO": "THA",
+    "adminUnitLevelNumber": 2,
+    "adminUnitLevelTitle": "Province",
+    "adminUnitLocalTitle": "Changwat"
+}{
+    "countryISO": "THA",
+    "adminUnitLevelNumber": 3,
+    "adminUnitLevelTitle": "District",
+    "adminUnitLocalTitle": "Amphoe"
+}{
+    "countryISO": "THA",
+    "adminUnitLevelNumber": 0
+}{
+    "countryISO": "THA",
+    "adminUnitLevelNumber": 1,
+    "adminUnitLevelTitle": "Country",
+    "adminUnitLocalTitle": null
+}{
+    "countryISO": "THA",
+    "adminUnitLevelNumber": 2,
+    "adminUnitLevelTitle": "Province",
+    "adminUnitLocalTitle": "Changwat"
+}{
+    "countryISO": "THA",
+    "adminUnitLevelNumber": 3,
+    "adminUnitLevelTitle": "District",
+    "adminUnitLocalTitle": "Amphoe"
+}{
+    "countryISO": "TLS",
+    "adminUnitLevelNumber": 0
+}{
+    "countryISO": "TLS",
+    "adminUnitLevelNumber": 1,
+    "adminUnitLevelTitle": "Country",
+    "adminUnitLocalTitle": null
+}{
+    "countryISO": "TLS",
+    "adminUnitLevelNumber": 2,
+    "adminUnitLevelTitle": "Administrative Post",
+    "adminUnitLocalTitle": null
+}{
+    "countryISO": "TLS",
+    "adminUnitLevelNumber": 3,
+    "adminUnitLevelTitle": "Village",
+    "adminUnitLocalTitle": "Suco"
+}{
+    "countryISO": "UGA",
+    "adminUnitLevelNumber": 0
+}{
+    "countryISO": "UGA",
+    "adminUnitLevelNumber": 1,
+    "adminUnitLevelTitle": "Country",
+    "adminUnitLocalTitle": null
+}{
+    "countryISO": "UGA",
+    "adminUnitLevelNumber": 2,
+    "adminUnitLevelTitle": "Region",
+    "adminUnitLocalTitle": null
+}{
+    "countryISO": "UGA",
+    "adminUnitLevelNumber": 3,
+    "adminUnitLevelTitle": "District",
+    "adminUnitLocalTitle": null
+}{
+    "countryISO": "UGA",
+    "adminUnitLevelNumber": 4,
+    "adminUnitLevelTitle": "County",
+    "adminUnitLocalTitle": null
+}{
+    "countryISO": "UKR",
+    "adminUnitLevelNumber": 0
+}{
+    "countryISO": "UKR",
+    "adminUnitLevelNumber": 1,
+    "adminUnitLevelTitle": "Country",
+    "adminUnitLocalTitle": null
+}{
+    "countryISO": "UKR",
+    "adminUnitLevelNumber": 2,
+    "adminUnitLevelTitle": "State",
+    "adminUnitLocalTitle": "Oblast"
+}{
+    "countryISO": "UKR",
+    "adminUnitLevelNumber": 3,
+    "adminUnitLevelTitle": "District",
+    "adminUnitLocalTitle": "Raion"
+}{
+    "countryISO": "UKR",
+    "adminUnitLevelNumber": 4,
+    "adminUnitLevelTitle": "Soviet Region",
+    "adminUnitLocalTitle": null
+}{
+    "countryISO": "UKR",
+    "adminUnitLevelNumber": 0
+}{
+    "countryISO": "UKR",
+    "adminUnitLevelNumber": 1,
+    "adminUnitLevelTitle": "Country",
+    "adminUnitLocalTitle": null
+}{
+    "countryISO": "UKR",
+    "adminUnitLevelNumber": 2,
+    "adminUnitLevelTitle": "State",
+    "adminUnitLocalTitle": "Oblast"
+}{
+    "countryISO": "UKR",
+    "adminUnitLevelNumber": 3,
+    "adminUnitLevelTitle": "District",
+    "adminUnitLocalTitle": "Raion"
+}{
+    "countryISO": "UKR",
+    "adminUnitLevelNumber": 4,
+    "adminUnitLevelTitle": "Soviet Region",
+    "adminUnitLocalTitle": null
+}{
+    "countryISO": "UKR",
+    "adminUnitLevelNumber": 0
+}{
+    "countryISO": "UKR",
+    "adminUnitLevelNumber": 1,
+    "adminUnitLevelTitle": "Country",
+    "adminUnitLocalTitle": null
+}{
+    "countryISO": "UKR",
+    "adminUnitLevelNumber": 2,
+    "adminUnitLevelTitle": "State",
+    "adminUnitLocalTitle": "Oblast"
+}{
+    "countryISO": "UKR",
+    "adminUnitLevelNumber": 3,
+    "adminUnitLevelTitle": "District",
+    "adminUnitLocalTitle": "Raion"
+}{
+    "countryISO": "UKR",
+    "adminUnitLevelNumber": 4,
+    "adminUnitLevelTitle": "Soviet Region",
+    "adminUnitLocalTitle": null
+}{
+    "countryISO": "UKR",
+    "adminUnitLevelNumber": 0
+}{
+    "countryISO": "UKR",
+    "adminUnitLevelNumber": 1,
+    "adminUnitLevelTitle": "Country",
+    "adminUnitLocalTitle": null
+}{
+    "countryISO": "UKR",
+    "adminUnitLevelNumber": 2,
+    "adminUnitLevelTitle": "State",
+    "adminUnitLocalTitle": "Oblast"
+}{
+    "countryISO": "UKR",
+    "adminUnitLevelNumber": 3,
+    "adminUnitLevelTitle": "District",
+    "adminUnitLocalTitle": "Raion"
+}{
+    "countryISO": "UKR",
+    "adminUnitLevelNumber": 4,
+    "adminUnitLevelTitle": "Soviet Region",
+    "adminUnitLocalTitle": null
+}{
+    "countryISO": "UKR",
+    "adminUnitLevelNumber": 0
+}{
+    "countryISO": "UKR",
+    "adminUnitLevelNumber": 1,
+    "adminUnitLevelTitle": "Country",
+    "adminUnitLocalTitle": null
+}{
+    "countryISO": "UKR",
+    "adminUnitLevelNumber": 2,
+    "adminUnitLevelTitle": "State",
+    "adminUnitLocalTitle": "Oblast"
+}{
+    "countryISO": "UKR",
+    "adminUnitLevelNumber": 3,
+    "adminUnitLevelTitle": "District",
+    "adminUnitLocalTitle": "Raion"
+}{
+    "countryISO": "UKR",
+    "adminUnitLevelNumber": 4,
+    "adminUnitLevelTitle": "Soviet Region",
+    "adminUnitLocalTitle": null
+}{
+    "countryISO": "UKR",
+    "adminUnitLevelNumber": 0
+}{
+    "countryISO": "UKR",
+    "adminUnitLevelNumber": 1,
+    "adminUnitLevelTitle": "Country",
+    "adminUnitLocalTitle": null
+}{
+    "countryISO": "UKR",
+    "adminUnitLevelNumber": 2,
+    "adminUnitLevelTitle": "State",
+    "adminUnitLocalTitle": "Oblast"
+}{
+    "countryISO": "UKR",
+    "adminUnitLevelNumber": 3,
+    "adminUnitLevelTitle": "District",
+    "adminUnitLocalTitle": "Raion"
+}{
+    "countryISO": "UKR",
+    "adminUnitLevelNumber": 4,
+    "adminUnitLevelTitle": "Soviet Region",
+    "adminUnitLocalTitle": null
+}{
+    "countryISO": "VEN",
+    "adminUnitLevelNumber": 0
+}{
+    "countryISO": "VEN",
+    "adminUnitLevelNumber": 1,
+    "adminUnitLevelTitle": "Country",
+    "adminUnitLocalTitle": "Pa\u00eds"
+}{
+    "countryISO": "VEN",
+    "adminUnitLevelNumber": 2,
+    "adminUnitLevelTitle": "State, Capital District, Federal Dependency",
+    "adminUnitLocalTitle": "Estado, Distrito Capital, Dependencia Federal"
+}{
+    "countryISO": "VEN",
+    "adminUnitLevelNumber": 3,
+    "adminUnitLevelTitle": "Municipality",
+    "adminUnitLocalTitle": "Municipio"
+}{
+    "countryISO": "VNM",
+    "adminUnitLevelNumber": 0
+}{
+    "countryISO": "VNM",
+    "adminUnitLevelNumber": 1,
+    "adminUnitLevelTitle": "Country",
+    "adminUnitLocalTitle": "Qu\u1ed1c gia"
+}{
+    "countryISO": "VNM",
+    "adminUnitLevelNumber": 2,
+    "adminUnitLevelTitle": "Province",
+    "adminUnitLocalTitle": "T\u1ec9nh"
+}{
+    "countryISO": "VNM",
+    "adminUnitLevelNumber": 0
+}{
+    "countryISO": "VNM",
+    "adminUnitLevelNumber": 1,
+    "adminUnitLevelTitle": "Country",
+    "adminUnitLocalTitle": "Qu\u1ed1c gia"
+}{
+    "countryISO": "VNM",
+    "adminUnitLevelNumber": 2,
+    "adminUnitLevelTitle": "Province",
+    "adminUnitLocalTitle": "T\u1ec9nh"
+}{
+    "countryISO": "VUT",
+    "adminUnitLevelNumber": 0
+}{
+    "countryISO": "VUT",
+    "adminUnitLevelNumber": 1,
+    "adminUnitLevelTitle": "Country",
+    "adminUnitLocalTitle": "Country"
+}{
+    "countryISO": "VUT",
+    "adminUnitLevelNumber": 2,
+    "adminUnitLevelTitle": "Province",
+    "adminUnitLocalTitle": "Province"
+}{
+    "countryISO": "YEM",
+    "adminUnitLevelNumber": 0
+}{
+    "countryISO": "YEM",
+    "adminUnitLevelNumber": 1,
+    "adminUnitLevelTitle": "Country",
+    "adminUnitLocalTitle": " "
+}{
+    "countryISO": "YEM",
+    "adminUnitLevelNumber": 2,
+    "adminUnitLevelTitle": "Governorate",
+    "adminUnitLocalTitle": "Mohafadha"
+}{
+    "countryISO": "YEM",
+    "adminUnitLevelNumber": 3,
+    "adminUnitLevelTitle": "District",
+    "adminUnitLocalTitle": "Modeeriyyah"
+}{
+    "countryISO": "YEM",
+    "adminUnitLevelNumber": 0
+}{
+    "countryISO": "YEM",
+    "adminUnitLevelNumber": 1,
+    "adminUnitLevelTitle": "Country",
+    "adminUnitLocalTitle": " "
+}{
+    "countryISO": "YEM",
+    "adminUnitLevelNumber": 2,
+    "adminUnitLevelTitle": "Governorate",
+    "adminUnitLocalTitle": "Mohafadha"
+}{
+    "countryISO": "YEM",
+    "adminUnitLevelNumber": 3,
+    "adminUnitLevelTitle": "District",
+    "adminUnitLocalTitle": "Modeeriyyah"
+}{
+    "countryISO": "ZAF",
+    "adminUnitLevelNumber": 0
+}{
+    "countryISO": "ZAF",
+    "adminUnitLevelNumber": 1,
+    "adminUnitLevelTitle": "Country",
+    "adminUnitLocalTitle": null
+}{
+    "countryISO": "ZAF",
+    "adminUnitLevelNumber": 2,
+    "adminUnitLevelTitle": "Province",
+    "adminUnitLocalTitle": null
+}{
+    "countryISO": "ZAF",
+    "adminUnitLevelNumber": 3,
+    "adminUnitLevelTitle": "District",
+    "adminUnitLocalTitle": null
+}{
+    "countryISO": "ZAF",
+    "adminUnitLevelNumber": 4,
+    "adminUnitLevelTitle": "Local Municipality",
+    "adminUnitLocalTitle": null
+}{
+    "countryISO": "ZMB",
+    "adminUnitLevelNumber": 0
+}{
+    "countryISO": "ZMB",
+    "adminUnitLevelNumber": 1,
+    "adminUnitLevelTitle": "Country",
+    "adminUnitLocalTitle": null
+}{
+    "countryISO": "ZMB",
+    "adminUnitLevelNumber": 2,
+    "adminUnitLevelTitle": "Province",
+    "adminUnitLocalTitle": null
+}{
+    "countryISO": "ZWE",
+    "adminUnitLevelNumber": 0
+}{
+    "countryISO": "ZWE",
+    "adminUnitLevelNumber": 1,
+    "adminUnitLevelTitle": "Country",
+    "adminUnitLocalTitle": "Country"
+}{
+    "countryISO": "ZWE",
+    "adminUnitLevelNumber": 2,
+    "adminUnitLevelTitle": "Province",
+    "adminUnitLocalTitle": "Province"
+}{
+    "countryISO": "ZWE",
+    "adminUnitLevelNumber": 3,
+    "adminUnitLevelTitle": "District",
+    "adminUnitLocalTitle": "District"
+}

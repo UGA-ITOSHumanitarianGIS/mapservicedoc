@@ -34,7 +34,7 @@ def downloadCODs(codMeta, destination = None):
                 print('Destination:',path)
                 
 def main(enhancedCODPath, destination=None):
-    
+    print ("running")
     with open(enhancedCODPath,'r') as fp:
         codData = json.load(fp)
     

@@ -140,7 +140,7 @@ def getCODData(tags, themeList):
     for dataset in tagDatasets:
         theme = getTheme(themeList,dataset)
         
-        keyCheck = ['due_date','caveats','license_other','methodology_other']
+        keyCheck = ['due_date','caveats','license_other','methodology_other','contributor']
         for key in keyCheck:
             if key not in dataset:
                 dataset[key] = None
@@ -148,7 +148,7 @@ def getCODData(tags, themeList):
         isoCodes = getISOCode(dataset['groups'])
         title = dataset['title'].lower()
         
-        if (title.__contains__('subnational population statistics')):
+        if (title.__contains__('subnational')):
             if dataset['is_requestdata_type']:
                 dataDict = {'title': dataset['title'],
                         'id': dataset['id'],
@@ -160,6 +160,7 @@ def getCODData(tags, themeList):
                         'location': json.loads(dataset['solr_additions'])['countries'],
                         'datasetSource': dataset['dataset_source'],
                         'organization': dataset['organization']['title'],
+                        'contributor' : dataset['contributor'],
                         'datasetDate': dataset['dataset_date'],
                         'updateFrequency':dataset['data_update_frequency'],
                         'last_modified':dataset['last_modified'],
@@ -185,6 +186,7 @@ def getCODData(tags, themeList):
                         'location': json.loads(dataset['solr_additions'])['countries'],
                         'datasetSource': dataset['dataset_source'],
                         'organization': dataset['organization']['title'],
+                        'contributor' : dataset['contributor'],
                         'datasetDate': dataset['dataset_date'],
                         'updateFrequency':dataset['data_update_frequency'],
                         'last_modified':dataset['last_modified'],
@@ -197,7 +199,8 @@ def getCODData(tags, themeList):
                         'is_requestdata_type':dataset['is_requestdata_type'],
                         'format':{}
             }
-            resources = Dataset.get_all_resources([dataset])
+            #resources = Dataset.get_all_resources([dataset])
+            resources = dataset.get_resources()
             
             for res in resources:
                 restype = {res['format']:{'resource_id':res['id'],
@@ -257,4 +260,4 @@ def main(tags, themeList, fileName = None):
     fileName = fileValidation(fileName)
     saveJSON(codData, fileName)
 
-main('common operational dataset - cod', "['population statistics']")
+main('common operational dataset - cod', "['administrative divisions']")

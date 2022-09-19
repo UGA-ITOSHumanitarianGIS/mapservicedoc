@@ -63,7 +63,7 @@ def itosMapServises():
                 else:
                     adminFetAttribute = adminData['features'][0]['attributes']
                     adminNameList = [(key, value) for key, value in adminFetAttribute.items() if key.startswith(admin+'Name')]
-
+                    log(adminNameList)
                     for adminName in adminNameList:
                         if adminName[0].endswith('en'):
                             if adminName[0].startswith('admin0'):

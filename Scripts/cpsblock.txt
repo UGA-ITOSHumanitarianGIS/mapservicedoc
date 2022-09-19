@@ -1,0 +1,686 @@
+   if (iso3Rec.ToLower() == "gtm")
+   {
+		CODV2API.Handlers.CountryModels_PopStats.gtm gtmHelper = new Handlers.CountryModels_PopStats.gtm(iso3Rec, level);
+
+		return Json(gtmHelper.popstats(iso3Rec, level));
+		
+	}if (iso3Rec.ToLower() == "_ad")
+{
+	CODV2API.Handlers.CountryModels_PopStats._ad _adHelper = new Handlers.CountryModels_PopStats._ad(iso3Rec, level);
+	var o = Json(_adHelper.popstats(iso3Rec, level));
+	if ((o.Content is null))
+		return Content(HttpStatusCode.NotImplemented, "This result for parameters " + level + ", " + iso3Rec + " is unavailable at this time.");
+	return o;
+}
+if (iso3Rec.ToLower() == "alb")
+{
+	CODV2API.Handlers.CountryModels_PopStats.alb albHelper = new Handlers.CountryModels_PopStats.alb(iso3Rec, level);
+	var o = Json(albHelper.popstats(iso3Rec, level));
+	if ((o.Content is null))
+		return Content(HttpStatusCode.NotImplemented, "This result for parameters " + level + ", " + iso3Rec + " is unavailable at this time.");
+	return o;
+}
+if (iso3Rec.ToLower() == "arg")
+{
+	CODV2API.Handlers.CountryModels_PopStats.arg argHelper = new Handlers.CountryModels_PopStats.arg(iso3Rec, level);
+	var o = Json(argHelper.popstats(iso3Rec, level));
+	if ((o.Content is null))
+		return Content(HttpStatusCode.NotImplemented, "This result for parameters " + level + ", " + iso3Rec + " is unavailable at this time.");
+	return o;
+}
+if (iso3Rec.ToLower() == "arm")
+{
+	CODV2API.Handlers.CountryModels_PopStats.arm armHelper = new Handlers.CountryModels_PopStats.arm(iso3Rec, level);
+	var o = Json(armHelper.popstats(iso3Rec, level));
+	if ((o.Content is null))
+		return Content(HttpStatusCode.NotImplemented, "This result for parameters " + level + ", " + iso3Rec + " is unavailable at this time.");
+	return o;
+}
+if (iso3Rec.ToLower() == "bdi")
+{
+	CODV2API.Handlers.CountryModels_PopStats.bdi bdiHelper = new Handlers.CountryModels_PopStats.bdi(iso3Rec, level);
+	var o = Json(bdiHelper.popstats(iso3Rec, level));
+	if ((o.Content is null))
+		return Content(HttpStatusCode.NotImplemented, "This result for parameters " + level + ", " + iso3Rec + " is unavailable at this time.");
+	return o;
+}
+if (iso3Rec.ToLower() == "ben")
+{
+	CODV2API.Handlers.CountryModels_PopStats.ben benHelper = new Handlers.CountryModels_PopStats.ben(iso3Rec, level);
+	var o = Json(benHelper.popstats(iso3Rec, level));
+	if ((o.Content is null))
+		return Content(HttpStatusCode.NotImplemented, "This result for parameters " + level + ", " + iso3Rec + " is unavailable at this time.");
+	return o;
+}
+if (iso3Rec.ToLower() == "bgd")
+{
+	CODV2API.Handlers.CountryModels_PopStats.bgd bgdHelper = new Handlers.CountryModels_PopStats.bgd(iso3Rec, level);
+	var o = Json(bgdHelper.popstats(iso3Rec, level));
+	if ((o.Content is null))
+		return Content(HttpStatusCode.NotImplemented, "This result for parameters " + level + ", " + iso3Rec + " is unavailable at this time.");
+	return o;
+}
+if (iso3Rec.ToLower() == "blm")
+{
+	CODV2API.Handlers.CountryModels_PopStats.blm blmHelper = new Handlers.CountryModels_PopStats.blm(iso3Rec, level);
+	var o = Json(blmHelper.popstats(iso3Rec, level));
+	if ((o.Content is null))
+		return Content(HttpStatusCode.NotImplemented, "This result for parameters " + level + ", " + iso3Rec + " is unavailable at this time.");
+	return o;
+}
+if (iso3Rec.ToLower() == "bmu")
+{
+	CODV2API.Handlers.CountryModels_PopStats.bmu bmuHelper = new Handlers.CountryModels_PopStats.bmu(iso3Rec, level);
+	var o = Json(bmuHelper.popstats(iso3Rec, level));
+	if ((o.Content is null))
+		return Content(HttpStatusCode.NotImplemented, "This result for parameters " + level + ", " + iso3Rec + " is unavailable at this time.");
+	return o;
+}
+if (iso3Rec.ToLower() == "bol")
+{
+	CODV2API.Handlers.CountryModels_PopStats.bol bolHelper = new Handlers.CountryModels_PopStats.bol(iso3Rec, level);
+	var o = Json(bolHelper.popstats(iso3Rec, level));
+	if ((o.Content is null))
+		return Content(HttpStatusCode.NotImplemented, "This result for parameters " + level + ", " + iso3Rec + " is unavailable at this time.");
+	return o;
+}
+if (iso3Rec.ToLower() == "bra")
+{
+	CODV2API.Handlers.CountryModels_PopStats.bra braHelper = new Handlers.CountryModels_PopStats.bra(iso3Rec, level);
+	var o = Json(braHelper.popstats(iso3Rec, level));
+	if ((o.Content is null))
+		return Content(HttpStatusCode.NotImplemented, "This result for parameters " + level + ", " + iso3Rec + " is unavailable at this time.");
+	return o;
+}
+if (iso3Rec.ToLower() == "brb")
+{
+	CODV2API.Handlers.CountryModels_PopStats.brb brbHelper = new Handlers.CountryModels_PopStats.brb(iso3Rec, level);
+	var o = Json(brbHelper.popstats(iso3Rec, level));
+	if ((o.Content is null))
+		return Content(HttpStatusCode.NotImplemented, "This result for parameters " + level + ", " + iso3Rec + " is unavailable at this time.");
+	return o;
+}
+if (iso3Rec.ToLower() == "btn")
+{
+	CODV2API.Handlers.CountryModels_PopStats.btn btnHelper = new Handlers.CountryModels_PopStats.btn(iso3Rec, level);
+	var o = Json(btnHelper.popstats(iso3Rec, level));
+	if ((o.Content is null))
+		return Content(HttpStatusCode.NotImplemented, "This result for parameters " + level + ", " + iso3Rec + " is unavailable at this time.");
+	return o;
+}
+if (iso3Rec.ToLower() == "bwa")
+{
+	CODV2API.Handlers.CountryModels_PopStats.bwa bwaHelper = new Handlers.CountryModels_PopStats.bwa(iso3Rec, level);
+	var o = Json(bwaHelper.popstats(iso3Rec, level));
+	if ((o.Content is null))
+		return Content(HttpStatusCode.NotImplemented, "This result for parameters " + level + ", " + iso3Rec + " is unavailable at this time.");
+	return o;
+}
+if (iso3Rec.ToLower() == "chl")
+{
+	CODV2API.Handlers.CountryModels_PopStats.chl chlHelper = new Handlers.CountryModels_PopStats.chl(iso3Rec, level);
+	var o = Json(chlHelper.popstats(iso3Rec, level));
+	if ((o.Content is null))
+		return Content(HttpStatusCode.NotImplemented, "This result for parameters " + level + ", " + iso3Rec + " is unavailable at this time.");
+	return o;
+}
+if (iso3Rec.ToLower() == "col")
+{
+	CODV2API.Handlers.CountryModels_PopStats.col colHelper = new Handlers.CountryModels_PopStats.col(iso3Rec, level);
+	var o = Json(colHelper.popstats(iso3Rec, level));
+	if ((o.Content is null))
+		return Content(HttpStatusCode.NotImplemented, "This result for parameters " + level + ", " + iso3Rec + " is unavailable at this time.");
+	return o;
+}
+if (iso3Rec.ToLower() == "com")
+{
+	CODV2API.Handlers.CountryModels_PopStats.com comHelper = new Handlers.CountryModels_PopStats.com(iso3Rec, level);
+	var o = Json(comHelper.popstats(iso3Rec, level));
+	if ((o.Content is null))
+		return Content(HttpStatusCode.NotImplemented, "This result for parameters " + level + ", " + iso3Rec + " is unavailable at this time.");
+	return o;
+}
+if (iso3Rec.ToLower() == "cpv")
+{
+	CODV2API.Handlers.CountryModels_PopStats.cpv cpvHelper = new Handlers.CountryModels_PopStats.cpv(iso3Rec, level);
+	var o = Json(cpvHelper.popstats(iso3Rec, level));
+	if ((o.Content is null))
+		return Content(HttpStatusCode.NotImplemented, "This result for parameters " + level + ", " + iso3Rec + " is unavailable at this time.");
+	return o;
+}
+if (iso3Rec.ToLower() == "cri")
+{
+	CODV2API.Handlers.CountryModels_PopStats.cri criHelper = new Handlers.CountryModels_PopStats.cri(iso3Rec, level);
+	var o = Json(criHelper.popstats(iso3Rec, level));
+	if ((o.Content is null))
+		return Content(HttpStatusCode.NotImplemented, "This result for parameters " + level + ", " + iso3Rec + " is unavailable at this time.");
+	return o;
+}
+if (iso3Rec.ToLower() == "cub")
+{
+	CODV2API.Handlers.CountryModels_PopStats.cub cubHelper = new Handlers.CountryModels_PopStats.cub(iso3Rec, level);
+	var o = Json(cubHelper.popstats(iso3Rec, level));
+	if ((o.Content is null))
+		return Content(HttpStatusCode.NotImplemented, "This result for parameters " + level + ", " + iso3Rec + " is unavailable at this time.");
+	return o;
+}
+if (iso3Rec.ToLower() == "cym")
+{
+	CODV2API.Handlers.CountryModels_PopStats.cym cymHelper = new Handlers.CountryModels_PopStats.cym(iso3Rec, level);
+	var o = Json(cymHelper.popstats(iso3Rec, level));
+	if ((o.Content is null))
+		return Content(HttpStatusCode.NotImplemented, "This result for parameters " + level + ", " + iso3Rec + " is unavailable at this time.");
+	return o;
+}
+if (iso3Rec.ToLower() == "dmn")
+{
+	CODV2API.Handlers.CountryModels_PopStats.dmn dmnHelper = new Handlers.CountryModels_PopStats.dmn(iso3Rec, level);
+	var o = Json(dmnHelper.popstats(iso3Rec, level));
+	if ((o.Content is null))
+		return Content(HttpStatusCode.NotImplemented, "This result for parameters " + level + ", " + iso3Rec + " is unavailable at this time.");
+	return o;
+}
+if (iso3Rec.ToLower() == "dom")
+{
+	CODV2API.Handlers.CountryModels_PopStats.dom domHelper = new Handlers.CountryModels_PopStats.dom(iso3Rec, level);
+	var o = Json(domHelper.popstats(iso3Rec, level));
+	if ((o.Content is null))
+		return Content(HttpStatusCode.NotImplemented, "This result for parameters " + level + ", " + iso3Rec + " is unavailable at this time.");
+	return o;
+}
+if (iso3Rec.ToLower() == "ecu")
+{
+	CODV2API.Handlers.CountryModels_PopStats.ecu ecuHelper = new Handlers.CountryModels_PopStats.ecu(iso3Rec, level);
+	var o = Json(ecuHelper.popstats(iso3Rec, level));
+	if ((o.Content is null))
+		return Content(HttpStatusCode.NotImplemented, "This result for parameters " + level + ", " + iso3Rec + " is unavailable at this time.");
+	return o;
+}
+if (iso3Rec.ToLower() == "fji")
+{
+	CODV2API.Handlers.CountryModels_PopStats.fji fjiHelper = new Handlers.CountryModels_PopStats.fji(iso3Rec, level);
+	var o = Json(fjiHelper.popstats(iso3Rec, level));
+	if ((o.Content is null))
+		return Content(HttpStatusCode.NotImplemented, "This result for parameters " + level + ", " + iso3Rec + " is unavailable at this time.");
+	return o;
+}
+if (iso3Rec.ToLower() == "fsm")
+{
+	CODV2API.Handlers.CountryModels_PopStats.fsm fsmHelper = new Handlers.CountryModels_PopStats.fsm(iso3Rec, level);
+	var o = Json(fsmHelper.popstats(iso3Rec, level));
+	if ((o.Content is null))
+		return Content(HttpStatusCode.NotImplemented, "This result for parameters " + level + ", " + iso3Rec + " is unavailable at this time.");
+	return o;
+}
+if (iso3Rec.ToLower() == "geo")
+{
+	CODV2API.Handlers.CountryModels_PopStats.geo geoHelper = new Handlers.CountryModels_PopStats.geo(iso3Rec, level);
+	var o = Json(geoHelper.popstats(iso3Rec, level));
+	if ((o.Content is null))
+		return Content(HttpStatusCode.NotImplemented, "This result for parameters " + level + ", " + iso3Rec + " is unavailable at this time.");
+	return o;
+}
+if (iso3Rec.ToLower() == "gha")
+{
+	CODV2API.Handlers.CountryModels_PopStats.gha ghaHelper = new Handlers.CountryModels_PopStats.gha(iso3Rec, level);
+	var o = Json(ghaHelper.popstats(iso3Rec, level));
+	if ((o.Content is null))
+		return Content(HttpStatusCode.NotImplemented, "This result for parameters " + level + ", " + iso3Rec + " is unavailable at this time.");
+	return o;
+}
+if (iso3Rec.ToLower() == "glp")
+{
+	CODV2API.Handlers.CountryModels_PopStats.glp glpHelper = new Handlers.CountryModels_PopStats.glp(iso3Rec, level);
+	var o = Json(glpHelper.popstats(iso3Rec, level));
+	if ((o.Content is null))
+		return Content(HttpStatusCode.NotImplemented, "This result for parameters " + level + ", " + iso3Rec + " is unavailable at this time.");
+	return o;
+}
+if (iso3Rec.ToLower() == "gmb")
+{
+	CODV2API.Handlers.CountryModels_PopStats.gmb gmbHelper = new Handlers.CountryModels_PopStats.gmb(iso3Rec, level);
+	var o = Json(gmbHelper.popstats(iso3Rec, level));
+	if ((o.Content is null))
+		return Content(HttpStatusCode.NotImplemented, "This result for parameters " + level + ", " + iso3Rec + " is unavailable at this time.");
+	return o;
+}
+if (iso3Rec.ToLower() == "grd")
+{
+	CODV2API.Handlers.CountryModels_PopStats.grd grdHelper = new Handlers.CountryModels_PopStats.grd(iso3Rec, level);
+	var o = Json(grdHelper.popstats(iso3Rec, level));
+	if ((o.Content is null))
+		return Content(HttpStatusCode.NotImplemented, "This result for parameters " + level + ", " + iso3Rec + " is unavailable at this time.");
+	return o;
+}
+if (iso3Rec.ToLower() == "gtm")
+{
+	CODV2API.Handlers.CountryModels_PopStats.gtm gtmHelper = new Handlers.CountryModels_PopStats.gtm(iso3Rec, level);
+	var o = Json(gtmHelper.popstats(iso3Rec, level));
+	if ((o.Content is null))
+		return Content(HttpStatusCode.NotImplemented, "This result for parameters " + level + ", " + iso3Rec + " is unavailable at this time.");
+	return o;
+}
+if (iso3Rec.ToLower() == "hun")
+{
+	CODV2API.Handlers.CountryModels_PopStats.hun hunHelper = new Handlers.CountryModels_PopStats.hun(iso3Rec, level);
+	var o = Json(hunHelper.popstats(iso3Rec, level));
+	if ((o.Content is null))
+		return Content(HttpStatusCode.NotImplemented, "This result for parameters " + level + ", " + iso3Rec + " is unavailable at this time.");
+	return o;
+}
+if (iso3Rec.ToLower() == "irn")
+{
+	CODV2API.Handlers.CountryModels_PopStats.irn irnHelper = new Handlers.CountryModels_PopStats.irn(iso3Rec, level);
+	var o = Json(irnHelper.popstats(iso3Rec, level));
+	if ((o.Content is null))
+		return Content(HttpStatusCode.NotImplemented, "This result for parameters " + level + ", " + iso3Rec + " is unavailable at this time.");
+	return o;
+}
+if (iso3Rec.ToLower() == "jam")
+{
+	CODV2API.Handlers.CountryModels_PopStats.jam jamHelper = new Handlers.CountryModels_PopStats.jam(iso3Rec, level);
+	var o = Json(jamHelper.popstats(iso3Rec, level));
+	if ((o.Content is null))
+		return Content(HttpStatusCode.NotImplemented, "This result for parameters " + level + ", " + iso3Rec + " is unavailable at this time.");
+	return o;
+}
+if (iso3Rec.ToLower() == "kaz")
+{
+	CODV2API.Handlers.CountryModels_PopStats.kaz kazHelper = new Handlers.CountryModels_PopStats.kaz(iso3Rec, level);
+	var o = Json(kazHelper.popstats(iso3Rec, level));
+	if ((o.Content is null))
+		return Content(HttpStatusCode.NotImplemented, "This result for parameters " + level + ", " + iso3Rec + " is unavailable at this time.");
+	return o;
+}
+if (iso3Rec.ToLower() == "khm")
+{
+	CODV2API.Handlers.CountryModels_PopStats.khm khmHelper = new Handlers.CountryModels_PopStats.khm(iso3Rec, level);
+	var o = Json(khmHelper.popstats(iso3Rec, level));
+	if ((o.Content is null))
+		return Content(HttpStatusCode.NotImplemented, "This result for parameters " + level + ", " + iso3Rec + " is unavailable at this time.");
+	return o;
+}
+if (iso3Rec.ToLower() == "lao")
+{
+	CODV2API.Handlers.CountryModels_PopStats.lao laoHelper = new Handlers.CountryModels_PopStats.lao(iso3Rec, level);
+	var o = Json(laoHelper.popstats(iso3Rec, level));
+	if ((o.Content is null))
+		return Content(HttpStatusCode.NotImplemented, "This result for parameters " + level + ", " + iso3Rec + " is unavailable at this time.");
+	return o;
+}
+if (iso3Rec.ToLower() == "lca")
+{
+	CODV2API.Handlers.CountryModels_PopStats.lca lcaHelper = new Handlers.CountryModels_PopStats.lca(iso3Rec, level);
+	var o = Json(lcaHelper.popstats(iso3Rec, level));
+	if ((o.Content is null))
+		return Content(HttpStatusCode.NotImplemented, "This result for parameters " + level + ", " + iso3Rec + " is unavailable at this time.");
+	return o;
+}
+if (iso3Rec.ToLower() == "lka")
+{
+	CODV2API.Handlers.CountryModels_PopStats.lka lkaHelper = new Handlers.CountryModels_PopStats.lka(iso3Rec, level);
+	var o = Json(lkaHelper.popstats(iso3Rec, level));
+	if ((o.Content is null))
+		return Content(HttpStatusCode.NotImplemented, "This result for parameters " + level + ", " + iso3Rec + " is unavailable at this time.");
+	return o;
+}
+if (iso3Rec.ToLower() == "lka")
+{
+	CODV2API.Handlers.CountryModels_PopStats.lka lkaHelper = new Handlers.CountryModels_PopStats.lka(iso3Rec, level);
+	var o = Json(lkaHelper.popstats(iso3Rec, level));
+	if ((o.Content is null))
+		return Content(HttpStatusCode.NotImplemented, "This result for parameters " + level + ", " + iso3Rec + " is unavailable at this time.");
+	return o;
+}
+if (iso3Rec.ToLower() == "lso")
+{
+	CODV2API.Handlers.CountryModels_PopStats.lso lsoHelper = new Handlers.CountryModels_PopStats.lso(iso3Rec, level);
+	var o = Json(lsoHelper.popstats(iso3Rec, level));
+	if ((o.Content is null))
+		return Content(HttpStatusCode.NotImplemented, "This result for parameters " + level + ", " + iso3Rec + " is unavailable at this time.");
+	return o;
+}
+if (iso3Rec.ToLower() == "maf")
+{
+	CODV2API.Handlers.CountryModels_PopStats.maf mafHelper = new Handlers.CountryModels_PopStats.maf(iso3Rec, level);
+	var o = Json(mafHelper.popstats(iso3Rec, level));
+	if ((o.Content is null))
+		return Content(HttpStatusCode.NotImplemented, "This result for parameters " + level + ", " + iso3Rec + " is unavailable at this time.");
+	return o;
+}
+if (iso3Rec.ToLower() == "mdg")
+{
+	CODV2API.Handlers.CountryModels_PopStats.mdg mdgHelper = new Handlers.CountryModels_PopStats.mdg(iso3Rec, level);
+	var o = Json(mdgHelper.popstats(iso3Rec, level));
+	if ((o.Content is null))
+		return Content(HttpStatusCode.NotImplemented, "This result for parameters " + level + ", " + iso3Rec + " is unavailable at this time.");
+	return o;
+}
+if (iso3Rec.ToLower() == "mhl")
+{
+	CODV2API.Handlers.CountryModels_PopStats.mhl mhlHelper = new Handlers.CountryModels_PopStats.mhl(iso3Rec, level);
+	var o = Json(mhlHelper.popstats(iso3Rec, level));
+	if ((o.Content is null))
+		return Content(HttpStatusCode.NotImplemented, "This result for parameters " + level + ", " + iso3Rec + " is unavailable at this time.");
+	return o;
+}
+if (iso3Rec.ToLower() == "mli")
+{
+	CODV2API.Handlers.CountryModels_PopStats.mli mliHelper = new Handlers.CountryModels_PopStats.mli(iso3Rec, level);
+	var o = Json(mliHelper.popstats(iso3Rec, level));
+	if ((o.Content is null))
+		return Content(HttpStatusCode.NotImplemented, "This result for parameters " + level + ", " + iso3Rec + " is unavailable at this time.");
+	return o;
+}
+if (iso3Rec.ToLower() == "mng")
+{
+	CODV2API.Handlers.CountryModels_PopStats.mng mngHelper = new Handlers.CountryModels_PopStats.mng(iso3Rec, level);
+	var o = Json(mngHelper.popstats(iso3Rec, level));
+	if ((o.Content is null))
+		return Content(HttpStatusCode.NotImplemented, "This result for parameters " + level + ", " + iso3Rec + " is unavailable at this time.");
+	return o;
+}
+if (iso3Rec.ToLower() == "msr")
+{
+	CODV2API.Handlers.CountryModels_PopStats.msr msrHelper = new Handlers.CountryModels_PopStats.msr(iso3Rec, level);
+	var o = Json(msrHelper.popstats(iso3Rec, level));
+	if ((o.Content is null))
+		return Content(HttpStatusCode.NotImplemented, "This result for parameters " + level + ", " + iso3Rec + " is unavailable at this time.");
+	return o;
+}
+if (iso3Rec.ToLower() == "mwi")
+{
+	CODV2API.Handlers.CountryModels_PopStats.mwi mwiHelper = new Handlers.CountryModels_PopStats.mwi(iso3Rec, level);
+	var o = Json(mwiHelper.popstats(iso3Rec, level));
+	if ((o.Content is null))
+		return Content(HttpStatusCode.NotImplemented, "This result for parameters " + level + ", " + iso3Rec + " is unavailable at this time.");
+	return o;
+}
+if (iso3Rec.ToLower() == "mys")
+{
+	CODV2API.Handlers.CountryModels_PopStats.mys mysHelper = new Handlers.CountryModels_PopStats.mys(iso3Rec, level);
+	var o = Json(mysHelper.popstats(iso3Rec, level));
+	if ((o.Content is null))
+		return Content(HttpStatusCode.NotImplemented, "This result for parameters " + level + ", " + iso3Rec + " is unavailable at this time.");
+	return o;
+}
+if (iso3Rec.ToLower() == "nam")
+{
+	CODV2API.Handlers.CountryModels_PopStats.nam namHelper = new Handlers.CountryModels_PopStats.nam(iso3Rec, level);
+	var o = Json(namHelper.popstats(iso3Rec, level));
+	if ((o.Content is null))
+		return Content(HttpStatusCode.NotImplemented, "This result for parameters " + level + ", " + iso3Rec + " is unavailable at this time.");
+	return o;
+}
+if (iso3Rec.ToLower() == "nga")
+{
+	CODV2API.Handlers.CountryModels_PopStats.nga ngaHelper = new Handlers.CountryModels_PopStats.nga(iso3Rec, level);
+	var o = Json(ngaHelper.popstats(iso3Rec, level));
+	if ((o.Content is null))
+		return Content(HttpStatusCode.NotImplemented, "This result for parameters " + level + ", " + iso3Rec + " is unavailable at this time.");
+	return o;
+}
+if (iso3Rec.ToLower() == "nic")
+{
+	CODV2API.Handlers.CountryModels_PopStats.nic nicHelper = new Handlers.CountryModels_PopStats.nic(iso3Rec, level);
+	var o = Json(nicHelper.popstats(iso3Rec, level));
+	if ((o.Content is null))
+		return Content(HttpStatusCode.NotImplemented, "This result for parameters " + level + ", " + iso3Rec + " is unavailable at this time.");
+	return o;
+}
+if (iso3Rec.ToLower() == "npl")
+{
+	CODV2API.Handlers.CountryModels_PopStats.npl nplHelper = new Handlers.CountryModels_PopStats.npl(iso3Rec, level);
+	var o = Json(nplHelper.popstats(iso3Rec, level));
+	if ((o.Content is null))
+		return Content(HttpStatusCode.NotImplemented, "This result for parameters " + level + ", " + iso3Rec + " is unavailable at this time.");
+	return o;
+}
+if (iso3Rec.ToLower() == "pak")
+{
+	CODV2API.Handlers.CountryModels_PopStats.pak pakHelper = new Handlers.CountryModels_PopStats.pak(iso3Rec, level);
+	var o = Json(pakHelper.popstats(iso3Rec, level));
+	if ((o.Content is null))
+		return Content(HttpStatusCode.NotImplemented, "This result for parameters " + level + ", " + iso3Rec + " is unavailable at this time.");
+	return o;
+}
+if (iso3Rec.ToLower() == "pan")
+{
+	CODV2API.Handlers.CountryModels_PopStats.pan panHelper = new Handlers.CountryModels_PopStats.pan(iso3Rec, level);
+	var o = Json(panHelper.popstats(iso3Rec, level));
+	if ((o.Content is null))
+		return Content(HttpStatusCode.NotImplemented, "This result for parameters " + level + ", " + iso3Rec + " is unavailable at this time.");
+	return o;
+}
+if (iso3Rec.ToLower() == "per")
+{
+	CODV2API.Handlers.CountryModels_PopStats.per perHelper = new Handlers.CountryModels_PopStats.per(iso3Rec, level);
+	var o = Json(perHelper.popstats(iso3Rec, level));
+	if ((o.Content is null))
+		return Content(HttpStatusCode.NotImplemented, "This result for parameters " + level + ", " + iso3Rec + " is unavailable at this time.");
+	return o;
+}
+if (iso3Rec.ToLower() == "png")
+{
+	CODV2API.Handlers.CountryModels_PopStats.png pngHelper = new Handlers.CountryModels_PopStats.png(iso3Rec, level);
+	var o = Json(pngHelper.popstats(iso3Rec, level));
+	if ((o.Content is null))
+		return Content(HttpStatusCode.NotImplemented, "This result for parameters " + level + ", " + iso3Rec + " is unavailable at this time.");
+	return o;
+}
+if (iso3Rec.ToLower() == "pol")
+{
+	CODV2API.Handlers.CountryModels_PopStats.pol polHelper = new Handlers.CountryModels_PopStats.pol(iso3Rec, level);
+	var o = Json(polHelper.popstats(iso3Rec, level));
+	if ((o.Content is null))
+		return Content(HttpStatusCode.NotImplemented, "This result for parameters " + level + ", " + iso3Rec + " is unavailable at this time.");
+	return o;
+}
+if (iso3Rec.ToLower() == "pri")
+{
+	CODV2API.Handlers.CountryModels_PopStats.pri priHelper = new Handlers.CountryModels_PopStats.pri(iso3Rec, level);
+	var o = Json(priHelper.popstats(iso3Rec, level));
+	if ((o.Content is null))
+		return Content(HttpStatusCode.NotImplemented, "This result for parameters " + level + ", " + iso3Rec + " is unavailable at this time.");
+	return o;
+}
+if (iso3Rec.ToLower() == "pse")
+{
+	CODV2API.Handlers.CountryModels_PopStats.pse pseHelper = new Handlers.CountryModels_PopStats.pse(iso3Rec, level);
+	var o = Json(pseHelper.popstats(iso3Rec, level));
+	if ((o.Content is null))
+		return Content(HttpStatusCode.NotImplemented, "This result for parameters " + level + ", " + iso3Rec + " is unavailable at this time.");
+	return o;
+}
+if (iso3Rec.ToLower() == "rou")
+{
+	CODV2API.Handlers.CountryModels_PopStats.rou rouHelper = new Handlers.CountryModels_PopStats.rou(iso3Rec, level);
+	var o = Json(rouHelper.popstats(iso3Rec, level));
+	if ((o.Content is null))
+		return Content(HttpStatusCode.NotImplemented, "This result for parameters " + level + ", " + iso3Rec + " is unavailable at this time.");
+	return o;
+}
+if (iso3Rec.ToLower() == "rwa")
+{
+	CODV2API.Handlers.CountryModels_PopStats.rwa rwaHelper = new Handlers.CountryModels_PopStats.rwa(iso3Rec, level);
+	var o = Json(rwaHelper.popstats(iso3Rec, level));
+	if ((o.Content is null))
+		return Content(HttpStatusCode.NotImplemented, "This result for parameters " + level + ", " + iso3Rec + " is unavailable at this time.");
+	return o;
+}
+if (iso3Rec.ToLower() == "sen")
+{
+	CODV2API.Handlers.CountryModels_PopStats.sen senHelper = new Handlers.CountryModels_PopStats.sen(iso3Rec, level);
+	var o = Json(senHelper.popstats(iso3Rec, level));
+	if ((o.Content is null))
+		return Content(HttpStatusCode.NotImplemented, "This result for parameters " + level + ", " + iso3Rec + " is unavailable at this time.");
+	return o;
+}
+if (iso3Rec.ToLower() == "sle")
+{
+	CODV2API.Handlers.CountryModels_PopStats.sle sleHelper = new Handlers.CountryModels_PopStats.sle(iso3Rec, level);
+	var o = Json(sleHelper.popstats(iso3Rec, level));
+	if ((o.Content is null))
+		return Content(HttpStatusCode.NotImplemented, "This result for parameters " + level + ", " + iso3Rec + " is unavailable at this time.");
+	return o;
+}
+if (iso3Rec.ToLower() == "slv")
+{
+	CODV2API.Handlers.CountryModels_PopStats.slv slvHelper = new Handlers.CountryModels_PopStats.slv(iso3Rec, level);
+	var o = Json(slvHelper.popstats(iso3Rec, level));
+	if ((o.Content is null))
+		return Content(HttpStatusCode.NotImplemented, "This result for parameters " + level + ", " + iso3Rec + " is unavailable at this time.");
+	return o;
+}
+if (iso3Rec.ToLower() == "stp")
+{
+	CODV2API.Handlers.CountryModels_PopStats.stp stpHelper = new Handlers.CountryModels_PopStats.stp(iso3Rec, level);
+	var o = Json(stpHelper.popstats(iso3Rec, level));
+	if ((o.Content is null))
+		return Content(HttpStatusCode.NotImplemented, "This result for parameters " + level + ", " + iso3Rec + " is unavailable at this time.");
+	return o;
+}
+if (iso3Rec.ToLower() == "sur")
+{
+	CODV2API.Handlers.CountryModels_PopStats.sur surHelper = new Handlers.CountryModels_PopStats.sur(iso3Rec, level);
+	var o = Json(surHelper.popstats(iso3Rec, level));
+	if ((o.Content is null))
+		return Content(HttpStatusCode.NotImplemented, "This result for parameters " + level + ", " + iso3Rec + " is unavailable at this time.");
+	return o;
+}
+if (iso3Rec.ToLower() == "svk")
+{
+	CODV2API.Handlers.CountryModels_PopStats.svk svkHelper = new Handlers.CountryModels_PopStats.svk(iso3Rec, level);
+	var o = Json(svkHelper.popstats(iso3Rec, level));
+	if ((o.Content is null))
+		return Content(HttpStatusCode.NotImplemented, "This result for parameters " + level + ", " + iso3Rec + " is unavailable at this time.");
+	return o;
+}
+if (iso3Rec.ToLower() == "swz")
+{
+	CODV2API.Handlers.CountryModels_PopStats.swz swzHelper = new Handlers.CountryModels_PopStats.swz(iso3Rec, level);
+	var o = Json(swzHelper.popstats(iso3Rec, level));
+	if ((o.Content is null))
+		return Content(HttpStatusCode.NotImplemented, "This result for parameters " + level + ", " + iso3Rec + " is unavailable at this time.");
+	return o;
+}
+if (iso3Rec.ToLower() == "tca")
+{
+	CODV2API.Handlers.CountryModels_PopStats.tca tcaHelper = new Handlers.CountryModels_PopStats.tca(iso3Rec, level);
+	var o = Json(tcaHelper.popstats(iso3Rec, level));
+	if ((o.Content is null))
+		return Content(HttpStatusCode.NotImplemented, "This result for parameters " + level + ", " + iso3Rec + " is unavailable at this time.");
+	return o;
+}
+if (iso3Rec.ToLower() == "tcd")
+{
+	CODV2API.Handlers.CountryModels_PopStats.tcd tcdHelper = new Handlers.CountryModels_PopStats.tcd(iso3Rec, level);
+	var o = Json(tcdHelper.popstats(iso3Rec, level));
+	if ((o.Content is null))
+		return Content(HttpStatusCode.NotImplemented, "This result for parameters " + level + ", " + iso3Rec + " is unavailable at this time.");
+	return o;
+}
+if (iso3Rec.ToLower() == "tha")
+{
+	CODV2API.Handlers.CountryModels_PopStats.tha thaHelper = new Handlers.CountryModels_PopStats.tha(iso3Rec, level);
+	var o = Json(thaHelper.popstats(iso3Rec, level));
+	if ((o.Content is null))
+		return Content(HttpStatusCode.NotImplemented, "This result for parameters " + level + ", " + iso3Rec + " is unavailable at this time.");
+	return o;
+}
+if (iso3Rec.ToLower() == "ton")
+{
+	CODV2API.Handlers.CountryModels_PopStats.ton tonHelper = new Handlers.CountryModels_PopStats.ton(iso3Rec, level);
+	var o = Json(tonHelper.popstats(iso3Rec, level));
+	if ((o.Content is null))
+		return Content(HttpStatusCode.NotImplemented, "This result for parameters " + level + ", " + iso3Rec + " is unavailable at this time.");
+	return o;
+}
+if (iso3Rec.ToLower() == "tto")
+{
+	CODV2API.Handlers.CountryModels_PopStats.tto ttoHelper = new Handlers.CountryModels_PopStats.tto(iso3Rec, level);
+	var o = Json(ttoHelper.popstats(iso3Rec, level));
+	if ((o.Content is null))
+		return Content(HttpStatusCode.NotImplemented, "This result for parameters " + level + ", " + iso3Rec + " is unavailable at this time.");
+	return o;
+}
+if (iso3Rec.ToLower() == "tza")
+{
+	CODV2API.Handlers.CountryModels_PopStats.tza tzaHelper = new Handlers.CountryModels_PopStats.tza(iso3Rec, level);
+	var o = Json(tzaHelper.popstats(iso3Rec, level));
+	if ((o.Content is null))
+		return Content(HttpStatusCode.NotImplemented, "This result for parameters " + level + ", " + iso3Rec + " is unavailable at this time.");
+	return o;
+}
+if (iso3Rec.ToLower() == "ury")
+{
+	CODV2API.Handlers.CountryModels_PopStats.ury uryHelper = new Handlers.CountryModels_PopStats.ury(iso3Rec, level);
+	var o = Json(uryHelper.popstats(iso3Rec, level));
+	if ((o.Content is null))
+		return Content(HttpStatusCode.NotImplemented, "This result for parameters " + level + ", " + iso3Rec + " is unavailable at this time.");
+	return o;
+}
+if (iso3Rec.ToLower() == "uzb")
+{
+	CODV2API.Handlers.CountryModels_PopStats.uzb uzbHelper = new Handlers.CountryModels_PopStats.uzb(iso3Rec, level);
+	var o = Json(uzbHelper.popstats(iso3Rec, level));
+	if ((o.Content is null))
+		return Content(HttpStatusCode.NotImplemented, "This result for parameters " + level + ", " + iso3Rec + " is unavailable at this time.");
+	return o;
+}
+if (iso3Rec.ToLower() == "vct")
+{
+	CODV2API.Handlers.CountryModels_PopStats.vct vctHelper = new Handlers.CountryModels_PopStats.vct(iso3Rec, level);
+	var o = Json(vctHelper.popstats(iso3Rec, level));
+	if ((o.Content is null))
+		return Content(HttpStatusCode.NotImplemented, "This result for parameters " + level + ", " + iso3Rec + " is unavailable at this time.");
+	return o;
+}
+if (iso3Rec.ToLower() == "vgb")
+{
+	CODV2API.Handlers.CountryModels_PopStats.vgb vgbHelper = new Handlers.CountryModels_PopStats.vgb(iso3Rec, level);
+	var o = Json(vgbHelper.popstats(iso3Rec, level));
+	if ((o.Content is null))
+		return Content(HttpStatusCode.NotImplemented, "This result for parameters " + level + ", " + iso3Rec + " is unavailable at this time.");
+	return o;
+}
+if (iso3Rec.ToLower() == "vir")
+{
+	CODV2API.Handlers.CountryModels_PopStats.vir virHelper = new Handlers.CountryModels_PopStats.vir(iso3Rec, level);
+	var o = Json(virHelper.popstats(iso3Rec, level));
+	if ((o.Content is null))
+		return Content(HttpStatusCode.NotImplemented, "This result for parameters " + level + ", " + iso3Rec + " is unavailable at this time.");
+	return o;
+}
+if (iso3Rec.ToLower() == "vnm")
+{
+	CODV2API.Handlers.CountryModels_PopStats.vnm vnmHelper = new Handlers.CountryModels_PopStats.vnm(iso3Rec, level);
+	var o = Json(vnmHelper.popstats(iso3Rec, level));
+	if ((o.Content is null))
+		return Content(HttpStatusCode.NotImplemented, "This result for parameters " + level + ", " + iso3Rec + " is unavailable at this time.");
+	return o;
+}
+if (iso3Rec.ToLower() == "vut")
+{
+	CODV2API.Handlers.CountryModels_PopStats.vut vutHelper = new Handlers.CountryModels_PopStats.vut(iso3Rec, level);
+	var o = Json(vutHelper.popstats(iso3Rec, level));
+	if ((o.Content is null))
+		return Content(HttpStatusCode.NotImplemented, "This result for parameters " + level + ", " + iso3Rec + " is unavailable at this time.");
+	return o;
+}
+if (iso3Rec.ToLower() == "zmb")
+{
+	CODV2API.Handlers.CountryModels_PopStats.zmb zmbHelper = new Handlers.CountryModels_PopStats.zmb(iso3Rec, level);
+	var o = Json(zmbHelper.popstats(iso3Rec, level));
+	if ((o.Content is null))
+		return Content(HttpStatusCode.NotImplemented, "This result for parameters " + level + ", " + iso3Rec + " is unavailable at this time.");
+	return o;
+}
+if (iso3Rec.ToLower() == "zwe")
+{
+	CODV2API.Handlers.CountryModels_PopStats.zwe zweHelper = new Handlers.CountryModels_PopStats.zwe(iso3Rec, level);
+	var o = Json(zweHelper.popstats(iso3Rec, level));
+	if ((o.Content is null))
+		return Content(HttpStatusCode.NotImplemented, "This result for parameters " + level + ", " + iso3Rec + " is unavailable at this time.");
+	return o;
+}

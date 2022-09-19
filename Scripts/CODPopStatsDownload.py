@@ -206,7 +206,7 @@ def getCODData(tags, themeList):
     return jsonData
 
 def hilevListr (hilev):
-     '''
+    '''
     Parses the list to remove items if they are not the highest level for the country
     Works based on filename with csv and adm + level number pattern.
 

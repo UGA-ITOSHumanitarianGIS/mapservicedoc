@@ -10,14 +10,14 @@
 # ---------------------------------------------------------------------------
 
 # Import arcpy module
-import json
-import sys
-import datetime
-import urllib2
-import requests
 import os
+import sys
 import re
-#from tqdm import tqdm
+import json
+import datetime
+import requests
+from tqdm import tqdm
+from ast import literal_eval
 
 # Local variables:
  
@@ -87,8 +87,8 @@ def getLUSvs():
         return svcLUs
         
         		
-    except Exception, e:
-        log("Exception caught:  " + str(e))
+    except:
+        log("Exception caught:  ")
         return svcLUs
 
 def getLUData(luURLs):
@@ -122,21 +122,34 @@ def getLUData(luURLs):
         log("adminUnit data with names of levels parsed for all countries hosted by ITOS")
 
         jsonData = list({i['countryISO']:i for i in jsonData}.values())
-                
+        return jsonData        
 
         #with open(fileName, 'a') as fp:
         #    json.dump(jsonData, fp, indent=4)
-        print('Data has written into %s file' %(fileName))
+        #print('Data has written into %s file' %(fileName))
         log("Python process complete...")
             #json.dump(svcsj, fp, ensure_ascii=False, indent=4)
-        return "0"
-    except Exception, e:
-        log("Exception caught:  " + str(e))
+        #return "0"
+    except Exception:
+        log("Exception caught:  ")
         return csvdat
+        
+def main(fileName):
+    print("Enter the JSON filename or filepath:")
+    fileName = str(input())
+    
+    # Run app with messaging and flow
+    log("Beginning python process...")
+    luURLs = getLUSvs()
+    csvResult = getLUData(luURLs)
+    with open(fileName,'w') as fp:
+        json.dump(csvResult, fp, indent=4)
+    print('Data has written into %s file' %(fileName))
+    log("Python process complete...")
+    
+    print("Process Compelete.")
+    
+    
+main('gistmapsLevelLu.json')
 
-# Run app with messaging and flow
-log("Beginning python process...")
-luURLs = getLUSvs()
-csvResult = getLUData(luURLs)
-print len(csvResult)
-log("Python process complete...")
+

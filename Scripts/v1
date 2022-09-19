@@ -1,0 +1,49 @@
+[
+    {
+        "country": "Ethiopia",
+        "admin0Name_en": "Ethiopia",
+        "admin0Pcode": "ET",
+        "admin0_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/V1_00/ETH_EN/MapServer/0/query?where=0%3D0&text=&objectIds=&time=&geometry=&geometryType=esriGeometryEnvelope&inSR=&spatialRel=esriSpatialRelIntersects&relationParam=&outFields=*&returnGeometry=false&returnTrueCurves=false&maxAllowableOffset=&geometryPrecision=&outSR=&returnIdsOnly=false&returnCountOnly=false&orderByFields=&groupByFieldsForStatistics=&outStatistics=&returnZ=false&returnM=false&gdbVersion=&returnDistinctValues=false&resultOffset=&resultRecordCount=&queryByDistance=&returnExtentsOnly=false&datumTransformation=&parameterValues=&rangeValues=&f=pjson",
+        "admin0validFrom": 1602115200000,
+        "admin1Name_en": "Addis Ababa",
+        "admin1Pcode": "ET14",
+        "admin1_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/V1_00/ETH_EN/MapServer/1/query?where=0%3D0&text=&objectIds=&time=&geometry=&geometryType=esriGeometryEnvelope&inSR=&spatialRel=esriSpatialRelIntersects&relationParam=&outFields=*&returnGeometry=false&returnTrueCurves=false&maxAllowableOffset=&geometryPrecision=&outSR=&returnIdsOnly=false&returnCountOnly=false&orderByFields=&groupByFieldsForStatistics=&outStatistics=&returnZ=false&returnM=false&gdbVersion=&returnDistinctValues=false&resultOffset=&resultRecordCount=&queryByDistance=&returnExtentsOnly=false&datumTransformation=&parameterValues=&rangeValues=&f=pjson",
+        "admin1validFrom": 1602115200000,
+        "admin2Name_en": "Afder",
+        "admin2Pcode": "ET0508",
+        "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/V1_00/ETH_EN/MapServer/3/query?where=0%3D0&text=&objectIds=&time=&geometry=&geometryType=esriGeometryEnvelope&inSR=&spatialRel=esriSpatialRelIntersects&relationParam=&outFields=*&returnGeometry=false&returnTrueCurves=false&maxAllowableOffset=&geometryPrecision=&outSR=&returnIdsOnly=false&returnCountOnly=false&orderByFields=&groupByFieldsForStatistics=&outStatistics=&returnZ=false&returnM=false&gdbVersion=&returnDistinctValues=false&resultOffset=&resultRecordCount=&queryByDistance=&returnExtentsOnly=false&datumTransformation=&parameterValues=&rangeValues=&f=pjson",
+        "admin2validFrom": 1602115200000,
+        "admin3Name_en": "Aba-Korow",
+        "admin3Pcode": "ET050699",
+        "admin3_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/V1_00/ETH_EN/MapServer/5/query?where=0%3D0&text=&objectIds=&time=&geometry=&geometryType=esriGeometryEnvelope&inSR=&spatialRel=esriSpatialRelIntersects&relationParam=&outFields=*&returnGeometry=false&returnTrueCurves=false&maxAllowableOffset=&geometryPrecision=&outSR=&returnIdsOnly=false&returnCountOnly=false&orderByFields=&groupByFieldsForStatistics=&outStatistics=&returnZ=false&returnM=false&gdbVersion=&returnDistinctValues=false&resultOffset=&resultRecordCount=&queryByDistance=&returnExtentsOnly=false&datumTransformation=&parameterValues=&rangeValues=&f=pjson",
+        "admin3validFrom": 1602115200000,
+        "languageCode": {
+            "en": "English"
+        }
+    },
+    {
+        "country": "Sudan (the)",
+        "admin0Name_en": "Sudan (the)",
+        "admin0Name_ar": "\u0627\u0644\u0633\u0648\u062f\u0627\u0646\u200e",
+        "admin0Name_ar_utf8": "b'\\xd8\\xa7\\xd9\\x84\\xd8\\xb3\\xd9\\x88\\xd8\\xaf\\xd8\\xa7\\xd9\\x86\\xe2\\x80\\x8e'",
+        "admin0Pcode": "SD",
+        "admin0_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/V1_00/SDN_EN/MapServer/0/query?where=0%3D0&text=&objectIds=&time=&geometry=&geometryType=esriGeometryEnvelope&inSR=&spatialRel=esriSpatialRelIntersects&relationParam=&outFields=*&returnGeometry=false&returnTrueCurves=false&maxAllowableOffset=&geometryPrecision=&outSR=&returnIdsOnly=false&returnCountOnly=false&orderByFields=&groupByFieldsForStatistics=&outStatistics=&returnZ=false&returnM=false&gdbVersion=&returnDistinctValues=false&resultOffset=&resultRecordCount=&queryByDistance=&returnExtentsOnly=false&datumTransformation=&parameterValues=&rangeValues=&f=pjson",
+        "admin0validFrom": 1584403200000,
+        "admin1Name_en": "Abyei PCA",
+        "admin1Name_ar": "\u0625\u062f\u0627\u0631\u064a\u0629 \u0623\u0628\u064a\u064a",
+        "admin1Name_ar_utf8": "b'\\xd8\\xa5\\xd8\\xaf\\xd8\\xa7\\xd8\\xb1\\xd9\\x8a\\xd8\\xa9 \\xd8\\xa3\\xd8\\xa8\\xd9\\x8a\\xd9\\x8a'",
+        "admin1Pcode": "SD19",
+        "admin1_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/V1_00/SDN_EN/MapServer/1/query?where=0%3D0&text=&objectIds=&time=&geometry=&geometryType=esriGeometryEnvelope&inSR=&spatialRel=esriSpatialRelIntersects&relationParam=&outFields=*&returnGeometry=false&returnTrueCurves=false&maxAllowableOffset=&geometryPrecision=&outSR=&returnIdsOnly=false&returnCountOnly=false&orderByFields=&groupByFieldsForStatistics=&outStatistics=&returnZ=false&returnM=false&gdbVersion=&returnDistinctValues=false&resultOffset=&resultRecordCount=&queryByDistance=&returnExtentsOnly=false&datumTransformation=&parameterValues=&rangeValues=&f=pjson",
+        "admin1validFrom": 1584403200000,
+        "admin2Name_en": "Abassiya",
+        "admin2Name_ar": "\u0627\u0644\u0639\u0628\u0627\u0633\u064a\u0629",
+        "admin2Name_ar_utf8": "b'\\xd8\\xa7\\xd9\\x84\\xd8\\xb9\\xd8\\xa8\\xd8\\xa7\\xd8\\xb3\\xd9\\x8a\\xd8\\xa9'",
+        "admin2Pcode": "SD07090",
+        "admin2_url": "https://gistmaps.itos.uga.edu/arcgis/rest/services/V1_00/SDN_EN/MapServer/3/query?where=0%3D0&text=&objectIds=&time=&geometry=&geometryType=esriGeometryEnvelope&inSR=&spatialRel=esriSpatialRelIntersects&relationParam=&outFields=*&returnGeometry=false&returnTrueCurves=false&maxAllowableOffset=&geometryPrecision=&outSR=&returnIdsOnly=false&returnCountOnly=false&orderByFields=&groupByFieldsForStatistics=&outStatistics=&returnZ=false&returnM=false&gdbVersion=&returnDistinctValues=false&resultOffset=&resultRecordCount=&queryByDistance=&returnExtentsOnly=false&datumTransformation=&parameterValues=&rangeValues=&f=pjson",
+        "admin2validFrom": 1584403200000,
+        "languageCode": {
+            "en": "English",
+            "ar": "Arabic"
+        }
+    }
+]

@@ -46,14 +46,14 @@ def dataLookup(tags):
     resources = Dataset.get_all_resources(tagDatasets)
     print("%d number of Resources found" %(len(resources)))
     
-    return resources
+    return tagDatasets
 
 def fileValidation(fileName = None):
     '''
     Helper function for getData() [fileName or filePath].
     '''
     if fileName is None:
-        fileName = ''.join(['hdxCODData','.json'])
+        fileName = ''.join(['hdxCODDataPS','.json'])
     else:
         if fileName.endswith('.json'):
             pass
@@ -138,39 +138,39 @@ def getCODData(tags, themeList):
     jsonData = []
     
     for dataset in tagDatasets:
-        #theme = getTheme(themeList,dataset)
+        theme = getTheme(themeList,dataset)
         
         #keyCheck = ['due_date','caveats','license_other','methodology_other']
         #for key in keyCheck:
         #    if key not in dataset:
         #        dataset[key] = None
         
-        #isoCodes = getISOCode(dataset['groups'])
-        #title = dataset['title'].lower()
+        isoCodes = getISOCode(dataset['groups'])
+        title = dataset['title'].lower()
         
-        #if (title.__contains__('subnational administrative boundaries')):
-        #if dataset['is_requestdata_type']:
-        #    dataDict = {
-        #            'id': dataset['id'],
-        #            'format':{}
-        #    }
-        #else:
-        #dataDict = {
-        #            'id': dataset['id'],
-        #            'format':{}
-        #                
-        #}
-        #resources = Dataset.get_all_resources([dataset])
-            
-        #for res in resources:
-        restype = {     'name':dataset['name'],
-                        'description':dataset['description'],
-                        'download_url':dataset['download_url']
+        if (title.__contains__('subnational population statistics')):
+            if dataset['is_requestdata_type']:
+                dataDict = {
+                        'id': dataset['id'],
+                        'format':{}
+                }
+            else:
+                dataDict = {
+                    'id': dataset['id'],
+                    'format':{}
+                        
             }
-            #dataDict['format'].update(restype)
+            resources = Dataset.get_all_resources([dataset])
             
-        #jsonData.append(dataDict)
-        jsonData.append(restype)
+            for res in resources:
+                restype = {     'name':dataset['name'],
+                        'description':res['description'],
+                        'download_url':res['download_url']
+                }
+                dataDict['format'].update(restype)
+            
+            jsonData.append(dataDict)
+        #jsonData.append(restype)
         
     return jsonData
 
@@ -217,4 +217,4 @@ def main(tags, themeList, fileName = None):
     fileName = fileValidation(fileName)
     saveJSON(codData, fileName)
 
-main('common operational dataset - cod', "['administrative']")
+main('common operational dataset - cod', "['population statistics', 'administrative boundaries']")
