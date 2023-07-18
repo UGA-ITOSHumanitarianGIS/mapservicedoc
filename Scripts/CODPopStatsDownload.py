@@ -168,7 +168,7 @@ def getCODData(tags, themeList):
         isoCodes = getISOCode(dataset['groups'])
         title = dataset['title'].lower()
         
-        if (title.__contains__('subnational population statistics')):
+        if (title.__contains__('administrative')):
             if dataset['is_requestdata_type']:
                 dataDict = {'title': dataset['title'],
                         'id': dataset['id'],
@@ -264,7 +264,7 @@ def downloadList(codData, fileName):
     ''' parse the jsonfile of datasets and resources so that
         population statistics files with the highest level are downloaded only
     '''
-    
+
     isoMasterList = []
     for j in codData:
     
@@ -319,7 +319,7 @@ def downloadList(codData, fileName):
     #following commented out for downloading instead of serializing the list to a file.
     #with open(fileName, 'w') as fp:
     #    json.dump(masterL, fp, indent=4)
-            
+        
     print('Data has been downloaded %s file' %(fileName))
 
 def createDestination(path):
@@ -351,7 +351,8 @@ def main(tags, themeList, fileName = None):
     '''
     
     codData = getCODData(tags, themeList)
+    print(codData)
     fileName = fileValidation(fileName)
     downloadList(codData, fileName)
 
-main('common operational dataset - cod', "['population statistics']")
+main('administrative boundaries-divisions', "['population statistics']")
