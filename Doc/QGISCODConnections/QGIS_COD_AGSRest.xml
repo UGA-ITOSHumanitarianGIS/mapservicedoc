@@ -1,0 +1,5 @@
+<!DOCTYPE connections>
+<qgsARCGISFEATURESERVERConnections version="1.0">
+    <arcgisfeatureserver password="" name="CODGIS_Edgematch" referer="" url="https://codgis.itos.uga.edu/arcgis/rest/services/COD_External_Edgematch" username="" authcfg="" http-header:referer=""/>
+    <arcgisfeatureserver password="" name="CODGIS" referer="" url="https://codgis.itos.uga.edu/arcgis/rest/services" username="" authcfg="" http-header:referer=""/>
+</qgsARCGISFEATURESERVERConnections>
