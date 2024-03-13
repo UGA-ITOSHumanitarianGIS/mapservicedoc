@@ -1,0 +1,7 @@
+<!DOCTYPE connections>
+<qgsVectorTileConnections version="1.0">
+	<vectortile url="https://apps.itos.uga.edu/CODV2API/api/v1/Themes/cod-ab/locations/ECU/versions/current/0/{z}/{x}/{y}.pbf" password="" name="ECU Admin 0" styleUrl="" zmax="14" zmin="0" serviceType="" http-header:referer="" username="" referer="" authcfg=""/>
+	<vectortile url="https://apps.itos.uga.edu/CODV2API/api/v1/Themes/cod-ab/locations/ECU/versions/current/1/{z}/{x}/{y}.pbf" password="" name="ECU Admin 1" styleUrl="" zmax="14" zmin="0" serviceType="" http-header:referer="" username="" referer="" authcfg=""/>
+	<vectortile url="https://apps.itos.uga.edu/CODV2API/api/v1/Themes/cod-ab/locations/ECU/versions/current/2/{z}/{x}/{y}.pbf" password="" name="ECU Admin 2" styleUrl="" zmax="14" zmin="0" serviceType="" http-header:referer="" username="" referer="" authcfg=""/>
+	<vectortile url="https://apps.itos.uga.edu/CODV2API/api/v1/Themes/cod-ab/locations/ECU/versions/current/3/{z}/{x}/{y}.pbf" password="" name="ECU Admin 3" styleUrl="" zmax="14" zmin="0" serviceType="" http-header:referer="" username="" referer="" authcfg=""/>
+</qgsVectorTileConnections>

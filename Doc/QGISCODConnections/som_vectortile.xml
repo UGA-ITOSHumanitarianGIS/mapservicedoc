@@ -1,0 +1,9 @@
+<!DOCTYPE connections>
+<qgsVectorTileConnections version="1.0">
+	<vectortile url="https://apps.itos.uga.edu/CODV2API/api/v1/Themes/cod-ab/locations/SOM/versions/current/0/{z}/{x}/{y}.pbf" password="" name="SOM Admin 0" styleUrl="" zmax="14" zmin="0" serviceType="" http-header:referer="" username="" referer="" authcfg=""/>
+	<vectortile url="https://apps.itos.uga.edu/CODV2API/api/v1/Themes/cod-ab/locations/SOM/versions/current/1/{z}/{x}/{y}.pbf" password="" name="SOM Admin 1" styleUrl="" zmax="14" zmin="0" serviceType="" http-header:referer="" username="" referer="" authcfg=""/>
+	<vectortile url="https://apps.itos.uga.edu/CODV2API/api/v1/Themes/cod-ab/locations/SOM/versions/current/2/{z}/{x}/{y}.pbf" password="" name="SOM Admin 2" styleUrl="" zmax="14" zmin="0" serviceType="" http-header:referer="" username="" referer="" authcfg=""/>
+	<vectortile url="https://apps.itos.uga.edu/CODV2API/api/v1/Themes/cod-ab/locations/SOM/versions/current/1/{z}/{x}/{y}.pbf" password="" name="SOM Admin 1" styleUrl="" zmax="14" zmin="0" serviceType="" http-header:referer="" username="" referer="" authcfg=""/>
+	<vectortile url="https://apps.itos.uga.edu/CODV2API/api/v1/Themes/cod-ab/locations/SOM/versions/current/2/{z}/{x}/{y}.pbf" password="" name="SOM Admin 2" styleUrl="" zmax="14" zmin="0" serviceType="" http-header:referer="" username="" referer="" authcfg=""/>
+	<vectortile url="https://apps.itos.uga.edu/CODV2API/api/v1/Themes/cod-ab/locations/SOM/versions/current/t/{z}/{x}/{y}.pbf" password="" name="SOM Admin t" styleUrl="" zmax="14" zmin="0" serviceType="" http-header:referer="" username="" referer="" authcfg=""/>
+</qgsVectorTileConnections>
